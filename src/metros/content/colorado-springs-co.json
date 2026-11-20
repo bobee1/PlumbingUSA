@@ -1,0 +1,45 @@
+{
+ "lead": "Colorado Springs plumbing deals with cold snaps, high altitude, expansive soils and a mix of old and new homes. PipeMend sends licensed local plumbers across Colorado Springs.",
+ "risk": "frozen pipes and sprinkler lines, sewer lines cracked by shifting soil and water heater wear",
+ "risk_short": "frozen pipes, sewer lines and water heaters",
+ "why": [
+  "Older areas such as Old Colorado City and the Near North End have homes with galvanized supply lines and clay sewer laterals. Expansive clay soils in parts of the city crack foundations and sewer lines.",
+  "Sudden cold fronts after warm days freeze outdoor faucets, sprinkler backflow devices and pipes in exterior walls. At over 6,000 feet, gas water heaters and furnaces need the right setup for altitude."
+ ],
+ "utility": "Colorado Springs Utilities",
+ "water": "Colorado Springs Utilities brings most of its water from mountain snowmelt through long pipelines. The water is generally soft, so scale is a smaller problem than in many Western cities.",
+ "problems": [
+  [
+   "Frozen pipes and sprinkler lines",
+   "Citywide in cold snaps",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older and clay-soil areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old Colorado City and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first hard freeze.",
+  "Disconnect hoses in October.",
+  "Scope the sewer line before buying an older home.",
+  "Have gas appliances checked for proper setup."
+ ],
+ "areas": "PipeMend works in Old Colorado City, the Broadmoor, Briargate, Northgate, Rockrimmon, Powers and every other Colorado Springs neighborhood.",
+ "permits": "Plumbing permits come from the Pikes Peak Regional Building Department, and plumbers must be licensed through the Colorado State Plumbing Board.",
+ "faq": {
+  "q": "Who issues plumbing permits in Colorado Springs?",
+  "a": "The Pikes Peak Regional Building Department handles building and plumbing permits for Colorado Springs and much of El Paso County. Your plumber usually pulls the permit."
+ }
+}

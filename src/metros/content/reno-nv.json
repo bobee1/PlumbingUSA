@@ -1,0 +1,45 @@
+{
+ "lead": "Reno plumbing deals with cold winters, high desert sun and earthquake rules. PipeMend sends licensed local plumbers across Reno.",
+ "risk": "frozen pipes and sprinkler lines, water heater wear and aging pipes in older homes",
+ "risk_short": "frozen pipes, water heaters and old pipes",
+ "why": [
+  "The Old Southwest and Midtown have homes from the 1920s to 1950s with galvanized supply lines and clay or cast-iron sewer laterals. Newer areas such as Somersett and Caughlin Ranch have plastic pipe.",
+  "Cold nights freeze sprinkler lines, outdoor faucets and pipes in exterior walls. Nevada is earthquake country, so water heaters need straps."
+ ],
+ "utility": "Truckee Meadows Water Authority (TMWA)",
+ "water": "TMWA gets most of its water from the Truckee River, which flows out of Lake Tahoe, plus wells. The river water is relatively soft.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and hose bibs",
+   "Citywide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old Southwest and Midtown",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first freeze.",
+  "Strap your water heater for earthquakes.",
+  "Disconnect hoses in October.",
+  "Scope old sewer lines before buying."
+ ],
+ "areas": "PipeMend works in Downtown, Midtown, the Old Southwest, Northwest Reno, Somersett, Caughlin Ranch and every other Reno neighborhood.",
+ "permits": "Plumbing permits come from the City of Reno Building and Safety Division, and contractors must be licensed by the Nevada State Contractors Board.",
+ "faq": {
+  "q": "Where does Reno's water come from?",
+  "a": "Mostly from the Truckee River, which flows out of Lake Tahoe, with wells as backup. TMWA treats and delivers it. The water is relatively soft."
+ }
+}

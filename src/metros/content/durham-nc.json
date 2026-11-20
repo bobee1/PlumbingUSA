@@ -1,0 +1,45 @@
+{
+ "lead": "Durham plumbing deals with red clay, old mill-era houses, big trees and crawl spaces. PipeMend sends licensed local plumbers across Durham.",
+ "risk": "tree roots in old sewer lines, aging pipes in older homes and frozen crawl-space pipes",
+ "risk_short": "sewer roots, old pipes and frozen pipes",
+ "why": [
+  "Trinity Park, Walltown and Old West Durham have homes from the early 1900s, many with galvanized supply lines and clay sewer laterals. Mature trees send roots into those old lines.",
+  "Many homes sit on crawl spaces, and ice storms freeze exposed pipes. Homes from the 1980s and early 1990s may have polybutylene pipe."
+ ],
+ "utility": "City of Durham Department of Water Management",
+ "water": "Durham draws its water mainly from Lake Michie and the Little River Reservoir. The water is relatively soft.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Trinity Park, Walltown and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide during ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Main line clogs",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Look for gray polybutylene pipe.",
+  "Plant trees away from the sewer line."
+ ],
+ "areas": "PipeMend works in Downtown, Trinity Park, Walltown, Old West Durham, Forest Hills, Hope Valley and every other Durham neighborhood.",
+ "permits": "Plumbing permits come from the Durham City-County Inspections Department, and plumbing contractors must be licensed by the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors.",
+ "faq": {
+  "q": "Who issues plumbing permits in Durham?",
+  "a": "The Durham City-County Inspections Department issues permits for both the city and the county. Your plumber usually pulls the permit and books the inspection."
+ }
+}

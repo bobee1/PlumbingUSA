@@ -1,0 +1,45 @@
+{
+ "lead": "Nashville plumbing deals with rocky ground, clay soil, heavy rain and fast growth. PipeMend sends licensed local plumbers across Nashville and Davidson County.",
+ "risk": "sewer lines in rocky clay soil, flood backups and water heater replacement",
+ "risk_short": "sewer lines, flooding and water heaters",
+ "why": [
+  "Nashville sits on limestone close to the surface, with clay on top. That makes sewer and water line digs slow and costly. Older neighborhoods such as East Nashville and 12 South have clay and cast-iron laterals.",
+  "Heavy rain floods low areas, as the 2010 and 2021 floods showed. Fast growth means many new homes, where water heaters, fixtures and fittings are the usual calls."
+ ],
+ "utility": "Metro Water Services",
+ "water": "Metro Water Services treats water from the Cumberland River. The water is moderately hard, so scale slowly builds up in water heaters and on fixtures.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "East Nashville, 12 South and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Flood backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Main line clogs",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Ask about trenchless repair; rock makes digging costly.",
+  "Flush your water heater yearly.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "PipeMend works in East Nashville, the Gulch, 12 South, Germantown, Green Hills, Bellevue and every other Nashville neighborhood.",
+ "permits": "Plumbing permits come from the Metro Nashville Department of Codes Administration, which also handles local plumber licensing. Larger jobs may also need a Tennessee contractor license.",
+ "faq": {
+  "q": "Why is sewer repair costly in Nashville?",
+  "a": "Limestone sits close to the surface in much of Nashville. Digging a trench through rock takes more time and equipment. Trenchless lining or pipe bursting can avoid most of the digging."
+ }
+}

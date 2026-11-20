@@ -1,0 +1,45 @@
+{
+ "lead": "Madison plumbing deals with deep cold, hard well water and older homes on the Isthmus. PipeMend sends licensed local plumbers across Madison.",
+ "risk": "frozen pipes and service lines, very hard water scale and aging pipes in older homes",
+ "risk_short": "frozen pipes, hard water and old pipes",
+ "why": [
+  "Tenney-Lapham, Marquette, Vilas and Dudgeon-Monroe have homes from the early 1900s, with galvanized supply lines, cast-iron stacks and clay sewer laterals. Nearly every home has a basement.",
+  "Long, deep winters freeze pipes near exterior walls and can freeze water service lines. Spring thaw tests sump pumps and basement drainage."
+ ],
+ "utility": "Madison Water Utility",
+ "water": "Madison Water Utility pumps all of its water from deep wells. The water is very hard, so softeners are common. The utility replaced the city's lead service lines years ago.",
+ "problems": [
+  [
+   "Very hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "The Isthmus and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements at spring thaw",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep softener salt topped up.",
+  "Keep the heat on and cabinets open in deep cold.",
+  "Test your sump pump before spring thaw.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works on the Isthmus and in Tenney-Lapham, Marquette, Vilas, Dudgeon-Monroe, Westmorland and every other Madison neighborhood.",
+ "permits": "Plumbing permits come from the City of Madison Building Inspection Division, and plumbers must be licensed by the Wisconsin Department of Safety and Professional Services.",
+ "faq": {
+  "q": "Does Madison still have lead water lines?",
+  "a": "Madison Water Utility replaced the lead service lines it knew of in the 2000s, one of the first U.S. cities to do so. Old galvanized pipes inside some homes can still need replacing."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Baton Rouge plumbing deals with heavy rain, flooding, shifting clay and a high water table. PipeMend sends licensed local plumbers across Baton Rouge.",
+ "risk": "slab leaks and cracked sewer lines in shifting clay, flood damage and old cast-iron drains",
+ "risk_short": "slab leaks, sewer lines and flooding",
+ "why": [
+  "Much of Baton Rouge sits on clay that shrinks in dry spells and swells after rain. That movement cracks slab plumbing and sewer lines. Older areas such as the Garden District and Mid City have cast-iron drains and clay laterals.",
+  "Heavy rain floods low areas, as the August 2016 flood showed, and pushes water back up through drains. Homes that flooded may have hidden plumbing damage."
+ ],
+ "utility": "Baton Rouge Water Company",
+ "water": "Baton Rouge Water Company pumps from deep wells in the Southern Hills aquifer system. The water is soft and needs little treatment.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Garden District, Mid City and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Flood backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Clogged main lines",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Know where your main shutoff is before storm season.",
+  "Have the sewer scoped after any flood.",
+  "Watch for warm floor spots or a running meter.",
+  "Keep grease out of drains."
+ ],
+ "areas": "PipeMend works in the Garden District, Spanish Town, Mid City, Capital Heights, Southdowns, Old Goodwood and every other Baton Rouge neighborhood.",
+ "permits": "Plumbing permits come from the City-Parish Department of Development, and plumbers must be licensed by the State Plumbing Board of Louisiana.",
+ "faq": {
+  "q": "Should I check my plumbing after a flood in Baton Rouge?",
+  "a": "Yes. Flood water can push silt into drains and sewer lines and damage water heaters and gas controls. Have a plumber check the water heater and scope the sewer line before regular use."
+ }
+}

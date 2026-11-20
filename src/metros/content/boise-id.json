@@ -1,0 +1,45 @@
+{
+ "lead": "Boise plumbing deals with cold winters, hard water and a mix of old North End homes and new subdivisions. PipeMend sends licensed local plumbers across Boise.",
+ "risk": "frozen pipes and sprinkler lines, hard water scale and aging pipes in older homes",
+ "risk_short": "frozen pipes, hard water and old pipes",
+ "why": [
+  "The North End and East End have homes from the early 1900s, with galvanized supply lines and clay sewer laterals. Newer areas such as Harris Ranch and West Boise have plastic supply pipe and fewer old-pipe issues.",
+  "Winters freeze sprinkler lines, outdoor faucets and pipes in exterior walls. Many homes use irrigation systems that need to be drained each fall."
+ ],
+ "utility": "Veolia Water Idaho",
+ "water": "Most Boise homes get water from Veolia Water Idaho, which uses wells and Boise River water. The water is moderately hard, and many homes add softeners.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and hose bibs",
+   "Citywide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "North End and East End",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Drain and blow out sprinkler lines before the first freeze.",
+  "Disconnect hoses in October.",
+  "Flush your water heater yearly.",
+  "Scope old sewer lines before buying."
+ ],
+ "areas": "PipeMend works in the North End, East End, the Bench, Southeast Boise, West Boise, Harris Ranch and every other Boise neighborhood.",
+ "permits": "Plumbing permits come from the City of Boise Planning and Development Services, and plumbers must be licensed through the Idaho Division of Occupational and Professional Licenses.",
+ "faq": {
+  "q": "When should Boise homeowners winterize?",
+  "a": "Before the first hard freeze, usually in October. Drain and blow out sprinkler lines, disconnect hoses and close shutoffs to outdoor faucets."
+ }
+}

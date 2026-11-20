@@ -1,0 +1,45 @@
+{
+ "lead": "Tampa plumbing deals with heat, storms, storm surge and old cast-iron drains. PipeMend sends licensed local plumbers across Tampa.",
+ "risk": "cast-iron drain failures, slab leaks and storm and surge flooding",
+ "risk_short": "cast-iron drains, slab leaks and flooding",
+ "why": [
+  "Seminole Heights, Hyde Park and Tampa Heights have homes from the early 1900s, and many mid-century homes have cast-iron drains under the slab that are rotting from the inside.",
+  "Hurricanes Helene and Milton in 2024 showed how surge and rain can flood low areas and back up sewers. Homes built from the late 1970s to the mid-1990s may have polybutylene pipe."
+ ],
+ "utility": "City of Tampa Water Department",
+ "water": "Tampa's water comes mainly from the Hillsborough River, with backup supply from Tampa Bay Water. It is moderately hard, so scale slowly builds up in water heaters and on fixtures.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "Mid-century and older homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Storm and surge flooding",
+   "Low areas near the bay",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "Late-1970s to mid-1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Have the water heater checked after a flood.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in South Tampa, Hyde Park, Davis Islands, Seminole Heights, Westchase, New Tampa and every other Tampa neighborhood.",
+ "permits": "Plumbing permits come from the City of Tampa Construction Services Center, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "What plumbing checks should Tampa homes get after a hurricane?",
+  "a": "Have a plumber check the water heater, gas lines and the sewer line, especially if water got into the home. Silt and debris can clog drains, and surge water damages heater controls."
+ }
+}

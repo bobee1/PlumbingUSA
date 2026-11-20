@@ -1,0 +1,45 @@
+{
+ "lead": "Wichita plumbing deals with clay soil, hard water, storms and cold snaps. PipeMend sends licensed local plumbers across Wichita.",
+ "risk": "cracked sewer lines in clay soil, hard water scale and frozen pipes",
+ "risk_short": "sewer lines, hard water and frozen pipes",
+ "why": [
+  "College Hill, Riverside and Delano have homes from the 1910s to 1950s with galvanized supply lines and clay or cast-iron sewer laterals. Clay soil shrinks and swells with the weather and cracks them.",
+  "Cold snaps freeze pipes near exterior walls and in crawl spaces. Many homes have basements that need sump pumps after heavy rain."
+ ],
+ "utility": "City of Wichita Water Utilities",
+ "water": "Wichita's water comes from Cheney Reservoir and the Equus Beds aquifer. It is hard, so scale builds up in water heaters and on fixtures.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "College Hill, Riverside and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and crawl spaces",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Insulate pipes before winter.",
+  "Flush your water heater yearly.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "PipeMend works in College Hill, Riverside, Delano, Old Town, Crown Heights, Rockhurst and every other Wichita neighborhood.",
+ "permits": "Plumbing permits and local plumber licenses come from the Metropolitan Area Building and Construction Department (MABCD). Kansas has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Wichita?",
+  "a": "Kansas has no statewide plumber license. In Wichita and Sedgwick County, the Metropolitan Area Building and Construction Department licenses plumbers and issues permits."
+ }
+}

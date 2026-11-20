@@ -1,0 +1,45 @@
+{
+ "lead": "Memphis plumbing deals with clay soil, old neighborhoods, summer storms and the occasional hard freeze. PipeMend sends licensed local plumbers across Memphis.",
+ "risk": "cracked sewer lines in shifting clay, aging pipes in older homes and frozen pipes",
+ "risk_short": "sewer lines, old pipes and frozen pipes",
+ "why": [
+  "Midtown and Cooper-Young have homes from the early 1900s, with galvanized supply lines and clay or cast-iron sewer laterals. The area's clay soil moves with wet and dry seasons and cracks those lines.",
+  "Hard freezes, like the one in December 2022, burst pipes in crawl spaces and exterior walls. Heavy storms back up drains in low areas."
+ ],
+ "utility": "Memphis Light, Gas and Water (MLGW)",
+ "water": "MLGW pumps water from the Memphis Sand Aquifer, known for its quality. The water is soft and needs little treatment.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "Midtown, Cooper-Young and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Know where your main shutoff is.",
+  "Drip faucets in a hard freeze."
+ ],
+ "areas": "PipeMend works in Midtown, Cooper-Young, East Memphis, Downtown, Whitehaven, Hickory Hill and every other Memphis neighborhood.",
+ "permits": "Plumbing permits for Memphis come from Shelby County Code Enforcement, which also handles local plumber licensing. Larger jobs may also need a Tennessee contractor license.",
+ "faq": {
+  "q": "Does Memphis have hard water?",
+  "a": "No. Memphis water comes from the Memphis Sand Aquifer and is soft. Scale is less of a problem than in most cities, though water heaters still benefit from a yearly flush."
+ }
+}

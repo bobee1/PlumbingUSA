@@ -1,0 +1,45 @@
+{
+ "lead": "Arlington plumbing deals with clay soil, slab foundations and homes from the 1970s and 1980s growth years. PipeMend sends licensed local plumbers across Arlington.",
+ "risk": "slab leaks from shifting clay, aging water heaters and burst pipes in hard freezes",
+ "risk_short": "slab leaks, water heaters and frozen pipes",
+ "why": [
+  "Arlington grew fast in the 1970s and 1980s, so many homes are 40 to 50 years old. Their copper lines under the slab and cast-iron drains are aging, and the city's expansive clay moves with every drought and wet spell.",
+  "Rare hard freezes, like February 2021, burst attic and exterior-wall pipes. Many water heaters from the original builds have been replaced once and are due again."
+ ],
+ "utility": "Arlington Water Utilities",
+ "water": "Arlington Water Utilities treats water from Lake Arlington and from reservoirs supplied through the Tarrant Regional Water District. The water is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil neighborhoods citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "1970s–1980s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Insulate attic pipes before winter.",
+  "Replace water heaters past 10 to 15 years.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "PipeMend works in Downtown Arlington, the Entertainment District, Viridian, North, East and Southwest Arlington and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Arlington Planning and Development Services, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why do Arlington homes get slab leaks?",
+  "a": "Arlington sits on expansive clay that swells when wet and shrinks when dry. That movement stresses copper lines under the slab. Warm floor spots and a running meter are common signs."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Raleigh plumbing deals with red clay, big trees, crawl spaces and fast growth. PipeMend sends licensed local plumbers across Raleigh.",
+ "risk": "tree roots in sewer lines, polybutylene pipe and frozen crawl-space pipes",
+ "risk_short": "sewer roots, old pipes and frozen pipes",
+ "why": [
+  "Older neighborhoods such as Oakwood and Five Points have clay and cast-iron sewer lines that roots break into. Many homes built in the 1980s and early 1990s used gray polybutylene supply pipe.",
+  "Lots of Raleigh homes sit on crawl spaces, and ice storms freeze exposed pipes every few years. New subdivisions add water heater, fixture and sump calls."
+ ],
+ "utility": "City of Raleigh Water",
+ "water": "Raleigh Water draws mainly from Falls Lake, with Lake Benson and Lake Wheeler also in its system. The water is relatively soft.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Oakwood, Five Points and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–early 1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide during ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes and close vents before a freeze.",
+  "Look for gray pipe stamped PB2110.",
+  "Scope the sewer line before buying an older home.",
+  "Plant trees away from the sewer line."
+ ],
+ "areas": "PipeMend works in Downtown, Five Points, North Hills, Oakwood, Brier Creek, Wakefield and every other Raleigh neighborhood.",
+ "permits": "Plumbing permits come from the City of Raleigh Development Services, and plumbing contractors must be licensed by the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors.",
+ "faq": {
+  "q": "Are polybutylene pipes common in Raleigh?",
+  "a": "They show up in many homes built from the late 1970s to the mid-1990s, a period when the area grew fast. Look for gray plastic pipe stamped PB2110. Replacing it before it fails avoids water damage."
+ }
+}

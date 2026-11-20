@@ -1,0 +1,45 @@
+{
+ "lead": "Aurora plumbing deals with cold snaps, expansive soils and homes from several building booms. PipeMend sends licensed local plumbers across Aurora.",
+ "risk": "frozen pipes and sprinkler lines, sewer lines cracked by shifting soil and basement water heaters",
+ "risk_short": "frozen pipes, sewer lines and water heaters",
+ "why": [
+  "Original Aurora and Hoffman Heights have homes from the 1950s and 1960s with galvanized supply lines and clay or cast-iron sewer laterals. Expansive clay in parts of the city moves foundations and cracks pipes.",
+  "Cold fronts freeze sprinkler systems, hose bibs and pipes near exterior walls. Many homes have basements with water heaters, sump pits and floor drains."
+ ],
+ "utility": "Aurora Water",
+ "water": "Aurora Water uses mountain snowmelt plus its Prairie Waters system, which filters South Platte River water through riverbank sand. Hardness is moderate.",
+ "problems": [
+  [
+   "Frozen pipes and sprinkler lines",
+   "Citywide in cold snaps",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Original Aurora and clay-soil areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "1950s–1960s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first hard freeze.",
+  "Scope the sewer line before buying an older home.",
+  "Test your sump pump each spring.",
+  "Disconnect hoses in October."
+ ],
+ "areas": "PipeMend works in Original Aurora, Saddle Rock, Southlands, Tallyn's Reach, Hoffman Heights, Village East and every other Aurora neighborhood.",
+ "permits": "Plumbing permits come from the City of Aurora Building Division, and plumbers must be licensed through the Colorado State Plumbing Board.",
+ "faq": {
+  "q": "What is Prairie Waters?",
+  "a": "It is Aurora Water's system that pulls South Platte River water through natural riverbank sand, then treats it. It adds a drought-resistant supply alongside mountain snowmelt."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Omaha plumbing deals with deep cold, hard water, basements and old brick neighborhoods. PipeMend sends licensed local plumbers across Omaha.",
+ "risk": "frozen pipes, basement sewer backups and hard water scale",
+ "risk_short": "frozen pipes, sewer backups and hard water",
+ "why": [
+  "Dundee, Benson and the Near North Side have homes from the early 1900s with galvanized supply lines, cast-iron stacks and clay sewer laterals. Almost every home has a basement.",
+  "Older parts of the city have combined sewers that can back up in heavy rain. Deep winter cold freezes pipes and can freeze water service lines."
+ ],
+ "utility": "Metropolitan Utilities District (MUD)",
+ "water": "MUD draws from the Missouri and Platte rivers and wells. The water is hard, so scale builds up in water heaters and on fixtures. MUD also runs Omaha's natural gas system.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and service lines",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement sewer backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Dundee, Benson and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Flush your water heater yearly.",
+  "Scope the sewer line before buying."
+ ],
+ "areas": "PipeMend works in Dundee, Benson, the Old Market, Aksarben, Millard, Elkhorn and every other Omaha neighborhood.",
+ "permits": "Plumbing permits and local plumber licenses come from the City of Omaha Permits and Inspections Division. Nebraska has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Omaha?",
+  "a": "Nebraska has no statewide plumber license, so Omaha licenses plumbers through its Permits and Inspections Division. Ask for the city license number before work starts."
+ }
+}

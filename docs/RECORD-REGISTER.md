@@ -81,4 +81,10 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 75 | 2026-11-20 | 6 | DC kept on state page; Scottsdale, Chandler, Anaheim, San Francisco, New Orleans moved to 6b (no city Census data) | Decided | — |
 | 76 | 2026-11-20 | 6 | Audit, readability, site audit, responsive check | Done | PASS 0 issues; FK ≤9 |
 | 77 | 2026-11-20 | 6 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 78 | — | 6b | 5 held-back cities + next Wave 1 cities (rank 26+) | Planned | Next |
+| 78 | 2026-11-20 | 6b | Census data for held-back cities: Census and Census Reporter APIs unreachable; 5 cities stay deferred | Blocked | — |
+| 79 | 2026-11-20 | 6b | 25 cities added to `src/metros/meta.json` (Semrush volume/KD, rank, wave) | Done | Ranks 32–99 |
+| 80 | 2026-11-20 | 6b | 25 city pages written, including local licensing for NYC, KC, Omaha, Wichita, Pittsburgh, Nashville, Memphis, Louisville | Done | 942–1,089 words |
+| 81 | 2026-11-20 | 6b | Home page switched to top-20 city pills + "All city pages" link; hub anchor `#city-pages` | Done | Home 1,8xx → under 1,800 |
+| 82 | 2026-11-20 | 6b | Audit, readability, site audit, responsive check | Done | PASS 0 issues; FK ≤9 |
+| 83 | 2026-11-20 | 6b | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 84 | — | 6c | Census pull for next 25 cities, then their pages | Planned | Needs data route |

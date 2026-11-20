@@ -1,0 +1,45 @@
+{
+ "lead": "Long Beach plumbing deals with older homes, slab leaks, salt air and earthquake rules. PipeMend sends licensed local plumbers across Long Beach.",
+ "risk": "slab leaks, aging cast-iron and galvanized pipes and water heater replacement",
+ "risk_short": "slab leaks, old pipes and water heaters",
+ "why": [
+  "Bixby Knolls, California Heights and Belmont Heights have many homes from the 1920s to 1950s, with galvanized supply lines and cast-iron or clay sewer laterals. Mature street trees send roots into those old lines.",
+  "Many homes sit on slabs, so supply leaks under the floor are common. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "Long Beach Utilities",
+ "water": "Long Beach Utilities blends local groundwater with water imported through the Metropolitan Water District. The water is hard, so scale builds up in water heaters and on fixtures. The city utility also runs the local gas system.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Bixby Knolls and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "1920s–1950s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Scope the sewer line before buying an older home.",
+  "Watch your water bill for slab leak signs.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Belmont Shore, Naples, Bixby Knolls, California Heights, Alamitos Beach, Los Altos and every other Long Beach neighborhood.",
+ "permits": "Plumbing permits come from Long Beach Development Services, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies gas in Long Beach?",
+  "a": "Long Beach is one of the few California cities with its own gas utility, run by Long Beach Utilities. If you smell gas, leave the home and call 911 or the utility from outside."
+ }
+}

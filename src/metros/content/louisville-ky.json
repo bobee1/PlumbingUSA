@@ -1,0 +1,45 @@
+{
+ "lead": "Louisville plumbing deals with old Victorian homes, river flooding, hard water and cold snaps. PipeMend sends licensed local plumbers across Louisville.",
+ "risk": "aging pipes in older homes, basement backups and frozen pipes",
+ "risk_short": "old pipes, basement backups and frozen pipes",
+ "why": [
+  "Old Louisville, the Highlands, Germantown and Crescent Hill have homes from the late 1800s and early 1900s with galvanized supply lines, cast-iron stacks and clay sewer laterals.",
+  "Heavy rain overloads older sewers and backs water into basements. Cold snaps freeze pipes in exterior walls and crawl spaces."
+ ],
+ "utility": "Louisville Water Company",
+ "water": "Louisville Water draws from the Ohio River, partly through riverbank filtration. The water is moderately hard.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "Old Louisville and the Highlands",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and crawl spaces",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Tree-lined older streets",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Old Louisville, the Highlands, Germantown, Crescent Hill, Clifton, Butchertown and every other Louisville neighborhood.",
+ "permits": "Kentucky's Division of Plumbing licenses plumbers and oversees plumbing permits and inspections across the state, including Louisville.",
+ "faq": {
+  "q": "Who licenses plumbers in Louisville?",
+  "a": "Kentucky licenses plumbers statewide through the Division of Plumbing in the Department of Housing, Buildings and Construction. Ask for the license number before work starts."
+ }
+}

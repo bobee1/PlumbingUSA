@@ -1,0 +1,45 @@
+{
+ "lead": "New York City plumbing deals with old buildings, steam heat, shared risers and cold winters. PipeMend sends licensed local plumbers across all five boroughs.",
+ "risk": "old lead and galvanized pipes, riser and stack leaks in multifamily buildings and frozen pipes",
+ "risk_short": "old pipes, riser leaks and frozen pipes",
+ "why": [
+  "A large share of New York's housing was built before 1940. Brownstones, row houses and walk-ups often have galvanized supply pipes, cast-iron stacks and, in some cases, lead service lines. Shared risers mean one leak can affect many units.",
+  "Winter freezes pipes in exterior walls and unheated spaces. Heavy rain overloads the combined sewers, and low areas in Queens, Brooklyn and the Rockaways can see basement backups."
+ ],
+ "utility": "NYC Department of Environmental Protection (DEP)",
+ "water": "New York's water comes from the Catskill, Delaware and Croton watersheds upstate. It is very soft. DEP has information on lead service lines, and owners are responsible for the service line and sewer connection from the street.",
+ "problems": [
+  [
+   "Old galvanized and lead lines",
+   "Prewar buildings",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Riser and stack leaks",
+   "Co-ops, condos and walk-ups",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ],
+  [
+   "Basement backups",
+   "Low-lying areas in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and vacant units",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Ask DEP about your service line material.",
+  "Know where your building's shutoff valves are.",
+  "Check your co-op or condo rules before any plumbing job.",
+  "Insulate pipes near exterior walls before winter."
+ ],
+ "areas": "PipeMend works in Manhattan, Brooklyn, Queens, the Bronx and Staten Island, from the Upper West Side and Harlem to Park Slope, Astoria, the Rockaways and Riverdale.",
+ "permits": "Plumbing permits come from the NYC Department of Buildings, and most plumbing work must be done by a DOB-licensed master plumber.",
+ "faq": {
+  "q": "Who can do plumbing work in New York City?",
+  "a": "Most plumbing work in NYC must be done by a master plumber licensed by the Department of Buildings, who files any needed permits. Ask for the license number before work starts."
+ }
+}

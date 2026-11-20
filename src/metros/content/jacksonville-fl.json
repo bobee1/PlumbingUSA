@@ -1,0 +1,45 @@
+{
+ "lead": "Jacksonville plumbing deals with heat, storms, sandy soil and some of Florida's oldest neighborhoods. PipeMend sends licensed local plumbers across Jacksonville.",
+ "risk": "cast-iron drain failures, slab leaks and storm flooding",
+ "risk_short": "cast-iron drains, slab leaks and flooding",
+ "why": [
+  "Riverside, Avondale, Springfield and San Marco have homes from the early 1900s with cast-iron drains and clay laterals. Many mid-century homes have cast-iron drains under the slab that are rotting from the inside.",
+  "Hurricanes and nor'easters flood low areas near the St. Johns River and the beaches. Homes built from the late 1970s to the mid-1990s may have polybutylene supply pipe."
+ ],
+ "utility": "JEA",
+ "water": "JEA pumps water from deep wells in the Floridan Aquifer. It is moderately hard, and treatment removes the sulfur smell that Florida well water can have.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "Riverside, Avondale and mid-century homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Storm flooding and backups",
+   "Low areas near the river",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "Late-1970s to mid-1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Look for gray polybutylene pipe.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Riverside, San Marco, Avondale, Mandarin, Arlington, the Southside and every other Jacksonville neighborhood.",
+ "permits": "Plumbing permits come from the City of Jacksonville Building Inspection Division, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Why do older Jacksonville homes have drain problems?",
+  "a": "Many have cast-iron drain lines that corrode from the inside after decades of use. Slow drains, backups and sewer smells are common signs. A camera inspection shows whether lining or replacement is needed."
+ }
+}

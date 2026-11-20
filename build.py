@@ -127,6 +127,10 @@ def expand_components(body, meta, pages_by_path):
         body = body.replace("{{state_pills}}", states.state_pills())
         if "{{state_patterns}}" in body:
             body = body.replace("{{state_patterns}}", states.state_patterns())
+    if metros and "{{metro_pills_top}}" in body:
+        top = sorted((k for k in metros.MMETA if (metros.CDIR / f"{k}.json").exists()), key=lambda k: metros.MMETA[k]["rank"])[:20]
+        mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}</a></li>' for k in sorted(top, key=lambda k: metros.MMETA[k]["city"]))
+        body = body.replace("{{metro_pills_top}}", f'<ul class="pills pills-sm">{mp}<li><a href="/locations/#city-pages">All city pages</a></li></ul>')
     if metros and "{{metro_pills}}" in body:
         mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}, {metros.MMETA[k]["st"]}</a></li>'
                      for k in sorted(metros.MMETA, key=lambda k: metros.MMETA[k]["city"]) if (metros.CDIR / f"{k}.json").exists())

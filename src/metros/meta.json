@@ -968,5 +968,964 @@
    "55"
   ],
   "batch": "6"
+ },
+ "orlando-fl": {
+  "city": "Orlando",
+  "st": "FL",
+  "acs": "Orlando|12",
+  "fuel": "Orlando|12",
+  "url": "orlando",
+  "county": "Orange County",
+  "zips": [
+   "32801",
+   "32803",
+   "32804",
+   "32806",
+   "32819",
+   "32827"
+  ],
+  "hoods": [
+   "Downtown",
+   "College Park",
+   "Thornton Park",
+   "Baldwin Park",
+   "Dr. Phillips",
+   "Lake Nona",
+   "Conway",
+   "Metro West"
+  ],
+  "wiki": "Orlando,_Florida",
+  "nearby": [
+   "tampa-fl",
+   "jacksonville-fl",
+   "miami-fl"
+  ],
+  "wave": 1,
+  "rank": 32,
+  "semrush": [
+   "1300",
+   "46"
+  ],
+  "batch": "6b"
+ },
+ "arlington-tx": {
+  "city": "Arlington",
+  "st": "TX",
+  "acs": "Arlington|48",
+  "fuel": "Arlington|48",
+  "url": "arlington",
+  "county": "Tarrant County",
+  "zips": [
+   "76010",
+   "76011",
+   "76012",
+   "76013",
+   "76016",
+   "76017"
+  ],
+  "hoods": [
+   "Downtown Arlington",
+   "Entertainment District",
+   "Viridian",
+   "North Arlington",
+   "East Arlington",
+   "Southwest Arlington",
+   "Lake Arlington",
+   "UT Arlington area"
+  ],
+  "wiki": "Arlington,_Texas",
+  "nearby": [
+   "fort-worth-tx",
+   "dallas-tx",
+   "plano-tx"
+  ],
+  "wave": 1,
+  "rank": 33,
+  "semrush": [
+   "880",
+   "21"
+  ],
+  "batch": "6b"
+ },
+ "colorado-springs-co": {
+  "city": "Colorado Springs",
+  "st": "CO",
+  "acs": "Colorado Springs|08",
+  "fuel": "Colorado Springs|08",
+  "url": "colorado-springs",
+  "county": "El Paso County",
+  "zips": [
+   "80903",
+   "80904",
+   "80906",
+   "80918",
+   "80920",
+   "80921"
+  ],
+  "hoods": [
+   "Old Colorado City",
+   "Broadmoor",
+   "Briargate",
+   "Northgate",
+   "Rockrimmon",
+   "Powers",
+   "Cheyenne Mountain",
+   "Downtown"
+  ],
+  "wiki": "Colorado_Springs,_Colorado",
+  "nearby": [
+   "denver-co",
+   "aurora-co"
+  ],
+  "wave": 1,
+  "rank": 34,
+  "semrush": [
+   "1300",
+   "48"
+  ],
+  "batch": "6b"
+ },
+ "raleigh-nc": {
+  "city": "Raleigh",
+  "st": "NC",
+  "acs": "Raleigh|37",
+  "fuel": "Raleigh|37",
+  "url": "raleigh",
+  "county": "Wake County",
+  "zips": [
+   "27601",
+   "27604",
+   "27607",
+   "27609",
+   "27612",
+   "27615"
+  ],
+  "hoods": [
+   "Downtown",
+   "Five Points",
+   "North Hills",
+   "Oakwood",
+   "Brier Creek",
+   "Wakefield",
+   "Hayes Barton",
+   "Glenwood"
+  ],
+  "wiki": "Raleigh,_North_Carolina",
+  "nearby": [
+   "durham-nc",
+   "charlotte-nc"
+  ],
+  "wave": 1,
+  "rank": 35,
+  "semrush": [
+   "880",
+   "25"
+  ],
+  "batch": "6b"
+ },
+ "baton-rouge-la": {
+  "city": "Baton Rouge",
+  "st": "LA",
+  "acs": "Baton Rouge|22",
+  "fuel": "Baton Rouge|22",
+  "url": "baton-rouge",
+  "county": "East Baton Rouge Parish",
+  "zips": [
+   "70802",
+   "70806",
+   "70808",
+   "70809",
+   "70810",
+   "70815"
+  ],
+  "hoods": [
+   "Garden District",
+   "Spanish Town",
+   "Mid City",
+   "Capital Heights",
+   "Southdowns",
+   "Old Goodwood",
+   "Bocage",
+   "Sherwood Forest"
+  ],
+  "wiki": "Baton_Rouge,_Louisiana",
+  "nearby": [
+   "houston-tx",
+   "memphis-tn"
+  ],
+  "wave": 1,
+  "rank": 39,
+  "semrush": [
+   "1000",
+   "40"
+  ],
+  "batch": "6b"
+ },
+ "new-york-ny": {
+  "city": "New York",
+  "st": "NY",
+  "acs": "New York|36",
+  "fuel": "New York|36",
+  "url": "new-york",
+  "county": "New York City's five boroughs",
+  "zips": [
+   "10001",
+   "10025",
+   "10128",
+   "11201",
+   "11215",
+   "11375"
+  ],
+  "hoods": [
+   "the Upper West Side",
+   "Harlem",
+   "Park Slope",
+   "Astoria",
+   "the Rockaways",
+   "Riverdale",
+   "Staten Island's North Shore",
+   "Williamsburg"
+  ],
+  "wiki": "New_York_City",
+  "nearby": [
+   "philadelphia-pa",
+   "baltimore-md"
+  ],
+  "wave": 1,
+  "rank": 40,
+  "semrush": [
+   "1300",
+   "54"
+  ],
+  "batch": "6b"
+ },
+ "nashville-tn": {
+  "city": "Nashville",
+  "st": "TN",
+  "acs": "Nashville-Davidson metropolitan government (balance)|47",
+  "fuel": "Nashville-Davidson metropolitan government (balance)|47",
+  "url": "nashville",
+  "county": "Davidson County",
+  "zips": [
+   "37203",
+   "37204",
+   "37206",
+   "37209",
+   "37211",
+   "37215"
+  ],
+  "hoods": [
+   "East Nashville",
+   "the Gulch",
+   "12 South",
+   "Germantown",
+   "Green Hills",
+   "Bellevue",
+   "Donelson",
+   "Antioch"
+  ],
+  "wiki": "Nashville,_Tennessee",
+  "nearby": [
+   "memphis-tn",
+   "louisville-ky",
+   "atlanta-ga"
+  ],
+  "wave": 1,
+  "rank": 41,
+  "semrush": [
+   "880",
+   "32"
+  ],
+  "batch": "6b"
+ },
+ "boise-id": {
+  "city": "Boise",
+  "st": "ID",
+  "acs": "Boise City|16",
+  "fuel": "Boise City|16",
+  "url": "boise",
+  "county": "Ada County",
+  "zips": [
+   "83702",
+   "83704",
+   "83705",
+   "83706",
+   "83709",
+   "83713"
+  ],
+  "hoods": [
+   "North End",
+   "East End",
+   "Bench",
+   "Southeast Boise",
+   "West Boise",
+   "Harris Ranch",
+   "Downtown",
+   "Barber Valley"
+  ],
+  "wiki": "Boise,_Idaho",
+  "nearby": [
+   "salt-lake-city-ut",
+   "portland-or"
+  ],
+  "wave": 1,
+  "rank": 42,
+  "semrush": [
+   "880",
+   "33"
+  ],
+  "batch": "6b"
+ },
+ "gilbert-az": {
+  "city": "Gilbert",
+  "st": "AZ",
+  "acs": "Gilbert|04",
+  "fuel": "Gilbert|04",
+  "url": "gilbert",
+  "county": "Maricopa County",
+  "zips": [
+   "85233",
+   "85234",
+   "85295",
+   "85296",
+   "85297",
+   "85298"
+  ],
+  "hoods": [
+   "Heritage District",
+   "Agritopia",
+   "Val Vista Lakes",
+   "Power Ranch",
+   "Seville",
+   "Morrison Ranch",
+   "Lyons Gate",
+   "Finley Farms"
+  ],
+  "wiki": "Gilbert,_Arizona",
+  "nearby": [
+   "mesa-az",
+   "phoenix-az"
+  ],
+  "wave": 1,
+  "rank": 45,
+  "semrush": [
+   "1000",
+   "45"
+  ],
+  "batch": "6b"
+ },
+ "aurora-co": {
+  "city": "Aurora",
+  "st": "CO",
+  "acs": "Aurora|08",
+  "fuel": "Aurora|08",
+  "url": "aurora",
+  "county": "Arapahoe County",
+  "zips": [
+   "80010",
+   "80011",
+   "80012",
+   "80013",
+   "80014",
+   "80016"
+  ],
+  "hoods": [
+   "Original Aurora",
+   "Saddle Rock",
+   "Southlands",
+   "Tallyn's Reach",
+   "Hoffman Heights",
+   "Village East",
+   "Murphy Creek",
+   "Mission Viejo"
+  ],
+  "wiki": "Aurora,_Colorado",
+  "nearby": [
+   "denver-co",
+   "colorado-springs-co"
+  ],
+  "wave": 1,
+  "rank": 47,
+  "semrush": [
+   "590",
+   "10"
+  ],
+  "batch": "6b"
+ },
+ "jacksonville-fl": {
+  "city": "Jacksonville",
+  "st": "FL",
+  "acs": "Jacksonville|12",
+  "fuel": "Jacksonville|12",
+  "url": "jacksonville",
+  "county": "Duval County",
+  "zips": [
+   "32202",
+   "32204",
+   "32207",
+   "32210",
+   "32224",
+   "32250"
+  ],
+  "hoods": [
+   "Riverside",
+   "San Marco",
+   "Avondale",
+   "Mandarin",
+   "Arlington",
+   "Southside",
+   "Jacksonville Beach",
+   "Northside"
+  ],
+  "wiki": "Jacksonville,_Florida",
+  "nearby": [
+   "orlando-fl",
+   "tampa-fl",
+   "atlanta-ga"
+  ],
+  "wave": 1,
+  "rank": 49,
+  "semrush": [
+   "880",
+   "41"
+  ],
+  "batch": "6b"
+ },
+ "memphis-tn": {
+  "city": "Memphis",
+  "st": "TN",
+  "acs": "Memphis|47",
+  "fuel": "Memphis|47",
+  "url": "memphis",
+  "county": "Shelby County",
+  "zips": [
+   "38103",
+   "38104",
+   "38111",
+   "38117",
+   "38118",
+   "38120"
+  ],
+  "hoods": [
+   "Midtown",
+   "Cooper-Young",
+   "East Memphis",
+   "Downtown",
+   "Whitehaven",
+   "Hickory Hill",
+   "Cordova",
+   "Raleigh"
+  ],
+  "wiki": "Memphis,_Tennessee",
+  "nearby": [
+   "nashville-tn",
+   "baton-rouge-la"
+  ],
+  "wave": 1,
+  "rank": 50,
+  "semrush": [
+   "720",
+   "29"
+  ],
+  "batch": "6b"
+ },
+ "indianapolis-in": {
+  "city": "Indianapolis",
+  "st": "IN",
+  "acs": "Indianapolis city (balance)|18",
+  "fuel": "Indianapolis city (balance)|18",
+  "url": "indianapolis",
+  "county": "Marion County",
+  "zips": [
+   "46202",
+   "46204",
+   "46205",
+   "46208",
+   "46220",
+   "46240"
+  ],
+  "hoods": [
+   "Broad Ripple",
+   "Fountain Square",
+   "Irvington",
+   "Meridian-Kessler",
+   "Mass Ave",
+   "Butler-Tarkington",
+   "Castleton",
+   "Lawrence"
+  ],
+  "wiki": "Indianapolis",
+  "nearby": [
+   "louisville-ky",
+   "cincinnati-oh",
+   "chicago-il"
+  ],
+  "wave": 2,
+  "rank": 52,
+  "semrush": [
+   "720",
+   "31"
+  ],
+  "batch": "6b"
+ },
+ "durham-nc": {
+  "city": "Durham",
+  "st": "NC",
+  "acs": "Durham|37",
+  "fuel": "Durham|37",
+  "url": "durham",
+  "county": "Durham County",
+  "zips": [
+   "27701",
+   "27703",
+   "27704",
+   "27705",
+   "27707",
+   "27713"
+  ],
+  "hoods": [
+   "Downtown",
+   "Trinity Park",
+   "Walltown",
+   "Old West Durham",
+   "Forest Hills",
+   "Hope Valley",
+   "Woodcroft",
+   "Brightleaf"
+  ],
+  "wiki": "Durham,_North_Carolina",
+  "nearby": [
+   "raleigh-nc",
+   "charlotte-nc"
+  ],
+  "wave": 2,
+  "rank": 54,
+  "semrush": [
+   "590",
+   "17"
+  ],
+  "batch": "6b"
+ },
+ "kansas-city-mo": {
+  "city": "Kansas City",
+  "st": "MO",
+  "acs": "Kansas City|29",
+  "fuel": "Kansas City|29",
+  "url": "kansas-city",
+  "county": "Jackson, Clay and Platte counties",
+  "zips": [
+   "64105",
+   "64108",
+   "64111",
+   "64113",
+   "64114",
+   "64151"
+  ],
+  "hoods": [
+   "Crossroads",
+   "Westport",
+   "Brookside",
+   "Waldo",
+   "the Plaza",
+   "Northland",
+   "River Market",
+   "Midtown"
+  ],
+  "wiki": "Kansas_City,_Missouri",
+  "nearby": [
+   "wichita-ks",
+   "omaha-ne"
+  ],
+  "wave": 2,
+  "rank": 56,
+  "semrush": [
+   "1300",
+   "63"
+  ],
+  "batch": "6b"
+ },
+ "tampa-fl": {
+  "city": "Tampa",
+  "st": "FL",
+  "acs": "Tampa|12",
+  "fuel": "Tampa|12",
+  "url": "tampa",
+  "county": "Hillsborough County",
+  "zips": [
+   "33602",
+   "33606",
+   "33609",
+   "33611",
+   "33629",
+   "33647"
+  ],
+  "hoods": [
+   "South Tampa",
+   "Hyde Park",
+   "Davis Islands",
+   "Seminole Heights",
+   "Westchase",
+   "New Tampa",
+   "Ybor City",
+   "Carrollwood"
+  ],
+  "wiki": "Tampa,_Florida",
+  "nearby": [
+   "orlando-fl",
+   "jacksonville-fl",
+   "miami-fl"
+  ],
+  "wave": 2,
+  "rank": 59,
+  "semrush": [
+   "1000",
+   "53"
+  ],
+  "batch": "6b"
+ },
+ "cleveland-oh": {
+  "city": "Cleveland",
+  "st": "OH",
+  "acs": "Cleveland|39",
+  "fuel": "Cleveland|39",
+  "url": "cleveland",
+  "county": "Cuyahoga County",
+  "zips": [
+   "44102",
+   "44103",
+   "44106",
+   "44109",
+   "44113",
+   "44114"
+  ],
+  "hoods": [
+   "Ohio City",
+   "Tremont",
+   "Detroit-Shoreway",
+   "University Circle",
+   "Old Brooklyn",
+   "Slavic Village",
+   "Collinwood",
+   "Downtown"
+  ],
+  "wiki": "Cleveland",
+  "nearby": [
+   "columbus-oh",
+   "pittsburgh-pa"
+  ],
+  "wave": 2,
+  "rank": 60,
+  "semrush": [
+   "590",
+   "22"
+  ],
+  "batch": "6b"
+ },
+ "pittsburgh-pa": {
+  "city": "Pittsburgh",
+  "st": "PA",
+  "acs": "Pittsburgh|42",
+  "fuel": "Pittsburgh|42",
+  "url": "pittsburgh",
+  "county": "Allegheny County",
+  "zips": [
+   "15201",
+   "15206",
+   "15211",
+   "15213",
+   "15217",
+   "15222"
+  ],
+  "hoods": [
+   "Lawrenceville",
+   "Shadyside",
+   "Squirrel Hill",
+   "Mount Washington",
+   "the Strip District",
+   "Bloomfield",
+   "Brookline",
+   "South Side"
+  ],
+  "wiki": "Pittsburgh",
+  "nearby": [
+   "cleveland-oh",
+   "philadelphia-pa",
+   "columbus-oh"
+  ],
+  "wave": 2,
+  "rank": 63,
+  "semrush": [
+   "880",
+   "49"
+  ],
+  "batch": "6b"
+ },
+ "long-beach-ca": {
+  "city": "Long Beach",
+  "st": "CA",
+  "acs": "Long Beach|06",
+  "fuel": "Long Beach|06",
+  "url": "long-beach",
+  "county": "Los Angeles County",
+  "zips": [
+   "90802",
+   "90803",
+   "90804",
+   "90805",
+   "90808",
+   "90815"
+  ],
+  "hoods": [
+   "Belmont Shore",
+   "Naples",
+   "Bixby Knolls",
+   "California Heights",
+   "Alamitos Beach",
+   "Los Altos",
+   "Downtown",
+   "North Long Beach"
+  ],
+  "wiki": "Long_Beach,_California",
+  "nearby": [
+   "los-angeles-ca",
+   "san-diego-ca"
+  ],
+  "wave": 2,
+  "rank": 66,
+  "semrush": [
+   "720",
+   "43"
+  ],
+  "batch": "6b"
+ },
+ "reno-nv": {
+  "city": "Reno",
+  "st": "NV",
+  "acs": "Reno|32",
+  "fuel": "Reno|32",
+  "url": "reno",
+  "county": "Washoe County",
+  "zips": [
+   "89501",
+   "89502",
+   "89503",
+   "89509",
+   "89511",
+   "89523"
+  ],
+  "hoods": [
+   "Downtown",
+   "Midtown",
+   "Old Southwest",
+   "Northwest Reno",
+   "Somersett",
+   "Caughlin Ranch",
+   "South Meadows",
+   "Damonte Ranch"
+  ],
+  "wiki": "Reno,_Nevada",
+  "nearby": [
+   "sacramento-ca",
+   "las-vegas-nv"
+  ],
+  "wave": 2,
+  "rank": 70,
+  "semrush": [
+   "590",
+   "32"
+  ],
+  "batch": "6b"
+ },
+ "columbus-oh": {
+  "city": "Columbus",
+  "st": "OH",
+  "acs": "Columbus|39",
+  "fuel": "Columbus|39",
+  "url": "columbus",
+  "county": "Franklin County",
+  "zips": [
+   "43201",
+   "43206",
+   "43209",
+   "43214",
+   "43215",
+   "43221"
+  ],
+  "hoods": [
+   "German Village",
+   "Short North",
+   "Clintonville",
+   "Victorian Village",
+   "Bexley area",
+   "Upper Arlington area",
+   "Linden",
+   "Hilltop"
+  ],
+  "wiki": "Columbus,_Ohio",
+  "nearby": [
+   "cincinnati-oh",
+   "cleveland-oh",
+   "indianapolis-in"
+  ],
+  "wave": 2,
+  "rank": 74,
+  "semrush": [
+   "720",
+   "51"
+  ],
+  "batch": "6b"
+ },
+ "omaha-ne": {
+  "city": "Omaha",
+  "st": "NE",
+  "acs": "Omaha|31",
+  "fuel": "Omaha|31",
+  "url": "omaha",
+  "county": "Douglas County",
+  "zips": [
+   "68102",
+   "68104",
+   "68106",
+   "68114",
+   "68124",
+   "68154"
+  ],
+  "hoods": [
+   "Dundee",
+   "Benson",
+   "the Old Market",
+   "Aksarben",
+   "Millard",
+   "Elkhorn",
+   "Florence",
+   "Midtown"
+  ],
+  "wiki": "Omaha,_Nebraska",
+  "nearby": [
+   "kansas-city-mo",
+   "denver-co"
+  ],
+  "wave": 2,
+  "rank": 75,
+  "semrush": [
+   "880",
+   "61"
+  ],
+  "batch": "6b"
+ },
+ "louisville-ky": {
+  "city": "Louisville",
+  "st": "KY",
+  "acs": "Louisville|21",
+  "fuel": "Louisville|21",
+  "url": "louisville",
+  "county": "Jefferson County",
+  "zips": [
+   "40202",
+   "40204",
+   "40205",
+   "40206",
+   "40207",
+   "40220"
+  ],
+  "hoods": [
+   "Old Louisville",
+   "The Highlands",
+   "Germantown",
+   "Crescent Hill",
+   "Clifton",
+   "Butchertown",
+   "Portland",
+   "Beechmont"
+  ],
+  "wiki": "Louisville,_Kentucky",
+  "nearby": [
+   "cincinnati-oh",
+   "indianapolis-in",
+   "nashville-tn"
+  ],
+  "wave": 2,
+  "rank": 84,
+  "semrush": [
+   "390",
+   "30"
+  ],
+  "batch": "6b"
+ },
+ "madison-wi": {
+  "city": "Madison",
+  "st": "WI",
+  "acs": "Madison|55",
+  "fuel": "Madison|55",
+  "url": "madison",
+  "county": "Dane County",
+  "zips": [
+   "53703",
+   "53704",
+   "53705",
+   "53711",
+   "53713",
+   "53719"
+  ],
+  "hoods": [
+   "The Isthmus",
+   "Tenney-Lapham",
+   "Marquette",
+   "Vilas",
+   "Dudgeon-Monroe",
+   "Westmorland",
+   "Greenbush",
+   "Hill Farms"
+  ],
+  "wiki": "Madison,_Wisconsin",
+  "nearby": [
+   "chicago-il",
+   "minneapolis-mn"
+  ],
+  "wave": 2,
+  "rank": 86,
+  "semrush": [
+   "320",
+   "16"
+  ],
+  "batch": "6b"
+ },
+ "wichita-ks": {
+  "city": "Wichita",
+  "st": "KS",
+  "acs": "Wichita|20",
+  "fuel": "Wichita|20",
+  "url": "wichita",
+  "county": "Sedgwick County",
+  "zips": [
+   "67202",
+   "67203",
+   "67208",
+   "67211",
+   "67212",
+   "67226"
+  ],
+  "hoods": [
+   "College Hill",
+   "Riverside",
+   "Delano",
+   "Old Town",
+   "Crown Heights",
+   "Rockhurst",
+   "Linwood",
+   "Northeast Wichita"
+  ],
+  "wiki": "Wichita,_Kansas",
+  "nearby": [
+   "kansas-city-mo",
+   "omaha-ne"
+  ],
+  "wave": 2,
+  "rank": 99,
+  "semrush": [
+   "140",
+   "41"
+  ],
+  "batch": "6b"
  }
 }

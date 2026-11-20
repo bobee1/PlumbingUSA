@@ -1,0 +1,45 @@
+{
+ "lead": "Pittsburgh plumbing deals with steep hills, very old homes, lead lines and cold winters. PipeMend sends licensed local plumbers across Pittsburgh.",
+ "risk": "lead and galvanized service lines, failing sewer laterals on steep lots and frozen pipes",
+ "risk_short": "lead lines, sewer laterals and frozen pipes",
+ "why": [
+  "Pittsburgh has one of the oldest housing stocks in the country. Lawrenceville, Bloomfield and the South Side have row houses and frame homes with galvanized supply lines, cast-iron stacks and long sewer laterals down steep lots.",
+  "Heavy rain overloads the combined sewers and backs water into basements. Winters freeze pipes in exterior walls and unheated spaces."
+ ],
+ "utility": "Pittsburgh Water",
+ "water": "Pittsburgh Water draws from the Allegheny River. The water is moderately hard. The utility has replaced thousands of lead service lines and has an address lookup.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Sewer lateral breaks",
+   "Hillside neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Check Pittsburgh Water's lead line lookup.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Scope the sewer lateral before buying."
+ ],
+ "areas": "PipeMend works in Lawrenceville, Shadyside, Squirrel Hill, Mount Washington, the Strip District, Bloomfield and every other Pittsburgh neighborhood.",
+ "permits": "Plumbing permits and plumber licenses in Pittsburgh come from the Allegheny County Health Department's plumbing program.",
+ "faq": {
+  "q": "Who licenses plumbers in Pittsburgh?",
+  "a": "Pennsylvania has no state plumber license. In Pittsburgh and the rest of Allegheny County, the county Health Department licenses plumbers and issues plumbing permits."
+ }
+}

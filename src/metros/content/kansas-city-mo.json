@@ -1,0 +1,45 @@
+{
+ "lead": "Kansas City plumbing deals with cold winters, hard river water, old basements and clay soil. PipeMend sends licensed local plumbers across Kansas City.",
+ "risk": "frozen pipes, basement sewer backups and aging pipes in older homes",
+ "risk_short": "frozen pipes, sewer backups and old pipes",
+ "why": [
+  "Brookside, Waldo, Westport and the Northeast have many homes from the early 1900s with galvanized supply lines and clay or cast-iron sewer laterals. Clay soil moves with the seasons and cracks them.",
+  "Older parts of the city have combined sewers that can back up into basements in heavy rain. Winters freeze pipes near exterior walls."
+ ],
+ "utility": "KC Water",
+ "water": "KC Water treats Missouri River water. River water is hard, and the utility softens it during treatment, but scale still builds up over time.",
+ "problems": [
+  [
+   "Basement sewer backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Brookside, Waldo and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "PipeMend works in the Crossroads, Westport, Brookside, Waldo, the Plaza, the Northland and every other Kansas City neighborhood.",
+ "permits": "Plumbing permits come from the Kansas City City Planning and Development Department, which also licenses plumbers in the city. Missouri has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Kansas City, Missouri?",
+  "a": "Missouri has no statewide plumber license, so Kansas City licenses plumbers through its City Planning and Development Department. Ask for the city license number before work starts."
+ }
+}

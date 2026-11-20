@@ -1,0 +1,45 @@
+{
+ "lead": "Orlando plumbing deals with heat, heavy summer rain, hurricanes and slab homes from fast growth. PipeMend sends licensed local plumbers across Orlando.",
+ "risk": "slab leaks, polybutylene and aging pipes, and storm-related backups",
+ "risk_short": "slab leaks, old pipes and storm backups",
+ "why": [
+  "Most Orlando homes sit on concrete slabs, so supply leaks under the floor are a common call. Homes built from the late 1970s to the mid-1990s may still have gray polybutylene pipe.",
+  "Afternoon storms and hurricanes soak the ground and push sewers to their limit. Older areas such as College Park and Thornton Park have cast-iron and clay drains that crack with age."
+ ],
+ "utility": "Orlando Utilities Commission (OUC)",
+ "water": "OUC pumps its water from deep wells in the Floridan Aquifer and treats it with ozone. The water is moderately hard, so scale slowly builds up in water heaters and on fixtures.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "Late-1970s to mid-1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "College Park and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Storm backups",
+   "Low areas after heavy rain",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Know where your main shutoff is before hurricane season.",
+  "Look for gray pipe stamped PB2110 near the water heater.",
+  "Watch your water bill for signs of a slab leak.",
+  "Flush your water heater once a year."
+ ],
+ "areas": "PipeMend works in Downtown, College Park, Thornton Park, Baldwin Park, Dr. Phillips, Lake Nona, MetroWest and every other Orlando neighborhood.",
+ "permits": "Plumbing permits come from the City of Orlando Permitting Services, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Where does Orlando's water come from?",
+  "a": "OUC draws it from deep wells in the Floridan Aquifer. It is treated with ozone, which removes the sulfur smell common in Florida well water. It is moderately hard."
+ }
+}
