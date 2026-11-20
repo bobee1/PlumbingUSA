@@ -1,0 +1,61 @@
+keyword,volume,cpc,competition,kd,intent
+plumber,673000,29.5,0.16,75,commercial
+plumbers,60500,29.5,0.16,58,informational
+plumber near me,550000,24.07,0.62,50,transactional
+plumbing services,110000,25.63,0.13,34,commercial
+plumbing company,110000,27.77,0.08,29,
+plumbing companies near me,49500,25.45,0.91,48,transactional
+local plumber,18100,22.43,0.67,54,
+emergency plumber,246000,39.93,0.07,21,commercial
+emergency plumber near me,135000,30.21,0.14,42,
+24 hour plumber,22200,35.39,0.22,15,commercial
+emergency plumbing,165000,39.93,0.07,21,commercial
+drain cleaning,201000,15.48,0.62,27,commercial
+drain cleaning near me,201000,24.7,0.1,34,
+clogged drain,110000,26.49,0.73,34,commercial
+drain cleaning service,14800,31.42,0.04,17,commercial
+main sewer line clog,1900,20.79,0.7,26,informational
+hydro jetting,110000,14.16,0.74,42,commercial
+hydro jetting near me,74000,25.09,0.33,25,transactional
+water heater repair,201000,31.02,0.08,36,
+water heater repair near me,135000,22.86,0.11,41,transactional
+water heater installation,165000,17.21,0.11,69,transactional
+water heater replacement,246000,15.92,0.59,67,commercial
+tankless water heater installation,60500,11.45,0.1,37,commercial
+tankless water heater repair,18100,29.55,0.11,18,commercial
+no hot water,2900,10.16,0.2,19,informational
+sewer line repair,90500,25.21,0.03,17,commercial
+sewer line replacement,12100,17.43,0.26,13,commercial
+sewer repair near me,6600,21.53,0.36,20,transactional
+trenchless sewer repair,18100,13.82,0.04,27,commercial
+sewer camera inspection,12100,10.11,0.4,14,commercial
+leak detection,40500,28.81,0.56,63,commercial
+leak detection near me,9900,30.64,0.58,29,transactional
+slab leak repair,22200,24.2,0.14,11,commercial
+slab leak detection,6600,27.24,0.21,9,informational
+water leak detection,14800,6.32,0.96,60,
+repiping,6600,35.98,0.44,26,commercial
+whole house repiping,1600,29.56,0.36,13,informational
+pipe repair,6600,24.07,0.35,41,informational
+burst pipe repair,5400,28.33,0.07,35,informational
+water line repair,8100,19.29,0.39,40,informational
+water line replacement,2400,18.53,0.08,12,
+main water line repair,1000,19.96,0.36,10,commercial
+toilet repair,18100,15.35,0.35,54,informational
+toilet repair near me,6600,22.31,0.4,32,transactional
+running toilet,2900,2.62,0.39,27,informational
+toilet installation,22200,7.24,0.47,34,informational
+garbage disposal repair,33100,16.19,0.1,17,informational
+garbage disposal installation,14800,10.38,0.47,35,
+sump pump installation,33100,11.52,0.26,41,informational
+sump pump repair,22200,21.35,0.11,25,commercial
+sump pump replacement,12100,13.63,0.64,40,commercial
+gas line repair,12100,25.28,0.32,22,commercial
+gas line installation,9900,18.34,0.18,25,informational
+gas leak repair,4400,21.65,0.25,24,commercial
+faucet repair,18100,14.15,0.17,49,informational
+leaky faucet,2900,6.96,0.29,30,informational
+shower valve repair,1300,10.09,0.25,38,informational
+water softener installation,135000,11.3,0.21,37,informational
+backflow testing,12100,16.17,0.78,18,commercial
+frozen pipe repair,1900,6.54,0.01,9,informational

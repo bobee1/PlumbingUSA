@@ -22,4 +22,14 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 16 | 2026-11-19 | 1 | Audit + readability + site audit | Done | 0 issues; FK 5.4–6.0 (legal exempt) |
 | 17 | 2026-11-19 | 1 | Responsive check 360/768/1280 | Done | No overflow, no console errors, menu works |
 | 18 | 2026-11-19 | 1 | STATUS.md + record register written; committed | Done | Branch `main` |
-| 19 | — | 2 | Keyword research and site plan (services, cities, questions, competitors) | Planned | Next build |
+| 19 | 2026-11-20 | 2 | Read SootMend Build 2 layout to keep the same research files | Done | research/01–06 |
+| 20 | 2026-11-20 | 2 | Semrush: 60 service keywords (volume, CPC, competition, KD, intent) | Done | `research/01-service-keywords.csv` (600 units) |
+| 21 | 2026-11-20 | 2 | Semrush: "plumber + city" for the 100 largest cities | Done | `research/02-city-demand.csv` (1,000 units); all 100 have demand, 110–2,900/mo |
+| 22 | 2026-11-20 | 2 | Semrush: suburbs, small cities, state terms, modifiers | Done | `research/03-state-and-town-terms.csv` (500 units); state terms only 70–210/mo |
+| 23 | 2026-11-20 | 2 | Semrush: questions (water heater, drain, plumber, pipes) + 40 guide topics | Done | `research/04-guide-keywords.csv` (2,800 units) |
+| 24 | 2026-11-20 | 2 | Semrush top-10 SERPs: emergency plumber, water heater repair, sewer line repair, plumber denver | Done | `research/05-competitors.csv` (400 units) |
+| 25 | 2026-11-20 | 2 | Competitor pages read: Roto-Rooter Seattle emergency (~3,000), Roto-Rooter water heater (~1,050), HomeGuide sewer cost (~1,700) | Done | Term list in plan |
+| 26 | 2026-11-20 | 2 | Cities scored (volume × (1 − KD/100)) and split into Wave 1 / Wave 2 | Done | `research/06-city-waves.csv`; Wave 1 = 74% of measured city demand |
+| 27 | 2026-11-20 | 2 | Site plan doc written for owner approval | Done | https://claude.ai/artifact/Lnvtnd4rBMx8H6m4StHfiB |
+| 28 | 2026-11-20 | 2 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 29 | — | 3 | Home refined, services hub, first 10 service pages | Planned | After plan approval |

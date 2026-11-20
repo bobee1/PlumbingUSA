@@ -1,0 +1,101 @@
+rank,city,volume,kd,score,wave
+1,phoenix,2900,35,1885,1
+2,austin,2400,24,1824,1
+3,washington dc,2400,28,1728,1
+4,los angeles,2400,29,1704,1
+5,las vegas,1900,19,1539,1
+6,dallas,2900,49,1479,1
+7,san diego,2400,42,1392,1
+8,houston,2400,46,1296,1
+9,denver,1900,33,1273,1
+10,fort worth,1600,23,1232,1
+11,salt lake city,1900,36,1216,1
+12,portland,1600,27,1168,1
+13,chicago,1900,43,1083,1
+14,scottsdale,1300,20,1040,1
+15,seattle,1600,36,1024,1
+16,sacramento,1600,37,1008,1
+17,chandler,1300,24,988,1
+18,mesa,1300,25,975,1
+19,san antonio,2400,60,960,1
+20,atlanta,1900,51,931,1
+21,plano,1300,30,910,1
+22,philadelphia,1300,32,884,1
+23,charlotte,1600,45,880,1
+24,minneapolis,1300,35,845,1
+25,cincinnati,1300,39,793,1
+26,anaheim,1000,21,790,1
+27,san francisco,1600,51,784,1
+28,new orleans,880,13,766,1
+29,baltimore,1000,27,730,1
+30,tucson,1300,44,728,1
+31,miami,1600,55,720,1
+32,orlando,1300,46,702,1
+33,arlington,880,21,695,1
+34,colorado springs,1300,48,676,1
+35,raleigh,880,25,660,1
+36,st petersburg,1300,50,650,1
+37,chula vista,880,30,616,1
+38,irvine,880,31,607,1
+39,baton rouge,1000,40,600,1
+40,new york,1300,54,598,1
+41,nashville,880,32,598,1
+42,boise,880,33,590,1
+43,boston,720,21,569,1
+44,garland,720,23,554,1
+45,gilbert,1000,45,550,1
+46,albuquerque,880,38,546,1
+47,aurora,590,10,531,1
+48,oakland,720,27,526,1
+49,jacksonville,880,41,519,1
+50,memphis,720,29,511,1
+51,glendale,720,29,511,2
+52,indianapolis,720,31,497,2
+53,lubbock,720,31,497,2
+54,durham,590,17,490,2
+55,fremont,590,18,484,2
+56,kansas city,1300,63,481,2
+57,irving,590,19,478,2
+58,richmond,590,19,478,2
+59,tampa,1000,53,470,2
+60,cleveland,590,22,460,2
+61,greensboro,590,22,460,2
+62,santa ana,590,23,454,2
+63,pittsburgh,880,49,449,2
+64,detroit,590,24,448,2
+65,st louis,880,51,431,2
+66,long beach,720,43,410,2
+67,henderson,480,15,408,2
+68,tulsa,590,31,407,2
+69,virginia beach,720,44,403,2
+70,reno,590,32,401,2
+71,lexington,590,33,395,2
+72,spokane,480,19,389,2
+73,winston salem,480,23,370,2
+74,columbus,720,51,353,2
+75,omaha,880,61,343,2
+76,riverside,590,48,307,2
+77,stockton,390,22,304,2
+78,fort wayne,390,23,300,2
+79,el paso,590,51,289,2
+80,toledo,390,26,289,2
+81,jersey city,390,27,285,2
+82,anchorage,390,29,277,2
+83,newark,320,14,275,2
+84,louisville,390,30,273,2
+85,corpus christi,390,30,273,2
+86,madison,320,16,269,2
+87,chesapeake,260,9,237,2
+88,hialeah,260,15,221,2
+89,lincoln,260,16,218,2
+90,fresno,320,34,211,2
+91,honolulu,480,56,211,2
+92,milwaukee,390,51,191,2
+93,norfolk,320,41,189,2
+94,bakersfield,390,52,187,2
+95,north las vegas,210,12,185,2
+96,buffalo,320,43,182,2
+97,oklahoma city,260,36,166,2
+98,saint paul,140,12,123,2
+99,wichita,140,41,83,2
+100,laredo,110,29,78,2

@@ -4,30 +4,31 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-19
+Last updated: 2026-11-20
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
+- Build 1 (2026-11-19): engine, Deep Water + Copper design, logo set, 8 Pexels photos as WebP, 9 pages (home with system diagram, About, Contact form, Privacy, Terms, Disclaimer, Editorial, Accessibility, 404); audit 0 issues.
 - Owner decisions (2026-11-19): target plumbing and every sub-service in all states and cities; brand PipeMend; domain pipemend.us; own-business call routing like SootMend (24/7, 10+ years); legal owner Anjam Javed; toll-free 1-800-555-0199 until after deployment; repo github.com/bobee1/PlumbingUSA; Pexels photos as WebP or illustrations.
 
-## Current — Build 1: Foundation, home, trust and legal pages (done)
-- **Engine:** `build.py` forked from the SootMend engine and rebranded; schema business type `Plumber`; offer catalog lists all 13 services (URLs added as each page goes live); sidebar and footer list only pages that exist.
-- **Design system "Deep Water + Copper":** deep water #0f2d3d, copper #a84b18 (call buttons, 5.7:1 with white), link #0a5c72 (7.5:1), aqua #1d8fb0 and teal #1d7f78 accents. Contrast checked.
-- **Logo set:** house + water drop + copper pipe band and sparkle; standard, reversed, mono lockups, marks, app icons, favicon, PNG icons and 1200×630 social image (`scripts/make_logo.py`, `scripts/make_brand_png.py`).
-- **Photos:** 8 Pexels photos cropped 3:2, WebP at 1200 and 800 px, 9–164 KB (`scripts/make_photos.py`, `src/photos.json`). 4 used, 4 held for service pages. No photo repeats.
-- **Pages (9):** home (1,795 words, 7 FAQs, "how water moves through a house" diagram with numbered legend), About (with "how a call works" illustration), Contact (safety steps + form → Pages Function → Resend), Privacy, Terms, Disclaimer, Editorial policy, Accessibility, 404.
-- **Sources opened and cited:** EPA WaterSense (leaks), EPA mold guide (24–48 h drying), American Red Cross (frozen pipes), PHMSA (gas leaks), Insurance Information Institute (burst pipes vs. sewer backups).
-- **Checks:** audit PASS 0 issues; reading grade 5.4–6.0 on content pages (legal exempt); site audit clean; no overflow or console errors at 360/768/1280.
+## Current — Build 2: Keyword research and site plan (done, awaiting approval)
+- **Plan doc for approval:** "PipeMend — Build 2 Site Plan" https://claude.ai/artifact/Lnvtnd4rBMx8H6m4StHfiB
+- **Semrush data (US, ~4,700 units):** 60 service keywords, "plumber + city" for the 100 largest cities (all 110–2,900/mo, 97,490 combined), 50 suburb/small-town/state/modifier terms, 60 question keywords, 40 guide topics, 4 top-10 SERPs. Files `research/01`–`06`.
+- **Competitors read:** Roto-Rooter Seattle emergency plumber (~3,000 words), Roto-Rooter water heater (~1,000–1,100), HomeGuide sewer line repair cost (~1,700). Term list in the plan.
+- **Proposed:** 19 service pages (6 new: tankless, slab leak, faucet, water softener, backflow testing, commercial); 51 state pages; Wave 1 = top 50 cities, Wave 2 = other 50; Wave 3+ = every town with 50+ searches/mo gets a page, smaller towns named on state and city pages; 12 first guides + glossary.
+- **Decisions needed:** approve the six items at the top of the plan doc.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 2 | Keyword research and site plan: Semrush pull for ~60 service keywords, city demand for the top 100+ cities, question keywords, top-10 competitor benchmark; keyword map for home + 13 services; Wave 1 city list; 12-guide blog map. Plan doc for approval. | Approve the plan |
-| 3 | Services hub and 13 service pages (1,000–1,500+ words each, sources, FAQs, competitor term coverage), Pexels photos. | — |
-| 4 | Locations hub, 50 state pages + DC (licensing board, permit notes, climate risks such as freezes and slab leaks, hard water data). | — |
-| 5 | Guides hub, 12 guides and a 50+ term plumbing glossary. | — |
-| 6+ | City pages in batches of 25 (unique local data each), then suburbs scored from Semrush, until every city with demand is covered. | Search Console access once live |
-| Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys, Search Console + analytics. | Domain, number, email, Resend key |
+| 3 | Home refined, services hub, first 10 service pages (emergency, drain cleaning, hydro jetting, water heater repair, water heater installation, tankless, sewer line, leak detection, slab leak, repiping) | Plan approval |
+| 3b | Remaining 9 service pages (water line, toilet, faucet, garbage disposal, sump pump, gas line, water softener, backflow, commercial) | — |
+| 4 | Locations hub and 51 state pages (licensing board, permits, freeze, slab and hard-water risks) | — |
+| 5 | Guides hub, 12 guides, 50+ term glossary | — |
+| 6, 6b | Wave 1 cities, 25 per build | — |
+| 7, 7b | Wave 2 cities, 25 per build | — |
+| 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
+| Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys | Domain, number, email, Resend key |
 
 ## Open items
 - **Phone number:** 1-800-555-0199 is in the 555-01xx range reserved for fiction and cannot receive calls. Swap after deployment: change `phone_display` / `phone_e164` in `src/site.json`, rebuild and push.

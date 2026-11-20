@@ -1,0 +1,51 @@
+keyword,volume,cpc,kd,type
+plumber frisco,1300,62.58,27,suburb (TX)
+plumber katy,720,36.52,43,suburb (TX)
+plumber naperville,390,35.81,22,suburb (IL)
+plumber cary,320,43.78,26,suburb (NC)
+plumber round rock,720,60.31,20,suburb (TX)
+plumber mckinney,1000,50,21,suburb (TX)
+plumber surprise az,590,69.02,21,suburb (AZ)
+plumber peoria az,390,73.48,24,suburb (AZ)
+plumber kent wa,320,80.17,11,suburb (WA)
+plumber bend oregon,260,27.26,37,small city
+plumber missoula,70,13.16,51,small city
+plumber burlington vt,30,21.37,32,small city
+plumber cheyenne,40,10.46,0,small city
+plumber fargo,140,7.66,35,small city
+plumber sioux falls,260,17.53,28,small city
+plumber rapid city,50,9.01,16,small city
+plumber bozeman,30,16.61,14,small city
+plumber portland maine,90,15.97,12,small city
+plumber manchester nh,260,29.05,18,small city
+plumber wilmington de,210,49.55,25,small city
+plumber des moines,590,26.31,33,state capital
+plumber little rock,480,26.94,35,state capital
+plumber jackson ms,170,22.54,15,state capital
+plumber birmingham al,880,31.64,51,largest city in state
+plumber charleston sc,590,44.19,33,small city
+plumber charleston wv,110,20.68,22,state capital
+plumber providence,210,33.38,22,state capital
+plumber hartford,70,17.27,34,state capital
+plumber billings,40,4.93,35,largest city in state
+plumber casper wy,40,3.44,31,small city
+plumber texas,140,9.44,48,state term
+plumber florida,170,10.03,25,state term
+plumber california,210,7.91,15,state term
+plumber arizona,140,9.68,31,state term
+plumber georgia,90,11.5,46,state term
+plumber colorado,90,14.25,28,state term
+plumber ohio,70,8.91,22,state term
+plumber new jersey,210,16.48,38,state term
+plumber north carolina,70,10.96,8,state term
+plumber michigan,110,7.65,35,state term
+plumbers near me open now,1300,26.01,50,modifier
+plumber in my area,1300,20.51,40,modifier
+cheap plumber,1600,21.58,27,modifier
+best plumber near me,5400,21.39,50,modifier
+plumbing repair,90500,23.01,54,modifier
+plumbing repair near me,110000,30.12,42,modifier
+residential plumber,2400,16.59,72,modifier
+commercial plumber,5400,22.73,13,service candidate
+commercial plumbing,14800,22.73,22,service candidate
+master plumber,3600,11.63,55,modifier

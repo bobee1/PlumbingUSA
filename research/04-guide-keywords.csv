@@ -1,0 +1,46 @@
+keyword,volume,kd,source,note
+how to fix a running toilet,673000,53,phrase_these,head term; guide candidate (running toilet)
+how to fix a leaky faucet,165000,42,phrase_these,guide candidate
+how to unclog a toilet,60500,31,phrase_these,guide candidate
+how to clean shower drain,33100,32,questions:drain,guide candidate (drain cluster)
+how to fix washing machine not draining,27100,29,questions:drain,appliance; skip
+how to get rid of drain flies,18100,26,phrase_these,guide candidate
+garbage disposal not working,18100,44,phrase_these,guide candidate
+water heater leaking,12100,12,phrase_these,guide candidate (low KD)
+how to fix slow draining sink,12100,35,phrase_these,guide candidate
+how to repair leaky pipe,12100,41,phrase_these,guide candidate
+hard water,12100,71,phrase_these,high KD; skip as primary
+how long does a water heater last,8100,19,phrase_these,guide candidate (low KD)
+how to flush a water heater,8100,35,phrase_these,guide candidate
+toilet keeps running,8100,33,phrase_these,secondary for running toilet guide
+water hammer,8100,36,phrase_these,guide candidate
+how to keep pipes from freezing,6600,47,phrase_these,guide candidate (frozen pipes)
+how to unclog a drain,5400,8,phrase_these,guide candidate (lowest KD)
+how to unfreeze pipes,4400,34,phrase_these,secondary for frozen pipes guide
+water heater leaking from bottom,4400,13,phrase_these,secondary for water heater leaking
+low water pressure in house,4400,30,phrase_these,guide candidate
+how to become a plumber,4400,33,questions:plumber,off-topic for buyers; skip
+how much does a plumber make,3600,29,questions:plumber,off-topic; skip
+how to turn off water to house,3600,42,phrase_these,guide candidate (shutoff valve)
+main water shut off valve,3600,62,phrase_these,secondary for shutoff guide
+polybutylene pipes,3600,11,phrase_these,guide candidate (pipe materials)
+tankless vs tank water heater,3600,33,phrase_these,guide candidate
+how does a tankless water heater work,3600,11,questions:water heater,secondary for tankless guide
+does homeowners insurance cover plumbing,2400,46,questions:plumber,guide candidate (insurance)
+what is pex plumbing,2400,30,phrase_these,secondary for pipe materials guide
+water heater pilot light,2400,24,phrase_these,guide candidate
+how to snake a drain,2400,26,phrase_these,secondary for unclog guide
+galvanized pipes,1900,36,phrase_these,secondary for pipe materials guide
+how much does it cost to replace a water heater,1900,36,phrase_these,cost guide (no invented prices)
+sewer smell in house,1900,19,phrase_these,guide candidate
+how much does a plumber cost,1600,21,phrase_these,cost guide (factors only)
+pex vs copper,1600,9,phrase_these,secondary for pipe materials guide
+is drano bad for pipes,1600,6,phrase_these,secondary for unclog guide
+does home warranty cover plumbing,1600,20,questions:plumber,secondary for insurance guide
+sump pump not working,1000,5,phrase_these,guide candidate
+water softener vs water conditioner,480,9,phrase_these,low volume
+what to do if a pipe bursts,390,22,phrase_these,secondary for burst pipe guide
+signs of sewer line problems,260,19,phrase_these,secondary for sewer smell guide
+signs of a slab leak,260,8,phrase_these,secondary
+gurgling drain,260,12,phrase_these,secondary
+rotten egg smell water heater,50,12,phrase_these,low volume
