@@ -32,4 +32,16 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 26 | 2026-11-20 | 2 | Cities scored (volume × (1 − KD/100)) and split into Wave 1 / Wave 2 | Done | `research/06-city-waves.csv`; Wave 1 = 74% of measured city demand |
 | 27 | 2026-11-20 | 2 | Site plan doc written for owner approval | Done | https://claude.ai/artifact/Lnvtnd4rBMx8H6m4StHfiB |
 | 28 | 2026-11-20 | 2 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 29 | — | 3 | Home refined, services hub, first 10 service pages | Planned | After plan approval |
+| 29 | 2026-11-20 | 3 | Owner approved the Build 2 plan ("Build 3") | Done | Plan doc unchanged |
+| 30 | 2026-11-20 | 3 | services.json expanded to 19 services in plan order | Done | 6 new: tankless, slab leak, faucet, water softener, backflow, commercial |
+| 31 | 2026-11-20 | 3 | 13 Pexels photos chosen; 10 converted to WebP for Build 3, 3 held for 3b | Done | `src/photos.json`; sewer trench re-encoded under 200 KB |
+| 32 | 2026-11-20 | 3 | Engine: scrollable tables; near-you and helpful-guides placeholders render empty until their pages exist | Done | `build.py` |
+| 33 | 2026-11-20 | 3 | Sources opened: EPA WaterSense, EPA SSO FAQ, EPA FOG, EPA lead, DOE Energy Saver guide, DOE Building America tankless pages, CPSC scalds, ENERGY STAR HPWH, Red Cross, PHMSA, III, EPA mold | Done | Cited per page |
+| 34 | 2026-11-20 | 3 | Services hub written | Done | 735 words; scenario table, hiring checklist |
+| 35 | 2026-11-20 | 3 | Service pages: emergency, drain cleaning, hydro jetting | Done | 1,278 / 1,239 / 1,095 words |
+| 36 | 2026-11-20 | 3 | Service pages: water heater repair, water heater installation, tankless (SVG diagram) | Done | 1,303 / 1,209 / 1,377 words |
+| 37 | 2026-11-20 | 3 | Service pages: sewer line, leak detection, slab leak (SVG diagram), repiping | Done | 1,206 / 1,156 / 1,157 / 1,115 words |
+| 38 | 2026-11-20 | 3 | Home trimmed to 1,771 words; system legend links to 7 service pages | Done | Cap 1,800 |
+| 39 | 2026-11-20 | 3 | Audit, readability, site audit, responsive check 360/768/1280 | Done | PASS 0 issues; FK 5.0–7.4; no overflow; diagram labels fixed |
+| 40 | 2026-11-20 | 3 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 41 | — | 3b | Remaining 9 service pages | Planned | Next |

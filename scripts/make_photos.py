@@ -7,6 +7,8 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "src" / "static" / "img" / "p"
 dl = Path(sys.argv[1])
 for p in json.loads((ROOT / "src" / "photos.json").read_text()):
+    if (OUT / f"{p['slug']}.webp").exists() or not (dl / f"{p['id']}.jpg").exists():
+        continue
     im = Image.open(dl / f"{p['id']}.jpg").convert("RGB")
     w, h = im.size
     fy = p.get("focus_y", 0.5)

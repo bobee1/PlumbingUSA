@@ -140,6 +140,12 @@ def expand_components(body, meta, pages_by_path):
         body = body.replace("{{glossary}}", blog.glossary_html())
     body = body.replace("{{faq}}", faq_html(meta))
     body = body.replace("{{sources}}", sources_html(meta))
+    # Wide tables scroll inside their own box on phones instead of widening the page.
+    body = body.replace("<table>", '<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>')
+    body = body.replace("</table>", "</table></div>")
+    # Blocks whose module arrives in a later build (states, guides) are dropped until then.
+    body = body.replace("{{near_you}}", "")
+    body = re.sub(r"\{\{helpful_guides:[\w,-]+\}\}", "", body)
     return body
 
 
