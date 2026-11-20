@@ -1,0 +1,45 @@
+{
+ "lead": "San Diego plumbing deals with very hard imported water, earthquake rules and a mix of older coastal homes and newer inland tracts. PipeMend sends licensed local plumbers across the city.",
+ "risk": "very hard water scale, aging pipes in older coastal neighborhoods and earthquake safety",
+ "risk_short": "hard water, old pipes and earthquake safety",
+ "why": [
+  "Neighborhoods such as North Park, Hillcrest and Point Loma have many homes from before 1960, with galvanized supply lines and cast-iron or clay sewer laterals. Inland neighborhoods built from the 1970s on have copper or newer plastic pipe and slab floors.",
+  "California requires earthquake straps on water heaters. Coastal air corrodes outdoor fixtures, and very hard water scales up water heaters and tankless units across the city."
+ ],
+ "utility": "City of San Diego Public Utilities Department",
+ "water": "The City of San Diego imports most of its water from the Colorado River and Northern California, supplemented by local sources. The water is very hard, which leaves scale on fixtures and in water heaters, and water rates make leaks costly.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "North Park, Hillcrest and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Older neighborhoods with mature trees",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Make sure your water heater is strapped.",
+  "Flush your water heater yearly to clear scale.",
+  "Rinse outdoor fixtures near the coast.",
+  "Scope older sewer lines before buying."
+ ],
+ "areas": "PipeMend works in Downtown, North Park, Pacific Beach, La Jolla, Mira Mesa, Clairemont, Point Loma and every other San Diego neighborhood.",
+ "permits": "Plumbing permits come from the City of San Diego Development Services Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Is San Diego water hard?",
+  "a": "Yes, very. Most of it is imported from the Colorado River and Northern California and carries a lot of calcium and magnesium. Softeners, regular water heater flushing and descaling tankless units help."
+ }
+}

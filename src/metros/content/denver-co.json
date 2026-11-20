@@ -1,0 +1,45 @@
+{
+ "lead": "Denver plumbing deals with cold snaps, expansive soils, basements and century-old brick homes. PipeMend sends licensed local plumbers across Denver.",
+ "risk": "frozen pipes and sprinkler lines, sewer lines cracked by expansive soil and basement water heaters",
+ "risk_short": "frozen pipes, sewer lines and water heaters",
+ "why": [
+  "Many Denver homes in Capitol Hill, Baker, the Highlands and Washington Park are more than a century old, with galvanized supply lines, cast-iron stacks and clay sewer laterals. Expansive clay soils along the Front Range move with moisture and crack sewer lines.",
+  "Sudden cold snaps after warm days freeze pipes, outdoor faucets and sprinkler backflow devices. Basements hold water heaters, sump pits and floor drains, so basement plumbing is a big share of calls."
+ ],
+ "utility": "Denver Water",
+ "water": "Denver Water supplies the city with mountain snowmelt from the South Platte and Colorado River basins. The water is relatively soft, so scale is less of a problem than in much of the West, but older galvanized pipes still rust inside.",
+ "problems": [
+  [
+   "Frozen pipes and sprinkler lines",
+   "Citywide every fall and winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked clay sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Capitol Hill, Baker and the Highlands",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first hard freeze.",
+  "Disconnect hoses in October.",
+  "Scope the sewer line before buying an older home.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "PipeMend works in LoDo, Capitol Hill, the Highlands, Wash Park, Cherry Creek, Central Park, Baker, Hampden and every other Denver neighborhood.",
+ "permits": "Plumbing permits come from Denver Community Planning and Development, and plumbers must be licensed through the Colorado State Plumbing Board.",
+ "faq": {
+  "q": "When should Denver homeowners winterize sprinklers?",
+  "a": "Before the first hard freeze, usually in October. Water left in the backflow preventer and lines freezes and cracks them. A plumber or irrigation pro can blow the lines out."
+ }
+}

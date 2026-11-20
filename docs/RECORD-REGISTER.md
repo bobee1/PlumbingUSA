@@ -74,4 +74,11 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 68 | 2026-11-20 | 5 | Helpful guides on 19 service and 51 state pages; in-text guide links on 5 service pages; sidebar popular guides | Done | — |
 | 69 | 2026-11-20 | 5 | Audit, readability, site audit, responsive check | Done | PASS 0 issues; FK 4.8–7.8 |
 | 70 | 2026-11-20 | 5 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 71 | — | 6 | Wave 1 cities, first 25 | Planned | Next |
+| 71 | 2026-11-20 | 6 | Semrush retested: ERROR 122 again; used Nov 19–20 city data | Blocked | research/06 |
+| 72 | 2026-11-20 | 6 | City Census data and 25-city meta (ACS housing, heating fuel, ZIPs, neighborhoods, Semrush volume/KD) | Done | `research/10`, `research/11`, `src/metros/meta.json` |
+| 73 | 2026-11-20 | 6 | City page engine `metros.py`; city links on state pages, locations hub and home | Done | — |
+| 74 | 2026-11-20 | 6 | 25 city pages written (water utility, problems, tips, permits, FAQ) | Done | 955–1,079 words |
+| 75 | 2026-11-20 | 6 | DC kept on state page; Scottsdale, Chandler, Anaheim, San Francisco, New Orleans moved to 6b (no city Census data) | Decided | — |
+| 76 | 2026-11-20 | 6 | Audit, readability, site audit, responsive check | Done | PASS 0 issues; FK ≤9 |
+| 77 | 2026-11-20 | 6 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 78 | — | 6b | 5 held-back cities + next Wave 1 cities (rank 26+) | Planned | Next |

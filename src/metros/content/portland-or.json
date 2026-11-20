@@ -1,0 +1,45 @@
+{
+ "lead": "Portland plumbing deals with rain, soft water, old houses and big trees. PipeMend sends licensed local plumbers across Portland.",
+ "risk": "old galvanized pipes, root-filled sewer laterals and wet basements and crawl spaces",
+ "risk_short": "old pipes, sewer roots and wet basements",
+ "why": [
+  "Portland has many homes built before 1940, especially on the east side. Galvanized supply pipes rust inside, and clay or concrete sewer laterals crack and fill with roots from the city's mature trees.",
+  "The long wet season keeps soil saturated, which strains sump pumps, crawl-space drainage and sewer lines. Occasional ice storms and cold snaps freeze exposed pipes."
+ ],
+ "utility": "Portland Water Bureau",
+ "water": "The Portland Water Bureau gets most of its water from the Bull Run watershed, with backup from the Columbia South Shore Well Field. Bull Run water is very soft, which can be corrosive to plumbing, and the bureau treats it to reduce lead and copper leaching. The city is also building a filtration facility for Bull Run water.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Older east-side neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Wet crawl spaces and basements",
+   "Citywide in the rainy season",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Cold snaps and ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Check your sump pump before the rainy season.",
+  "Insulate crawl-space pipes before a cold snap.",
+  "Run cold water before drinking if your home has old fixtures."
+ ],
+ "areas": "PipeMend works in Northeast, Southeast, North and Northwest Portland, Downtown, the Pearl District, St. Johns and every other Portland neighborhood.",
+ "permits": "Plumbing permits come from Portland Permitting and Development, and plumbers must be licensed through the Oregon Building Codes Division.",
+ "faq": {
+  "q": "Why is Portland water soft?",
+  "a": "Most of Portland's water comes from the Bull Run watershed, fed by rain and snowmelt that pick up few minerals. Soft water is gentle on fixtures but can be corrosive to pipes, so the water bureau adjusts it to protect plumbing."
+ }
+}

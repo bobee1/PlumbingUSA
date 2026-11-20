@@ -1,0 +1,45 @@
+{
+ "lead": "Fort Worth plumbing deals with clay soils, slab foundations and fast growth on the city's edges. PipeMend sends licensed local plumbers across Fort Worth.",
+ "risk": "slab leaks from shifting clay, aging pipes in older neighborhoods and burst pipes in hard freezes",
+ "risk_short": "slab leaks, old pipes and frozen pipes",
+ "why": [
+  "Fort Worth sits on expansive clay that swells and shrinks with the seasons, so slab leaks and cracked sewer lines are common. Older neighborhoods such as Fairmount and the Near Southside have cast-iron drains and some galvanized supply lines.",
+  "Rapid growth to the north and west means many new homes, where water heaters, fixtures and fittings are the usual calls. Rare hard freezes burst attic and exterior-wall pipes."
+ ],
+ "utility": "Fort Worth Water",
+ "water": "Fort Worth Water draws from area lakes including Eagle Mountain, Lake Worth and Benbrook, plus water delivered through regional supply lines. The water is moderately hard, so scale slowly builds up in water heaters and fixtures.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil neighborhoods citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Fairmount, Near Southside and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly during droughts.",
+  "Insulate attic pipes before winter.",
+  "Flush your water heater yearly.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "PipeMend works in Downtown, the Near Southside, Fairmount, TCU, Ridglea, Alliance, Far North Fort Worth and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Fort Worth Development Services Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Are slab leaks common in Fort Worth?",
+  "a": "Yes. Fort Worth's clay soil moves with wet and dry seasons, which stresses copper lines under slab foundations. Warm floor spots, the sound of running water and a moving meter are the main signs."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Tucson plumbing deals with hard water, desert heat, slab homes and the occasional freeze. PipeMend sends licensed local plumbers across Tucson.",
+ "risk": "hard water scale, slab leaks and pipes that freeze on cold desert nights",
+ "risk_short": "hard water, slab leaks and frozen pipes",
+ "why": [
+  "Most Tucson homes are built on slabs, with supply lines under the floor, and slab leaks are common. Older central neighborhoods such as Sam Hughes and Armory Park have aging galvanized and cast-iron pipes.",
+  "Hard water scales up water heaters and fixtures. Tucson is higher and cooler at night than Phoenix, so winter cold snaps freeze outdoor and exposed pipes."
+ ],
+ "utility": "Tucson Water",
+ "water": "Tucson Water delivers Colorado River water through the Central Arizona Project, recharged and blended with groundwater. The water is hard, so scale builds up in water heaters, tankless units and fixtures.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Frozen outdoor pipes",
+   "Cold winter nights",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Sam Hughes and central Tucson",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Wrap exposed outdoor pipes before cold nights.",
+  "Watch your water bill for slab leak signs.",
+  "Clean aerators and showerheads often."
+ ],
+ "areas": "PipeMend works in Downtown, Sam Hughes, the Catalina Foothills, Midtown, the Eastside, Oro Valley and every other Tucson neighborhood.",
+ "permits": "Plumbing permits come from the City of Tucson Planning and Development Services Department, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "Do pipes freeze in Tucson?",
+  "a": "Sometimes. Tucson's winter nights can drop below freezing, especially on the east side and in the foothills. Wrap exposed outdoor pipes and backflow devices, and disconnect hoses before cold nights."
+ }
+}

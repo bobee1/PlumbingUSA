@@ -346,8 +346,14 @@ def state_page(ab):
         areas_p = c["areas"] + nb_line
     else:
         areas_h = f"Areas served in {sh}"
+        try:
+            import metros as _M
+            mm = _M.metros_in_state(ab)
+        except ImportError:
+            mm = []
+        metro_line = (" City pages: " + join_list([_M.mlink(x, "plumbers in " + _M.MMETA[x]["city"]) for x in mm]) + ".") if mm else ""
         areas_p = (f"PipeMend takes plumbing calls across {name}. The largest communities are {join_list(cities)}. "
-                   + c.get("areas", "") + nb_line)
+                   + c.get("areas", "") + metro_line + nb_line)
     why_h = pick(ab, [f"Why plumbing in {sh} is different", f"What makes {sh} plumbing different", f"Local plumbing conditions in {sh}"], "w")
     body = f"""<p class="quick"><strong>Quick answer:</strong> {quick_answer(ab, c)}</p>
 

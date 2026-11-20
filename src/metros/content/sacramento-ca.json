@@ -1,0 +1,45 @@
+{
+ "lead": "Sacramento plumbing deals with hot summers, mature trees, older homes and earthquake rules for water heaters. PipeMend sends licensed local plumbers across Sacramento.",
+ "risk": "root-filled sewer lines, aging pipes in older neighborhoods and water heater replacement",
+ "risk_short": "sewer roots, old pipes and water heaters",
+ "why": [
+  "Neighborhoods such as Land Park, East Sacramento, Curtis Park and Midtown have homes from the 1920s to 1950s, with galvanized supply lines and clay sewer laterals. Sacramento's big street trees send roots into those old sewer lines.",
+  "Hot summers are hard on garage and attic water heaters. California requires water heaters to be strapped for earthquakes, and water conservation rules make leaks costly."
+ ],
+ "utility": "City of Sacramento Department of Utilities",
+ "water": "Sacramento's Department of Utilities draws mainly from the Sacramento and American rivers, with groundwater in some areas. River water is relatively soft, while areas served by wells can have harder water.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Land Park, East Sacramento and Midtown",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Garages and attics",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Clogged drains",
+   "Older homes",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Strap your water heater for earthquakes.",
+  "Keep tree roots in mind when planting near the sewer line.",
+  "Fix leaks quickly; water is metered and costly."
+ ],
+ "areas": "PipeMend works in Midtown, Land Park, East Sacramento, Natomas, Pocket, Oak Park, Arden-Arcade and every other Sacramento neighborhood.",
+ "permits": "Plumbing permits come from the City of Sacramento Community Development Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Why do Sacramento sewer lines clog with roots?",
+  "a": "Many older Sacramento homes have clay sewer laterals with joints every few feet, and the city's large trees send roots into those joints. Jetting clears them, and lining or replacement keeps them out."
+ }
+}

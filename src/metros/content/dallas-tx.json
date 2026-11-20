@@ -1,0 +1,45 @@
+{
+ "lead": "Dallas plumbing deals with expansive clay soil, slab foundations and the occasional deep freeze. PipeMend sends licensed local plumbers across Dallas.",
+ "risk": "slab leaks from shifting clay, cracked sewer lines and burst pipes in hard freezes",
+ "risk_short": "slab leaks, sewer lines and frozen pipes",
+ "why": [
+  "Dallas sits on expansive black clay that swells after rain and shrinks in drought. That movement cracks slabs and the water and sewer lines beneath them, which makes slab leak detection and sewer repair some of the most common jobs here.",
+  "Older neighborhoods such as Lakewood, Oak Cliff and the M Streets have cast-iron drains and clay sewer laterals, while newer suburbs may have polybutylene lines from the 1980s and 1990s. Rare hard freezes, like February 2021, burst attic and exterior-wall pipes."
+ ],
+ "utility": "Dallas Water Utilities",
+ "water": "Dallas Water Utilities draws from several reservoirs, including Lake Ray Hubbard, Lake Lewisville and Lake Tawakoni. The water is moderately hard, so scale builds up slowly in water heaters and fixtures.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil neighborhoods citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Lakewood, Oak Cliff and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic and exterior-wall pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly during droughts.",
+  "Insulate attic pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "PipeMend works in Uptown, Oak Cliff, Lakewood, Lake Highlands, Preston Hollow, Deep Ellum, Far North Dallas and every other Dallas neighborhood.",
+ "permits": "Plumbing permits come from the City of Dallas Development Services Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why do Dallas homes get so many slab leaks?",
+  "a": "Dallas homes sit on expansive clay that moves with wet and dry seasons. That shifts the slab and stresses copper lines under it, and hot water lines also rub as they expand. Warm floors and a moving meter are the usual signs."
+ }
+}

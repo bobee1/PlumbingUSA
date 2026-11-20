@@ -1,0 +1,45 @@
+{
+ "lead": "San Antonio plumbing deals with very hard aquifer water, clay soils and slab homes. PipeMend sends licensed local plumbers across San Antonio and Bexar County.",
+ "risk": "very hard water scale, slab leaks and cracked sewer lines in older neighborhoods",
+ "risk_short": "hard water, slab leaks and sewer lines",
+ "why": [
+  "Much of San Antonio sits on expansive clay, and most homes are on slabs, so slab leaks and cracked sewer laterals are common. Older neighborhoods such as Monte Vista, King William and Alamo Heights have cast-iron drains and some galvanized supply lines.",
+  "Very hard water from the Edwards Aquifer scales up water heaters, tankless units and fixtures. Rare hard freezes, like February 2021, burst attic and exterior-wall pipes."
+ ],
+ "utility": "San Antonio Water System (SAWS)",
+ "water": "SAWS draws much of its water from the Edwards Aquifer, a limestone aquifer, plus other sources. Water from limestone is very hard, so scale is one of the most common plumbing complaints in the city.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Clay-soil neighborhoods",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Monte Vista, King William and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly to clear scale.",
+  "Water your foundation evenly during droughts.",
+  "Insulate attic pipes before winter.",
+  "Descale tankless units on schedule."
+ ],
+ "areas": "PipeMend works in Downtown, Alamo Heights, Stone Oak, the Medical Center, Monte Vista, King William, Westside and every other San Antonio neighborhood.",
+ "permits": "Plumbing permits come from the City of San Antonio Development Services Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why is San Antonio water so hard?",
+  "a": "Much of it comes from the Edwards Aquifer, which flows through limestone and picks up calcium and magnesium. That leaves scale in water heaters and on fixtures. A softener and regular flushing help."
+ }
+}

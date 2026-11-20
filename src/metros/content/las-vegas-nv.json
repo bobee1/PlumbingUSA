@@ -1,0 +1,45 @@
+{
+ "lead": "Las Vegas plumbing fights some of the hardest water in the country, desert heat and slab construction. PipeMend sends licensed local plumbers across the Las Vegas Valley.",
+ "risk": "very hard water scale, slab leaks and water heaters worn out by minerals",
+ "risk_short": "hard water, slab leaks and water heaters",
+ "why": [
+  "Most Las Vegas homes are built on slabs, with copper or PEX lines under the floor. Slab leaks show up as warm floor spots or a meter that moves when nothing is on. Many homes from the 1980s and 1990s building boom may also have polybutylene pipe.",
+  "Very hard water scales up water heaters, tankless units, faucets and showerheads, so softeners and yearly flushing are common. Water conservation rules also make leaks and outdoor water waste costly."
+ ],
+ "utility": "Las Vegas Valley Water District",
+ "water": "The Las Vegas Valley Water District gets most of its water from Lake Mead on the Colorado River. The water is very hard and leaves white scale on fixtures. The district notes that sustained pressure above 80 psi can damage home plumbing, and a pressure reducing valve can bring it down.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes across the valley",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Tankless and water heater scale",
+   "Homes citywide",
+   "<a href=\"/services/tankless-water-heaters/\">Tankless water heaters</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–1990s neighborhoods",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Descale tankless units on schedule.",
+  "Check your water pressure; ask about a PRV if it's above 80 psi.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Summerlin, Downtown, Centennial Hills, the Southwest valley, Spring Valley, Enterprise and every other Las Vegas neighborhood.",
+ "permits": "Plumbing permits come from the City of Las Vegas Building and Safety Department, or Clark County for unincorporated areas, and contractors need a Nevada State Contractors Board license.",
+ "faq": {
+  "q": "Why is Las Vegas water so hard?",
+  "a": "Most of the valley's water comes from Lake Mead on the Colorado River, which carries a lot of dissolved calcium and magnesium. That leaves scale on fixtures and in water heaters. A softener and regular flushing help."
+ }
+}

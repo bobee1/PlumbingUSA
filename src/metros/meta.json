@@ -1,0 +1,972 @@
+{
+ "phoenix-az": {
+  "city": "Phoenix",
+  "st": "AZ",
+  "acs": "Phoenix|04",
+  "fuel": "Phoenix|04",
+  "url": "phoenix",
+  "county": "Maricopa County",
+  "zips": [
+   "85004",
+   "85016",
+   "85018",
+   "85020",
+   "85032",
+   "85048"
+  ],
+  "hoods": [
+   "Downtown",
+   "Arcadia",
+   "Biltmore",
+   "Ahwatukee",
+   "North Phoenix",
+   "Maryvale",
+   "Desert Ridge",
+   "Encanto"
+  ],
+  "wiki": "Phoenix,_Arizona",
+  "nearby": [
+   "mesa-az",
+   "gilbert-az",
+   "tucson-az"
+  ],
+  "wave": 1,
+  "rank": 1,
+  "semrush": [
+   "2900",
+   "35"
+  ],
+  "batch": "6"
+ },
+ "austin-tx": {
+  "city": "Austin",
+  "st": "TX",
+  "acs": "Austin|48",
+  "fuel": "Austin|48",
+  "url": "austin",
+  "county": "Travis County",
+  "zips": [
+   "78701",
+   "78704",
+   "78723",
+   "78745",
+   "78750",
+   "78759"
+  ],
+  "hoods": [
+   "Downtown",
+   "South Congress",
+   "Hyde Park",
+   "Mueller",
+   "Westlake",
+   "Circle C",
+   "Allandale",
+   "East Austin"
+  ],
+  "wiki": "Austin,_Texas",
+  "nearby": [
+   "san-antonio-tx",
+   "houston-tx",
+   "dallas-tx"
+  ],
+  "wave": 1,
+  "rank": 2,
+  "semrush": [
+   "2400",
+   "24"
+  ],
+  "batch": "6"
+ },
+ "los-angeles-ca": {
+  "city": "Los Angeles",
+  "st": "CA",
+  "acs": "Los Angeles|06",
+  "fuel": "Los Angeles|06",
+  "url": "los-angeles",
+  "county": "Los Angeles County",
+  "zips": [
+   "90012",
+   "90019",
+   "90026",
+   "90034",
+   "90046",
+   "91403"
+  ],
+  "hoods": [
+   "Downtown",
+   "Silver Lake",
+   "Hollywood",
+   "Mid-City",
+   "Westwood",
+   "Sherman Oaks",
+   "Van Nuys",
+   "San Pedro"
+  ],
+  "wiki": "Los_Angeles",
+  "nearby": [
+   "long-beach-ca",
+   "san-diego-ca",
+   "sacramento-ca"
+  ],
+  "wave": 1,
+  "rank": 4,
+  "semrush": [
+   "2400",
+   "29"
+  ],
+  "batch": "6"
+ },
+ "las-vegas-nv": {
+  "city": "Las Vegas",
+  "st": "NV",
+  "acs": "Las Vegas|32",
+  "fuel": "Las Vegas|32",
+  "url": "las-vegas",
+  "county": "Clark County",
+  "zips": [
+   "89101",
+   "89107",
+   "89117",
+   "89128",
+   "89134",
+   "89148"
+  ],
+  "hoods": [
+   "Summerlin",
+   "Downtown",
+   "Centennial Hills",
+   "Spring Valley",
+   "The Lakes",
+   "Desert Shores",
+   "Paradise",
+   "Enterprise"
+  ],
+  "wiki": "Las_Vegas",
+  "nearby": [
+   "phoenix-az",
+   "reno-nv",
+   "los-angeles-ca"
+  ],
+  "wave": 1,
+  "rank": 5,
+  "semrush": [
+   "1900",
+   "19"
+  ],
+  "batch": "6"
+ },
+ "dallas-tx": {
+  "city": "Dallas",
+  "st": "TX",
+  "acs": "Dallas|48",
+  "fuel": "Dallas|48",
+  "url": "dallas",
+  "county": "Dallas County",
+  "zips": [
+   "75201",
+   "75204",
+   "75206",
+   "75214",
+   "75228",
+   "75230"
+  ],
+  "hoods": [
+   "Uptown",
+   "Oak Lawn",
+   "Lakewood",
+   "Lake Highlands",
+   "Oak Cliff",
+   "Preston Hollow",
+   "Deep Ellum",
+   "North Dallas"
+  ],
+  "wiki": "Dallas",
+  "nearby": [
+   "plano-tx",
+   "arlington-tx",
+   "fort-worth-tx"
+  ],
+  "wave": 1,
+  "rank": 6,
+  "semrush": [
+   "2900",
+   "49"
+  ],
+  "batch": "6"
+ },
+ "san-diego-ca": {
+  "city": "San Diego",
+  "st": "CA",
+  "acs": "San Diego|06",
+  "fuel": "San Diego|06",
+  "url": "san-diego",
+  "county": "San Diego County",
+  "zips": [
+   "92101",
+   "92103",
+   "92109",
+   "92117",
+   "92122",
+   "92128"
+  ],
+  "hoods": [
+   "Downtown",
+   "North Park",
+   "Pacific Beach",
+   "Clairemont",
+   "La Jolla",
+   "Mira Mesa",
+   "Rancho Bernardo",
+   "Point Loma"
+  ],
+  "wiki": "San_Diego",
+  "nearby": [
+   "los-angeles-ca",
+   "long-beach-ca",
+   "phoenix-az"
+  ],
+  "wave": 1,
+  "rank": 7,
+  "semrush": [
+   "2400",
+   "42"
+  ],
+  "batch": "6"
+ },
+ "houston-tx": {
+  "city": "Houston",
+  "st": "TX",
+  "acs": "Houston|48",
+  "fuel": "Houston|48",
+  "url": "houston",
+  "county": "Harris County",
+  "zips": [
+   "77002",
+   "77006",
+   "77008",
+   "77019",
+   "77042",
+   "77096"
+  ],
+  "hoods": [
+   "Montrose",
+   "the Heights",
+   "River Oaks",
+   "Meyerland",
+   "Kingwood",
+   "Westchase",
+   "Clear Lake",
+   "Midtown"
+  ],
+  "wiki": "Houston",
+  "nearby": [
+   "san-antonio-tx",
+   "austin-tx",
+   "baton-rouge-la"
+  ],
+  "wave": 1,
+  "rank": 8,
+  "semrush": [
+   "2400",
+   "46"
+  ],
+  "batch": "6"
+ },
+ "denver-co": {
+  "city": "Denver",
+  "st": "CO",
+  "acs": "Denver|08",
+  "fuel": "Denver|08",
+  "url": "denver",
+  "county": "Denver County",
+  "zips": [
+   "80202",
+   "80205",
+   "80206",
+   "80210",
+   "80220",
+   "80237"
+  ],
+  "hoods": [
+   "LoDo",
+   "Capitol Hill",
+   "Highlands",
+   "Wash Park",
+   "Cherry Creek",
+   "Stapleton (Central Park)",
+   "Baker",
+   "Hampden"
+  ],
+  "wiki": "Denver",
+  "nearby": [
+   "aurora-co",
+   "colorado-springs-co",
+   "salt-lake-city-ut"
+  ],
+  "wave": 1,
+  "rank": 9,
+  "semrush": [
+   "1900",
+   "33"
+  ],
+  "batch": "6"
+ },
+ "fort-worth-tx": {
+  "city": "Fort Worth",
+  "st": "TX",
+  "acs": "Fort Worth|48",
+  "fuel": "Fort Worth|48",
+  "url": "fort-worth",
+  "county": "Tarrant County",
+  "zips": [
+   "76102",
+   "76104",
+   "76107",
+   "76109",
+   "76116",
+   "76244"
+  ],
+  "hoods": [
+   "Downtown",
+   "Near Southside",
+   "Cultural District",
+   "TCU area",
+   "Tanglewood",
+   "Alliance",
+   "Westover Hills",
+   "Ridglea"
+  ],
+  "wiki": "Fort_Worth,_Texas",
+  "nearby": [
+   "arlington-tx",
+   "dallas-tx",
+   "plano-tx"
+  ],
+  "wave": 1,
+  "rank": 10,
+  "semrush": [
+   "1600",
+   "23"
+  ],
+  "batch": "6"
+ },
+ "salt-lake-city-ut": {
+  "city": "Salt Lake City",
+  "st": "UT",
+  "acs": "Salt Lake City|49",
+  "fuel": "Salt Lake City|49",
+  "url": "salt-lake-city",
+  "county": "Salt Lake County",
+  "zips": [
+   "84102",
+   "84103",
+   "84105",
+   "84106",
+   "84108",
+   "84109"
+  ],
+  "hoods": [
+   "the Avenues",
+   "Sugar House",
+   "Liberty Wells",
+   "Federal Heights",
+   "Rose Park",
+   "Glendale",
+   "East Bench",
+   "Downtown"
+  ],
+  "wiki": "Salt_Lake_City",
+  "nearby": [
+   "boise-id",
+   "denver-co",
+   "las-vegas-nv"
+  ],
+  "wave": 1,
+  "rank": 11,
+  "semrush": [
+   "1900",
+   "36"
+  ],
+  "batch": "6"
+ },
+ "portland-or": {
+  "city": "Portland",
+  "st": "OR",
+  "acs": "Portland|41",
+  "fuel": "Portland|41",
+  "url": "portland",
+  "county": "Multnomah County",
+  "zips": [
+   "97201",
+   "97202",
+   "97206",
+   "97211",
+   "97214",
+   "97229"
+  ],
+  "hoods": [
+   "Pearl District",
+   "Sellwood",
+   "Hawthorne",
+   "Alberta Arts",
+   "St. Johns",
+   "Laurelhurst",
+   "Hillsdale",
+   "Lents"
+  ],
+  "wiki": "Portland,_Oregon",
+  "nearby": [
+   "seattle-wa",
+   "boise-id"
+  ],
+  "wave": 1,
+  "rank": 12,
+  "semrush": [
+   "1600",
+   "27"
+  ],
+  "batch": "6"
+ },
+ "chicago-il": {
+  "city": "Chicago",
+  "st": "IL",
+  "acs": "Chicago|17",
+  "fuel": "Chicago|17",
+  "url": "chicago",
+  "county": "Cook County",
+  "zips": [
+   "60614",
+   "60618",
+   "60622",
+   "60625",
+   "60640",
+   "60657"
+  ],
+  "hoods": [
+   "Lincoln Park",
+   "Lakeview",
+   "Logan Square",
+   "Wicker Park",
+   "Bridgeport",
+   "Hyde Park",
+   "Rogers Park",
+   "Portage Park"
+  ],
+  "wiki": "Chicago",
+  "nearby": [
+   "indianapolis-in",
+   "madison-wi",
+   "minneapolis-mn"
+  ],
+  "wave": 1,
+  "rank": 13,
+  "semrush": [
+   "1900",
+   "43"
+  ],
+  "batch": "6"
+ },
+ "seattle-wa": {
+  "city": "Seattle",
+  "st": "WA",
+  "acs": "Seattle|53",
+  "fuel": "Seattle|53",
+  "url": "seattle",
+  "county": "King County",
+  "zips": [
+   "98101",
+   "98103",
+   "98107",
+   "98112",
+   "98115",
+   "98118"
+  ],
+  "hoods": [
+   "Capitol Hill",
+   "Ballard",
+   "Fremont",
+   "Queen Anne",
+   "West Seattle",
+   "Columbia City",
+   "Wallingford",
+   "Northgate"
+  ],
+  "wiki": "Seattle",
+  "nearby": [
+   "portland-or",
+   "boise-id"
+  ],
+  "wave": 1,
+  "rank": 15,
+  "semrush": [
+   "1600",
+   "36"
+  ],
+  "batch": "6"
+ },
+ "sacramento-ca": {
+  "city": "Sacramento",
+  "st": "CA",
+  "acs": "Sacramento|06",
+  "fuel": "Sacramento|06",
+  "url": "sacramento",
+  "county": "Sacramento County",
+  "zips": [
+   "95814",
+   "95816",
+   "95818",
+   "95819",
+   "95822",
+   "95831"
+  ],
+  "hoods": [
+   "Midtown",
+   "East Sacramento",
+   "Land Park",
+   "the Pocket",
+   "Natomas",
+   "Curtis Park",
+   "Oak Park",
+   "Arden-Arcade area"
+  ],
+  "wiki": "Sacramento,_California",
+  "nearby": [
+   "reno-nv",
+   "los-angeles-ca"
+  ],
+  "wave": 1,
+  "rank": 16,
+  "semrush": [
+   "1600",
+   "37"
+  ],
+  "batch": "6"
+ },
+ "mesa-az": {
+  "city": "Mesa",
+  "st": "AZ",
+  "acs": "Mesa|04",
+  "fuel": "Mesa|04",
+  "url": "mesa",
+  "county": "Maricopa County",
+  "zips": [
+   "85201",
+   "85203",
+   "85204",
+   "85205",
+   "85206",
+   "85212"
+  ],
+  "hoods": [
+   "Downtown Mesa",
+   "Dobson Ranch",
+   "Alta Mesa",
+   "Las Sendas",
+   "Red Mountain",
+   "Superstition Springs",
+   "Eastmark",
+   "Leisure World"
+  ],
+  "wiki": "Mesa,_Arizona",
+  "nearby": [
+   "phoenix-az",
+   "gilbert-az",
+   "tucson-az"
+  ],
+  "wave": 1,
+  "rank": 18,
+  "semrush": [
+   "1300",
+   "25"
+  ],
+  "batch": "6"
+ },
+ "san-antonio-tx": {
+  "city": "San Antonio",
+  "st": "TX",
+  "acs": "San Antonio|48",
+  "fuel": "San Antonio|48",
+  "url": "san-antonio",
+  "county": "Bexar County",
+  "zips": [
+   "78204",
+   "78209",
+   "78212",
+   "78230",
+   "78249",
+   "78258"
+  ],
+  "hoods": [
+   "Alamo Heights",
+   "Monte Vista",
+   "King William",
+   "Stone Oak",
+   "Medical Center",
+   "Southtown",
+   "Helotes area",
+   "Northwest Side"
+  ],
+  "wiki": "San_Antonio",
+  "nearby": [
+   "austin-tx",
+   "houston-tx"
+  ],
+  "wave": 1,
+  "rank": 19,
+  "semrush": [
+   "2400",
+   "60"
+  ],
+  "batch": "6"
+ },
+ "atlanta-ga": {
+  "city": "Atlanta",
+  "st": "GA",
+  "acs": "Atlanta|13",
+  "fuel": "Atlanta|13",
+  "url": "atlanta",
+  "county": "Fulton and DeKalb counties",
+  "zips": [
+   "30303",
+   "30306",
+   "30308",
+   "30318",
+   "30327",
+   "30342"
+  ],
+  "hoods": [
+   "Midtown",
+   "Buckhead",
+   "Virginia-Highland",
+   "Grant Park",
+   "West End",
+   "East Atlanta",
+   "Inman Park",
+   "Kirkwood"
+  ],
+  "wiki": "Atlanta",
+  "nearby": [
+   "charlotte-nc",
+   "nashville-tn",
+   "jacksonville-fl"
+  ],
+  "wave": 1,
+  "rank": 20,
+  "semrush": [
+   "1900",
+   "51"
+  ],
+  "batch": "6"
+ },
+ "plano-tx": {
+  "city": "Plano",
+  "st": "TX",
+  "acs": "Plano|48",
+  "fuel": "Plano|48",
+  "url": "plano",
+  "county": "Collin County",
+  "zips": [
+   "75023",
+   "75024",
+   "75025",
+   "75074",
+   "75075",
+   "75093"
+  ],
+  "hoods": [
+   "Willow Bend",
+   "Legacy West",
+   "Deerfield",
+   "Kings Ridge",
+   "Downtown Plano",
+   "Hunters Glen",
+   "Russell Creek",
+   "Los Rios"
+  ],
+  "wiki": "Plano,_Texas",
+  "nearby": [
+   "dallas-tx",
+   "arlington-tx",
+   "fort-worth-tx"
+  ],
+  "wave": 1,
+  "rank": 21,
+  "semrush": [
+   "1300",
+   "30"
+  ],
+  "batch": "6"
+ },
+ "philadelphia-pa": {
+  "city": "Philadelphia",
+  "st": "PA",
+  "acs": "Philadelphia|42",
+  "fuel": "Philadelphia|42",
+  "url": "philadelphia",
+  "county": "Philadelphia County",
+  "zips": [
+   "19103",
+   "19106",
+   "19123",
+   "19125",
+   "19130",
+   "19147"
+  ],
+  "hoods": [
+   "Center City",
+   "Fishtown",
+   "South Philly",
+   "Manayunk",
+   "Northern Liberties",
+   "Fairmount",
+   "Chestnut Hill",
+   "Kensington"
+  ],
+  "wiki": "Philadelphia",
+  "nearby": [
+   "new-york-ny",
+   "baltimore-md",
+   "pittsburgh-pa"
+  ],
+  "wave": 1,
+  "rank": 22,
+  "semrush": [
+   "1300",
+   "32"
+  ],
+  "batch": "6"
+ },
+ "charlotte-nc": {
+  "city": "Charlotte",
+  "st": "NC",
+  "acs": "Charlotte|37",
+  "fuel": "Charlotte|37",
+  "url": "charlotte",
+  "county": "Mecklenburg County",
+  "zips": [
+   "28202",
+   "28203",
+   "28205",
+   "28207",
+   "28210",
+   "28277"
+  ],
+  "hoods": [
+   "Uptown",
+   "South End",
+   "Dilworth",
+   "Myers Park",
+   "Plaza Midwood",
+   "NoDa",
+   "Ballantyne",
+   "University City"
+  ],
+  "wiki": "Charlotte,_North_Carolina",
+  "nearby": [
+   "raleigh-nc",
+   "durham-nc",
+   "atlanta-ga"
+  ],
+  "wave": 1,
+  "rank": 23,
+  "semrush": [
+   "1600",
+   "45"
+  ],
+  "batch": "6"
+ },
+ "minneapolis-mn": {
+  "city": "Minneapolis",
+  "st": "MN",
+  "acs": "Minneapolis|27",
+  "fuel": "Minneapolis|27",
+  "url": "minneapolis",
+  "county": "Hennepin County",
+  "zips": [
+   "55401",
+   "55405",
+   "55406",
+   "55408",
+   "55409",
+   "55418"
+  ],
+  "hoods": [
+   "Uptown",
+   "Northeast",
+   "Longfellow",
+   "Linden Hills",
+   "North Loop",
+   "Powderhorn",
+   "Nokomis",
+   "Kenwood"
+  ],
+  "wiki": "Minneapolis",
+  "nearby": [
+   "madison-wi",
+   "omaha-ne",
+   "chicago-il"
+  ],
+  "wave": 1,
+  "rank": 24,
+  "semrush": [
+   "1300",
+   "35"
+  ],
+  "batch": "6"
+ },
+ "cincinnati-oh": {
+  "city": "Cincinnati",
+  "st": "OH",
+  "acs": "Cincinnati|39",
+  "fuel": "Cincinnati|39",
+  "url": "cincinnati",
+  "county": "Hamilton County",
+  "zips": [
+   "45202",
+   "45206",
+   "45208",
+   "45219",
+   "45220",
+   "45230"
+  ],
+  "hoods": [
+   "Over-the-Rhine",
+   "Hyde Park",
+   "Clifton",
+   "Mount Adams",
+   "Oakley",
+   "Westwood",
+   "Anderson area",
+   "Northside"
+  ],
+  "wiki": "Cincinnati",
+  "nearby": [
+   "columbus-oh",
+   "louisville-ky",
+   "indianapolis-in"
+  ],
+  "wave": 1,
+  "rank": 25,
+  "semrush": [
+   "1300",
+   "39"
+  ],
+  "batch": "6"
+ },
+ "baltimore-md": {
+  "city": "Baltimore",
+  "st": "MD",
+  "acs": "Baltimore|24",
+  "fuel": "Baltimore|24",
+  "url": "baltimore",
+  "county": "Baltimore City",
+  "zips": [
+   "21201",
+   "21202",
+   "21211",
+   "21218",
+   "21224",
+   "21230"
+  ],
+  "hoods": [
+   "Canton",
+   "Fells Point",
+   "Federal Hill",
+   "Hampden",
+   "Roland Park",
+   "Mount Vernon",
+   "Charles Village",
+   "Highlandtown",
+   "Locust Point"
+  ],
+  "wiki": "Baltimore",
+  "nearby": [
+   "philadelphia-pa",
+   "new-york-ny"
+  ],
+  "wave": 1,
+  "rank": 29,
+  "semrush": [
+   "1000",
+   "27"
+  ],
+  "batch": "6"
+ },
+ "tucson-az": {
+  "city": "Tucson",
+  "st": "AZ",
+  "acs": "Tucson|04",
+  "fuel": "Tucson|04",
+  "url": "tucson",
+  "county": "Pima County",
+  "zips": [
+   "85701",
+   "85705",
+   "85710",
+   "85712",
+   "85716",
+   "85745"
+  ],
+  "hoods": [
+   "Downtown",
+   "Sam Hughes",
+   "Catalina Foothills",
+   "Midtown",
+   "Rita Ranch",
+   "Oro Valley area",
+   "Barrio Viejo",
+   "Tanque Verde"
+  ],
+  "wiki": "Tucson,_Arizona",
+  "nearby": [
+   "phoenix-az",
+   "mesa-az"
+  ],
+  "wave": 1,
+  "rank": 30,
+  "semrush": [
+   "1300",
+   "44"
+  ],
+  "batch": "6"
+ },
+ "miami-fl": {
+  "city": "Miami",
+  "st": "FL",
+  "acs": "Miami|12",
+  "fuel": "Miami|12",
+  "url": "miami",
+  "county": "Miami-Dade County",
+  "zips": [
+   "33125",
+   "33127",
+   "33130",
+   "33131",
+   "33133",
+   "33137"
+  ],
+  "hoods": [
+   "Brickell",
+   "Downtown",
+   "Edgewater",
+   "Wynwood",
+   "Little Havana",
+   "Coconut Grove",
+   "Allapattah",
+   "Coral Way",
+   "Little Haiti"
+  ],
+  "wiki": "Miami",
+  "nearby": [
+   "orlando-fl",
+   "tampa-fl"
+  ],
+  "wave": 1,
+  "rank": 31,
+  "semrush": [
+   "1600",
+   "55"
+  ],
+  "batch": "6"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Salt Lake City plumbing deals with cold winters, hard water and many basements. PipeMend sends licensed local plumbers across Salt Lake City.",
+ "risk": "frozen pipes and sprinkler lines, hard water scale and aging pipes in older neighborhoods",
+ "risk_short": "frozen pipes, hard water and old pipes",
+ "why": [
+  "Neighborhoods such as the Avenues, Sugar House and Liberty Wells have many older homes with galvanized supply lines and clay or cast-iron sewer laterals. Basements hold water heaters, softeners and floor drains.",
+  "Winters freeze sprinkler systems, outdoor faucets and pipes in exterior walls. Salt Lake City sits along the Wasatch Fault, so strapped water heaters and flexible gas connectors add safety."
+ ],
+ "utility": "Salt Lake City Department of Public Utilities",
+ "water": "Salt Lake City Public Utilities draws on mountain canyon streams, wells and stored water. Hardness varies by source and season, and many homes use softeners to cut scale in water heaters and fixtures.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and hose bibs",
+   "Citywide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "The Avenues and Sugar House",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first freeze.",
+  "Strap your water heater for earthquake safety.",
+  "Keep your softener supplied with salt.",
+  "Scope older sewer lines before buying."
+ ],
+ "areas": "PipeMend works in Downtown, the Avenues, Sugar House, Liberty Wells, Rose Park, Glendale, the East Bench and every other Salt Lake City neighborhood.",
+ "permits": "Plumbing permits come from Salt Lake City Building Services, and plumbers must be licensed through the Utah Division of Professional Licensing.",
+ "faq": {
+  "q": "Do Salt Lake City homes need water softeners?",
+  "a": "Many do. Hardness varies by source, but scale is common enough that softeners are widely used. A water test tells you your hardness and helps size a softener."
+ }
+}

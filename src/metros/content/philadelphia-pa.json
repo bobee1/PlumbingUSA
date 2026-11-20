@@ -1,0 +1,45 @@
+{
+ "lead": "Philadelphia has some of the oldest homes in the country. Rowhouses are tight, and winters are cold. PipeMend sends licensed local plumbers across Philadelphia.",
+ "risk": "old galvanized, lead and cast-iron pipes, sewer lateral problems and frozen pipes",
+ "risk_short": "old pipes, sewer laterals and frozen pipes",
+ "why": [
+  "Many Philadelphia rowhouses were built before 1940. They often have old steel supply pipes, cast-iron drain stacks and old sewer lines. Some still have lead service lines. Shared walls and tight basements slow repairs.",
+  "Winter cold freezes pipes in outside walls and cold rooms. Heavy storms can back up sewers and flood basements in older areas."
+ ],
+ "utility": "Philadelphia Water Department",
+ "water": "The Philadelphia Water Department draws from the Delaware and Schuylkill rivers. The water is moderately hard. Owners are responsible for their own water service line and sewer lateral. The department can tell you more about lead lines.",
+ "problems": [
+  [
+   "Old galvanized and lead lines",
+   "Rowhouses citywide",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Sewer lateral breaks",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement backups",
+   "Low-lying areas in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Ask the water department about your service line material.",
+  "Insulate basement and wall pipes before winter.",
+  "Know where your shutoff is; in rowhouses it is often in the front basement.",
+  "Scope the sewer lateral before buying."
+ ],
+ "areas": "PipeMend works in Center City, South Philly, Fishtown, Northern Liberties, West Philly, Manayunk, the Northeast and every other Philadelphia neighborhood.",
+ "permits": "Plumbing permits come from the city's Department of Licenses and Inspections (L&I). L&I also licenses plumbers in Philadelphia.",
+ "faq": {
+  "q": "Who licenses plumbers in Philadelphia?",
+  "a": "Pennsylvania has no state plumber license. Philadelphia licenses plumbers through its Department of Licenses and Inspections. Ask for the city license number before work starts."
+ }
+}

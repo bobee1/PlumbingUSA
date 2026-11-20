@@ -1,0 +1,45 @@
+{
+ "lead": "Houston plumbing deals with soft clay soils, slab foundations, hurricanes and the occasional freeze. PipeMend sends licensed local plumbers across Houston and Harris County.",
+ "risk": "slab leaks from shifting clay, cast-iron drain failures and storm flooding",
+ "risk_short": "slab leaks, cast-iron drains and flooding",
+ "why": [
+  "Houston's clay soils swell and shrink with rain and drought, and most homes are built on slabs. Slab leaks and cracked under-slab drain lines are among the most common repairs. Many homes built from the 1950s to the 1970s have cast-iron drains that corrode from the inside.",
+  "Hurricanes and tropical storms, like Harvey in 2017 and Beryl in 2024, flood homes and back up sewers. Rare hard freezes burst attic and exterior-wall pipes, as in February 2021."
+ ],
+ "utility": "Houston Public Works (Houston Water)",
+ "water": "Houston Water draws mostly from Lake Houston, Lake Livingston on the Trinity River and Lake Conroe, plus some groundwater. Surface water is softer than the Hill Country's, but scale and sediment still build up in water heaters.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil neighborhoods citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Failing cast-iron drains",
+   "1950s–1970s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Storm flooding and backups",
+   "Low-lying areas",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off the main valve before a storm evacuation.",
+  "Have cast-iron drains scoped in older homes.",
+  "Insulate attic pipes before winter.",
+  "Watch for slab leak signs: warm floors and a moving meter."
+ ],
+ "areas": "PipeMend works in Downtown, the Heights, Montrose, Midtown, Memorial, Bellaire, Kingwood, Clear Lake and every other Houston neighborhood.",
+ "permits": "Plumbing permits come from the Houston Permitting Center, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why do older Houston homes have drain problems?",
+  "a": "Many homes from the 1950s to 1970s have cast-iron drain lines under the slab. Houston's soil and wastewater corrode them from the inside, causing slow drains, backups and sewer smells. A camera inspection shows whether lining or replacement is needed."
+ }
+}

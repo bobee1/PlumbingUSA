@@ -1,0 +1,45 @@
+{
+ "lead": "Miami plumbing deals with heat, humidity, hurricanes, slab homes and aging cast-iron drains. PipeMend sends licensed local plumbers across Miami.",
+ "risk": "failing cast-iron drains, slab leaks and hurricane and king-tide flooding",
+ "risk_short": "cast-iron drains, slab leaks and flooding",
+ "why": [
+  "Many Miami homes and condos from the 1950s to 1970s have cast-iron drain lines under the slab that are rotting from the inside. Lining or replacing them is a major job, and slab leaks in supply lines are common too.",
+  "Hurricanes and king tides flood low areas and back up sewers. High-rise condos add shared risers and building rules for repairs."
+ ],
+ "utility": "Miami-Dade Water and Sewer Department",
+ "water": "Miami-Dade Water and Sewer draws mainly from the Biscayne Aquifer, a shallow limestone aquifer. Water from limestone is hard, though treatment softens it somewhat, and scale still builds up in water heaters and fixtures.",
+ "problems": [
+  [
+   "Failing cast-iron drains",
+   "1950s–1970s homes and condos",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Storm and king-tide flooding",
+   "Low-lying neighborhoods",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Condo riser and stack leaks",
+   "High-rise buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Watch your water bill for slab leak signs.",
+  "Know your condo's rules before plumbing work."
+ ],
+ "areas": "PipeMend works in Brickell, Downtown, Little Havana, Coconut Grove, Wynwood, Little River, Coral Way and every other Miami neighborhood.",
+ "permits": "Plumbing permits come from the City of Miami Building Department, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Why do older Miami homes have drain problems?",
+  "a": "Many homes from the 1950s to 1970s have cast-iron drains under the slab. Florida's heat and wastewater corrode them from the inside, causing slow drains, backups and sewer smells. A camera inspection shows whether lining or replacement is needed."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Plano plumbing deals with expansive clay soil, slab foundations and homes from the 1970s to 1990s building boom. PipeMend sends licensed local plumbers across Plano.",
+ "risk": "slab leaks from shifting clay, polybutylene and aging pipes, and burst pipes in hard freezes",
+ "risk_short": "slab leaks, old pipes and frozen pipes",
+ "why": [
+  "Plano grew fast from the 1970s through the 1990s, so many homes are 30 to 50 years old. Some have polybutylene supply pipe, and copper lines under slabs are aging. Expansive clay moves with rain and drought, which stresses those lines and causes slab leaks.",
+  "Rare hard freezes burst attic and exterior-wall pipes, and water heaters from the original builds are well past their expected life in many homes."
+ ],
+ "utility": "City of Plano (water supplied by the North Texas Municipal Water District)",
+ "water": "Plano buys treated water from the North Texas Municipal Water District, which draws largely from Lavon Lake and other regional sources. The water is moderately hard, so scale builds up slowly in water heaters and fixtures.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil neighborhoods citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Original-build homes",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly during droughts.",
+  "Check for gray polybutylene pipe near the water heater.",
+  "Insulate attic pipes before winter.",
+  "Replace water heaters past 10 to 15 years."
+ ],
+ "areas": "PipeMend works in West Plano, East Plano, Legacy, Willow Bend, Deerfield, Old Town and every other Plano neighborhood.",
+ "permits": "Plumbing permits come from the City of Plano Building Inspections Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Do Plano homes have polybutylene pipes?",
+  "a": "Some do, especially those built from the late 1970s to the mid-1990s. Look for gray plastic pipe stamped PB2110 near the water heater or in the attic. Replacing it before it fails avoids water damage."
+ }
+}

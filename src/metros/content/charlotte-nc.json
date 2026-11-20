@@ -1,0 +1,45 @@
+{
+ "lead": "Charlotte plumbing deals with red clay, big trees, fast growth and the occasional ice storm. PipeMend sends licensed local plumbers across Charlotte and Mecklenburg County.",
+ "risk": "tree roots in sewer lines, crawl-space pipes that freeze and water heater replacement in growing suburbs",
+ "risk_short": "sewer roots, frozen pipes and water heaters",
+ "why": [
+  "Older neighborhoods such as Dilworth, Plaza Midwood and NoDa have homes with clay or cast-iron sewer laterals that roots find easily. Red clay shifts with wet and dry seasons, and many homes sit on crawl spaces.",
+  "Ice storms freeze exposed crawl-space pipes every few years. Fast growth means many newer homes, where water heaters, fixtures and fittings are the usual calls."
+ ],
+ "utility": "Charlotte Water",
+ "water": "Charlotte Water draws from the Catawba River through Lake Norman and Mountain Island Lake. The water is relatively soft, so scale is less of a problem than in harder-water cities.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Dilworth, Plaza Midwood and NoDa",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide during ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Clogged main lines",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes and close vents before a freeze.",
+  "Scope the sewer line before buying an older home.",
+  "Plant trees away from the sewer line.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Uptown, South End, Dilworth, Plaza Midwood, NoDa, Ballantyne, University City and every other Charlotte neighborhood.",
+ "permits": "Building and plumbing permits in Charlotte are issued by Mecklenburg County Code Enforcement, and plumbing contractors must be licensed by the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors.",
+ "faq": {
+  "q": "Who issues plumbing permits in Charlotte?",
+  "a": "Mecklenburg County Code Enforcement handles building and trade permits for Charlotte. Your plumber usually pulls the permit and schedules the inspection."
+ }
+}

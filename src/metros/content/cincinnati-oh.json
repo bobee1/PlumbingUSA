@@ -1,0 +1,45 @@
+{
+ "lead": "Cincinnati plumbing deals with old hillside housing, lead service lines and cold winters. PipeMend sends licensed local plumbers across Cincinnati.",
+ "risk": "lead and galvanized service lines, aging sewer laterals on steep lots and frozen pipes",
+ "risk_short": "lead lines, sewer laterals and frozen pipes",
+ "why": [
+  "Cincinnati has a large share of homes built before 1940, especially in Over-the-Rhine, Clifton and Northside. Many have galvanized supply lines, cast-iron drains and long sewer laterals on steep hillside lots.",
+  "Winters freeze pipes, and heavy rain overloads the city's older combined sewers, which can back water into basements."
+ ],
+ "utility": "Greater Cincinnati Water Works",
+ "water": "Greater Cincinnati Water Works draws mainly from the Ohio River, with groundwater from the Great Miami Aquifer. The water is moderately hard. The utility runs a program to replace lead service lines.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Sewer lateral breaks",
+   "Hillside neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Ask Greater Cincinnati Water Works about your service line.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Scope the sewer lateral before buying."
+ ],
+ "areas": "PipeMend works in Downtown, Over-the-Rhine, Clifton, Hyde Park, Northside, Westwood, Mount Washington and every other Cincinnati neighborhood.",
+ "permits": "Plumbing permits come from the City of Cincinnati Department of Buildings and Inspections; Ohio licenses commercial plumbing contractors, and the city sets rules for residential work.",
+ "faq": {
+  "q": "Is Cincinnati replacing lead water lines?",
+  "a": "Yes. Greater Cincinnati Water Works runs a program to replace lead service lines, and you can look up your address. A plumber can also check where the line enters your basement."
+ }
+}

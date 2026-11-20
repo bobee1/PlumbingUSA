@@ -1,0 +1,45 @@
+{
+ "lead": "Phoenix plumbing fights very hard water, extreme summer heat and slab construction. PipeMend sends licensed local plumbers across Phoenix, from Arcadia to Ahwatukee.",
+ "risk": "very hard water scale, slab leaks and water heaters baked in hot garages",
+ "risk_short": "hard water, slab leaks and water heaters",
+ "why": [
+  "Most Phoenix homes are built on concrete slabs, with water lines under the floor. Slab leaks show up as warm spots, a moving water meter or a sudden jump in the bill. Older central neighborhoods such as Encanto and Arcadia also have aging galvanized and cast-iron lines.",
+  "Summer heat pushes garage and attic water heaters hard, and very hard water fills tanks with sediment. Scale also clogs aerators, fill valves and tankless heat exchangers, so softeners and yearly flushing are common here."
+ ],
+ "utility": "City of Phoenix Water Services",
+ "water": "Phoenix Water Services draws on the Salt and Verde rivers, Colorado River water through the Central Arizona Project and groundwater. The water is very hard, which leaves white scale on fixtures and shortens water heater life. The city requires a pressure regulator on the customer side of the meter to keep household pressure in a safe range.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes across the city",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater failures",
+   "Garages and attics",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Encanto, Arcadia and central Phoenix",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Clean faucet aerators and showerheads often.",
+  "Watch your water bill for signs of a slab leak.",
+  "Have your pressure regulator checked if pipes bang or the relief valve drips."
+ ],
+ "areas": "PipeMend works in Downtown, Arcadia, the Biltmore area, Ahwatukee, North Phoenix, Maryvale, Desert Ridge, Encanto and every other Phoenix neighborhood.",
+ "permits": "Plumbing permits come from the City of Phoenix Planning and Development Department; water heater replacement, gas line work and repipes usually need one.",
+ "faq": {
+  "q": "Why does Phoenix water leave white spots?",
+  "a": "Phoenix water is very hard, with high levels of calcium and magnesium. The minerals stay behind as white scale when water evaporates. A water softener reduces scale, and regular flushing protects your water heater."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Mesa plumbing deals with very hard water, desert heat and slab homes from several building booms. PipeMend sends licensed local plumbers across Mesa.",
+ "risk": "very hard water scale, slab leaks and water heaters worn out by minerals",
+ "risk_short": "hard water, slab leaks and water heaters",
+ "why": [
+  "Most Mesa homes are built on slabs, with water lines under the floor, and slab leaks are common. Homes from the 1980s and 1990s may also have polybutylene supply pipe.",
+  "Very hard water scales up water heaters, faucets and tankless units, and summer heat strains garage water heaters. Softeners and yearly flushing are common."
+ ],
+ "utility": "City of Mesa Water Resources",
+ "water": "Mesa's water comes from the Salt and Verde rivers through SRP, Colorado River water through the Central Arizona Project and groundwater. It is very hard, which leaves scale on fixtures and in water heaters.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–1990s neighborhoods",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater failures",
+   "Garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Clean aerators and showerheads often.",
+  "Watch your water bill for slab leak signs.",
+  "Replace gray polybutylene pipe before it fails."
+ ],
+ "areas": "PipeMend works in Downtown Mesa, Dobson Ranch, Red Mountain, Las Sendas, Eastmark, Superstition Springs and every other Mesa neighborhood.",
+ "permits": "Plumbing permits come from the City of Mesa Development Services Department, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "Do Mesa homes have polybutylene pipes?",
+  "a": "Some do, especially homes built from the late 1970s to the mid-1990s. Look for gray plastic pipe stamped PB2110 near the water heater or in the attic. Replacing it before it fails avoids water damage."
+ }
+}

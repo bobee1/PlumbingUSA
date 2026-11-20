@@ -1,0 +1,45 @@
+{
+ "lead": "Los Angeles plumbing ranges from 1920s bungalows to hillside homes and high-rise condos. PipeMend sends licensed local plumbers across the city, from the Valley to the Westside.",
+ "risk": "old galvanized and cast-iron pipes, earthquake safety for water heaters and hard water scale",
+ "risk_short": "old pipes, earthquake safety and hard water",
+ "why": [
+  "Many Los Angeles homes were built before 1950, especially in neighborhoods like Silver Lake, Echo Park and Mid-City. Original galvanized supply lines rust inside and cut water pressure, and cast-iron and clay sewer lines crack and fill with roots.",
+  "California requires water heaters to be strapped against earthquakes, and many homes have seismic gas shutoff valves. Hillside homes have long, steep sewer laterals and pressure issues, and high water costs make leaks expensive."
+ ],
+ "utility": "Los Angeles Department of Water and Power (LADWP)",
+ "water": "LADWP supplies water from the Los Angeles Aqueduct, imported water from the Metropolitan Water District and local groundwater. Much of it is hard, so scale builds up in water heaters and fixtures. LADWP and the state encourage water-efficient fixtures because water is costly.",
+ "problems": [
+  [
+   "Old galvanized supply lines",
+   "Prewar homes citywide",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Neighborhoods with mature trees",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Hard water scale",
+   "San Fernando Valley and citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Make sure your water heater has earthquake straps.",
+  "Know how to shut off the gas at the meter.",
+  "Scope the sewer line before buying an older home.",
+  "Fix leaks quickly; water is expensive."
+ ],
+ "areas": "PipeMend works in Downtown, Hollywood, the San Fernando Valley, Westside neighborhoods, Silver Lake, South LA, San Pedro and every other part of Los Angeles.",
+ "permits": "Plumbing permits come from the Los Angeles Department of Building and Safety (LADBS), and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Do Los Angeles water heaters need earthquake straps?",
+  "a": "Yes. California requires water heaters to be braced or strapped against earthquakes. A plumber adds straps when installing or replacing a heater, and an LADBS inspection checks them."
+ }
+}

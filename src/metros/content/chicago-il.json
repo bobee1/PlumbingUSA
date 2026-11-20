@@ -1,0 +1,45 @@
+{
+ "lead": "Chicago plumbing deals with cold winters, basements, old housing and one of the largest numbers of lead service lines in the country. PipeMend sends licensed local plumbers across Chicago.",
+ "risk": "lead service lines, flooded basements and sewer backups, and frozen pipes",
+ "risk_short": "lead lines, flooded basements and frozen pipes",
+ "why": [
+  "Chicago has a huge number of older homes, two-flats and bungalows with lead service lines, galvanized supply lines and cast-iron drains. The city is replacing lead service lines over time under state law.",
+  "Heavy rain overloads the combined sewers and backs water into basements through floor drains, so sump pumps, overhead sewers and backwater valves are common. Winters freeze pipes in exterior walls and unheated spaces."
+ ],
+ "utility": "Chicago Department of Water Management",
+ "water": "Chicago draws its water from Lake Michigan. It is moderately hard. The bigger issue is old plumbing: many homes still have lead service lines, and the city offers ways to check your address and request testing.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement sewer backups",
+   "Citywide in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and unheated spaces",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Ask the city whether your home has a lead service line.",
+  "Test your sump pump and add a battery backup.",
+  "Consider a backwater valve or overhead sewer if your basement floods.",
+  "Insulate pipes before winter."
+ ],
+ "areas": "PipeMend works in the Loop, Lincoln Park, Lakeview, Logan Square, Hyde Park, Bridgeport, Rogers Park and every other Chicago neighborhood.",
+ "permits": "Plumbing permits come from the Chicago Department of Buildings, and plumbers must be licensed by the Illinois Department of Public Health.",
+ "faq": {
+  "q": "Does my Chicago home have a lead service line?",
+  "a": "It might. Chicago has one of the largest numbers of lead service lines in the country, mostly in older homes. The city has an address lookup and testing program, and a plumber can check the pipe where it enters your basement."
+ }
+}

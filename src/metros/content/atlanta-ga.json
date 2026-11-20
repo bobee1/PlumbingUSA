@@ -1,0 +1,45 @@
+{
+ "lead": "Atlanta plumbing deals with red clay, big trees, older in-town neighborhoods and the odd ice storm. PipeMend sends licensed local plumbers across Atlanta.",
+ "risk": "tree roots in old sewer lines, aging pipes in in-town homes and frozen crawl-space pipes",
+ "risk_short": "sewer roots, old pipes and frozen pipes",
+ "why": [
+  "Atlanta's tree canopy is beautiful but hard on sewer lines; roots find the joints of old clay and cast-iron laterals in neighborhoods such as Virginia-Highland, Grant Park and Kirkwood. Many in-town homes also have galvanized supply lines.",
+  "Many homes sit on crawl spaces, and ice storms every few years freeze exposed pipes. Suburban homes from the 1980s and 1990s may have polybutylene pipe."
+ ],
+ "utility": "Atlanta Department of Watershed Management",
+ "water": "Atlanta's water comes mainly from the Chattahoochee River and is relatively soft, so scale is less common. The city has spent years upgrading its aging sewer system, and private sewer laterals remain the homeowner's responsibility.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Virginia-Highland, Grant Park and Kirkwood",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "In-town homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide during ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Main line clogs",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Insulate crawl-space pipes before winter.",
+  "Plant trees away from the sewer line.",
+  "Replace polybutylene pipe before it fails."
+ ],
+ "areas": "PipeMend works in Midtown, Buckhead, Virginia-Highland, Grant Park, Kirkwood, West End, East Atlanta and every other Atlanta neighborhood.",
+ "permits": "Plumbing permits come from the City of Atlanta Office of Buildings, and plumbers must be licensed through the Georgia State Division of Master and Journeyman Plumbers.",
+ "faq": {
+  "q": "Who is responsible for the sewer line in Atlanta?",
+  "a": "Homeowners are generally responsible for the private sewer lateral from the house to the city's main. Roots and age make these lines a common repair in older Atlanta neighborhoods."
+ }
+}

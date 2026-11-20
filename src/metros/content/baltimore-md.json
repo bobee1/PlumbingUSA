@@ -1,0 +1,45 @@
+{
+ "lead": "Baltimore plumbing deals with century-old rowhouses, aging sewer laterals and cold winters. PipeMend sends licensed local plumbers across Baltimore.",
+ "risk": "old galvanized and lead pipes, basement sewer backups and frozen pipes",
+ "risk_short": "old pipes, sewer backups and frozen pipes",
+ "why": [
+  "Baltimore's rowhouses often date from before 1940, with galvanized supply lines, cast-iron stacks and old sewer laterals. Tight basements and shared walls make repairs slow.",
+  "Heavy storms back up sewers into basements in older neighborhoods. Winters freeze pipes in exterior walls and vacant houses."
+ ],
+ "utility": "Baltimore City Department of Public Works",
+ "water": "Baltimore's water comes from the Loch Raven, Liberty and Prettyboy reservoirs, with the Susquehanna River as a backup source. The water is relatively soft. Homeowners are responsible for their private sewer lateral and the service line on their side.",
+ "problems": [
+  [
+   "Old galvanized supply lines",
+   "Rowhouses citywide",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement sewer backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and vacant homes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cast-iron stack leaks",
+   "Rowhouses",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate basement and wall pipes before winter.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Know where your shutoff is; often in the front basement.",
+  "Scope the sewer lateral before buying."
+ ],
+ "areas": "PipeMend works in Canton, Fells Point, Federal Hill, Hampden, Roland Park, Highlandtown, Mount Vernon and every other Baltimore neighborhood.",
+ "permits": "Plumbing permits in Baltimore are issued through the city's Department of Housing and Community Development, and plumbers must be licensed by the Maryland State Board of Plumbing.",
+ "faq": {
+  "q": "Who licenses plumbers in Baltimore?",
+  "a": "The Maryland State Board of Plumbing licenses plumbers and gas fitters statewide. Permits for work in Baltimore come from the city."
+ }
+}

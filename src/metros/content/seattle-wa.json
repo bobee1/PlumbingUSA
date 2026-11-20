@@ -1,0 +1,45 @@
+{
+ "lead": "Seattle plumbing deals with rain, very soft water, old houses and big trees. PipeMend sends licensed local plumbers across Seattle.",
+ "risk": "root-filled sewer laterals, old galvanized pipes and wet crawl spaces",
+ "risk_short": "sewer roots, old pipes and wet crawl spaces",
+ "why": [
+  "Many Seattle homes in Ballard, Capitol Hill, Queen Anne and Columbia City were built before 1950, with galvanized supply lines and clay sewer laterals. Roots from mature trees break into those laterals, and hilly lots make sewer lines long and steep.",
+  "Months of rain keep soil wet, which strains crawl-space drainage and sump pumps. Seattle sits in an earthquake zone, so strapped water heaters matter, and occasional cold snaps freeze exposed pipes."
+ ],
+ "utility": "Seattle Public Utilities",
+ "water": "Seattle Public Utilities gets its water from the Cedar River and South Fork Tolt River watersheds in the Cascades. The water is very soft, so scale is rare, but soft water can be more corrosive to old pipes.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Older neighborhoods with mature trees",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Citywide in the rainy season",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Strap your water heater for earthquakes.",
+  "Check crawl-space drainage before the rainy season.",
+  "Disconnect hoses before the first freeze."
+ ],
+ "areas": "PipeMend works in Ballard, Capitol Hill, Queen Anne, Fremont, West Seattle, Columbia City, Northgate and every other Seattle neighborhood.",
+ "permits": "Plumbing permits come from the Seattle Department of Construction and Inspections (SDCI), and plumbers must hold a certificate from the Washington State Department of Labor and Industries.",
+ "faq": {
+  "q": "Who owns the sewer line in Seattle?",
+  "a": "In Seattle, the property owner is generally responsible for the side sewer from the house to the public main, including the part under the street. That makes a camera inspection worth doing before buying an older home."
+ }
+}

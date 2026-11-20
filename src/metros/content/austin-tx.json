@@ -1,0 +1,45 @@
+{
+ "lead": "Austin plumbing deals with expansive clay, hard limestone water and the occasional hard freeze. PipeMend sends licensed local plumbers across Austin and Travis County.",
+ "risk": "slab leaks from shifting clay, hard water scale and pipes that burst in rare hard freezes",
+ "risk_short": "slab leaks, hard water and frozen pipes",
+ "why": [
+  "Much of Austin sits on expansive clay and limestone. The clay swells after rain and shrinks in drought, which moves slabs and stresses the water and sewer lines under them. Slab leaks and cracked sewer laterals are common, especially in older East and South Austin homes.",
+  "Winters are usually mild, so many pipes run through attics and exterior walls. The February 2021 winter storm burst pipes across the city and led to a citywide boil-water notice. Austin's fast growth also means many new homes alongside older ones with original pipe."
+ ],
+ "utility": "Austin Water",
+ "water": "Austin Water treats water from the Colorado River through Lake Travis and Lake Austin. Like much of Central Texas, it is moderately hard, so scale builds up in water heaters, tankless units and fixtures over time.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil neighborhoods citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Burst pipes in a hard freeze",
+   "Attic and exterior-wall pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older East and South Austin homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Scale in water heaters",
+   "Citywide",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly during long droughts.",
+  "Drip faucets and open cabinets before a hard freeze.",
+  "Insulate attic pipes.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Downtown, East Austin, South Austin, Hyde Park, Mueller, North Austin, Circle C and every other Austin neighborhood.",
+ "permits": "Plumbing permits come from the City of Austin Development Services Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "What should Austin homeowners do before a hard freeze?",
+  "a": "Disconnect garden hoses, insulate attic and exterior-wall pipes, open sink cabinets and let faucets on outside walls drip. Know where your main shutoff is; in many Austin homes it is in a box near the street."
+ }
+}
