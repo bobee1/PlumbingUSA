@@ -1,0 +1,18 @@
+{
+  "brand": "PipeMend",
+  "legal_name": "PipeMend",
+  "domain": "pipemend.us",
+  "base_url": "https://pipemend.us",
+  "tagline": "Plumbing repair, drain and water heater service across the United States",
+  "phone_display": "1-800-555-0199",
+  "phone_e164": "+18005550199",
+  "email": "",
+  "owner": "Anjam Javed",
+  "years_in_business": "10+",
+  "availability": "24/7",
+  "routing": "own-business",
+  "legal_effective_date": "November 19, 2026",
+  "build_date": "2026-11-19",
+  "editorial_byline": "PipeMend Editorial",
+  "theme_color": "#0f2d3d"
+}

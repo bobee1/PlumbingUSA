@@ -1,0 +1,15 @@
+[
+ {"slug": "emergency-plumbing", "name": "Emergency plumbing", "card": "Burst pipes, overflowing toilets, no water or a sewer backup, handled day or night."},
+ {"slug": "drain-cleaning", "name": "Drain cleaning", "card": "Slow and clogged sink, tub, shower and floor drains cleared with snakes and augers."},
+ {"slug": "water-heater-repair", "name": "Water heater repair", "card": "No hot water, leaks, noises or a tripped burner on tank and tankless heaters."},
+ {"slug": "water-heater-installation", "name": "Water heater installation", "card": "Tank, tankless and heat pump water heaters sized, permitted and installed."},
+ {"slug": "sewer-line-repair", "name": "Sewer line repair", "card": "Camera inspection, root removal, spot repairs and trenchless sewer line fixes."},
+ {"slug": "leak-detection", "name": "Leak detection", "card": "Hidden leaks in walls, floors and slabs found with acoustic and thermal tools."},
+ {"slug": "hydro-jetting", "name": "Hydro jetting", "card": "High-pressure water cleaning for grease, scale and roots in main drain lines."},
+ {"slug": "repiping", "name": "Pipe repair and repiping", "card": "Burst, corroded or leaking pipes repaired, or whole-home repiping in PEX or copper."},
+ {"slug": "water-line-repair", "name": "Water line repair", "card": "Main water service line leaks, low pressure and line replacement to the street."},
+ {"slug": "toilet-repair", "name": "Toilet repair", "card": "Running, clogged, leaking or rocking toilets fixed or replaced."},
+ {"slug": "garbage-disposal-repair", "name": "Garbage disposal repair", "card": "Jammed, humming or leaking disposals repaired or swapped for a new unit."},
+ {"slug": "sump-pump-installation", "name": "Sump pump installation", "card": "Sump pumps, battery backups and check valves to keep basements dry."},
+ {"slug": "gas-line-repair", "name": "Gas line repair", "card": "Gas leaks, new appliance hookups and gas line repairs, done to code."}
+]
