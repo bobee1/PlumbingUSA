@@ -1,0 +1,42 @@
+{
+ "lead": "Virginia plumbing ranges from old Richmond and Norfolk homes to mountain cabins and coastal flood zones. PipeMend sends licensed local plumbers across the Commonwealth.",
+ "risk": "aging pipes in older cities, coastal flooding in Hampton Roads and frozen pipes in the mountains",
+ "risk_short": "old pipes, coastal flooding and frozen lines",
+ "why": [
+  "Richmond, Norfolk, Alexandria and other old Virginia cities have many homes with galvanized water pipes, cast-iron drains and clay sewer lines. Suburbs built in the 1980s and 1990s may have gray polybutylene pipe.",
+  "Hampton Roads gets tidal and storm flooding that backs up sewers and soaks crawl spaces. In the Shenandoah Valley and the southwest, cold winters freeze pipes, and many homes use wells and septic tanks. The state Board for Contractors licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Old galvanized supply lines",
+   "Richmond, Norfolk and Alexandria",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Coastal flooding and backups",
+   "Hampton Roads",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Shenandoah Valley and the mountains",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes in crawl spaces and on outside walls.",
+  "Have older homes checked for polybutylene or galvanized pipe.",
+  "Test your sump pump before storm season.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "Calls come from Northern Virginia, Richmond, Hampton Roads, Charlottesville, Roanoke, the Shenandoah Valley and Southwest Virginia.",
+ "faq": {
+  "q": "Who licenses plumbers in Virginia?",
+  "a": "Virginia's Department of Professional and Occupational Regulation licenses individual plumbers through the Board for Contractors' tradesman program, and plumbing businesses need a contractor license."
+ }
+}

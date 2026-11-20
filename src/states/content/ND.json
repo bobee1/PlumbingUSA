@@ -1,0 +1,42 @@
+{
+ "lead": "North Dakota plumbing is built for extreme cold, deep frost and river flooding. PipeMend sends licensed local plumbers from Fargo to Bismarck.",
+ "risk": "frozen pipes and water lines, flooded basements and hard water",
+ "risk_short": "frozen pipes, flooding and hard water",
+ "why": [
+  "North Dakota winters are long and severe, so water lines must be buried deep, and exposed or shallow lines freeze. Many homes have basements.",
+  "The Red River floods Fargo and Grand Forks in some springs, and hard water is common. The North Dakota State Plumbing Board licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen pipes and water lines",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Flooded basements",
+   "Red River Valley",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Hard water scale",
+   "Much of North Dakota",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Test your sump pump before spring thaw.",
+  "Insulate pipes near exterior walls.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "Calls come from Fargo, Bismarck, Grand Forks, Minot, West Fargo, Williston and rural North Dakota.",
+ "faq": {
+  "q": "Who licenses plumbers in North Dakota?",
+  "a": "The North Dakota State Plumbing Board licenses plumbers. Check the license before work starts."
+ }
+}

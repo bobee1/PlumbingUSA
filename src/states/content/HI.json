@@ -1,0 +1,42 @@
+{
+ "lead": "Hawaii plumbing deals with salt air, island logistics, solar water heating and thousands of aging cesspools. PipeMend sends licensed local plumbers across the islands.",
+ "risk": "corrosion from salt air, cesspool upgrades and solar water heater repairs",
+ "risk_short": "corrosion, cesspools and solar water heaters",
+ "why": [
+  "Salt air corrodes outdoor fixtures, valves and metal pipe, especially near the shore. Freezing is not a concern, so many pipes run outside or under raised homes. Hawaii requires solar water heaters on most new single-family homes, so solar panels, pumps and backup elements are a common repair.",
+  "Tens of thousands of homes still use cesspools, and state law requires them to be upgraded by 2050. On the Big Island, many homes rely on rainwater catchment systems. The Hawaii Board of Electricity and Plumbing licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Corroded valves and fittings",
+   "Coastal homes on every island",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Solar water heater repairs",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ],
+  [
+   "Clogged drains and sewer lines",
+   "Older Honolulu neighborhoods",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ],
+  [
+   "Water line leaks",
+   "Older homes and condos",
+   "<a href=\"/services/leak-detection/\">Leak detection</a>"
+  ]
+ ],
+ "tips": [
+  "Rinse and inspect outdoor fixtures near the ocean.",
+  "Have your solar water heater checked once a year.",
+  "Ask about cesspool upgrade options before buying a home.",
+  "Fix drips quickly; water costs are high."
+ ],
+ "areas": "Calls come from Honolulu and Oahu, Maui, the Big Island including Hilo and Kona, and Kauai.",
+ "faq": {
+  "q": "Do I have to replace my cesspool in Hawaii?",
+  "a": "State law requires cesspools to be upgraded or converted by 2050, with priority areas expected to act sooner. Upgrades usually mean a septic system, an aerobic treatment unit or a sewer connection. The Hawaii Department of Health can tell you what applies to your property."
+ }
+}

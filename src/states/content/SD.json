@@ -1,0 +1,42 @@
+{
+ "lead": "South Dakota plumbing deals with deep cold, hard water and lots of private wells. PipeMend sends licensed local plumbers from Sioux Falls to Rapid City.",
+ "risk": "frozen pipes, hard water scale and well systems",
+ "risk_short": "frozen pipes, hard water and wells",
+ "why": [
+  "South Dakota winters are long and cold, so water lines must be buried deep, and exposed lines freeze. Water is hard in much of the state.",
+  "Many rural homes rely on private wells and septic systems. The South Dakota State Plumbing Commission licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Much of South Dakota",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Well pump problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes near exterior walls.",
+  "Keep your softener supplied with salt.",
+  "Test well water every year.",
+  "Disconnect hoses in fall."
+ ],
+ "areas": "Calls come from Sioux Falls, Rapid City, Aberdeen, Brookings, Watertown, Mitchell and rural South Dakota.",
+ "faq": {
+  "q": "Who licenses plumbers in South Dakota?",
+  "a": "The South Dakota State Plumbing Commission licenses plumbers. Check the license before work starts."
+ }
+}

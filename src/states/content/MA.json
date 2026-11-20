@@ -1,0 +1,42 @@
+{
+ "lead": "Massachusetts plumbing deals with very old housing, cold winters and strict septic rules. PipeMend sends licensed local plumbers from Boston to the Berkshires.",
+ "risk": "frozen pipes, aging pipes in old homes and septic upgrades",
+ "risk_short": "frozen pipes, old pipes and septic",
+ "why": [
+  "Massachusetts has some of the oldest housing in the country. Triple-deckers and older homes in Boston, Worcester and Springfield often have galvanized supply lines, cast-iron stacks and lead or old service lines.",
+  "Cold winters freeze pipes on outside walls and in basements. Outside sewered areas, Title 5 rules require septic systems to be inspected when a home is sold, and failed systems must be upgraded. The Board of State Examiners of Plumbers and Gas Fitters licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Old galvanized and cast-iron pipe",
+   "Boston, Worcester and Springfield homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Main drain clogs",
+   "Older multi-family homes",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ],
+  [
+   "Boiler and water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate basement and wall pipes before winter.",
+  "Ask your utility about your service line material.",
+  "Plan for Title 5 inspection before selling a home on septic.",
+  "Have stacks in older multi-family homes inspected."
+ ],
+ "areas": "Calls come from Boston and Greater Boston, Worcester, Springfield, Lowell, Cambridge, the South Shore, Cape Cod and the Berkshires.",
+ "faq": {
+  "q": "Who licenses plumbers in Massachusetts?",
+  "a": "The Board of State Examiners of Plumbers and Gas Fitters licenses plumbers and gas fitters. Local plumbing inspectors issue permits and inspect the work."
+ }
+}

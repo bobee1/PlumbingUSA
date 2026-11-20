@@ -1,0 +1,42 @@
+{
+ "lead": "North Carolina plumbing covers mountain freezes, Piedmont red clay and coastal hurricanes. PipeMend sends licensed local plumbers from Asheville to the Outer Banks.",
+ "risk": "hurricane and flash flooding, red clay and tree roots in sewer lines, and frozen pipes in the mountains",
+ "risk_short": "flooding, sewer roots and frozen pipes",
+ "why": [
+  "North Carolina's Piedmont red clay and big hardwoods are hard on sewer lines; roots and shifting soil crack older clay and cast-iron laterals. Many homes sit on crawl spaces, so supply lines are exposed under the floor.",
+  "Hurricanes hit the coast, and storms like Helene in 2024 brought record flooding to the mountains. Western North Carolina winters freeze pipes, and many rural homes use private wells and septic systems. The state board licenses plumbers statewide."
+ ],
+ "problems": [
+  [
+   "Flood damage and sewer backups",
+   "Coast and mountain valleys",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Roots in sewer lines",
+   "Charlotte, Raleigh and Greensboro neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Mountains and the Piedmont",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes statewide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes and close vents before a freeze.",
+  "Have trees near the sewer line checked for roots.",
+  "Shut off the main valve if you evacuate for a storm.",
+  "Test well water every year."
+ ],
+ "areas": "Calls come from Charlotte, the Triangle, the Triad, Fayetteville, Wilmington and the coast, Asheville and the mountains.",
+ "faq": {
+  "q": "Who licenses plumbers in North Carolina?",
+  "a": "The North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors licenses plumbing contractors. You can look up a license on its website."
+ }
+}

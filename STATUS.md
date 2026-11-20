@@ -4,28 +4,31 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-20 (Build 3b)
+Last updated: 2026-11-20 (Build 4)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
 - Build 1 (2026-11-19): engine, Deep Water + Copper design, logo set, 8 Pexels photos as WebP, 9 pages (home with system diagram, About, Contact form, Privacy, Terms, Disclaimer, Editorial, Accessibility, 404); audit 0 issues.
 - Build 2 (2026-11-20): Semrush research (~4,700 units), competitor reads, site plan doc https://claude.ai/artifact/Lnvtnd4rBMx8H6m4StHfiB, approved by the owner on 2026-11-20 ("Build 3").
 - Build 3 (2026-11-20): services hub and first 10 service pages (emergency, drain cleaning, hydro jetting, water heater repair and installation, tankless, sewer line, leak detection, slab leak, repiping); home trimmed to 1,771 words; audit 0 issues.
+- Build 3b (2026-11-20): remaining 9 service pages (water line, toilet, faucet, garbage disposal, sump pump, gas line, water softener, backflow, commercial); all 19 services live; audit 0 issues.
 - Owner decisions (2026-11-19): target plumbing and every sub-service in all states and cities; brand PipeMend; domain pipemend.us; own-business call routing like SootMend (24/7, 10+ years); legal owner Anjam Javed; toll-free 1-800-555-0199 until after deployment; repo github.com/bobee1/PlumbingUSA; Pexels photos as WebP or illustrations.
 
-## Current — Build 3b: Remaining 9 service pages (done)
-- **9 service pages:** water line repair, toilet repair, faucet repair, garbage disposal repair, sump pump repair and installation, gas line repair, water softener installation, backflow testing, commercial plumbing. 1,013–1,243 words each, same blueprint as Build 3 (quick answer, table, process, cost factors, DIY or pro, prevention, 5 FAQs, schema, Wikipedia entities, 3–4 opened sources).
-- **All 19 services now live:** every hub card, home card and related-service card links to a real page; hub table gained 9 rows; home system legend links to water line, toilet and faucet pages too.
-- **New sources opened:** EPA WaterSense toilets and bathroom faucets, EPA cross-connection control manual and fact sheet, USGS water hardness, FEMA basement flood mitigation, CPSC carbon monoxide.
-- **Photos:** 3 held photos used (water line, garbage disposal, water softener) plus 4 new Pexels photos as WebP (faucet, gas line, toilet, commercial), all under 130 KB. Sump pump and backflow use new SVG diagrams with a mobile version.
-- **Gas page** opens with a red "smell gas? leave and call 911" safety callout (new `.callout` style).
-- **Checks:** audit PASS 0 issues; reading grade 5.5–8.7; site audit clean; no horizontal overflow or console errors at 360/768/1280.
+## Current — Build 4: Locations hub and 51 state pages (done)
+- **Locations hub** `/locations/`: state cards grouped by Census region, a "how plumbing differs across the country" table computed from the data (oldest/newest housing, most FEMA water disasters, most gas/electric heat), 4 FAQs. 917 words.
+- **51 state pages** (`/locations/<state>/`, 50 states + DC), 948–1,140 words each, built by `states.py` from:
+  - `research/07-state-data.json` (Census ACS 2020–2024 housing, largest places, OpenFEMA water-related declarations since 2000) and `research/08-heating-fuel.json` (ACS 2024 heating fuel), both reused from SootMend's verified pulls;
+  - `src/states/meta.json`: names, slugs, neighbors and the **plumbing licensing authority for every state**, checked against two state-by-state guides plus searches for Texas (board still active in 2026), Arkansas (Department of Health) and DC (Board of Industrial Trades). Six states license locally: KS, MO, NE, NY, PA, WY;
+  - `src/states/content/<AB>.json`: hand-written local copy per state (lead, two "why" paragraphs, 4-row problems table, tips, areas, a local FAQ).
+- **Each state page has:** quick answer, at-a-glance facts table, housing-age bar chart, pipes and housing age, common problems → service links, water heaters and gas lines (from heating fuel), storms and sewer backups (from FEMA), tips, licenses and permits, areas served, 4 FAQs, all 19 services, neighboring states, sources; Service schema with `areaServed`.
+- **Service pages:** the "near you" block now shows "<service> near you" with links to all 51 state pages.
+- **Home:** the all-50-states section links to the locations hub.
+- **Checks:** audit PASS 0 issues; reading grade 6.7–9.0; no duplicate paragraphs; site audit clean; no overflow or console errors on all 52 location pages at 360/768/1280.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 4 (next) | Locations hub and 51 state pages (licensing board, permits, freeze, slab and hard-water risks) | — |
-| 5 | Guides hub, 12 guides, 50+ term glossary | — |
+| 5 (next) | Guides hub, 12 guides, 50+ term glossary | — |
 | 6, 6b | Wave 1 cities, 25 per build | — |
 | 7, 7b | Wave 2 cities, 25 per build | — |
 | 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
@@ -36,8 +39,8 @@ Last updated: 2026-11-20 (Build 3b)
 - **Domain:** buy pipemend.us soon (pipemend.com also had no DNS records on 2026-11-19).
 - **Email:** add to `src/site.json` once the domain is bought.
 - **Resend env vars** for the contact form: `RESEND_API_KEY`, `LEAD_TO_EMAIL`, `LEAD_FROM_EMAIL`.
-- **Licensing-ad risk (owner aware):** Georgia, Texas, Illinois, Maryland, California and Minnesota limit plumbing ads to licensed plumbers. Pages say work is done by licensed local plumbers; state pages in Build 4 will name each licensing board.
-- **Deferred on service pages:** the "Local note" paragraph and "plumbers near you" links return in Build 4; "helpful guides" links in Build 5.
+- **Licensing-ad risk (owner aware):** Georgia, Texas, Illinois, Maryland, California and Minnesota limit plumbing ads to licensed plumbers. Pages say work is done by licensed local plumbers; each state page now names its licensing authority.
+- **Deferred:** "helpful guides" links on service and state pages appear automatically in Build 5; city links on state pages in Builds 6–7.
 - **Process claims to confirm:** written estimates before work, permits pulled when required, photo records after each job.
 
 ## Deployment

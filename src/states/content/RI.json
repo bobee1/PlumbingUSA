@@ -1,0 +1,42 @@
+{
+ "lead": "Rhode Island plumbing deals with old housing, coastal storms and cold winters. PipeMend sends licensed local plumbers across the state.",
+ "risk": "aging pipes in older homes, coastal flooding and frozen pipes",
+ "risk_short": "old pipes, coastal flooding and frozen pipes",
+ "why": [
+  "Rhode Island has a lot of older housing, including triple-deckers in Providence and Pawtucket with galvanized supply lines and cast-iron drains. Lead service lines remain in some older homes.",
+  "Coastal storms and hurricanes flood low areas, and winters freeze pipes. Many homes heat with oil or gas boilers. The Department of Labor and Training licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Old galvanized pipe",
+   "Providence and Pawtucket",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Flooding and sewer backups",
+   "Coastal and low areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes before winter.",
+  "Shut off the main valve before a storm evacuation.",
+  "Have boilers serviced yearly.",
+  "Ask your utility about your service line."
+ ],
+ "areas": "Calls come from Providence, Warwick, Cranston, Pawtucket, East Providence, Newport and South County.",
+ "faq": {
+  "q": "Who licenses plumbers in Rhode Island?",
+  "a": "The Rhode Island Department of Labor and Training licenses plumbers. Check the license before work starts."
+ }
+}

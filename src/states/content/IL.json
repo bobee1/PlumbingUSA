@@ -1,0 +1,42 @@
+{
+ "lead": "Illinois plumbing deals with cold winters, basements, flooding and a lot of old lead service lines. PipeMend sends licensed local plumbers from Chicago to Springfield.",
+ "risk": "lead service lines, flooded basements and sewer backups, and frozen pipes",
+ "risk_short": "lead lines, flooded basements and frozen pipes",
+ "why": [
+  "Chicago has one of the largest numbers of lead service lines in the country, and Illinois law requires utilities to replace them over time. Many older homes also have cast-iron drains and old sewer laterals.",
+  "Heavy rain floods basements and backs up sewers, so sump pumps, overhead sewers and backwater valves are common. Winters freeze pipes. The Illinois Department of Public Health licenses plumbers statewide."
+ ],
+ "problems": [
+  [
+   "Lead service lines",
+   "Chicago and older cities",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Flooded basements and sewer backups",
+   "Chicago area and statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump and add a battery backup.",
+  "Ask your utility about your service line.",
+  "Insulate pipes before winter.",
+  "Consider a backwater valve if your basement has flooded."
+ ],
+ "areas": "Calls come from Chicago and its suburbs, Rockford, Peoria, Springfield, Champaign, the Quad Cities and southern Illinois.",
+ "faq": {
+  "q": "Does my Chicago home have a lead service line?",
+  "a": "It might. Chicago has a very large number of lead service lines, especially in older homes. The city has a lookup tool, and a plumber can check the pipe where it enters your basement."
+ }
+}

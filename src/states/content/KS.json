@@ -1,0 +1,42 @@
+{
+ "lead": "Kansas plumbing deals with hard water, clay soils, storms and cold winters. PipeMend sends licensed local plumbers from Wichita to Overland Park.",
+ "risk": "hard water scale, frozen pipes and sewer lines cracked by shifting soil",
+ "risk_short": "hard water, frozen pipes and sewer lines",
+ "why": [
+  "Kansas water is often hard, scaling up water heaters and fixtures. Clay soils swell and shrink with rain and drought, which stresses sewer lines and foundations.",
+  "Winter cold snaps freeze pipes, and spring storms bring flooding. Kansas has no statewide plumber license; cities and counties such as Wichita and Sedgwick County license plumbers."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Much of Kansas",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Older neighborhoods on clay soil",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Insulate pipes before winter.",
+  "Test your sump pump before spring.",
+  "Have older sewer lines scoped."
+ ],
+ "areas": "Calls come from Wichita, Overland Park, Kansas City, Olathe, Topeka, Lawrence, Manhattan and rural Kansas.",
+ "faq": {
+  "q": "Do plumbers need a license in Kansas?",
+  "a": "There is no statewide plumber license. Cities and counties license plumbers and issue permits, so check with your local building department."
+ }
+}

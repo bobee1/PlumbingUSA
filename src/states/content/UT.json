@@ -1,0 +1,42 @@
+{
+ "lead": "Utah plumbing deals with very hard water, cold winters and lots of basements. PipeMend sends licensed local plumbers along the Wasatch Front and statewide.",
+ "risk": "very hard water scale, frozen pipes and sprinkler lines, and basement plumbing",
+ "risk_short": "hard water, frozen pipes and basements",
+ "why": [
+  "Utah's water is very hard in most areas, so softeners are common and scale wears out water heaters and fixtures. Many Wasatch Front homes have basements, with water heaters, sump pits and drain lines below grade.",
+  "Winters freeze sprinkler systems, outdoor faucets and pipes in exterior walls. Utah sits on the Wasatch Fault, so strapped water heaters and flexible gas connectors add safety. Utah licenses plumbers through the Division of Professional Licensing."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Salt Lake, Utah County and statewide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen sprinkler lines",
+   "Statewide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Wasatch Front homes",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Sewer line problems",
+   "Older Salt Lake neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first freeze.",
+  "Keep your softener supplied with salt.",
+  "Strap your water heater for earthquake safety.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "Calls come from Salt Lake City, West Valley City, Provo, Orem, Ogden, St. George, Logan and rural Utah.",
+ "faq": {
+  "q": "Do I need a water softener in Utah?",
+  "a": "Many Utah homes benefit from one. The water is hard in most areas, and scale shortens the life of water heaters, dishwashers and fixtures. A water test shows your hardness and helps size a softener."
+ }
+}

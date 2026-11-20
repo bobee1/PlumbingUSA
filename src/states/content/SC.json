@@ -1,0 +1,42 @@
+{
+ "lead": "South Carolina plumbing deals with humidity, coastal storms, sandy and clay soils and the odd hard freeze. PipeMend sends licensed local plumbers from Greenville to Charleston.",
+ "risk": "hurricane flooding on the coast, sewer roots in older neighborhoods and crawl-space pipes that freeze in cold snaps",
+ "risk_short": "flooding, sewer roots and frozen pipes",
+ "why": [
+  "Coastal South Carolina is low and flat, and hurricanes and king tides flood streets and back up sewers in Charleston, Myrtle Beach and Beaufort. Salt air also corrodes outdoor fixtures and fittings.",
+  "Inland, the Upstate's red clay and mature trees put roots into sewer lines. Many homes sit on crawl spaces with exposed pipes, and a hard freeze can split them. The South Carolina Department of Labor, Licensing and Regulation oversees contractor licensing."
+ ],
+ "problems": [
+  [
+   "Flooding and sewer backups",
+   "Charleston, Myrtle Beach and the Lowcountry",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Roots in sewer lines",
+   "Greenville, Spartanburg and Columbia",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Statewide during cold snaps",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off the main valve before a hurricane evacuation.",
+  "Insulate pipes under the house before a freeze.",
+  "Have a camera inspection if drains keep backing up.",
+  "Rinse outdoor fixtures near the coast to slow corrosion."
+ ],
+ "areas": "Calls come from the Upstate, Columbia and the Midlands, Charleston and the Lowcountry, the Grand Strand and the Pee Dee.",
+ "faq": {
+  "q": "Do I need a licensed plumber in South Carolina?",
+  "a": "Yes for most work. Plumbing contractors are licensed through the South Carolina Department of Labor, Licensing and Regulation, and permits come from your city or county."
+ }
+}

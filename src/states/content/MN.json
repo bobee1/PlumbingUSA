@@ -1,0 +1,42 @@
+{
+ "lead": "Minnesota plumbing is built for deep cold, deep frost and lots of basements. PipeMend sends licensed local plumbers from the Twin Cities to Duluth.",
+ "risk": "frozen pipes and water lines, flooded basements and hard water scale",
+ "risk_short": "frozen pipes, basements and hard water",
+ "why": [
+  "Minnesota winters drive frost deep into the ground, so water lines must be buried deep, and shallow or exposed lines freeze. Most homes have basements with sump pumps and basement water heaters.",
+  "Water is hard in much of the state. Spring snowmelt and heavy rain fill sump pits. The Minnesota Department of Labor and Industry licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen pipes and water lines",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Hard water scale",
+   "Much of Minnesota",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Basements",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Test your sump pump before spring thaw.",
+  "Keep your softener supplied with salt.",
+  "Insulate pipes near exterior walls."
+ ],
+ "areas": "Calls come from Minneapolis, St. Paul, Rochester, Duluth, Bloomington, St. Cloud and rural Minnesota.",
+ "faq": {
+  "q": "What should I do if my water line freezes in Minnesota?",
+  "a": "Call a plumber; frozen service lines usually need special thawing equipment. Keep faucets open, and never use an open flame on pipes. Your water utility may also help if the freeze is on their side."
+ }
+}

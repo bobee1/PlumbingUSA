@@ -1,0 +1,42 @@
+{
+ "lead": "Vermont plumbing is built for hard winters, old farmhouses and private wells. PipeMend sends licensed local plumbers across the state.",
+ "risk": "frozen pipes, private wells and septic systems and storm flooding in river valleys",
+ "risk_short": "frozen pipes, wells and flooding",
+ "why": [
+  "Many Vermont homes are old farmhouses and village homes with a mix of old and new pipe. Winters freeze pipes in exterior walls, crawl spaces and seasonal camps. Many homes heat with oil, propane or wood.",
+  "Most rural homes rely on private wells and septic systems. River valleys flood in heavy rain, as in July 2023. The Vermont Division of Fire Safety licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Flooded basements",
+   "River valleys",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Water heater problems",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ]
+ ],
+ "tips": [
+  "Winterize camps and seasonal homes.",
+  "Keep the heat on in winter.",
+  "Test well water every year.",
+  "Test your sump pump before spring."
+ ],
+ "areas": "Calls come from Burlington, South Burlington, Rutland, Montpelier, Barre, Brattleboro, the Northeast Kingdom and the ski towns.",
+ "faq": {
+  "q": "Who licenses plumbers in Vermont?",
+  "a": "The Vermont Division of Fire Safety licenses plumbers. Check the license before work starts."
+ }
+}

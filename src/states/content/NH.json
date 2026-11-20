@@ -1,0 +1,42 @@
+{
+ "lead": "New Hampshire plumbing is built for cold winters, old homes and private wells. PipeMend sends licensed local plumbers across the state.",
+ "risk": "frozen pipes, private well and septic systems and aging pipes in older homes",
+ "risk_short": "frozen pipes, wells and old pipes",
+ "why": [
+  "Many New Hampshire homes rely on private wells and septic systems, so pumps, pressure tanks and water treatment are common jobs. Older homes in Manchester, Nashua and Concord still have galvanized supply lines and cast-iron drains.",
+  "Long winters freeze pipes in exterior walls, garages and seasonal homes. Many homes heat with oil or propane boilers that also heat water. The Mechanical Safety and Licensing Board licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural and suburban homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Old galvanized pipe",
+   "Older city homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Boiler and water heater problems",
+   "Oil and propane homes",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ]
+ ],
+ "tips": [
+  "Winterize seasonal homes and camps.",
+  "Test well water every year.",
+  "Have your boiler serviced yearly.",
+  "Keep the heat on in winter, even when away."
+ ],
+ "areas": "Calls come from Manchester, Nashua, Concord, Dover, Rochester, Portsmouth, the Lakes Region and the North Country.",
+ "faq": {
+  "q": "Who is responsible for my well water in New Hampshire?",
+  "a": "The homeowner is. Private wells are not regulated like public water, so testing and treatment are up to you. Test regularly and have a plumber service the pump and pressure tank."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "lead": "Oregon plumbing deals with rain, soft water, older homes and an occasional hard freeze. PipeMend sends licensed local plumbers from Portland to Bend.",
+ "risk": "older pipes and sewer lines in Portland homes, wet-season drain and sump problems and frozen pipes in cold snaps",
+ "risk_short": "old pipes, wet basements and frozen pipes",
+ "why": [
+  "Western Oregon's long wet season keeps soil saturated, which strains sump pumps, crawl-space drains and sewer lines. Older Portland and Salem homes often have galvanized supply lines and clay or cast-iron sewer laterals full of roots.",
+  "Water here is mostly soft, which can be more corrosive to copper pipe. East of the Cascades, Bend and the high desert have cold winters. Oregon licenses plumbers through the Building Codes Division, and contractors also register with the Construction Contractors Board."
+ ],
+ "problems": [
+  [
+   "Old galvanized supply lines",
+   "Older Portland and Salem homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Root-clogged sewer laterals",
+   "Neighborhoods with big trees",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Wet crawl spaces and sump pumps",
+   "Western Oregon in the rainy season",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Bend and cold snaps statewide",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Check your sump pump before the rainy season.",
+  "Have the sewer line scoped before buying an older home.",
+  "Insulate crawl-space pipes before a cold snap.",
+  "Disconnect hoses in fall."
+ ],
+ "areas": "Calls come from Portland and its suburbs, Salem, Eugene, Bend, Medford, the coast and Eastern Oregon.",
+ "faq": {
+  "q": "Who licenses plumbers in Oregon?",
+  "a": "Oregon's Building Codes Division licenses plumbers, and plumbing businesses must also be licensed by the Construction Contractors Board. Check both before work starts."
+ }
+}

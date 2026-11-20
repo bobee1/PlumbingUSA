@@ -1,0 +1,42 @@
+{
+ "lead": "Tennessee plumbing deals with limestone hard water, flash flooding and cold snaps. PipeMend sends licensed local plumbers from Memphis to Knoxville.",
+ "risk": "hard water scale, flash flooding and crawl-space pipes that freeze in winter",
+ "risk_short": "hard water, flooding and frozen pipes",
+ "why": [
+  "Middle and East Tennessee sit on limestone, so the water is often hard. Scale builds up in water heaters and fixtures. Many homes have crawl spaces, and the pipes under them get cold in winter.",
+  "Heavy rain causes flash floods; the 2010 Nashville flood hit thousands of homes. Older homes in Memphis, Nashville, Chattanooga and Knoxville have cast-iron and clay sewer lines that crack and fill with roots. A state board licenses larger plumbing contracts, and cities license plumbers for smaller work."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Middle and East Tennessee",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Statewide in cold snaps",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Flooded basements and crawl spaces",
+   "Nashville and river valleys",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Older Memphis and Nashville homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before the first hard freeze.",
+  "Flush your water heater yearly to clear scale.",
+  "Test your sump pump before spring storms.",
+  "Plant trees away from the sewer line."
+ ],
+ "areas": "Calls come from Nashville, Memphis, Knoxville, Chattanooga, Clarksville, the Tri-Cities and rural Tennessee.",
+ "faq": {
+  "q": "Who licenses plumbers in Tennessee?",
+  "a": "The Tennessee Board for Licensing Contractors licenses plumbing contractors on larger jobs, and many cities and counties license plumbers for smaller work. Ask for both the license and the permit."
+ }
+}

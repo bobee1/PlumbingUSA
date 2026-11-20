@@ -1,0 +1,42 @@
+{
+ "lead": "Mississippi plumbing deals with heat, humidity, Gulf storms and plenty of rural wells and septic systems. PipeMend sends licensed local plumbers across the state.",
+ "risk": "storm flooding on the Gulf Coast, aging water and sewer lines and frozen pipes in rare hard freezes",
+ "risk_short": "storm flooding, old lines and frozen pipes",
+ "why": [
+  "Jackson and other older cities have aging water mains and sewer lines, and the Jackson water crisis of 2022 showed how fragile some public systems are. In older homes, galvanized and cast-iron pipes are near the end of their life.",
+  "The Gulf Coast faces hurricanes and storm surge. Inland, clay soils shift with wet and dry seasons, and many rural homes depend on private wells and septic systems. Winters are mild, so pipes are rarely protected; a hard freeze can burst them."
+ ],
+ "problems": [
+  [
+   "Storm flooding and sewer backups",
+   "Gulf Coast and low areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes in rare freezes",
+   "Crawl spaces statewide",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Older Jackson and Meridian homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Store drinking water before storms in case of boil-water notices.",
+  "Insulate pipes in crawl spaces before a freeze.",
+  "Have your septic system pumped on schedule.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "Calls come from the Jackson metro, the Gulf Coast, Hattiesburg, Tupelo, Southaven and North Mississippi, and the Delta.",
+ "faq": {
+  "q": "Who licenses plumbers in Mississippi?",
+  "a": "The Mississippi State Board of Contractors licenses plumbing contractors above certain project sizes, and many cities license plumbers locally. Check with your city for smaller jobs."
+ }
+}

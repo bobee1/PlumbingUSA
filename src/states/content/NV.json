@@ -1,0 +1,42 @@
+{
+ "lead": "Nevada plumbing deals with very hard water, desert heat and slab homes, plus real winters around Reno. PipeMend sends licensed local plumbers from Las Vegas to Reno.",
+ "risk": "very hard water scale, slab leaks and frozen pipes in Northern Nevada",
+ "risk_short": "hard water, slab leaks and frozen pipes",
+ "why": [
+  "Southern Nevada's water is very hard, so scale builds up in water heaters, tankless units, faucets and showerheads. Most Las Vegas homes are built on slabs, with supply lines under the floor that can leak. Water conservation is a priority in the desert.",
+  "Reno, Carson City and the high desert see hard freezes, and pipes on outside walls and in crawl spaces freeze. Nevada licenses plumbing contractors through the Nevada State Contractors Board."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Las Vegas, Henderson and North Las Vegas",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Las Vegas Valley slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Tankless and water heater scale",
+   "Homes statewide",
+   "<a href=\"/services/tankless-water-heaters/\">Tankless water heaters</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Reno, Carson City and the high desert",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly to clear scale.",
+  "Descale tankless units on schedule.",
+  "Watch your water bill for signs of a slab leak.",
+  "Wrap outdoor pipes in Northern Nevada before winter."
+ ],
+ "areas": "Calls come from Las Vegas, Henderson, North Las Vegas, Reno, Sparks, Carson City and rural Nevada.",
+ "faq": {
+  "q": "Why is Las Vegas water so hard?",
+  "a": "Southern Nevada's water picks up calcium and magnesium on its way through the Colorado River system. That hardness leaves white scale on fixtures and in water heaters. A softener and regular flushing help."
+ }
+}

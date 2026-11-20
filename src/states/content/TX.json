@@ -1,0 +1,23 @@
+{
+ "lead": "From Houston's humid clay to El Paso's desert, Texas plumbing deals with slab leaks, hard water and the occasional deep freeze. PipeMend sends licensed local plumbers across Texas, day and night.",
+ "risk": "slab leaks in homes built on shifting clay soil, hard water scale and pipes that freeze during rare hard freezes",
+ "risk_short": "slab leaks, hard water and burst pipes",
+ "why": [
+  "Most Texas homes sit on concrete slabs, with water lines running under the floor. Expansive clay soils around Dallas, Fort Worth, Austin and Houston swell when wet and shrink in drought, which stresses those lines and the slab itself. That makes slab leak detection and rerouting some of the most common jobs in the state.",
+  "Texas winters are usually mild, so many pipes run through attics and exterior walls with little insulation. When a hard freeze does arrive, as in the February 2021 winter storm, burst pipes can hit huge numbers of homes at once. Much of Central and West Texas also has hard water that scales up water heaters and fixtures."
+ ],
+ "problems": [
+  ["Slab leaks", "Dallas, Fort Worth, Houston, Austin and San Antonio", "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"],
+  ["Burst pipes after a freeze", "Attic and exterior-wall pipes statewide", "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"],
+  ["Hard water scale", "Central and West Texas, the Panhandle", "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"],
+  ["Root-damaged sewer lines", "Older neighborhoods with mature trees", "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"]
+ ],
+ "tips": [
+  "Water your foundation evenly during long droughts to limit soil movement around the slab.",
+  "Before a hard freeze, drip faucets on outside walls and open sink cabinets.",
+  "Know where your main shutoff is; in many Texas homes it is in a box near the street.",
+  "Flush your water heater yearly if you have hard water."
+ ],
+ "areas": "Calls come from the Dallas–Fort Worth Metroplex, Greater Houston, the Austin and San Antonio corridor, the Rio Grande Valley, West Texas and the Panhandle.",
+ "faq": {"q": "Why are slab leaks so common in Texas?", "a": "Many Texas homes are built on concrete slabs over clay soil. The clay swells and shrinks with rain and drought, which moves the slab and stresses the copper lines under it. Hot water lines also rub as they expand. Warm floor spots and a meter that moves with all taps off are the usual signs."}
+}

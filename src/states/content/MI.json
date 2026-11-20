@@ -1,0 +1,42 @@
+{
+ "lead": "Michigan plumbing deals with cold winters, basements, old housing and lead service lines. PipeMend sends licensed local plumbers from Detroit to the Upper Peninsula.",
+ "risk": "lead service lines, flooded basements and frozen pipes",
+ "risk_short": "lead lines, flooded basements and frozen pipes",
+ "why": [
+  "Michigan requires water utilities to replace lead service lines, a rule shaped by the Flint water crisis. Older homes in Detroit, Grand Rapids and Flint also have galvanized supply lines and cast-iron drains.",
+  "Heavy rain floods basements and backs up sewers, as in the 2021 Detroit-area floods. Winters freeze pipes, especially in the Upper Peninsula. Michigan licenses plumbers through LARA's Bureau of Construction Codes."
+ ],
+ "problems": [
+  [
+   "Lead service lines",
+   "Detroit, Flint and older cities",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Flooded basements",
+   "Metro Detroit and statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old cast-iron drains",
+   "Older homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Ask your utility about your service line.",
+  "Test your sump pump and add a battery backup.",
+  "Insulate pipes before winter.",
+  "Consider a backwater valve if your basement has flooded."
+ ],
+ "areas": "Calls come from Detroit and its suburbs, Grand Rapids, Lansing, Ann Arbor, Flint, Kalamazoo, Traverse City and the Upper Peninsula.",
+ "faq": {
+  "q": "Is Michigan replacing lead water lines?",
+  "a": "Yes. Michigan requires water utilities to replace lead service lines over time. Ask your utility about your address, and a plumber can check the pipe where it enters your home."
+ }
+}

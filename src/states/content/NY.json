@@ -1,0 +1,42 @@
+{
+ "lead": "New York plumbing ranges from prewar city buildings to lake-effect snow country. PipeMend sends licensed local plumbers from New York City to Buffalo.",
+ "risk": "aging pipes in older buildings, frozen pipes upstate and basement flooding",
+ "risk_short": "old pipes, frozen pipes and flooding",
+ "why": [
+  "New York City and older upstate cities have huge numbers of prewar buildings with galvanized supply lines, cast-iron stacks and lead service lines. Steam heat, shared risers and tight access make repairs in older buildings slow.",
+  "Upstate, lake-effect snow and deep cold freeze pipes in Buffalo, Rochester and Syracuse. Heavy rain floods basements across the state. New York has no statewide plumber license; New York City licenses master plumbers, and other cities set their own rules."
+ ],
+ "problems": [
+  [
+   "Old galvanized and lead pipes",
+   "NYC and older upstate cities",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Upstate and the North Country",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Flooded basements",
+   "Low-lying areas statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Main drain and stack clogs",
+   "Multi-family buildings",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes on outside walls and in basements.",
+  "Ask your utility about your service line material.",
+  "Test your sump pump before spring thaw.",
+  "Keep grease out of shared drain stacks."
+ ],
+ "areas": "Calls come from New York City, Long Island, Westchester, the Hudson Valley, the Capital Region, Syracuse, Rochester and Buffalo.",
+ "faq": {
+  "q": "Do plumbers need a license in New York?",
+  "a": "There is no statewide plumber license. New York City requires a licensed master plumber for most work, and many other cities and counties license plumbers. Check with your local building department."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "lead": "Colorado plumbing deals with cold winters, expansive soils, dry air and big temperature swings. PipeMend sends licensed local plumbers from Denver to Colorado Springs and the mountains.",
+ "risk": "frozen pipes and sprinkler lines, sewer lines cracked by expansive soil and basement water heaters",
+ "risk_short": "frozen pipes, sewer lines and water heaters",
+ "why": [
+  "Front Range homes often sit on expansive clay soils that swell when wet and shrink when dry. That movement cracks sewer lines and foundations. Many Colorado homes have basements, which bring sump pumps, ejector pits and basement water heaters.",
+  "Winters bring sudden cold snaps after warm days, and mountain towns see long, deep freezes. Unwinterized sprinkler systems and outdoor faucets crack every fall. The Colorado State Plumbing Board licenses plumbers statewide."
+ ],
+ "problems": [
+  [
+   "Frozen pipes and sprinkler lines",
+   "Statewide every fall and winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Front Range homes on expansive soil",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Denver and Colorado Springs",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines and disconnect hoses before the first hard freeze.",
+  "Keep the heat on in mountain homes, even when empty.",
+  "Have the sewer line scoped before buying an older home.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "Calls come from Denver and its suburbs, Colorado Springs, Fort Collins, Boulder, Pueblo, Grand Junction and mountain towns.",
+ "faq": {
+  "q": "When should I winterize sprinklers in Colorado?",
+  "a": "Before the first hard freeze, usually in October along the Front Range and earlier in the mountains. Water left in backflow preventers and lines freezes and cracks them. A plumber or irrigation pro can blow out the system."
+ }
+}

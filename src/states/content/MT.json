@@ -1,0 +1,42 @@
+{
+ "lead": "Montana plumbing is built for long, deep winters, long drives and lots of private wells. PipeMend sends licensed local plumbers from Billings to Missoula.",
+ "risk": "frozen water lines and pipes, well and septic systems, and hard water in many areas",
+ "risk_short": "frozen pipes, wells and hard water",
+ "why": [
+  "Montana winters bring long stretches below zero, and frost goes deep. Water lines, crawl-space pipes and vacant cabins freeze when the heat fails. Many Montana homes are far from town, so plumbers often travel long distances.",
+  "Rural homes rely on private wells and septic systems, and hard water is common in many areas. The Montana Board of Plumbers licenses plumbers statewide."
+ ],
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes and ranches",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Many areas east of the Divide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater failures",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ]
+ ],
+ "tips": [
+  "Never let the heat drop low during a cold snap.",
+  "Winterize cabins and seasonal homes.",
+  "Insulate pipes in crawl spaces and on outside walls.",
+  "Test well water every year."
+ ],
+ "areas": "Calls come from Billings, Missoula, Great Falls, Bozeman, Butte, Helena, Kalispell and rural Montana.",
+ "faq": {
+  "q": "How do I winterize a Montana cabin?",
+  "a": "Shut off the water, drain the pipes and water heater, and put RV antifreeze in drain traps and toilets. If you leave heat on, keep it at a safe level and add a temperature alarm. A plumber can do the full winterization."
+ }
+}

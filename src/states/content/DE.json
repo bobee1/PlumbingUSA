@@ -1,0 +1,42 @@
+{
+ "lead": "Delaware plumbing ranges from century-old Wilmington rowhouses to new homes near the beaches. PipeMend sends licensed local plumbers across all three counties.",
+ "risk": "aging pipes in older Wilmington homes, coastal flooding near the bays and beaches and well and septic systems in Sussex County",
+ "risk_short": "old pipes, coastal flooding and well systems",
+ "why": [
+  "Northern New Castle County has a lot of older housing, with galvanized supply lines, cast-iron drains and clay sewer laterals. Those systems are prone to low water pressure, rusty water and root-clogged sewer lines.",
+  "Southern Delaware is low and flat. Nor'easters and hurricanes push water into coastal towns, and high groundwater keeps sump pumps busy. Many homes in Kent and Sussex counties rely on private wells and septic systems, and new beach-area homes need careful freeze protection when they sit empty in winter."
+ ],
+ "problems": [
+  [
+   "Rusty water and low pressure",
+   "Older Wilmington and Newark homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Flooded crawl spaces and basements",
+   "Coastal Sussex and Kent counties",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Root-clogged sewer laterals",
+   "Older neighborhoods with mature trees",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes in vacant homes",
+   "Beach and vacation properties",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off and drain the water in seasonal homes before winter.",
+  "Test your sump pump before storm season.",
+  "Have older galvanized pipes checked if pressure keeps dropping.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "Calls come from Wilmington and northern New Castle County, Dover and Kent County, and the Sussex County beach towns.",
+ "faq": {
+  "q": "How do I protect a Delaware beach house that sits empty in winter?",
+  "a": "Shut off the main valve, drain the supply lines and water heater, and leave cabinet doors open if you keep heat on. A plumber can winterize the house and add a smart leak or temperature alarm."
+ }
+}

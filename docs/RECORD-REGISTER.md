@@ -53,4 +53,14 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 47 | 2026-11-20 | 3b | Hub table +9 rows; home legend links to water line, toilet, faucet; all 19 cards linked | Done | Hub 843 words, home 1,774 |
 | 48 | 2026-11-20 | 3b | Audit, readability, site audit, responsive check 360/768/1280 | Done | PASS 0 issues; FK 5.5–8.7; no overflow; sump label overlap fixed |
 | 49 | 2026-11-20 | 3b | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 50 | — | 4 | Locations hub and 51 state pages | Planned | Next |
+| 50 | 2026-11-20 | 4 | Owner asked for Build 4 | Done | — |
+| 51 | 2026-11-20 | 4 | Reused SootMend's state data (ACS housing, places, FEMA water declarations, heating fuel) and meta (names, slugs, neighbors) | Done | `research/07-state-data.json`, `research/08-heating-fuel.json`, `src/states/meta.json` |
+| 52 | 2026-11-20 | 4 | Plumbing licensing authority researched for all 51 | Done | Two state-by-state guides cross-checked; TX, AR, DC verified separately; 6 local-only states |
+| 53 | 2026-11-20 | 4 | `states.py` template (facts table, housing-age chart, heater and flood text, licensing, FAQ, schema) and `{{state_patterns}}` component | Done | Service cards swapped for compact links to keep pages under 1,400 words |
+| 54 | 2026-11-20 | 4 | Locations hub written | Done | 917 words |
+| 55 | 2026-11-20 | 4 | 51 hand-written state content files (South, West, Northeast + Midwest batches) | Done | `src/states/content/` |
+| 56 | 2026-11-20 | 4 | Fixes: banned word on WA, repeated paragraphs made state-specific, CT/TN/VA simplified, named storms keep capitals | Done | — |
+| 57 | 2026-11-20 | 4 | Home links to locations hub; service pages show "near you" state links | Done | Home 1,781 words |
+| 58 | 2026-11-20 | 4 | Audit, readability, site audit, responsive check on 52 location pages | Done | PASS 0 issues; FK 6.7–9.0; 948–1,140 words |
+| 59 | 2026-11-20 | 4 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 60 | — | 5 | Guides hub, 12 guides and glossary | Planned | Next |

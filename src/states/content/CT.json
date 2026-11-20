@@ -1,0 +1,42 @@
+{
+ "lead": "Connecticut plumbing deals with old housing, cold winters, oil and gas boilers and many private wells. PipeMend sends licensed local plumbers across the state.",
+ "risk": "frozen pipes, aging pipes and drains in older homes and private well systems",
+ "risk_short": "frozen pipes, old pipes and wells",
+ "why": [
+  "Connecticut has a lot of old houses. Many still have galvanized water pipes, cast-iron drains and clay sewer lines. Many homes heat with oil or gas boilers, and the boiler often heats the tap water too.",
+  "Outside the cities, many homes use their own wells and septic tanks. Winter cold freezes pipes in outside walls, garages and crawl spaces. Nor'easters flood basements. The state Department of Consumer Protection licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized and cast-iron pipe",
+   "Hartford, New Haven and older towns",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural and suburban homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Flooded basements",
+   "Low areas after nor'easters",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes on outside walls and in garages.",
+  "Have boilers and indirect water heaters serviced yearly.",
+  "Test well water every year.",
+  "Test your sump pump before spring."
+ ],
+ "areas": "Calls come from Hartford, New Haven, Bridgeport, Stamford, Waterbury, Norwalk, eastern Connecticut and the Litchfield Hills.",
+ "faq": {
+  "q": "Do I need to test my well water in Connecticut?",
+  "a": "Yes, private wells are the owner's responsibility. Testing once a year for bacteria, and periodically for other contaminants, is a good habit. A plumber can fix pumps and pressure tanks, and a treatment system can address problems the test finds."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "lead": "Nebraska plumbing deals with cold winters, hard water and river flooding. PipeMend sends licensed local plumbers from Omaha to Lincoln and beyond.",
+ "risk": "frozen pipes, hard water scale and flooded basements",
+ "risk_short": "frozen pipes, hard water and flooding",
+ "why": [
+  "Nebraska water is often hard, scaling up water heaters and fixtures. Many homes have basements with sump pumps.",
+  "Winters freeze pipes, and river flooding, as in 2019, damages homes. Nebraska has no statewide plumber license; cities such as Omaha and Lincoln license plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Much of Nebraska",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Flooded basements",
+   "River towns",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes before winter.",
+  "Flush your water heater yearly.",
+  "Test your sump pump before spring.",
+  "Disconnect hoses in fall."
+ ],
+ "areas": "Calls come from Omaha, Lincoln, Bellevue, Grand Island, Kearney and rural Nebraska.",
+ "faq": {
+  "q": "Do plumbers need a license in Nebraska?",
+  "a": "There is no statewide plumber license. Cities such as Omaha and Lincoln license plumbers and issue permits."
+ }
+}

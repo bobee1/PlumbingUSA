@@ -125,6 +125,8 @@ def expand_components(body, meta, pages_by_path):
     if states:
         body = body.replace("{{states_grid}}", states.states_grid())
         body = body.replace("{{state_pills}}", states.state_pills())
+        if "{{state_patterns}}" in body:
+            body = body.replace("{{state_patterns}}", states.state_patterns())
     if metros and "{{metro_pills}}" in body:
         mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}, {metros.MMETA[k]["st"]}</a></li>'
                      for k in sorted(metros.MMETA, key=lambda k: metros.MMETA[k]["city"]) if (metros.CDIR / f"{k}.json").exists())
@@ -311,7 +313,7 @@ def sidebar_html(meta, pages_by_path):
     if meta.get("type") in ("city", "state") and len(meta.get("parents", [])) >= 1:
         p = meta["parents"][-1]
         loc = (f'<div class="side-card"><p class="side-title">More locations</p><ul class="side-list">'
-               f'<li><a href="{p[1]}">{esc(p[0])}</a></li><li><a href="/locations/">All states and metros</a></li></ul></div>')
+               f'<li><a href="{p[1]}">{esc(p[0])}</a></li><li><a href="/locations/">All locations</a></li></ul></div>')
     return f"""<aside class="sidebar" aria-label="Get help and related pages">
 <div class="side-card side-call"><p class="side-title">Water where it shouldn't be?</p>
 <p>Call {SITE['brand']} {SITE['availability']} for leaks, clogs, water heaters and sewer problems.</p>

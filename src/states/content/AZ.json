@@ -1,0 +1,42 @@
+{
+ "lead": "Arizona plumbing fights some of the hardest water in the country, desert heat and slab construction. PipeMend sends licensed local plumbers from Phoenix to Tucson and Flagstaff.",
+ "risk": "very hard water scale, slab leaks and pipes that freeze in the high country",
+ "risk_short": "hard water, slab leaks and frozen pipes",
+ "why": [
+  "Water in Phoenix, Tucson and much of the state is very hard. Scale clogs aerators, wears out water heaters and coats tankless heat exchangers, so softeners and regular flushing are common. Most homes are built on slabs, with copper or PEX lines under the floor.",
+  "Summer heat bakes water heaters in garages and attics, and caliche soil is hard to dig. Flagstaff, Prescott and the high country get real winters that freeze pipes. Arizona licenses plumbing contractors through the Registrar of Contractors."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Phoenix, Tucson and most of the state",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes in the Valley",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater failures from scale",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Flagstaff and the high country",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year to clear hard water scale.",
+  "Clean faucet aerators and showerheads often.",
+  "Consider a softener if scale keeps coming back.",
+  "Wrap outdoor pipes in the high country before winter."
+ ],
+ "areas": "Calls come from the Phoenix metro, including Mesa, Chandler, Scottsdale and Glendale, plus Tucson, Flagstaff, Prescott, Yuma and rural Arizona.",
+ "faq": {
+  "q": "Why does my Arizona water heater wear out so fast?",
+  "a": "Arizona's hard water leaves scale on the tank bottom and the heating elements. Scale makes the heater work harder and shortens its life. Flushing once a year, checking the anode rod and adding a softener all help."
+ }
+}

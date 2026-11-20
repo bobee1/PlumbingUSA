@@ -1,0 +1,43 @@
+{
+ "lead": "Alaska plumbing is built for deep cold, long distances and frozen ground. PipeMend sends licensed local plumbers from Anchorage to Fairbanks and Juneau.",
+ "risk": "frozen water and sewer lines, heat tape and boiler failures, and well and septic systems in rural areas",
+ "risk_short": "frozen pipes, boilers and wells",
+ "why": [
+  "Alaska's winters push frost deep into the ground, and in the Interior some homes sit on permafrost. Water and sewer lines must be buried deep, insulated or heat-traced, and a power outage or failed heat tape can freeze them within hours.",
+  "Many homes heat with oil or gas boilers, which often heat domestic water too. Outside the larger cities, homes rely on wells, holding tanks and septic systems, and a plumber may drive a long way to reach them. Alaska licenses plumbers through state certificates of fitness and mechanical administrator licenses."
+ ],
+ "problems": [
+  [
+   "Frozen water and sewer lines",
+   "Fairbanks, the Mat-Su and the Interior",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Failed heat tape",
+   "Exposed lines and crawl spaces",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Boiler and water heater problems",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Check heat tape before winter and keep a backup heat source.",
+  "Never let a home's heat drop low during a cold snap.",
+  "Know how to drain the system if you lose heat for a long time.",
+  "Keep crawl-space vents closed in winter."
+ ],
+ "areas": "Calls come from Anchorage, the Mat-Su Valley, Fairbanks and the Interior, Juneau, the Kenai Peninsula and Southeast Alaska.",
+ "faq": {
+  "q": "How do I keep pipes from freezing in an Alaska winter?",
+  "a": "Keep the heat on, keep crawl spaces closed, and make sure heat tape on vulnerable lines works. If you leave for a long time, have a plumber drain and winterize the system. A temperature alarm that texts you is cheap insurance."
+ },
+ "licensing": "Plumbers need a state certificate of fitness from the Alaska Department of Labor, and plumbing businesses need a mechanical administrator license."
+}

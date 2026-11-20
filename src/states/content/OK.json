@@ -1,0 +1,42 @@
+{
+ "lead": "Oklahoma plumbing deals with clay soils, ice storms, hard water and tornado season. PipeMend sends licensed local plumbers from Oklahoma City to Tulsa and beyond.",
+ "risk": "slab leaks from shifting clay soil, burst pipes during ice storms and hard water in the west",
+ "risk_short": "slab leaks, frozen pipes and hard water",
+ "why": [
+  "Many Oklahoma homes sit on slabs over expansive red clay, which swells when wet and shrinks during drought. That movement stresses water and sewer lines under the floor. Western Oklahoma's water is often hard, scaling up water heaters and fixtures.",
+  "Winter ice storms and arctic blasts burst pipes in attics, exterior walls and crawl spaces. Spring severe storms and tornadoes can break water lines and cause flooding. The Oklahoma Construction Industries Board licenses plumbers statewide."
+ ],
+ "problems": [
+  [
+   "Slab leaks",
+   "Oklahoma City and Tulsa metros",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Frozen and burst pipes",
+   "Statewide during arctic blasts",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Western and central Oklahoma",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Cracked sewer lines",
+   "Older neighborhoods on clay soil",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly during long droughts.",
+  "Drip faucets and open cabinets before an arctic blast.",
+  "Disconnect garden hoses before the first freeze.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "Calls come from the Oklahoma City metro, Tulsa and Green Country, Norman, Lawton, Stillwater and western Oklahoma.",
+ "faq": {
+  "q": "What should I do if pipes burst during an Oklahoma ice storm?",
+  "a": "Shut off the main water valve right away, turn off power to wet areas if safe, and open faucets to drain the lines. Then call a plumber. Photograph the damage for your insurer."
+ }
+}

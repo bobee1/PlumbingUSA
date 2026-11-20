@@ -1,0 +1,42 @@
+{
+ "lead": "Florida plumbing lives with heat, humidity, hurricanes and hard, mineral-heavy water. PipeMend sends licensed local plumbers across Florida, from Pensacola to Key West.",
+ "risk": "slab leaks, hard water scale, failing cast-iron drains in older homes and hurricane flooding",
+ "risk_short": "slab leaks, hard water and storm damage",
+ "why": [
+  "Most Florida homes are built on concrete slabs, with supply and drain lines in or under the floor. Older homes from the 1950s to 1970s often have cast-iron drain lines that are now rotting from the inside, and lining or replacing them is a major job. Much of the state draws water from limestone aquifers, so hard water and scale are common.",
+  "Hurricanes and tropical storms bring flooding, power loss and sewer backups, and storm surge can damage water and sewer lines near the coast. Many homes outside the cities rely on wells and septic systems, and sulfur-smelling well water is a frequent complaint."
+ ],
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes statewide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Failing cast-iron drain lines",
+   "1950s–1970s homes in South Florida and Tampa Bay",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Central Florida and much of the peninsula",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Storm flooding and sewer backups",
+   "Coastal and low-lying areas",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off the main water valve if you evacuate for a hurricane.",
+  "Have cast-iron drain lines in older homes checked with a camera.",
+  "Flush your water heater yearly to clear scale.",
+  "Watch your water bill for unexplained jumps, a sign of a slab leak."
+ ],
+ "areas": "Calls come from South Florida, Tampa Bay, Orlando and Central Florida, Jacksonville and the First Coast, Southwest Florida and the Panhandle.",
+ "faq": {
+  "q": "Why do older Florida homes have so many drain problems?",
+  "a": "Many homes built before the mid-1970s have cast-iron drain lines under the slab. Florida's warm, wet conditions corrode them from the inside, causing slow drains, backups and sewer smells. A camera inspection shows whether the pipe can be lined or must be replaced."
+ }
+}

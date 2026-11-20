@@ -1,0 +1,42 @@
+{
+ "lead": "Wisconsin plumbing deals with deep cold, basements, hard water and lead service lines. PipeMend sends licensed local plumbers from Milwaukee to Madison.",
+ "risk": "lead service lines, flooded basements and frozen pipes",
+ "risk_short": "lead lines, flooded basements and frozen pipes",
+ "why": [
+  "Milwaukee has many lead service lines, and the city is replacing them over time. Older homes also have galvanized supply lines and cast-iron drains. Water is hard in much of the state.",
+  "Winters freeze pipes, and spring thaws fill sump pits and basements. The Wisconsin Department of Safety and Professional Services licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Lead service lines",
+   "Milwaukee and older cities",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Flooded basements",
+   "Statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Much of Wisconsin",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Ask your utility about your service line.",
+  "Test your sump pump before spring thaw.",
+  "Insulate pipes before winter.",
+  "Keep your softener supplied with salt."
+ ],
+ "areas": "Calls come from Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Eau Claire and rural Wisconsin.",
+ "faq": {
+  "q": "Does Milwaukee have lead water lines?",
+  "a": "Many older Milwaukee homes do. The city is replacing lead service lines over time, and you can check your address with Milwaukee Water Works. A plumber can also look at the pipe where it enters your basement."
+ }
+}

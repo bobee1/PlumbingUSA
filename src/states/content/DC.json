@@ -1,0 +1,42 @@
+{
+ "lead": "Washington, DC has some of the oldest housing in the country, from Capitol Hill rowhouses to Petworth porch-fronts. PipeMend sends licensed plumbers to every ward, day and night.",
+ "risk": "lead and galvanized pipes in old rowhouses, basement sewer backups during heavy rain and tight, hard-to-reach plumbing",
+ "risk_short": "old pipes, lead lines and basement backups",
+ "why": [
+  "Much of the District's housing was built before 1940. Rowhouses often still have galvanized supply pipes, cast-iron stacks and old clay sewer laterals running under the front yard to the street. DC Water has an active program to replace lead service lines, and homeowners can ask what their line is made of.",
+  "Parts of the District are served by combined sewers that carry both storm water and sewage. During cloudbursts, basements in low areas can take on sewage through floor drains. Backwater valves, sump pumps and sewer line repairs are common basement jobs."
+ ],
+ "problems": [
+  [
+   "Lead and galvanized service lines",
+   "Rowhouses across the older wards",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement sewer backups",
+   "Low-lying neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old cast-iron stacks",
+   "Rowhouses and older apartment buildings",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater swaps in tight spaces",
+   "Basements and utility closets",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Ask DC Water what your service line is made of and whether you qualify for replacement help.",
+  "Consider a backwater valve if your basement has flooded during storms.",
+  "Do not pour grease down the drain; it clogs old cast-iron lines.",
+  "Find your main shutoff in the basement or front vault."
+ ],
+ "areas": "Calls come from all eight wards, including Capitol Hill, Georgetown, Columbia Heights, Petworth, Brookland, Navy Yard and Anacostia.",
+ "faq": {
+  "q": "Does Washington, DC still have lead water lines?",
+  "a": "Some homes still do, mostly older houses. DC Water runs a program to find and replace lead service lines, and you can check your address with the utility. A plumber can also look at the pipe where it enters your basement."
+ }
+}

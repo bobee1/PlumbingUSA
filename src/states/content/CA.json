@@ -1,0 +1,43 @@
+{
+ "lead": "California plumbing deals with earthquakes, drought rules, hard water in many areas and some of the oldest pipes in the West. PipeMend sends licensed local plumbers statewide.",
+ "risk": "earthquake safety for water heaters and gas lines, hard water scale and old galvanized and cast-iron pipe in prewar homes",
+ "risk_short": "earthquake safety, hard water and old pipes",
+ "why": [
+  "California law requires water heaters to be braced or strapped against earthquakes, and many homes also have seismic gas shutoff valves. Older homes in Los Angeles, San Francisco and Oakland still have galvanized supply lines and cast-iron drains that rust and crack.",
+  "Southern California, the Central Valley and the Inland Empire have hard water that scales up fixtures and water heaters. Drought rules and high water prices make leaks and old fixtures costly. Plumbing contractors are licensed by the Contractors State License Board."
+ ],
+ "problems": [
+  [
+   "Old galvanized supply lines",
+   "Prewar homes in LA, San Francisco and Oakland",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Hard water scale",
+   "Southern California and the Central Valley",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Cast-iron and clay sewer lines",
+   "Older neighborhoods with mature trees",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Make sure your water heater has earthquake straps.",
+  "Know how to shut off the gas at the meter.",
+  "Fix leaks fast; water is expensive in most of California.",
+  "Have older sewer lines inspected with a camera."
+ ],
+ "areas": "Calls come from Greater Los Angeles, San Diego, the Bay Area, Sacramento, the Central Valley, the Inland Empire and the Central Coast.",
+ "faq": {
+  "q": "Do California water heaters need earthquake straps?",
+  "a": "Yes. California requires water heaters to be braced, anchored or strapped to resist falling or moving during an earthquake. A plumber installing or replacing a water heater adds the straps as part of the job."
+ },
+ "licensing": "Plumbing contractors need a CSLB license with a C-36 plumbing classification."
+}

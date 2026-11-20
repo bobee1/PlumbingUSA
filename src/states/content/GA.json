@@ -1,0 +1,42 @@
+{
+ "lead": "Georgia plumbing deals with red clay, tree roots, hot summers and the occasional ice storm. PipeMend sends licensed local plumbers from Atlanta to Savannah.",
+ "risk": "tree roots in sewer lines, aging pipes in older in-town neighborhoods and frozen pipes during ice storms",
+ "risk_short": "sewer roots, old pipes and frozen lines",
+ "why": [
+  "Georgia's red clay and tall pines and oaks make sewer lines a constant target for roots. In older Atlanta neighborhoods, many homes still have clay or cast-iron sewer laterals and galvanized water pipes. Suburban homes from the 1980s and 1990s may have gray polybutylene supply pipe.",
+  "Winters are mild, but ice storms come through every few years. Pipes in crawl spaces, attics and exterior walls freeze when temperatures drop into the teens. Along the coast near Savannah and Brunswick, hurricanes and king tides add flooding and sewer backups."
+ ],
+ "problems": [
+  [
+   "Root-clogged sewer lines",
+   "Older Atlanta, Macon and Augusta neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Polybutylene or galvanized pipe",
+   "1980s–1990s suburbs and older in-town homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes during ice storms",
+   "Crawl spaces statewide",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Main line clogs",
+   "Homes with old clay laterals",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Have a camera inspection before buying an older Georgia home.",
+  "Insulate crawl-space pipes and close vents before a freeze.",
+  "Plant trees well away from the sewer line.",
+  "Replace gray polybutylene pipe before it fails."
+ ],
+ "areas": "Calls come from metro Atlanta, Augusta, Columbus, Macon, Savannah and the coast, Athens and North Georgia.",
+ "faq": {
+  "q": "Who licenses plumbers in Georgia?",
+  "a": "The Georgia State Division of Master and Journeyman Plumbers licenses plumbers. Check a license number with the Georgia Secretary of State's licensing lookup before work starts."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "lead": "Indiana plumbing deals with cold winters, basements, hard water and flooding. PipeMend sends licensed local plumbers across the state.",
+ "risk": "frozen pipes, flooded basements and hard water scale",
+ "risk_short": "frozen pipes, flooding and hard water",
+ "why": [
+  "Many Indiana homes have basements, so sump pumps and basement water heaters are common. Hard water scales up water heaters and fixtures in much of the state.",
+  "Winters freeze pipes, and heavy rain floods basements and backs up sewers. Older homes in Indianapolis, Fort Wayne and Evansville have cast-iron drains and old sewer laterals. The Indiana Plumbing Commission licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Sump pump failures",
+   "Basements statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Much of Indiana",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump before spring.",
+  "Flush your water heater yearly.",
+  "Insulate pipes before winter.",
+  "Have older sewer lines scoped."
+ ],
+ "areas": "Calls come from Indianapolis, Fort Wayne, Evansville, South Bend, Carmel, Fishers, Bloomington and rural Indiana.",
+ "faq": {
+  "q": "Who licenses plumbers in Indiana?",
+  "a": "The Indiana Plumbing Commission, through the Professional Licensing Agency, licenses plumbers. Check the license before work starts."
+ }
+}

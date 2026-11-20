@@ -200,3 +200,12 @@ a.gl{text-decoration-style:dotted}
 .figure-right img{border-radius:var(--radius-md)}
 .prose h2{clear:both}
 @media (max-width:760px){.sys-legend{grid-template-columns:1fr}.figure-right{float:none;width:100%;margin:12px 0}}
+.bars{margin:18px 0 22px;padding:16px 18px;border:1px solid var(--line);border-radius:var(--radius-md);background:#fff}
+.bars figcaption{font-size:.92rem;color:var(--ink-muted);margin-bottom:10px}
+.bars figcaption strong{color:var(--ink);display:block;font-size:1rem}
+.bars ul{list-style:none;margin:0;padding:0}
+.bars li{display:grid;grid-template-columns:minmax(120px,38%) 1fr 3.4em;align-items:center;gap:10px;margin:0 0 8px;font-size:.92rem}
+.bar-track{height:12px;background:var(--line);border-radius:6px;overflow:hidden}
+.bar-fill{display:block;height:100%;background:var(--ember);border-radius:6px}
+.bar-val{text-align:right;font-variant-numeric:tabular-nums}
+@media(max-width:420px){.bars li{grid-template-columns:1fr 3.2em}.bars .bar-track{grid-column:1/-1;order:3}}

@@ -1,0 +1,42 @@
+{
+ "lead": "Idaho plumbing deals with cold winters, hard water in the south and fast growth around Boise. PipeMend sends licensed local plumbers statewide.",
+ "risk": "frozen pipes, hard water scale and well and septic systems in rural areas",
+ "risk_short": "frozen pipes, hard water and wells",
+ "why": [
+  "Southern Idaho, including the Treasure Valley and Magic Valley, has hard water that scales up water heaters and fixtures. Fast growth around Boise and Meridian means lots of new homes, along with older homes in need of updates.",
+  "Winters bring long freezes, especially in the north and the mountains. Many rural homes rely on private wells and septic systems. Idaho licenses plumbers through the Division of Occupational and Professional Licenses."
+ ],
+ "problems": [
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Treasure Valley and southern Idaho",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Disconnect hoses and drain outdoor faucets before the first freeze.",
+  "Flush your water heater yearly if your water is hard.",
+  "Keep heat on in empty cabins.",
+  "Test well water every year."
+ ],
+ "areas": "Calls come from Boise, Meridian, Nampa, Idaho Falls, Pocatello, Twin Falls, Coeur d'Alene and rural Idaho.",
+ "faq": {
+  "q": "Is Idaho water hard?",
+  "a": "In much of southern Idaho, yes. Hard water leaves scale on fixtures and in water heaters. A water test tells you how hard it is, and a softener can help protect appliances."
+ }
+}

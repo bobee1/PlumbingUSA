@@ -1,0 +1,42 @@
+{
+ "lead": "West Virginia plumbing deals with mountain winters, flash floods, old housing and lots of wells and septic systems. PipeMend sends licensed local plumbers across the state.",
+ "risk": "frozen pipes in mountain winters, flash flooding in narrow valleys and aging pipes in older towns",
+ "risk_short": "frozen pipes, flash floods and old pipes",
+ "why": [
+  "West Virginia has a lot of older housing, with galvanized supply lines and cast-iron drains common in Charleston, Huntington and Wheeling. Mountain winters freeze pipes in crawl spaces, exterior walls and vacant homes.",
+  "Steep valleys funnel rain into fast floods, like those in June 2016, which damage basements, water heaters and sewer lines. Many rural homes depend on private wells and septic systems. The West Virginia Division of Labor licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Statewide, especially the mountains",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Flood-damaged basements",
+   "River and creek valleys",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Old galvanized pipe",
+   "Older homes in Charleston and Huntington",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Well pump problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep heat on and cabinets open during deep cold.",
+  "Have flood-soaked water heaters inspected before use.",
+  "Insulate pipes in crawl spaces.",
+  "Test well water once a year."
+ ],
+ "areas": "Calls come from Charleston, Huntington, Morgantown, Parkersburg, Wheeling, the Eastern Panhandle and rural counties.",
+ "faq": {
+  "q": "Who licenses plumbers in West Virginia?",
+  "a": "The West Virginia Division of Labor licenses plumbers. Ask for the license number and check it before work starts."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "lead": "Pennsylvania plumbing deals with old housing, cold winters and many private wells. PipeMend sends licensed local plumbers from Philadelphia to Pittsburgh.",
+ "risk": "aging pipes in older homes, frozen pipes and private wells",
+ "risk_short": "old pipes, frozen pipes and wells",
+ "why": [
+  "Pennsylvania has one of the oldest housing stocks in the country. Philadelphia rowhouses and Pittsburgh homes often have galvanized supply lines, cast-iron drains and lead service lines. Pittsburgh's hills also make sewer laterals long and steep.",
+  "Cold winters freeze pipes, and heavy rain floods basements. Many rural homes rely on private wells and septic systems. Pennsylvania has no statewide plumber license; Philadelphia, Pittsburgh and other localities license plumbers."
+ ],
+ "problems": [
+  [
+   "Old galvanized and lead pipes",
+   "Philadelphia, Pittsburgh and older towns",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Flooded basements",
+   "Older neighborhoods and river towns",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Well pump problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate basement and wall pipes before winter.",
+  "Ask your utility about your service line.",
+  "Test your sump pump each spring.",
+  "Test well water every year."
+ ],
+ "areas": "Calls come from Philadelphia, Pittsburgh, Allentown, Erie, Reading, Scranton, Harrisburg, Lancaster and rural Pennsylvania.",
+ "faq": {
+  "q": "Do plumbers need a license in Pennsylvania?",
+  "a": "There is no statewide plumber license. Philadelphia, Pittsburgh and many other municipalities license plumbers, and contractors doing home improvement work must register with the state attorney general's office."
+ }
+}

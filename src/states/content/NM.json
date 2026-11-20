@@ -1,0 +1,42 @@
+{
+ "lead": "New Mexico plumbing deals with hard water, dry heat, cold high-desert nights and many rural wells. PipeMend sends licensed local plumbers from Albuquerque to Las Cruces.",
+ "risk": "hard water scale, pipes that freeze on cold desert nights and well and septic systems",
+ "risk_short": "hard water, frozen pipes and wells",
+ "why": [
+  "New Mexico water is hard in most areas, scaling up water heaters and fixtures. Albuquerque and Santa Fe sit at high elevation, so winter nights drop well below freezing even after sunny days, and pipes on outside walls and in crawl spaces freeze.",
+  "Many rural homes rely on private wells and septic systems. Adobe and older homes can make pipe repairs slow. New Mexico licenses plumbers through the Construction Industries Division."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Albuquerque, Las Cruces and statewide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Santa Fe, Albuquerque and the north",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Disconnect hoses before the first freeze.",
+  "Insulate pipes on outside walls.",
+  "Flush your water heater yearly.",
+  "Test well water every year."
+ ],
+ "areas": "Calls come from Albuquerque, Las Cruces, Rio Rancho, Santa Fe, Roswell, Farmington and rural New Mexico.",
+ "faq": {
+  "q": "Do pipes freeze in New Mexico?",
+  "a": "Yes. High elevation means cold nights even when days are mild, and Santa Fe and northern New Mexico get hard freezes. Insulate exposed pipes and disconnect garden hoses before winter."
+ }
+}

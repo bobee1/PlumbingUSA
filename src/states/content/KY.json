@@ -1,0 +1,42 @@
+{
+ "lead": "Kentucky plumbing deals with hard limestone water, river and flash flooding, and cold winters. PipeMend sends licensed local plumbers from Louisville to Eastern Kentucky.",
+ "risk": "hard water scale, flash flooding in the hills and old pipes in Louisville and Lexington homes",
+ "risk_short": "hard water, flooding and old pipes",
+ "why": [
+  "Much of Kentucky sits on limestone, so groundwater and many public supplies are hard. Scale builds up in water heaters, fixtures and pipes. Older homes in Louisville, Covington and Lexington still have galvanized supply lines and cast-iron drains.",
+  "Eastern Kentucky's narrow valleys flood fast; the July 2022 floods damaged thousands of homes. Along the Ohio River, heavy rain backs up sewers and fills basements. Cold snaps freeze pipes in crawl spaces and exterior walls statewide."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Statewide, especially limestone areas",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Flooded basements",
+   "Louisville and Ohio River towns",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Older Louisville and Lexington homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump before spring rains.",
+  "Flush your water heater yearly if your water is hard.",
+  "Insulate pipes on outside walls.",
+  "Keep a list of your main shutoff and water heater valves."
+ ],
+ "areas": "Calls come from Louisville, Lexington, Northern Kentucky, Bowling Green, Owensboro, Eastern Kentucky and Western Kentucky.",
+ "faq": {
+  "q": "Is Kentucky water hard?",
+  "a": "In many areas, yes. Limestone bedrock adds calcium and magnesium to the water, which leaves scale on fixtures and in water heaters. A water test shows your hardness, and a softener can help."
+ }
+}

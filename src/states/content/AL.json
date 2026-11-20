@@ -1,0 +1,42 @@
+{
+ "lead": "Alabama plumbing has to handle humid summers, red clay, Gulf storms and the odd hard freeze. PipeMend sends licensed local plumbers from Huntsville to Mobile, around the clock.",
+ "risk": "crawl-space pipes that freeze in cold snaps, storm flooding near the Gulf and root-damaged sewer lines in older neighborhoods",
+ "risk_short": "frozen pipes, storm flooding and sewer lines",
+ "why": [
+  "Many Alabama homes sit on crawl spaces, with supply lines and drains exposed under the floor. Winters are mild most years, so those pipes are often uninsulated, and a few nights in the teens can split them. Red clay soil also holds water against foundations and shifts as it dries.",
+  "Mobile and the Gulf Coast face hurricanes and heavy rain that back up sewers and flood low ground. Inland, the big older neighborhoods of Birmingham and Montgomery have aging cast-iron drains and clay sewer laterals that tree roots find easily. Rural Alabama relies heavily on septic systems."
+ ],
+ "problems": [
+  [
+   "Frozen and burst crawl-space pipes",
+   "Statewide during cold snaps",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Sewer backups after storms",
+   "Mobile, Baldwin County and the Gulf Coast",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Root intrusion in clay sewer laterals",
+   "Older parts of Birmingham and Montgomery",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ],
+  [
+   "Water heater failures",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes in crawl spaces and close foundation vents before a hard freeze.",
+  "Keep gutters and yard drains clear so storm water moves away from the house.",
+  "Plant trees well away from the sewer line.",
+  "Know where your main shutoff valve is before storm season."
+ ],
+ "areas": "Calls come from North Alabama and the Tennessee Valley, the Birmingham metro, the Montgomery and Wiregrass areas, and the Gulf Coast.",
+ "faq": {
+  "q": "Do crawl-space pipes in Alabama really need insulation?",
+  "a": "Yes. Alabama winters are mild most years, but a few nights well below freezing can burst uninsulated pipes under the house. Pipe insulation and closed foundation vents are cheap protection, and a plumber can add heat tape to lines that freeze often."
+ }
+}

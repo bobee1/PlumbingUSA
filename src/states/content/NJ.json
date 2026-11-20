@@ -1,0 +1,42 @@
+{
+ "lead": "New Jersey plumbing deals with old housing, lead service lines, basement flooding and cold winters. PipeMend sends licensed local plumbers from North Jersey to the Shore.",
+ "risk": "lead and galvanized pipes in older homes, basement flooding and frozen pipes",
+ "risk_short": "lead lines, flooding and frozen pipes",
+ "why": [
+  "New Jersey has a lot of older housing, and lead service lines are still being replaced in many towns under a state law that requires utilities to replace them. Older homes in Newark, Jersey City and Paterson also have galvanized supply lines and cast-iron drains.",
+  "Heavy storms, like Ida in 2021, flood basements and back up sewers. Shore towns face coastal flooding. Winters freeze pipes. The State Board of Examiners of Master Plumbers licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Lead and galvanized service lines",
+   "Older cities and towns",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Flooded basements",
+   "North and Central Jersey",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Ask your water utility what your service line is made of.",
+  "Test your sump pump and consider a battery backup.",
+  "Insulate pipes on outside walls.",
+  "Ask about a backwater valve if your basement has flooded."
+ ],
+ "areas": "Calls come from Newark, Jersey City, Paterson, Elizabeth, Trenton, Camden, Central Jersey and the Jersey Shore.",
+ "faq": {
+  "q": "Is my New Jersey water line made of lead?",
+  "a": "It might be if your home is older. New Jersey requires water utilities to find and replace lead service lines, and many have online lookups. A plumber can also check where the line enters your house."
+ }
+}

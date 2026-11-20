@@ -1,0 +1,42 @@
+{
+ "lead": "Arkansas homes deal with clay soil, river flooding, ice storms and plenty of rural septic systems. PipeMend sends licensed local plumbers from Little Rock to the Ozarks.",
+ "risk": "ice storms that freeze pipes, flooding near the big rivers and aging sewer lines in older towns",
+ "risk_short": "frozen pipes, flooding and sewer lines",
+ "why": [
+  "Arkansas sits where Southern heat meets real winter. Ice storms can knock out power for days, and pipes in crawl spaces and exterior walls freeze when the heat goes off. Clay soils in the central and southern parts of the state also swell and shrink, stressing water and sewer lines.",
+  "The Arkansas, White and Mississippi rivers flood low areas, which pushes water into basements and crawl spaces and backs up sewers. Away from the cities, many homes use private wells and septic systems, so pumps, pressure tanks and drain lines are part of everyday plumbing work."
+ ],
+ "problems": [
+  [
+   "Frozen pipes during ice storms",
+   "Statewide, especially the Ozarks",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Sewer backups after floods",
+   "River towns and low-lying areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Clogged drains and old cast iron",
+   "Older Little Rock and Fort Smith homes",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep a few faucets dripping when an ice storm is forecast and power may fail.",
+  "Insulate pipes in crawl spaces and on outside walls.",
+  "Have a plumber check the sewer line if several drains back up after heavy rain.",
+  "Flush your water heater once a year."
+ ],
+ "areas": "Calls come from Central Arkansas, Northwest Arkansas around Fayetteville, Rogers and Bentonville, Fort Smith, Jonesboro and the Delta.",
+ "faq": {
+  "q": "Who licenses plumbers in Arkansas?",
+  "a": "The Arkansas Department of Health's Plumbing and Natural Gas Section licenses plumbers. Larger plumbing contracts may also need a license from the Arkansas Contractors Licensing Board."
+ }
+}

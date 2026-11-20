@@ -1,0 +1,42 @@
+{
+ "lead": "Wyoming plumbing deals with bitter cold, strong winds and long distances between towns. PipeMend sends licensed local plumbers across the state.",
+ "risk": "frozen pipes and water lines, well and septic systems and hard water",
+ "risk_short": "frozen pipes, wells and hard water",
+ "why": [
+  "Wyoming winters combine deep cold with strong winds, which freeze pipes on outside walls, in crawl spaces and in vacant homes. Frost goes deep, so water lines must be buried well below the surface.",
+  "Many homes outside Cheyenne and Casper rely on private wells and septic systems, and hard water is common. Wyoming has no statewide plumber license; cities and counties set licensing and permit rules."
+ ],
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Frozen water service lines",
+   "Shallow or exposed lines",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes and ranches",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Many areas",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Winterize seasonal homes and cabins.",
+  "Insulate pipes on outside walls.",
+  "Test well water every year."
+ ],
+ "areas": "Calls come from Cheyenne, Casper, Laramie, Gillette, Rock Springs, Sheridan, Jackson and rural Wyoming.",
+ "faq": {
+  "q": "Do plumbers need a license in Wyoming?",
+  "a": "Wyoming has no statewide plumber license. Cities such as Cheyenne and Casper license plumbers and require permits, so check with your local building department."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "lead": "Maine plumbing is built for long winters, old houses and lots of private wells. PipeMend sends licensed local plumbers from Portland to Bangor and beyond.",
+ "risk": "frozen pipes, oil boiler and water heater problems and private wells and septic systems",
+ "risk_short": "frozen pipes, boilers and wells",
+ "why": [
+  "Maine has some of the oldest housing in the country, and many homes heat with oil boilers that also make hot water. Long, cold winters freeze pipes in exterior walls, crawl spaces and seasonal camps.",
+  "A large share of Maine homes rely on private wells and septic systems, so pumps, pressure tanks and treatment systems are everyday work. The Maine Plumbers' Examining Board licenses plumbers statewide."
+ ],
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Boiler coil and water heater problems",
+   "Oil-heated homes",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ],
+  [
+   "Well pump and pressure problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Older homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Winterize seasonal camps every fall.",
+  "Keep the heat on in winter, even when away.",
+  "Have your boiler serviced every year.",
+  "Test well water for bacteria and arsenic."
+ ],
+ "areas": "Calls come from Portland and southern Maine, Lewiston-Auburn, Bangor, Augusta, the Midcoast and northern Maine.",
+ "faq": {
+  "q": "Should I test my Maine well for arsenic?",
+  "a": "Yes. Arsenic occurs naturally in groundwater in parts of Maine. Testing tells you whether you need treatment. A plumber can install filters or treatment systems if the test finds a problem."
+ }
+}

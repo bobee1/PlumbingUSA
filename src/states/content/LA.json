@@ -1,0 +1,42 @@
+{
+ "lead": "Louisiana plumbing faces hurricanes, flooding, soft and sinking soils, and heavy humidity. PipeMend sends licensed local plumbers from New Orleans to Shreveport.",
+ "risk": "hurricane and flood damage, pipes stressed by settling soil and sewer backups in heavy rain",
+ "risk_short": "flooding, settling soil and sewer backups",
+ "why": [
+  "Much of South Louisiana sits on soft, wet soil that settles over time. That movement cracks sewer lines and pulls apart pipe joints under slabs and raised homes. In New Orleans, many older homes are raised on piers, with pipes exposed underneath that can freeze in the rare hard cold snap.",
+  "Hurricanes and tropical storms bring flooding, power loss and sewer backups. After a flood, water heaters, gas appliances and drain lines often need inspection or replacement. The State Plumbing Board of Louisiana licenses plumbers statewide."
+ ],
+ "problems": [
+  [
+   "Sewer line cracks from settling soil",
+   "New Orleans, Baton Rouge and Lake Charles",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Flood-damaged water heaters",
+   "Flood zones statewide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Exposed pipes under raised homes",
+   "Older New Orleans neighborhoods",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Clogged drains and grease",
+   "Older homes and restaurants",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off the main water and gas before evacuating for a storm.",
+  "Have a flooded water heater inspected before you turn it back on.",
+  "Insulate pipes under raised homes before a freeze.",
+  "Ask a plumber about a backwater valve if your sewer has backed up."
+ ],
+ "areas": "Calls come from Greater New Orleans, Baton Rouge, Lafayette and Acadiana, Lake Charles, Shreveport and North Louisiana.",
+ "faq": {
+  "q": "Can I use my water heater after a flood in Louisiana?",
+  "a": "Not until it is checked. Flood water can damage the burner, controls, insulation and electrical parts. Gas water heaters that were under water usually need replacement. Have a plumber inspect it before relighting or powering it."
+ }
+}

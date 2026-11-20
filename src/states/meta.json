@@ -1,0 +1,790 @@
+{
+ "AL": {
+  "name": "Alabama",
+  "slug": "alabama",
+  "neighbors": [
+   "MS",
+   "TN",
+   "GA",
+   "FL"
+  ],
+  "lic": [
+   "Alabama Plumbers and Gas Fitters Examining Board",
+   "https://pgfb.alabama.gov/",
+   "state"
+  ]
+ },
+ "AK": {
+  "name": "Alaska",
+  "slug": "alaska",
+  "neighbors": [
+   "WA",
+   "OR",
+   "HI"
+  ],
+  "lic": [
+   "Alaska Division of Corporations, Business and Professional Licensing (mechanical administrators)",
+   "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/MechanicalAdministrators.aspx",
+   "state"
+  ]
+ },
+ "AZ": {
+  "name": "Arizona",
+  "slug": "arizona",
+  "neighbors": [
+   "CA",
+   "NV",
+   "UT",
+   "NM",
+   "CO"
+  ],
+  "lic": [
+   "Arizona Registrar of Contractors",
+   "https://roc.az.gov/",
+   "contractor"
+  ]
+ },
+ "AR": {
+  "name": "Arkansas",
+  "slug": "arkansas",
+  "neighbors": [
+   "MO",
+   "TN",
+   "MS",
+   "LA",
+   "TX",
+   "OK"
+  ],
+  "lic": [
+   "Arkansas Department of Health, Plumbing and Natural Gas Section",
+   "https://healthy.arkansas.gov/",
+   "state"
+  ]
+ },
+ "CA": {
+  "name": "California",
+  "slug": "california",
+  "neighbors": [
+   "OR",
+   "NV",
+   "AZ",
+   "HI"
+  ],
+  "lic": [
+   "Contractors State License Board (CSLB)",
+   "https://www.cslb.ca.gov/",
+   "contractor"
+  ]
+ },
+ "CO": {
+  "name": "Colorado",
+  "slug": "colorado",
+  "neighbors": [
+   "WY",
+   "NE",
+   "KS",
+   "OK",
+   "NM",
+   "UT"
+  ],
+  "lic": [
+   "Colorado State Plumbing Board (Division of Professions and Occupations)",
+   "https://dpo.colorado.gov/Plumbing",
+   "state"
+  ]
+ },
+ "CT": {
+  "name": "Connecticut",
+  "slug": "connecticut",
+  "neighbors": [
+   "NY",
+   "MA",
+   "RI"
+  ],
+  "lic": [
+   "Connecticut Department of Consumer Protection, Occupational and Professional Licensing",
+   "https://portal.ct.gov/DCP/License-Services-Division/All-License-Applications/Plumbing-and-Pipefitting-Licensing",
+   "state"
+  ]
+ },
+ "DE": {
+  "name": "Delaware",
+  "slug": "delaware",
+  "neighbors": [
+   "MD",
+   "PA",
+   "NJ"
+  ],
+  "lic": [
+   "Delaware Board of Plumbing, Heating, Ventilation, Air Conditioning and Refrigeration Examiners",
+   "https://dpr.delaware.gov/boards/plumbers/",
+   "state"
+  ]
+ },
+ "DC": {
+  "name": "District of Columbia",
+  "slug": "district-of-columbia",
+  "neighbors": [
+   "MD",
+   "VA"
+  ],
+  "lic": [
+   "DC Board of Industrial Trades (Department of Licensing and Consumer Protection)",
+   "https://dlcp.dc.gov/node/1619081",
+   "state"
+  ]
+ },
+ "FL": {
+  "name": "Florida",
+  "slug": "florida",
+  "neighbors": [
+   "GA",
+   "AL"
+  ],
+  "lic": [
+   "Florida Construction Industry Licensing Board (DBPR)",
+   "https://www.myfloridalicense.com/",
+   "state"
+  ]
+ },
+ "GA": {
+  "name": "Georgia",
+  "slug": "georgia",
+  "neighbors": [
+   "FL",
+   "AL",
+   "TN",
+   "NC",
+   "SC"
+  ],
+  "lic": [
+   "Georgia State Division of Master and Journeyman Plumbers",
+   "https://sos.ga.gov/georgia-state-division-master-and-journeyman-plumbers",
+   "state"
+  ]
+ },
+ "HI": {
+  "name": "Hawaii",
+  "slug": "hawaii",
+  "neighbors": [
+   "CA",
+   "AK"
+  ],
+  "lic": [
+   "Hawaii Board of Electricity and Plumbing (Professional and Vocational Licensing)",
+   "https://cca.hawaii.gov/pvl/boards/electrician/",
+   "state"
+  ]
+ },
+ "ID": {
+  "name": "Idaho",
+  "slug": "idaho",
+  "neighbors": [
+   "WA",
+   "OR",
+   "NV",
+   "UT",
+   "WY",
+   "MT"
+  ],
+  "lic": [
+   "Idaho Division of Occupational and Professional Licenses, Plumbing",
+   "https://dopl.idaho.gov/plb/",
+   "state"
+  ]
+ },
+ "IL": {
+  "name": "Illinois",
+  "slug": "illinois",
+  "neighbors": [
+   "WI",
+   "IA",
+   "MO",
+   "KY",
+   "IN"
+  ],
+  "lic": [
+   "Illinois Department of Public Health, Plumbing Program",
+   "https://dph.illinois.gov/topics-services/environmental-health-protection/plumbing.html",
+   "state"
+  ]
+ },
+ "IN": {
+  "name": "Indiana",
+  "slug": "indiana",
+  "neighbors": [
+   "IL",
+   "MI",
+   "OH",
+   "KY"
+  ],
+  "lic": [
+   "Indiana Plumbing Commission (Professional Licensing Agency)",
+   "https://www.in.gov/pla/professions/plumbing-home/",
+   "state"
+  ]
+ },
+ "IA": {
+  "name": "Iowa",
+  "slug": "iowa",
+  "neighbors": [
+   "MN",
+   "WI",
+   "IL",
+   "MO",
+   "NE",
+   "SD"
+  ],
+  "lic": [
+   "Iowa Plumbing and Mechanical Systems Board",
+   "https://dial.iowa.gov/",
+   "state"
+  ]
+ },
+ "KS": {
+  "name": "Kansas",
+  "slug": "kansas",
+  "neighbors": [
+   "NE",
+   "MO",
+   "OK",
+   "CO"
+  ],
+  "lic": [
+   null,
+   null,
+   "local"
+  ]
+ },
+ "KY": {
+  "name": "Kentucky",
+  "slug": "kentucky",
+  "neighbors": [
+   "OH",
+   "WV",
+   "VA",
+   "TN",
+   "MO",
+   "IL",
+   "IN"
+  ],
+  "lic": [
+   "Kentucky Department of Housing, Buildings and Construction, Division of Plumbing",
+   "https://dhbc.ky.gov/",
+   "state"
+  ]
+ },
+ "LA": {
+  "name": "Louisiana",
+  "slug": "louisiana",
+  "neighbors": [
+   "TX",
+   "AR",
+   "MS"
+  ],
+  "lic": [
+   "State Plumbing Board of Louisiana",
+   "https://www.spbla.com/",
+   "state"
+  ]
+ },
+ "ME": {
+  "name": "Maine",
+  "slug": "maine",
+  "neighbors": [
+   "NH",
+   "MA",
+   "VT"
+  ],
+  "lic": [
+   "Maine Plumbers' Examining Board",
+   "https://www.maine.gov/pfr/professionallicensing/",
+   "state"
+  ]
+ },
+ "MD": {
+  "name": "Maryland",
+  "slug": "maryland",
+  "neighbors": [
+   "PA",
+   "DE",
+   "VA",
+   "WV",
+   "DC"
+  ],
+  "lic": [
+   "Maryland State Board of Plumbing",
+   "https://labor.maryland.gov/license/pl/",
+   "state"
+  ]
+ },
+ "MA": {
+  "name": "Massachusetts",
+  "slug": "massachusetts",
+  "neighbors": [
+   "NH",
+   "VT",
+   "NY",
+   "CT",
+   "RI",
+   "ME"
+  ],
+  "lic": [
+   "Massachusetts Board of State Examiners of Plumbers and Gas Fitters",
+   "https://www.mass.gov/plumber-licensing",
+   "state"
+  ]
+ },
+ "MI": {
+  "name": "Michigan",
+  "slug": "michigan",
+  "neighbors": [
+   "OH",
+   "IN",
+   "WI"
+  ],
+  "lic": [
+   "Michigan Department of Licensing and Regulatory Affairs, Bureau of Construction Codes",
+   "https://www.michigan.gov/lara",
+   "state"
+  ]
+ },
+ "MN": {
+  "name": "Minnesota",
+  "slug": "minnesota",
+  "neighbors": [
+   "WI",
+   "IA",
+   "SD",
+   "ND"
+  ],
+  "lic": [
+   "Minnesota Department of Labor and Industry",
+   "https://www.dli.mn.gov/",
+   "state"
+  ]
+ },
+ "MS": {
+  "name": "Mississippi",
+  "slug": "mississippi",
+  "neighbors": [
+   "LA",
+   "AR",
+   "TN",
+   "AL"
+  ],
+  "lic": [
+   "Mississippi State Board of Contractors",
+   "https://www.msboc.us/",
+   "contractor"
+  ]
+ },
+ "MO": {
+  "name": "Missouri",
+  "slug": "missouri",
+  "neighbors": [
+   "IA",
+   "IL",
+   "KY",
+   "TN",
+   "AR",
+   "OK",
+   "KS",
+   "NE"
+  ],
+  "lic": [
+   null,
+   null,
+   "local"
+  ]
+ },
+ "MT": {
+  "name": "Montana",
+  "slug": "montana",
+  "neighbors": [
+   "ID",
+   "WY",
+   "SD",
+   "ND"
+  ],
+  "lic": [
+   "Montana Board of Plumbers",
+   "https://boards.bsd.dli.mt.gov/plumbers/",
+   "state"
+  ]
+ },
+ "NE": {
+  "name": "Nebraska",
+  "slug": "nebraska",
+  "neighbors": [
+   "SD",
+   "IA",
+   "MO",
+   "KS",
+   "CO",
+   "WY"
+  ],
+  "lic": [
+   null,
+   null,
+   "local"
+  ]
+ },
+ "NV": {
+  "name": "Nevada",
+  "slug": "nevada",
+  "neighbors": [
+   "OR",
+   "ID",
+   "UT",
+   "AZ",
+   "CA"
+  ],
+  "lic": [
+   "Nevada State Contractors Board",
+   "https://www.nvcontractorsboard.com/",
+   "contractor"
+  ]
+ },
+ "NH": {
+  "name": "New Hampshire",
+  "slug": "new-hampshire",
+  "neighbors": [
+   "VT",
+   "ME",
+   "MA"
+  ],
+  "lic": [
+   "New Hampshire Mechanical Safety and Licensing Board (OPLC)",
+   "https://www.oplc.nh.gov/mechanical-safety-and-licensing-board",
+   "state"
+  ]
+ },
+ "NJ": {
+  "name": "New Jersey",
+  "slug": "new-jersey",
+  "neighbors": [
+   "NY",
+   "PA",
+   "DE"
+  ],
+  "lic": [
+   "New Jersey State Board of Examiners of Master Plumbers",
+   "https://www.njconsumeraffairs.gov/plu/",
+   "state"
+  ]
+ },
+ "NM": {
+  "name": "New Mexico",
+  "slug": "new-mexico",
+  "neighbors": [
+   "AZ",
+   "UT",
+   "CO",
+   "OK",
+   "TX"
+  ],
+  "lic": [
+   "New Mexico Construction Industries Division",
+   "https://www.rld.nm.gov/construction-industries/",
+   "state"
+  ]
+ },
+ "NY": {
+  "name": "New York",
+  "slug": "new-york",
+  "neighbors": [
+   "NJ",
+   "PA",
+   "CT",
+   "MA",
+   "VT",
+   "RI"
+  ],
+  "lic": [
+   null,
+   null,
+   "local"
+  ]
+ },
+ "NC": {
+  "name": "North Carolina",
+  "slug": "north-carolina",
+  "neighbors": [
+   "VA",
+   "TN",
+   "GA",
+   "SC"
+  ],
+  "lic": [
+   "North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors",
+   "https://nclicensing.org/",
+   "state"
+  ]
+ },
+ "ND": {
+  "name": "North Dakota",
+  "slug": "north-dakota",
+  "neighbors": [
+   "MN",
+   "SD",
+   "MT"
+  ],
+  "lic": [
+   "North Dakota State Plumbing Board",
+   "https://ndplumbingboard.com/",
+   "state"
+  ]
+ },
+ "OH": {
+  "name": "Ohio",
+  "slug": "ohio",
+  "neighbors": [
+   "PA",
+   "WV",
+   "KY",
+   "IN",
+   "MI"
+  ],
+  "lic": [
+   "Ohio Construction Industry Licensing Board",
+   "https://com.ohio.gov/",
+   "contractor"
+  ]
+ },
+ "OK": {
+  "name": "Oklahoma",
+  "slug": "oklahoma",
+  "neighbors": [
+   "KS",
+   "MO",
+   "AR",
+   "TX",
+   "NM",
+   "CO"
+  ],
+  "lic": [
+   "Oklahoma Construction Industries Board",
+   "https://oklahoma.gov/cib.html",
+   "state"
+  ]
+ },
+ "OR": {
+  "name": "Oregon",
+  "slug": "oregon",
+  "neighbors": [
+   "WA",
+   "ID",
+   "NV",
+   "CA"
+  ],
+  "lic": [
+   "Oregon Building Codes Division",
+   "https://www.oregon.gov/bcd/",
+   "state"
+  ]
+ },
+ "PA": {
+  "name": "Pennsylvania",
+  "slug": "pennsylvania",
+  "neighbors": [
+   "NY",
+   "NJ",
+   "DE",
+   "MD",
+   "WV",
+   "OH"
+  ],
+  "lic": [
+   null,
+   null,
+   "local"
+  ]
+ },
+ "RI": {
+  "name": "Rhode Island",
+  "slug": "rhode-island",
+  "neighbors": [
+   "CT",
+   "MA"
+  ],
+  "lic": [
+   "Rhode Island Department of Labor and Training, Professional Regulation",
+   "https://dlt.ri.gov/",
+   "state"
+  ]
+ },
+ "SC": {
+  "name": "South Carolina",
+  "slug": "south-carolina",
+  "neighbors": [
+   "NC",
+   "GA"
+  ],
+  "lic": [
+   "South Carolina Department of Labor, Licensing and Regulation",
+   "https://llr.sc.gov/",
+   "contractor"
+  ]
+ },
+ "SD": {
+  "name": "South Dakota",
+  "slug": "south-dakota",
+  "neighbors": [
+   "ND",
+   "MN",
+   "IA",
+   "NE",
+   "WY",
+   "MT"
+  ],
+  "lic": [
+   "South Dakota State Plumbing Commission",
+   "https://dlr.sd.gov/plumbing/",
+   "state"
+  ]
+ },
+ "TN": {
+  "name": "Tennessee",
+  "slug": "tennessee",
+  "neighbors": [
+   "KY",
+   "VA",
+   "NC",
+   "GA",
+   "AL",
+   "MS",
+   "AR",
+   "MO"
+  ],
+  "lic": [
+   "Tennessee Board for Licensing Contractors",
+   "https://www.tn.gov/commerce/regboards/contractors.html",
+   "contractor"
+  ]
+ },
+ "TX": {
+  "name": "Texas",
+  "slug": "texas",
+  "neighbors": [
+   "NM",
+   "OK",
+   "AR",
+   "LA"
+  ],
+  "lic": [
+   "Texas State Board of Plumbing Examiners",
+   "https://tsbpe.texas.gov/",
+   "state"
+  ]
+ },
+ "UT": {
+  "name": "Utah",
+  "slug": "utah",
+  "neighbors": [
+   "ID",
+   "WY",
+   "CO",
+   "AZ",
+   "NV"
+  ],
+  "lic": [
+   "Utah Division of Professional Licensing",
+   "https://dopl.utah.gov/",
+   "state"
+  ]
+ },
+ "VT": {
+  "name": "Vermont",
+  "slug": "vermont",
+  "neighbors": [
+   "NH",
+   "MA",
+   "NY"
+  ],
+  "lic": [
+   "Vermont Division of Fire Safety, Plumbing Licensing",
+   "https://firesafety.vermont.gov/licensing/plumbing",
+   "state"
+  ]
+ },
+ "VA": {
+  "name": "Virginia",
+  "slug": "virginia",
+  "neighbors": [
+   "MD",
+   "DC",
+   "WV",
+   "KY",
+   "TN",
+   "NC"
+  ],
+  "lic": [
+   "Virginia Board for Contractors (DPOR), Tradesman licenses",
+   "https://www.dpor.virginia.gov/Boards/Tradesmen",
+   "state"
+  ]
+ },
+ "WA": {
+  "name": "Washington",
+  "slug": "washington",
+  "neighbors": [
+   "OR",
+   "ID",
+   "AK"
+  ],
+  "lic": [
+   "Washington State Department of Labor and Industries",
+   "https://www.lni.wa.gov/licensing-permits/plumbing/",
+   "state"
+  ]
+ },
+ "WV": {
+  "name": "West Virginia",
+  "slug": "west-virginia",
+  "neighbors": [
+   "PA",
+   "MD",
+   "VA",
+   "KY",
+   "OH"
+  ],
+  "lic": [
+   "West Virginia Division of Labor",
+   "https://labor.wv.gov/",
+   "state"
+  ]
+ },
+ "WI": {
+  "name": "Wisconsin",
+  "slug": "wisconsin",
+  "neighbors": [
+   "MN",
+   "IA",
+   "IL",
+   "MI"
+  ],
+  "lic": [
+   "Wisconsin Department of Safety and Professional Services",
+   "https://dsps.wi.gov/",
+   "state"
+  ]
+ },
+ "WY": {
+  "name": "Wyoming",
+  "slug": "wyoming",
+  "neighbors": [
+   "MT",
+   "SD",
+   "NE",
+   "CO",
+   "UT",
+   "ID"
+  ],
+  "lic": [
+   null,
+   null,
+   "local"
+  ]
+ }
+}

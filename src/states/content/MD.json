@@ -1,0 +1,42 @@
+{
+ "lead": "Maryland plumbing ranges from Baltimore rowhouses to Eastern Shore homes on wells. PipeMend sends licensed local plumbers across Maryland, day and night.",
+ "risk": "aging pipes in older Baltimore homes, basement flooding in heavy rain and well and septic systems in rural counties",
+ "risk_short": "old pipes, flooded basements and well systems",
+ "why": [
+  "Baltimore and older Maryland towns have many homes built before 1940, with galvanized supply lines, cast-iron drains and old sewer laterals. Lead service lines may still be in place in some older homes.",
+  "Heavy storms flood basements and back up sewers, especially in older neighborhoods. On the Eastern Shore and in rural Western Maryland, many homes rely on private wells and septic systems. Western Maryland's mountain winters freeze pipes in crawl spaces and cabins."
+ ],
+ "problems": [
+  [
+   "Old galvanized and lead pipes",
+   "Baltimore and older towns",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement flooding",
+   "Older neighborhoods statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Main sewer line clogs",
+   "Homes with old laterals and big trees",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Western Maryland and vacant homes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump before spring and hurricane season.",
+  "Ask your water utility what your service line is made of.",
+  "Insulate pipes in crawl spaces and garages.",
+  "Do a camera inspection before buying an older home."
+ ],
+ "areas": "Calls come from Baltimore, Montgomery and Prince George's counties, Annapolis, Frederick, Hagerstown, the Eastern Shore and Western Maryland.",
+ "faq": {
+  "q": "Who licenses plumbers in Maryland?",
+  "a": "The Maryland State Board of Plumbing, part of the Maryland Department of Labor, licenses plumbers and gas fitters. Some counties also have their own requirements."
+ }
+}

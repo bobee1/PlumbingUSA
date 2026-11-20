@@ -1,0 +1,42 @@
+{
+ "lead": "Ohio plumbing deals with old housing, basements, lead service lines and cold winters. PipeMend sends licensed local plumbers from Cleveland to Cincinnati.",
+ "risk": "aging pipes and lead service lines, flooded basements and frozen pipes",
+ "risk_short": "old pipes, flooded basements and frozen pipes",
+ "why": [
+  "Ohio has a lot of older housing, with galvanized supply lines, cast-iron drains and lead service lines in Cleveland, Cincinnati, Toledo and Dayton.",
+  "Heavy rain floods basements and backs up sewers. Lake-effect snow and cold snaps freeze pipes. The Ohio Construction Industry Licensing Board licenses plumbing contractors for commercial work, and many cities license residential plumbers."
+ ],
+ "problems": [
+  [
+   "Lead and galvanized pipes",
+   "Cleveland, Cincinnati and older cities",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Flooded basements",
+   "Statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Ask your utility about your service line.",
+  "Test your sump pump before spring.",
+  "Insulate pipes before winter.",
+  "Have older sewer lines scoped."
+ ],
+ "areas": "Calls come from Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton, Youngstown and rural Ohio.",
+ "faq": {
+  "q": "Who licenses plumbers in Ohio?",
+  "a": "The Ohio Construction Industry Licensing Board licenses plumbing contractors for commercial work, and many cities license plumbers for residential work. Check with your local building department."
+ }
+}

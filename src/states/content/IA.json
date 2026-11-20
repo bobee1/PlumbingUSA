@@ -1,0 +1,42 @@
+{
+ "lead": "Iowa plumbing deals with cold winters, basements, hard water and river flooding. PipeMend sends licensed local plumbers across the state.",
+ "risk": "frozen pipes, flooded basements and hard water scale",
+ "risk_short": "frozen pipes, flooding and hard water",
+ "why": [
+  "Iowa water is hard in most areas, so softeners are common and scale wears out water heaters and fixtures. Many homes have basements with sump pumps.",
+  "River flooding has hit Cedar Rapids, Des Moines and other towns, and heavy rain backs up sewers. Winters freeze pipes. The Iowa Plumbing and Mechanical Systems Board licenses plumbers."
+ ],
+ "problems": [
+  [
+   "Hard water scale",
+   "Most of Iowa",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Flooded basements",
+   "River towns and statewide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Statewide in winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Well pump problems",
+   "Rural homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump before spring.",
+  "Keep your softener supplied with salt.",
+  "Insulate pipes before winter.",
+  "Test well water every year."
+ ],
+ "areas": "Calls come from Des Moines, Cedar Rapids, Davenport, Sioux City, Iowa City, Waterloo, Ames and rural Iowa.",
+ "faq": {
+  "q": "Is Iowa water hard?",
+  "a": "In most areas, yes. Hard water leaves scale on fixtures and in water heaters. A water test shows your hardness and helps size a softener."
+ }
+}

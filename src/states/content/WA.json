@@ -1,0 +1,42 @@
+{
+ "lead": "Washington plumbing deals with rain, soft water and older homes west of the Cascades, and cold, dry winters to the east. PipeMend sends licensed local plumbers statewide.",
+ "risk": "older pipes and root-filled sewer lines in Seattle-area homes, wet crawl spaces and frozen pipes east of the Cascades",
+ "risk_short": "old pipes, sewer roots and frozen pipes",
+ "why": [
+  "Western Washington's rain keeps soil wet much of the year, which is hard on crawl spaces, sump pumps and sewer lines. Older Seattle and Tacoma homes often have galvanized supply lines and clay sewer laterals invaded by roots.",
+  "Eastern Washington, including Spokane and the Tri-Cities, has cold winters that freeze pipes and harder water than the west side. The state sits in an earthquake zone, so water heater strapping matters. Plumbers get their certificates from the Department of Labor and Industries."
+ ],
+ "problems": [
+  [
+   "Root-clogged sewer laterals",
+   "Seattle, Tacoma and older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized supply lines",
+   "Prewar homes west of the Cascades",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Spokane and Eastern Washington",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Western Washington",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Check crawl-space drainage before the rainy season.",
+  "Strap your water heater for earthquakes.",
+  "Disconnect hoses before the first freeze."
+ ],
+ "areas": "Calls come from Seattle, Tacoma, Bellevue, Everett, Vancouver, Spokane, the Tri-Cities and rural Washington.",
+ "faq": {
+  "q": "Who certifies plumbers in Washington?",
+  "a": "The Washington State Department of Labor and Industries issues plumber certificates, and plumbing contractors must also register with L&I. You can check both online."
+ }
+}
