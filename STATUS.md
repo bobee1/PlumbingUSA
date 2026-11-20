@@ -4,7 +4,7 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-20 (Build 4)
+Last updated: 2026-11-20 (Build 5)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
@@ -12,24 +12,22 @@ Last updated: 2026-11-20 (Build 4)
 - Build 2 (2026-11-20): Semrush research (~4,700 units), competitor reads, site plan doc https://claude.ai/artifact/Lnvtnd4rBMx8H6m4StHfiB, approved by the owner on 2026-11-20 ("Build 3").
 - Build 3 (2026-11-20): services hub and first 10 service pages (emergency, drain cleaning, hydro jetting, water heater repair and installation, tankless, sewer line, leak detection, slab leak, repiping); home trimmed to 1,771 words; audit 0 issues.
 - Build 3b (2026-11-20): remaining 9 service pages (water line, toilet, faucet, garbage disposal, sump pump, gas line, water softener, backflow, commercial); all 19 services live; audit 0 issues.
+- Build 4 (2026-11-20): locations hub and 51 state pages (housing age, heating fuel, FEMA water disasters, plumbing licensing authority per state, hand-written local copy); audit 0 issues.
 - Owner decisions (2026-11-19): target plumbing and every sub-service in all states and cities; brand PipeMend; domain pipemend.us; own-business call routing like SootMend (24/7, 10+ years); legal owner Anjam Javed; toll-free 1-800-555-0199 until after deployment; repo github.com/bobee1/PlumbingUSA; Pexels photos as WebP or illustrations.
 
-## Current — Build 4: Locations hub and 51 state pages (done)
-- **Locations hub** `/locations/`: state cards grouped by Census region, a "how plumbing differs across the country" table computed from the data (oldest/newest housing, most FEMA water disasters, most gas/electric heat), 4 FAQs. 917 words.
-- **51 state pages** (`/locations/<state>/`, 50 states + DC), 948–1,140 words each, built by `states.py` from:
-  - `research/07-state-data.json` (Census ACS 2020–2024 housing, largest places, OpenFEMA water-related declarations since 2000) and `research/08-heating-fuel.json` (ACS 2024 heating fuel), both reused from SootMend's verified pulls;
-  - `src/states/meta.json`: names, slugs, neighbors and the **plumbing licensing authority for every state**, checked against two state-by-state guides plus searches for Texas (board still active in 2026), Arkansas (Department of Health) and DC (Board of Industrial Trades). Six states license locally: KS, MO, NE, NY, PA, WY;
-  - `src/states/content/<AB>.json`: hand-written local copy per state (lead, two "why" paragraphs, 4-row problems table, tips, areas, a local FAQ).
-- **Each state page has:** quick answer, at-a-glance facts table, housing-age bar chart, pipes and housing age, common problems → service links, water heaters and gas lines (from heating fuel), storms and sewer backups (from FEMA), tips, licenses and permits, areas served, 4 FAQs, all 19 services, neighboring states, sources; Service schema with `areaServed`.
-- **Service pages:** the "near you" block now shows "<service> near you" with links to all 51 state pages.
-- **Home:** the all-50-states section links to the locations hub.
-- **Checks:** audit PASS 0 issues; reading grade 6.7–9.0; no duplicate paragraphs; site audit clean; no overflow or console errors on all 52 location pages at 360/768/1280.
+## Current — Build 5: Guides hub, 12 guides and glossary (done)
+- **12 guides** (`/blog/<slug>/`), the approved list from the Build 2 plan, 1,389–1,996 words each, every one at or above its competitor benchmark (`research/09-guide-briefs.csv`): running toilet, water heater leaking, water heater lifespan, unclog a drain, frozen pipes, turning off the water, tankless vs. tank, low water pressure, polybutylene/galvanized/PEX/copper pipes, sewer smell, homeowners insurance and plumbing, plumber cost (factors only, no invented prices).
+- **Built to the blog rules doc:** short-answer box, money-page link in the first 150 words, comparison tables, numbered steps, prevention, "Local note" (2–5 state links), "Related reading", "When should you call a plumber?", 4–5 FAQs, 3–5 opened primary sources (EPA, DOE, CDC/ATSDR, BLS, Red Cross, FEMA, III, USGS, City of Bloomington), author box, 2 related cards, BlogPosting + FAQPage schema with citations.
+- **Featured images:** branded 1200×630 graphics (WebP ~24 KB + JPG ~47 KB) from `scripts/make_post_images.py`.
+- **Guides hub** `/blog/` grouped into 5 categories; **glossary** `/glossary/` with 58 terms, auto-linking up to 4 terms per service, state and guide page.
+- **Internal links:** every service page and state page now shows 3 "Helpful guides"; service pages link guides in-text; sidebar shows 4 popular guides; every guide has 3+ in-text inbound links with varied anchors.
+- **Research note:** Semrush returned "ERROR 122 wrong format or empty key" for every report on 2026-11-20, so keyword volumes come from the Nov 19–20 Semrush pull (research/04) and SERPs were checked by web search with one competitor page read per guide.
+- **Checks:** audit PASS 0 issues; reading grade 4.8–7.8; no duplicate paragraphs; site audit clean; no overflow or console errors at 360/768/1280.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 5 (next) | Guides hub, 12 guides, 50+ term glossary | — |
-| 6, 6b | Wave 1 cities, 25 per build | — |
+| 6, 6b (next) | Wave 1 cities, 25 per build | — |
 | 7, 7b | Wave 2 cities, 25 per build | — |
 | 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
 | Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys | Domain, number, email, Resend key |
@@ -40,7 +38,8 @@ Last updated: 2026-11-20 (Build 4)
 - **Email:** add to `src/site.json` once the domain is bought.
 - **Resend env vars** for the contact form: `RESEND_API_KEY`, `LEAD_TO_EMAIL`, `LEAD_FROM_EMAIL`.
 - **Licensing-ad risk (owner aware):** Georgia, Texas, Illinois, Maryland, California and Minnesota limit plumbing ads to licensed plumbers. Pages say work is done by licensed local plumbers; each state page now names its licensing authority.
-- **Deferred:** "helpful guides" links on service and state pages appear automatically in Build 5; city links on state pages in Builds 6–7.
+- **Deferred:** city links on state pages arrive with the city waves (Builds 6–7).
+- **Semrush key:** the Semrush connector returned "wrong format or empty key" on 2026-11-20. Reconnect or check the API key before the city builds, which need fresh city SERP data.
 - **Process claims to confirm:** written estimates before work, permits pulled when required, photo records after each job.
 
 ## Deployment

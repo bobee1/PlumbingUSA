@@ -1,0 +1,1 @@
+Volumes/KD from research/04 (Semrush US, pulled 2026-11-19/20). 2026-11-20: Semrush API returned ERROR 122 (wrong format or empty key) on phrase_organic and phrase_questions, so SERPs were checked with web search and competitor pages read directly.

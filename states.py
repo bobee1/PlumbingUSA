@@ -296,6 +296,24 @@ def nearby(ab):
     return f'<ul class="pills">{pills}</ul>'
 
 
+GUIDE_RULES = [  # (slug, keywords in the state's own copy)
+    ("how-to-keep-pipes-from-freezing", ("freez", "frozen", "ice storm", "cold snap")),
+    ("water-heater-leaking", ("water heater",)),
+    ("how-to-unclog-a-drain", ("root", "clog", "drain")),
+    ("sewer-smell-in-house", ("sewer", "septic", "backup")),
+    ("low-water-pressure-in-house", ("pressure", "galvanized", "hard water", "well")),
+    ("polybutylene-pipes", ("polybutylene", "galvanized", "lead")),
+    ("does-homeowners-insurance-cover-plumbing", ("flood", "hurricane", "insur")),
+    ("tankless-vs-tank-water-heater", ("tankless", "scale")),
+]
+
+
+def guide_slugs(c):
+    blob = json.dumps(c).lower()
+    scored = sorted(((-sum(blob.count(k) for k in kws), i, slug) for i, (slug, kws) in enumerate(GUIDE_RULES)))
+    return [s for _, _, s in scored[:3]]
+
+
 def state_page(ab):
     c = load_content(ab)
     if not c:
@@ -372,7 +390,7 @@ def state_page(ab):
 <h2>Plumbers in nearby states</h2>
 {nearby(ab)}
 
-{{{{helpful_guides:{','.join(c.get('guides', ['how-to-find-a-water-leak', 'low-water-pressure', 'how-long-does-a-water-heater-last']))}}}}}
+{{{{helpful_guides:{','.join(guide_slugs(c))}}}}}
 
 {{{{sources}}}}
 """

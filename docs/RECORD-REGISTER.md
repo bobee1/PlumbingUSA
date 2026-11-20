@@ -63,4 +63,15 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 57 | 2026-11-20 | 4 | Home links to locations hub; service pages show "near you" state links | Done | Home 1,781 words |
 | 58 | 2026-11-20 | 4 | Audit, readability, site audit, responsive check on 52 location pages | Done | PASS 0 issues; FK 6.7–9.0; 948–1,140 words |
 | 59 | 2026-11-20 | 4 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 60 | — | 5 | Guides hub, 12 guides and glossary | Planned | Next |
+| 60 | 2026-11-20 | 5 | Owner asked for Build 5; re-read blog rules doc and the approved 12-guide list | Done | — |
+| 61 | 2026-11-20 | 5 | Semrush phrase_organic / phrase_questions attempted | Failed | ERROR 122 (wrong format or empty key) on every call; no units spent |
+| 62 | 2026-11-20 | 5 | SERPs checked by web search; 1 competitor content page read per guide (word count + headings) | Done | `research/09-guide-briefs.csv` |
+| 63 | 2026-11-20 | 5 | New sources opened: ATSDR hydrogen sulfide, BLS plumbers, III "Am I covered?", City of Bloomington water pressure, Red Cross (re-checked) | Done | — |
+| 64 | 2026-11-20 | 5 | Blog engine, image script, CSS ported from SootMend and rebranded | Done | `blog.py`, `scripts/make_post_images.py` |
+| 65 | 2026-11-20 | 5 | 12 guides written; 5 extended to meet benchmarks | Done | 1,389–1,996 words |
+| 66 | 2026-11-20 | 5 | 12 branded featured images rendered | Done | `src/static/img/blog/` |
+| 67 | 2026-11-20 | 5 | Guides hub and glossary (58 terms) | Done | `/blog/`, `/glossary/` |
+| 68 | 2026-11-20 | 5 | Helpful guides on 19 service and 51 state pages; in-text guide links on 5 service pages; sidebar popular guides | Done | — |
+| 69 | 2026-11-20 | 5 | Audit, readability, site audit, responsive check | Done | PASS 0 issues; FK 4.8–7.8 |
+| 70 | 2026-11-20 | 5 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 71 | — | 6 | Wave 1 cities, first 25 | Planned | Next |
