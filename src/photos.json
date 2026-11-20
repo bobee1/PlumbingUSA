@@ -33,7 +33,7 @@
   "slug": "basement-laundry-with-water-heater-10847199",
   "alt": "Basement laundry area with a washer, dryer, water softener and water heater",
   "source": "https://www.pexels.com/photo/10847199/",
-  "used_on": ""
+  "used_on": "/services/water-softener-installation/"
  },
  {
   "id": 4092030,
@@ -109,7 +109,7 @@
   "slug": "old-pipes-and-valves-on-a-wall-8488035",
   "alt": "Old galvanized pipes and valves coming out of a wall",
   "source": "https://www.pexels.com/photo/8488035/",
-  "used_on": "",
+  "used_on": "/services/water-line-repair/",
   "focus_y": 0.5
  },
  {
@@ -117,7 +117,39 @@
   "slug": "water-running-into-a-kitchen-sink-20661422",
   "alt": "Water running into a kitchen sink and swirling toward the drain",
   "source": "https://www.pexels.com/photo/20661422/",
-  "used_on": "",
+  "used_on": "/services/garbage-disposal-repair/",
   "focus_y": 0.5
+ },
+ {
+  "id": 10833566,
+  "slug": "chrome-sensor-faucets-on-ceramic-sinks-10833566",
+  "alt": "Chrome faucets mounted on white ceramic sinks in a restroom",
+  "focus_y": 0.5,
+  "source": "https://www.pexels.com/photo/10833566/",
+  "used_on": "/services/faucet-repair/"
+ },
+ {
+  "id": 8581897,
+  "slug": "gas-meter-and-steel-pipes-on-brick-wall-8581897",
+  "alt": "Gas meter connected to gray steel gas pipes on a brick wall",
+  "focus_y": 0.5,
+  "source": "https://www.pexels.com/photo/8581897/",
+  "used_on": "/services/gas-line-repair/"
+ },
+ {
+  "id": 28133837,
+  "slug": "commercial-kitchen-with-stainless-counters-28133837",
+  "alt": "Commercial kitchen with stainless steel counters, sinks and equipment",
+  "focus_y": 0.55,
+  "source": "https://www.pexels.com/photo/28133837/",
+  "used_on": "/services/commercial-plumbing/"
+ },
+ {
+  "id": 3963073,
+  "slug": "toilet-tank-with-push-button-flush-3963073",
+  "alt": "White toilet tank lid with a chrome push-button flush",
+  "focus_y": 0.6,
+  "source": "https://www.pexels.com/photo/3963073/",
+  "used_on": "/services/toilet-repair/"
  }
 ]

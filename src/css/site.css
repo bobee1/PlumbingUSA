@@ -60,6 +60,7 @@ h1{font-size:clamp(1.8rem,1.2rem + 2.2vw,2.75rem);line-height:1.15;color:var(--b
 .doc-line{font-size:.95rem;color:var(--ink-muted);border-left:4px solid var(--brand-accent);padding:6px 12px;background:var(--surface-soft);border-radius:0 8px 8px 0}
 .note{background:var(--tint);border-radius:var(--radius-md);padding:16px 18px;margin:20px 0}
 .quick{background:var(--notice-bg);border:1px solid var(--notice-line);border-radius:var(--radius-md);padding:16px 18px;margin:18px 0}
+.callout{background:#fdf0ec;border:1px solid #e3b3a0;border-left:5px solid #b3361b;border-radius:var(--radius-md);padding:14px 18px;margin:18px 0;color:#3a1a10}
 table{width:100%;border-collapse:collapse;margin:18px 0;font-size:.97rem}
 th,td{text-align:left;border-bottom:1px solid var(--line);padding:10px 8px;vertical-align:top}
 th{background:var(--surface-soft);color:var(--brand-dark)}

@@ -44,4 +44,13 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 38 | 2026-11-20 | 3 | Home trimmed to 1,771 words; system legend links to 7 service pages | Done | Cap 1,800 |
 | 39 | 2026-11-20 | 3 | Audit, readability, site audit, responsive check 360/768/1280 | Done | PASS 0 issues; FK 5.0–7.4; no overflow; diagram labels fixed |
 | 40 | 2026-11-20 | 3 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 41 | — | 3b | Remaining 9 service pages | Planned | Next |
+| 41 | 2026-11-20 | 3b | Owner asked for Build 3b | Done | — |
+| 42 | 2026-11-20 | 3b | 4 new Pexels photos (faucet, gas meter, toilet tank, commercial kitchen) converted to WebP; 3 held photos assigned | Done | `src/photos.json`; sump pump and backflow get SVG diagrams |
+| 43 | 2026-11-20 | 3b | Sources opened: EPA WaterSense toilets + faucets, EPA cross-connection manual + fact sheet, USGS hardness, FEMA basement flooding, CPSC CO | Done | Cited per page |
+| 44 | 2026-11-20 | 3b | Service pages: water line, toilet, faucet | Done | 1,243 / 1,079 / 1,069 words |
+| 45 | 2026-11-20 | 3b | Service pages: garbage disposal, sump pump (SVG), gas line (safety callout) | Done | 1,022 / 1,174 / 1,099 words |
+| 46 | 2026-11-20 | 3b | Service pages: water softener, backflow testing (SVG), commercial | Done | 1,013 / ~1,060 / 1,050 words |
+| 47 | 2026-11-20 | 3b | Hub table +9 rows; home legend links to water line, toilet, faucet; all 19 cards linked | Done | Hub 843 words, home 1,774 |
+| 48 | 2026-11-20 | 3b | Audit, readability, site audit, responsive check 360/768/1280 | Done | PASS 0 issues; FK 5.5–8.7; no overflow; sump label overlap fixed |
+| 49 | 2026-11-20 | 3b | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 50 | — | 4 | Locations hub and 51 state pages | Planned | Next |
