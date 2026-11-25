@@ -1,0 +1,45 @@
+{
+ "lead": "Amarillo plumbing deals with hard water, wind, sudden cold fronts and clay soil. PipeMend sends licensed local plumbers across Amarillo.",
+ "risk": "hard water scale, frozen pipes in cold snaps and slab leaks",
+ "risk_short": "hard water, frozen pipes and slab leaks",
+ "why": [
+  "Wolflin, Olsen Park and the San Jacinto area have homes from the 1920s to the 1950s with galvanized supply lines and cast-iron drains. Newer areas in the southwest sit on slabs.",
+  "Blue northers drop temperatures fast and strong wind pulls heat from walls and attics, so pipes freeze quickly. Expansive soils stress slab plumbing."
+ ],
+ "utility": "City of Amarillo Utilities",
+ "water": "Amarillo draws on groundwater from the Ogallala and other aquifers plus water from the Canadian River Municipal Water Authority. It is hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and attics",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Wolflin and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate attic and wall pipes before winter.",
+  "Disconnect hoses when a cold front is coming.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Wolflin, Olsen Park, Bivins, the San Jacinto area, Puckett, the Colonies, Downtown and every other Amarillo neighborhood.",
+ "permits": "Plumbing permits come from the City of Amarillo Building Safety Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why do Amarillo pipes freeze so fast?",
+  "a": "Cold fronts can drop the temperature sharply in hours, and Panhandle wind pulls heat out of walls and attics. Pipes there freeze first. Insulation and dripping faucets help."
+ }
+}

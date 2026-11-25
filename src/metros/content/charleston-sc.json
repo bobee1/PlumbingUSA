@@ -1,0 +1,45 @@
+{
+ "lead": "Charleston plumbing deals with tidal flooding, hurricanes, salt air and some of the oldest homes in the South. PipeMend sends licensed local plumbers across Charleston.",
+ "risk": "tidal flooding and backups, old cast-iron and galvanized pipes, and storm damage",
+ "risk_short": "flooding, old pipes and storms",
+ "why": [
+  "Homes on the Peninsula and South of Broad date from the 1700s to the early 1900s, with galvanized supply lines, cast-iron drains and old sewer laterals. Many sit on raised foundations with exposed pipes.",
+  "King tides and heavy rain flood low streets on the Peninsula and push water up through drains. Hurricanes add surge and long outages."
+ ],
+ "utility": "Charleston Water System",
+ "water": "Charleston Water System treats water from the Edisto River and Bushy Park Reservoir. It is soft.",
+ "problems": [
+  [
+   "Tidal and storm backups",
+   "The Peninsula and low areas",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized and cast-iron lines",
+   "Historic homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Exposed pipes under raised homes",
+   "Older homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Know king tide dates and your flood zone.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Check historic district rules before exterior work.",
+  "Wrap exposed pipes under raised homes before a freeze."
+ ],
+ "areas": "PipeMend works on the Peninsula, South of Broad, Wagener Terrace, West Ashley, James Island, Daniel Island and every other Charleston neighborhood.",
+ "permits": "Plumbing permits come from the City of Charleston building inspections office, and plumbing contractors are licensed by the South Carolina Department of Labor, Licensing and Regulation.",
+ "faq": {
+  "q": "Why does downtown Charleston flood so often?",
+  "a": "The Peninsula is low, and high tides back up storm drains. Add heavy rain and streets flood quickly. The city is upgrading drainage, but low homes still need backflow protection."
+ }
+}

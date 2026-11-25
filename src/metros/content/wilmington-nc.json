@@ -1,0 +1,45 @@
+{
+ "lead": "Wilmington plumbing deals with hurricanes, sandy soil, a high water table and historic homes. PipeMend sends licensed local plumbers across Wilmington.",
+ "risk": "storm and flood damage, aging pipes in historic homes and polybutylene pipe",
+ "risk_short": "storms, old pipes and polybutylene",
+ "why": [
+  "The Historic District and Carolina Heights have homes from the 1800s and early 1900s with galvanized supply lines and cast-iron or clay drains. Many suburban homes from the 1980s and early 1990s have polybutylene pipe.",
+  "Hurricane Florence in 2018 flooded much of the region and cut the city off for days. Low areas and crawl spaces stay wet after big storms."
+ ],
+ "utility": "Cape Fear Public Utility Authority (CFPUA)",
+ "water": "CFPUA treats water from the Cape Fear River and the Castle Hayne aquifer. It added advanced filtration to remove PFAS compounds such as GenX from river water.",
+ "problems": [
+  [
+   "Storm and flood damage",
+   "Low areas after hurricanes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "The Historic District",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–early 1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Low-lying homes",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off the main valve before a hurricane evacuation.",
+  "Look for gray pipe stamped PB2110.",
+  "Check crawl-space drainage after big storms.",
+  "Know your flood zone."
+ ],
+ "areas": "PipeMend works in the Historic District, Carolina Heights, Forest Hills, Sunset Park, Mayfaire, Echo Farms, Brookwood and every other neighborhood.",
+ "permits": "Plumbing permits for Wilmington are handled by the local building inspections office for your address, and plumbing contractors must be licensed by the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors.",
+ "faq": {
+  "q": "Does Wilmington's water have PFAS?",
+  "a": "The Cape Fear River has carried PFAS compounds such as GenX from upstream industry. CFPUA added granular activated carbon filters to remove them. Its website posts current test results."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Little Rock plumbing deals with clay soil, crawl spaces, ice storms and historic homes. PipeMend sends licensed local plumbers across Little Rock.",
+ "risk": "cracked sewer lines in clay soil, frozen crawl-space pipes and aging pipes in older homes",
+ "risk_short": "sewer lines, frozen pipes and old pipes",
+ "why": [
+  "The Quapaw Quarter, Hillcrest and the Heights have homes from the 1880s to the 1940s with galvanized supply lines and clay sewer laterals. Clay soil shrinks and swells and cracks those lines.",
+  "Many homes sit on crawl spaces, and ice storms freeze exposed pipes. Newer West Little Rock homes sit mostly on slabs."
+ ],
+ "utility": "Central Arkansas Water",
+ "water": "Central Arkansas Water treats water from Lake Maumelle and Lake Winona. It is soft.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "Hillcrest, the Heights and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide in ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Quapaw Quarter and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Drip faucets in an ice storm.",
+  "Scope the sewer line before buying an older home.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in the Quapaw Quarter, Hillcrest, the Heights, Downtown, SoMa, West Little Rock, Chenal Valley and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Little Rock Planning and Development Department, and plumbers are licensed by the Arkansas Department of Health, Plumbing and Natural Gas Section.",
+ "faq": {
+  "q": "Who licenses plumbers in Little Rock?",
+  "a": "Arkansas licenses plumbers through the Department of Health, which also inspects plumbing in many areas. Ask for the license number before work starts."
+ }
+}

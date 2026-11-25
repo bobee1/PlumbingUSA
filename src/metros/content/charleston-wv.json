@@ -1,0 +1,45 @@
+{
+ "lead": "Charleston plumbing deals with hills, river flooding, older homes and cold snaps. PipeMend sends licensed local plumbers across Charleston.",
+ "risk": "aging pipes in older homes, flood backups and frozen pipes",
+ "risk_short": "old pipes, flooding and frozen pipes",
+ "why": [
+  "The East End and South Hills have homes from the 1890s to the 1950s with galvanized supply lines and clay sewer laterals. Steep lots make sewer and water lines long and hard to reach.",
+  "Heavy rain floods low areas along the Kanawha and Elk rivers, as in 2016. Cold snaps freeze pipes in crawl spaces and exterior walls."
+ ],
+ "utility": "West Virginia American Water",
+ "water": "Charleston's water comes from West Virginia American Water, which treats water from the Elk River. It is moderately soft. A 2014 chemical spill upstream left the region without usable tap water for days.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "The East End and South Hills",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Flood backups",
+   "Low areas near the rivers",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Hillside homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Know your flood zone near the rivers.",
+  "Scope the sewer line before buying an older home.",
+  "Keep bottled water on hand for emergencies."
+ ],
+ "areas": "PipeMend works Downtown and in the East End, South Hills, Kanawha City, the West Side, North Charleston, Edgewood and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Charleston building office, and plumbers must be licensed by the West Virginia Division of Labor.",
+ "faq": {
+  "q": "Is this Charleston, West Virginia or Charleston, South Carolina?",
+  "a": "This page covers Charleston, West Virginia, the state capital. For Charleston, South Carolina, see our South Carolina pages."
+ }
+}

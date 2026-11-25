@@ -1,0 +1,45 @@
+{
+ "lead": "Billings plumbing deals with deep cold, wind, hard river water and older homes near downtown. PipeMend sends licensed local plumbers across Billings.",
+ "risk": "frozen pipes and sprinkler lines, hard water scale and aging pipes",
+ "risk_short": "frozen pipes, hard water and old pipes",
+ "why": [
+  "The North Side and areas near Downtown have homes from the 1900s to the 1950s with galvanized supply lines and clay sewer laterals. The West End and Heights were built mostly later.",
+  "Arctic cold snaps freeze sprinkler lines, hose bibs and pipes near exterior walls. Many homes have basements with the water heater and floor drains."
+ ],
+ "utility": "City of Billings Public Works",
+ "water": "Billings treats water from the Yellowstone River. It is moderately hard, so scale builds up in heaters and fixtures over time.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and pipes",
+   "Citywide every winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "North Side and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first freeze.",
+  "Keep the heat on and cabinets open in deep cold.",
+  "Flush your water heater yearly.",
+  "Disconnect hoses in October."
+ ],
+ "areas": "PipeMend works Downtown and in the North Side, the Heights, the West End, Rimrock, the South Side, Briarwood and every other Billings neighborhood.",
+ "permits": "Plumbing permits come from the City of Billings Building Division, and plumbers must be licensed by the Montana Board of Plumbers.",
+ "faq": {
+  "q": "When should Billings homeowners winterize?",
+  "a": "Before the first hard freeze, often in early October. Blow out sprinkler lines, disconnect hoses and shut off outdoor faucets from inside."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Clearwater plumbing deals with storm surge, salt air, slab homes and aging cast-iron drains. PipeMend sends licensed local plumbers across Clearwater.",
+ "risk": "cast-iron drain failures, storm-surge damage and slab leaks",
+ "risk_short": "old drains, storm surge and slab leaks",
+ "why": [
+  "Harbor Oaks, Skycrest and much of central Clearwater have homes from the 1920s to the 1970s with cast-iron drains under the slab. Countryside was built mostly in the 1970s and 1980s.",
+  "Hurricanes Helene and Milton in 2024 sent surge into Clearwater Beach and low areas. Salt air corrodes outdoor fittings and water heater parts."
+ ],
+ "utility": "City of Clearwater Public Utilities",
+ "water": "Clearwater treats groundwater with reverse osmosis and buys some water from Pinellas County Utilities. It is moderately hard.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "Pre-1980 homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Storm-surge damage",
+   "Clearwater Beach and low areas",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Corroded fittings",
+   "Near the water",
+   "<a href=\"/services/faucet-repair/\">Faucet repair</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Have the water heater checked after any flood.",
+  "Rinse and check outdoor fittings for corrosion."
+ ],
+ "areas": "PipeMend works Downtown and in Clearwater Beach, Countryside, Island Estates, Morningside, Skycrest, Harbor Oaks and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Clearwater Planning and Development Department, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "What should Clearwater homes check after storm surge?",
+  "a": "Have the water heater, gas lines and sewer line checked before regular use. Salt water ruins heater controls and silt clogs drains. Keep photos for insurance."
+ }
+}

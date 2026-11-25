@@ -1,0 +1,45 @@
+{
+ "lead": "Pembroke Pines plumbing deals with heat, heavy rain, slab homes and fast 1980s and 1990s growth. PipeMend sends licensed local plumbers across Pembroke Pines.",
+ "risk": "slab leaks, cast-iron drain failures and polybutylene pipe",
+ "risk_short": "slab leaks, old drains and old pipes",
+ "why": [
+  "Eastern Pembroke Pines has homes from the 1960s and 1970s with cast-iron drains under the slab. Much of the west was built in the 1980s and 1990s, and some of those homes have polybutylene pipe.",
+  "Summer storms and hurricanes flood low streets and back up drains. Many homes are in communities with HOA rules for exterior work."
+ ],
+ "utility": "City of Pembroke Pines Utilities",
+ "water": "Pembroke Pines pumps water from the Biscayne Aquifer and treats it at the city's plant. It is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "1960s–1970s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Storm flooding and backups",
+   "Low streets",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Look for gray pipe stamped PB2110.",
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Check HOA rules before exterior work."
+ ],
+ "areas": "PipeMend works in Pembroke Lakes, Chapel Trail, Silver Lakes, Pembroke Falls, Pembroke Shores, Grand Palms and every other Pembroke Pines neighborhood.",
+ "permits": "Plumbing permits come from the City of Pembroke Pines Building Division, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Do Pembroke Pines homes have polybutylene pipe?",
+  "a": "Some homes built in the 1980s and early 1990s do. Look for gray plastic pipe stamped PB2110. Many insurers ask about it, and replacing it prevents sudden leaks."
+ }
+}

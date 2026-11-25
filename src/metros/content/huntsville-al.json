@@ -1,0 +1,45 @@
+{
+ "lead": "Huntsville plumbing deals with limestone ground, red clay, crawl spaces and fast growth. PipeMend sends licensed local plumbers across Huntsville.",
+ "risk": "sewer lines in rocky clay soil, frozen crawl-space pipes and water heater replacement",
+ "risk_short": "sewer lines, frozen pipes and water heaters",
+ "why": [
+  "Twickenham, Five Points and Blossomwood have homes from the 1800s to the 1950s with galvanized supply lines and clay sewer laterals. Limestone near the surface and sinkholes in places can shift buried lines.",
+  "Many homes sit on crawl spaces, and hard freezes burst exposed pipes. Fast growth means many newer homes, where water heaters and fixtures are the usual calls."
+ ],
+ "utility": "Huntsville Utilities",
+ "water": "Huntsville Utilities treats water from the Tennessee River and wells. It is moderately hard. The same utility also supplies natural gas and electricity.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide in hard freezes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Gas line work",
+   "Homes with gas service",
+   "<a href=\"/services/gas-line-repair/\">Gas line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Know where your gas and water shutoffs are.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Twickenham, Five Points, Blossomwood, Jones Valley, Hampton Cove, Research Park and every other Huntsville neighborhood.",
+ "permits": "Plumbing permits come from the City of Huntsville Inspection Department, and plumbers must be licensed by the Alabama Plumbers and Gas Fitters Examining Board.",
+ "faq": {
+  "q": "Who supplies gas and water in Huntsville?",
+  "a": "Huntsville Utilities runs water, natural gas and electric service. If you smell gas, leave the home and call 911 or Huntsville Utilities from outside."
+ }
+}

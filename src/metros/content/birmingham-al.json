@@ -1,0 +1,45 @@
+{
+ "lead": "Birmingham plumbing deals with hilly lots, red clay, older homes and the occasional hard freeze. PipeMend sends licensed local plumbers across Birmingham.",
+ "risk": "aging lead and galvanized service lines, root-filled sewer laterals and frozen crawl-space pipes",
+ "risk_short": "old pipes, sewer roots and frozen pipes",
+ "why": [
+  "Highland Park, Forest Park, Avondale and Southside have homes from the 1900s to the 1940s with galvanized supply lines and clay sewer laterals. Steep lots make sewer lines long, and roots break into them.",
+  "Many homes sit on crawl spaces, and hard freezes burst exposed pipes. Older homes may still have lead or galvanized service lines."
+ ],
+ "utility": "Central Alabama Water",
+ "water": "Birmingham's water utility, formerly the Birmingham Water Works, now does business as Central Alabama Water. It treats water from area lakes and rivers, and the water is soft. The utility must replace lead and some galvanized service lines by 2037.",
+ "problems": [
+  [
+   "Old lead and galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Hillside neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide in hard freezes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Ask the utility about your service line material.",
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Drip faucets in a hard freeze."
+ ],
+ "areas": "PipeMend works in Five Points South, Highland Park, Forest Park, Crestwood, Avondale, Southside, Redmont Park and every other Birmingham neighborhood.",
+ "permits": "Plumbing permits come from the City of Birmingham Planning, Engineering and Permits Department, and plumbers must be licensed by the Alabama Plumbers and Gas Fitters Examining Board.",
+ "faq": {
+  "q": "Is Birmingham Water Works now Central Alabama Water?",
+  "a": "Yes. After a 2025 state law reorganized the utility, its board voted to do business as Central Alabama Water. It still serves Birmingham and nearby counties."
+ }
+}

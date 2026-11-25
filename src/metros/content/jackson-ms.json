@@ -1,0 +1,45 @@
+{
+ "lead": "Jackson plumbing deals with shifting Yazoo clay, aging city water lines, heat and the occasional hard freeze. PipeMend sends licensed local plumbers across Jackson.",
+ "risk": "broken lines from shifting clay, boil-water notices and frozen pipes",
+ "risk_short": "clay soil, water outages and frozen pipes",
+ "why": [
+  "Much of Jackson sits on Yazoo clay, which swells and shrinks a great deal. That movement cracks slabs, sewer laterals and water lines. Belhaven, Fondren and Eastover have homes from the 1920s to the 1950s with galvanized lines.",
+  "The city's water system has struggled, with boil-water notices and the 2022 plant failure. Hard freezes, like 2021 and 2022, burst many exposed pipes."
+ ],
+ "utility": "JXN Water",
+ "water": "Jackson's water system is run by JXN Water under a federal court arrangement. It treats water from the Ross Barnett Reservoir and the Pearl River. Watch for boil-water notices.",
+ "problems": [
+  [
+   "Broken lines from shifting clay",
+   "Citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Sign up for JXN Water alerts.",
+  "Keep bottled water on hand for boil-water notices.",
+  "Insulate exposed pipes before a freeze.",
+  "Water your foundation evenly in dry spells."
+ ],
+ "areas": "PipeMend works in Belhaven, Fondren, Eastover, Downtown, North Jackson, South Jackson, LeFleur East and every other Jackson neighborhood.",
+ "permits": "Plumbing permits come from the City of Jackson Planning and Development Department. Mississippi's State Board of Contractors licenses larger plumbing contracts, and the city may also require a local license.",
+ "faq": {
+  "q": "What is Yazoo clay?",
+  "a": "Yazoo clay is a very expansive soil found under much of the Jackson area. It swells when wet and shrinks when dry, which cracks foundations, sewer lines and water lines."
+ }
+}

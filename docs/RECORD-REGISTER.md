@@ -107,4 +107,10 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 101 | 2026-11-24 | 8 | State pages: city links as pills; hub: top 40 cities + note | Done | Live now |
 | 102 | 2026-11-24 | 8 | Stand-in test of 75 staged pages: all checks | Done | PASS; stand-ins deleted |
 | 103 | — | 8 | Owner runs Census script; publish 75 pages | Waiting | Owner action |
-| 104 | — | 9 | Wave 3 ranks 28–52 + largest city in each uncovered state | Planned | Next |
+| 104 | 2026-11-24 | 9 | Semrush KD for 13 state-coverage cities | Done | 650 units; 17,650 left |
+| 105 | 2026-11-24 | 9 | Verified Birmingham utility rename (Central Alabama Water) | Done | Web search |
+| 106 | 2026-11-24 | 9 | 25 cities to meta + copy; Census script batch 9 (research/20, 21) | Done | Every state now has a city page |
+| 107 | 2026-11-24 | 9 | City template: shared-name cities, nearby pills (max 8), permit text de-duplication, local-licensing wording | Done | Live now |
+| 108 | 2026-11-24 | 9 | Stand-in test of 100 staged pages: all checks | Done | PASS; stand-ins deleted |
+| 109 | — | 9 | Owner runs Census script; publish 100 pages | Waiting | Owner action |
+| 110 | — | 10 | Wave 3 continues | Planned | Next |

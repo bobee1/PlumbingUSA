@@ -1,0 +1,45 @@
+{
+ "lead": "Overland Park plumbing deals with cold winters, clay soil, basements and homes from the 1950s to today. PipeMend sends licensed local plumbers across Overland Park.",
+ "risk": "frozen pipes, sewer lines cracked by clay soil and basement plumbing",
+ "risk_short": "frozen pipes, sewer lines and basements",
+ "why": [
+  "North Overland Park has many homes from the 1950s and 1960s with galvanized supply lines and clay or cast-iron sewer laterals. South Overland Park and Blue Valley were built mostly after 1985.",
+  "Most homes have basements with the water heater, sump pit and floor drains. Winter cold freezes pipes near exterior walls, and clay soil moves with the seasons."
+ ],
+ "utility": "WaterOne",
+ "water": "WaterOne, the water district for most of Johnson County, treats water from the Missouri and Kansas rivers. It is softened at the plant and is moderately hard.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "1950s–1960s neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes before winter.",
+  "Test your sump pump each spring.",
+  "Scope the sewer line before buying an older home.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Downtown Overland Park, Nall Hills, Indian Creek, Corporate Woods, Deer Creek, Blue Valley and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Overland Park Building Safety Division, and plumbers are licensed through the Johnson County Contractor Licensing program. Kansas has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Overland Park?",
+  "a": "Kansas has no statewide plumber license. Overland Park and most Johnson County cities use the county's Contractor Licensing program. Ask for the license number before work starts."
+ }
+}

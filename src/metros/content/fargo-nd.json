@@ -1,0 +1,45 @@
+{
+ "lead": "Fargo plumbing is built for extreme cold, spring flooding and basements. PipeMend sends licensed local plumbers across Fargo.",
+ "risk": "frozen pipes and service lines, spring flood backups and basement plumbing",
+ "risk_short": "frozen pipes, flooding and basements",
+ "why": [
+  "Downtown and the Hawthorne and Roosevelt areas have homes from the 1900s to the 1940s with galvanized supply lines, cast-iron stacks and clay sewer laterals. Nearly every home has a basement.",
+  "Winters bring some of the deepest cold in the lower 48, which can freeze pipes and service lines. Spring Red River floods, as in 1997 and 2009, push water into basements."
+ ],
+ "utility": "City of Fargo Water Utility",
+ "water": "Fargo treats water from the Red River and the Sheyenne River and softens it at the plant.",
+ "problems": [
+  [
+   "Frozen pipes and service lines",
+   "Citywide in deep cold",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Spring flood backups",
+   "Low areas near the river",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Older neighborhoods",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Test your sump pump before spring thaw.",
+  "Consider a backwater valve for spring floods.",
+  "Insulate pipes near exterior walls."
+ ],
+ "areas": "PipeMend works Downtown and in the Hawthorne area, Roosevelt, North Fargo, South Fargo, Osgood, Rose Creek and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Fargo Inspections Department, and plumbers must be licensed by the North Dakota State Plumbing Board.",
+ "faq": {
+  "q": "How do Fargo homes protect basements from spring floods?",
+  "a": "A working sump pump with battery backup, a backwater valve on the sewer line and clear yard drainage help most. Homes near the river should follow the city's flood guidance each spring."
+ }
+}

@@ -18,7 +18,8 @@ FUEL = json.loads((ROOT / "research" / "11-city-heating-fuel.json").read_text())
 # Later city batches: extra Census files from scripts/census_pull.py, merged when present
 for _a, _f in [("13-city-acs-6c.json", "14-city-heating-fuel-6c.json"),
                ("15-city-acs-7.json", "16-city-heating-fuel-7.json"),
-               ("18-city-acs-8.json", "19-city-heating-fuel-8.json")]:
+               ("18-city-acs-8.json", "19-city-heating-fuel-8.json"),
+               ("20-city-acs-9.json", "21-city-heating-fuel-9.json")]:
     if (ROOT / "research" / _a).exists() and (ROOT / "research" / _f).exists():
         ACS.update(json.loads((ROOT / "research" / _a).read_text())["places"])
         FUEL.update(json.loads((ROOT / "research" / _f).read_text())["places"])
@@ -35,6 +36,23 @@ def live(slug):
 def area_of(m):
     """' and <County>' for normal cities; nothing for independent cities and consolidated city-counties."""
     return "" if m.get("indep") else f" and {m['county']}"
+
+
+def permit_text(t):
+    """City copy names the permit office and often repeats the licensing body; the template already names the
+    licensing body (with a link), so drop the repeated clause or sentence."""
+    import re
+    t = re.sub(r",? and (?:plumbers|plumbing contractors|contractors) (?:must|need|are)\b[^.]*\.", ".", t)
+    drop = ("no statewide plumber license", "licenses commercial plumbing contractors")
+    sents = [x for x in re.split(r"(?<=\.)\s+", t) if x and not any(d in x for d in drop)]
+    return " ".join(sents)
+
+
+def cname(slug):
+    """City name for running text; adds the state when another city shares the name (Portland, Wilmington, Charleston)."""
+    m = MMETA[slug]
+    shared = sum(1 for v in MMETA.values() if v["city"] == m["city"]) > 1
+    return f"{m['city']}, {m['st']}" if shared else m["city"]
 
 
 def mpath(slug):
@@ -75,7 +93,7 @@ def glance(slug, c):
 
 def age_chart(slug):
     a = acs(slug)
-    c = MMETA[slug]["city"]
+    c = cname(slug)
     rows = [("Before 1940", a["pre40"]), ("1940 to 1979", round(a["pre80"] - a["pre40"], 1)), ("1980 or later", round(100 - a["pre80"], 1))]
     bars = "".join(f'<li><span class="bar-label">{k}</span><span class="bar-track"><span class="bar-fill" style="width:{max(v, 1):g}%"></span></span>'
                    f'<span class="bar-val">{v:g}%</span></li>' for k, v in rows)
@@ -84,7 +102,7 @@ def age_chart(slug):
 
 
 def housing_line(slug):
-    a, c = acs(slug), MMETA[slug]["city"]
+    a, c = acs(slug), cname(slug)
     if a["pre40"] >= 20:
         s = S.pick(slug, [f"{a['pre40']:g}% of homes in {c} were built before 1940, so galvanized supply pipe, cast-iron stacks and clay sewer laterals are still common.",
                           f"{c} has a lot of old housing: {a['pre40']:g}% predates 1940. Original galvanized water lines and cast-iron or clay drains are often near the end of their life."], "hl")
@@ -104,7 +122,7 @@ def housing_line(slug):
 
 
 def heater_line(slug):
-    f, c = fuel(slug), MMETA[slug]["city"]
+    f, c = fuel(slug), cname(slug)
     if f["Utility gas"] >= 50:
         s = S.pick(slug, [f"Natural gas heats {f['Utility gas']:g}% of {c} homes, and most of those have gas water heaters, so burners, venting and <a href=\"/services/gas-line-repair/\">gas lines</a> are routine work.",
                           f"{f['Utility gas']:g}% of homes in {c} heat with natural gas. Gas water heaters and <a href=\"/services/gas-line-repair/\">gas line repairs</a> are a large share of plumbing calls."], "h")
@@ -138,24 +156,26 @@ def page(slug):
         desc = f"Plumber in {disp} for {c['risk_short']}. Call PipeMend 24/7 at 1-800-555-0199."
     if len(desc) > 155:
         desc = f"Plumber in {disp} for {c['risk_short']}. Call 1-800-555-0199."
+    city = cname(slug)  # running text from here on
     near = [n for n in m["nearby"] if live(n)]
     back = sorted(k for k, v in MMETA.items() if slug in v["nearby"] and k not in near and live(k))
     same = [k for k in metros_in_state(ab) if k != slug and k not in near and k not in back]
-    near = (near + back + same)[:5]
-    nb = S.pick(slug, [f"PipeMend also covers nearby {S.join_list([mlink(n) for n in near])}.",
-                       f"Plumbers also work in {S.join_list([mlink(n) for n in near])}.",
-                       f"Plumbing help is also available in {S.join_list([mlink(n) for n in near])}."], "nb") if near else ""
+    near = (near + back + same)[:8]
+    nb_intro = S.pick(slug, ["PipeMend also covers nearby cities:", "Plumbers also work in these nearby cities:",
+                             "Plumbing help is also available nearby:"], "nb")
+    nb = (f'\n<p>{nb_intro}</p>\n<ul class="pills pills-sm">' + "".join(f"<li>{mlink(n)}</li>" for n in near)
+          + "</ul>") if near else ""
     quick = S.pick(slug, [f"PipeMend plumbers in {disp} handle leaks, clogged drains, water heaters, sewer lines and gas lines, day and night.",
                           f"Plumbing services in {city} cover emergency leaks, drain and sewer clogs, water heater repair and replacement, and gas lines.",
                           f"In {city}, PipeMend sends licensed local plumbers for burst pipes, drain clogs, water heaters, sewer problems and gas lines."], "q")
     quick += f" The main local issues are {c['risk']}. PipeMend covers all of {city}{area_of(m)}, including ZIP codes {', '.join(m['zips'][:3])}."
     if L["kind"] == "local":
-        lic_p = f"{S.META[ab]['name']} has no statewide plumber license, so {city}{area_of(m)} set{'s' if m.get('indep') else ''} the licensing rules."
+        lic_p = f"{S.META[ab]['name']} has no statewide plumber license, so licensing is handled locally."
     elif L["kind"] == "contractor":
         lic_p = f'Plumbing contractors in {city} are licensed through the <a href="{L["url"]}">{L["name"]}</a>.'
     else:
         lic_p = f'Plumbers in {city} are licensed by the <a href="{L["url"]}">{L["name"]}</a>; you can look up a license number there.'
-    permits = f"{lic_p} {c['permits']} More on state rules: <a href=\"{sp}\">plumbers in {S.short(ab)}</a>."
+    permits = f"{lic_p} {permit_text(c['permits'])} More on state rules: <a href=\"{sp}\">plumbers in {S.short(ab)}</a>."
     cta1 = S.pick(slug, [f"Plumbing problem in {city}? Call PipeMend {{{{availability}}}}.",
                          f"Need a plumber in {city}? Call PipeMend at {{{{phone}}}}."], "c1")
     tips_h = S.pick(slug, [f"Plumbing tips for {city} homes", f"How {city} homeowners can prevent plumbing problems", f"Practical plumbing tips for {city}"], "t")
@@ -197,7 +217,7 @@ def page(slug):
 <ul>{''.join(f'<li>{t}</li>' for t in c['tips'])}</ul>
 
 <h2>Neighborhoods and areas served in {city}</h2>
-<p>{c['areas']} {nb}</p>
+<p>{c['areas']}</p>{nb}
 
 <h2>Plumbing permits and licenses in {city}</h2>
 <p>{permits}</p>

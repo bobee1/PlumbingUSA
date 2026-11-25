@@ -1,0 +1,45 @@
+{
+ "lead": "Sioux Falls plumbing deals with deep cold, hard water, basements and fast growth. PipeMend sends licensed local plumbers across Sioux Falls.",
+ "risk": "frozen pipes, hard water scale and basement plumbing",
+ "risk_short": "frozen pipes, hard water and basements",
+ "why": [
+  "The Cathedral Historic District, McKennan Park and Pettigrew Heights have homes from the 1890s to the 1930s with galvanized supply lines and clay sewer laterals. Southeast and western Sioux Falls are much newer.",
+  "Long, cold winters freeze pipes near exterior walls. Almost every home has a basement with the water heater, softener and sump pit."
+ ],
+ "utility": "City of Sioux Falls Water",
+ "water": "Sioux Falls uses wells along the Big Sioux River and aquifers plus Missouri River water from Lewis and Clark Regional Water. The water is hard, and the city partly softens it.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Historic neighborhoods",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements in spring",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Keep softener salt topped up.",
+  "Test your sump pump each spring.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in the Cathedral Historic District, McKennan Park, Pettigrew Heights, All Saints, Whittier, Southeast Sioux Falls and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Sioux Falls Building Services, and plumbers must be licensed by the South Dakota State Plumbing Commission.",
+ "faq": {
+  "q": "Do Sioux Falls homes need water softeners?",
+  "a": "Many do. The water is hard even after the city's partial softening, and scale shortens water heater life. A water test helps size a softener."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Des Moines plumbing deals with deep cold, hard river water, basements and older homes. PipeMend sends licensed local plumbers across Des Moines.",
+ "risk": "frozen pipes, lead and galvanized service lines and basement backups",
+ "risk_short": "frozen pipes, old lines and basement backups",
+ "why": [
+  "Sherman Hill, Drake, Beaverdale and Highland Park have homes from the 1890s to the 1940s with galvanized supply lines, cast-iron stacks and lead service lines in some cases.",
+  "Winters freeze pipes near exterior walls. Heavy rain and river flooding, as in 1993 and 2008, back water into basements in low areas."
+ ],
+ "utility": "Des Moines Water Works",
+ "water": "Des Moines Water Works treats water from the Raccoon and Des Moines rivers and shallow wells. It is hard. The utility runs a nitrate removal system when farm runoff raises river levels.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Lead and galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Ask the water works about your service line material.",
+  "Test your sump pump each spring.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Sherman Hill, Drake, Beaverdale, Waterbury, the East Village, Highland Park, South of Grand and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Des Moines Permit and Development Center, and plumbers must be licensed by the Iowa Plumbing and Mechanical Systems Board.",
+ "faq": {
+  "q": "Is Des Moines water hard?",
+  "a": "Yes. Water from the Raccoon and Des Moines rivers carries a lot of minerals. Scale builds up in water heaters and on fixtures, so many homes use softeners."
+ }
+}

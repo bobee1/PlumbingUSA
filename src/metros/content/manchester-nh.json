@@ -1,0 +1,45 @@
+{
+ "lead": "Manchester plumbing deals with long cold winters, old mill-era housing and multi-family homes. PipeMend sends licensed local plumbers across Manchester.",
+ "risk": "frozen pipes, aging pipes in mill-era homes and boiler and heating issues",
+ "risk_short": "frozen pipes, old pipes and boilers",
+ "why": [
+  "The North End, the West Side and Rimmon Heights have homes and tenements from the 1880s to the 1930s, built for mill workers. Many have galvanized supply lines, cast-iron stacks and old sewer laterals.",
+  "Long winters freeze pipes near exterior walls and on porches. Many homes use oil or gas boilers, so heating and plumbing overlap."
+ ],
+ "utility": "Manchester Water Works",
+ "water": "Manchester Water Works treats water from Lake Massabesic. It is soft.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and porches",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Mill-era homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Boiler and heating leaks",
+   "Homes with hot water heat",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ],
+  [
+   "Cast-iron stack leaks",
+   "Multi-family homes",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on in every unit through winter.",
+  "Have your boiler serviced before winter.",
+  "Know where each unit's shutoff is.",
+  "Disconnect hoses in October."
+ ],
+ "areas": "PipeMend works in the North End, the West Side, Rimmon Heights, the Millyard, Bakersville, the South End and every other Manchester neighborhood.",
+ "permits": "Plumbing permits come from the City of Manchester Planning and Community Development Department, and plumbers must be licensed by the New Hampshire Mechanical Safety and Licensing Board.",
+ "faq": {
+  "q": "Do Manchester homes need extra freeze protection?",
+  "a": "Yes. Older multi-family homes often have pipes in outside walls and unheated porches. Keep heat on in every unit, open cabinet doors in deep cold and insulate exposed pipes."
+ }
+}

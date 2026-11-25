@@ -1,0 +1,45 @@
+{
+ "lead": "Wilmington plumbing deals with old row houses, cold winters and flooding near the rivers. PipeMend sends licensed local plumbers across Wilmington.",
+ "risk": "old galvanized and cast-iron pipes, frozen pipes and basement backups",
+ "risk_short": "old pipes, frozen pipes and backups",
+ "why": [
+  "Trolley Square, the Highlands and Little Italy have row houses and twins from the 1880s to the 1930s with galvanized supply lines, cast-iron stacks and old sewer laterals.",
+  "Winter cold freezes pipes in exterior walls. Heavy rain and storms like Ida in 2021 flooded areas near the Brandywine and Christina rivers."
+ ],
+ "utility": "City of Wilmington Water",
+ "water": "Wilmington treats water from Brandywine Creek and the Hoopes Reservoir. It is moderately hard.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "Row houses citywide",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement backups",
+   "Low areas near the rivers",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Cast-iron stack leaks",
+   "Row houses",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate basement and wall pipes before winter.",
+  "Know where your shutoff is; often in the front basement.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Scope the sewer lateral before buying."
+ ],
+ "areas": "PipeMend works in Trolley Square, the Highlands, Little Italy, Forty Acres, Bayard Square, the Riverfront and every other Wilmington neighborhood.",
+ "permits": "Plumbing permits come from the City of Wilmington Department of Licenses and Inspections, and plumbers must be licensed by the Delaware Board of Plumbing, Heating, Ventilation, Air Conditioning and Refrigeration Examiners.",
+ "faq": {
+  "q": "Who licenses plumbers in Delaware?",
+  "a": "Delaware's Board of Plumbing, Heating, Ventilation, Air Conditioning and Refrigeration Examiners licenses plumbers statewide. Permits in Wilmington come from the city."
+ }
+}

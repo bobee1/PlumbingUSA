@@ -1,0 +1,45 @@
+{
+ "lead": "Portland plumbing deals with long cold winters, old wood-frame homes and oil heat. PipeMend sends licensed local plumbers across Portland, Maine.",
+ "risk": "frozen pipes, aging pipes in old homes and boiler and heating issues",
+ "risk_short": "frozen pipes, old pipes and boilers",
+ "why": [
+  "The West End, Munjoy Hill and Deering have homes from the 1800s and early 1900s with galvanized supply lines, cast-iron stacks and old sewer laterals. Many are multi-unit buildings.",
+  "Long, cold winters freeze pipes near exterior walls. Many homes use oil or gas boilers, so heating and plumbing problems often overlap."
+ ],
+ "utility": "Portland Water District",
+ "water": "Portland Water District draws from Sebago Lake, one of the few large U.S. sources clean enough to skip filtration. The water is very soft.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and porches",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "West End and Munjoy Hill",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Boiler and heating leaks",
+   "Homes with hot water heat",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Have your boiler serviced before winter.",
+  "Know where each unit's shutoff is.",
+  "Disconnect hoses in October."
+ ],
+ "areas": "PipeMend works in the West End, Munjoy Hill, the Old Port, Deering, Back Cove, Libbytown, Stroudwater and every other Portland neighborhood.",
+ "permits": "Plumbing permits come from the City of Portland Permitting and Inspections Department, and plumbers must be licensed by the Maine Plumbers' Examining Board.",
+ "faq": {
+  "q": "Is this Portland, Maine or Portland, Oregon?",
+  "a": "This page covers Portland, Maine. For Portland, Oregon, see our Portland, Oregon page. PipeMend serves both."
+ }
+}

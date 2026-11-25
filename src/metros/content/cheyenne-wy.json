@@ -1,0 +1,45 @@
+{
+ "lead": "Cheyenne plumbing deals with high winds, deep cold and a high, dry climate. PipeMend sends licensed local plumbers across Cheyenne.",
+ "risk": "frozen pipes and sprinkler lines, aging pipes near downtown and water heater wear",
+ "risk_short": "frozen pipes, old pipes and water heaters",
+ "why": [
+  "The Avenues and Capitol North have homes from the 1880s to the 1940s with galvanized supply lines and clay sewer laterals. Newer areas to the north and east were built mostly after 1970.",
+  "Strong winter winds and deep cold freeze sprinkler lines, hose bibs and pipes near exterior walls. Many homes have basements with the water heater."
+ ],
+ "utility": "Cheyenne Board of Public Utilities",
+ "water": "Cheyenne's water comes from mountain reservoirs, including water piped across the Continental Divide, plus wells. It is soft.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and pipes",
+   "Citywide every winter",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "The Avenues and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first freeze.",
+  "Keep the heat on and cabinets open in deep cold.",
+  "Disconnect hoses in September or early October.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works Downtown and in the Avenues, Capitol North, Buffalo Ridge, the South Side, Western Hills, Sun Valley and every other Cheyenne neighborhood.",
+ "permits": "Plumbing permits and local plumber licenses come from the City of Cheyenne Development Services. Wyoming has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Cheyenne?",
+  "a": "Wyoming has no statewide plumber license, so Cheyenne licenses plumbers locally through its Development Services office. Ask for the license number before work starts."
+ }
+}

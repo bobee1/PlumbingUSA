@@ -1,0 +1,45 @@
+{
+ "lead": "Providence plumbing deals with old triple-deckers, lead service lines and cold New England winters. PipeMend sends licensed local plumbers across Providence.",
+ "risk": "lead service lines, frozen pipes and aging pipes in multi-family homes",
+ "risk_short": "lead lines, frozen pipes and old pipes",
+ "why": [
+  "The East Side, Federal Hill and Elmhurst have homes and triple-deckers from the 1850s to the 1930s with galvanized supply lines, cast-iron stacks and lead service lines in many cases.",
+  "Winter cold freezes pipes near exterior walls and on porches. Coastal storms flood low areas near the rivers and the bay."
+ ],
+ "utility": "Providence Water",
+ "water": "Providence Water treats water from the Scituate Reservoir. It is very soft. The utility has a large lead service line replacement program.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and porches",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Triple-deckers",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Check Providence Water's lead line lookup.",
+  "Keep the heat on in every unit through winter.",
+  "Know where each unit's shutoff is.",
+  "Disconnect hoses in the fall."
+ ],
+ "areas": "PipeMend works on the East Side and in Fox Point, Federal Hill, Elmhurst, Mount Pleasant, Washington Park, Olneyville and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Providence Department of Inspection and Standards, and plumbers are licensed by the Rhode Island Department of Labor and Training.",
+ "faq": {
+  "q": "Is Providence replacing lead water lines?",
+  "a": "Yes. Providence Water has a program to replace lead service lines across its system, and you can look up your address. A plumber can also check where the line enters your basement."
+ }
+}

@@ -4,7 +4,7 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-24 (Build 8 — staged with 6c and 7, waiting on Census data)
+Last updated: 2026-11-24 (Build 9 — staged with 6c, 7 and 8, waiting on Census data)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
@@ -59,13 +59,25 @@ Last updated: 2026-11-24 (Build 8 — staged with 6c and 7, waiting on Census da
 - **Tested with stand-in figures (all 75 staged pages):** 220 pages built, audit PASS 0 issues, reading grade ≤9, no duplicates, lowest city inbound links 5, no overflow. Stand-ins deleted; live site 145 pages.
 - **Owner action (one run covers 6c, 7 and 8):** `git pull`, `python3 scripts/census_pull.py`, commit research/13–19 JSON files.
 
+## In progress — Build 9: 25 cities, every state covered (staged; waiting on Census data)
+- **Cities:** Wave 3 next 13 (Birmingham, Huntsville, Little Rock, Des Moines, Pembroke Pines, Hollywood FL, Clearwater, Overland Park, Wilmington NC, Cary, Charleston SC, Boulder, Amarillo) + the top-searched city in each state that had none (New Haven CT, Wilmington DE, Portland ME, Jackson MS, Billings MT, Manchester NH, Fargo ND, Providence RI, Sioux Falls SD, Burlington VT, Charleston WV, Cheyenne WY). After this build every state has at least one city page (DC stays on its state page).
+- **Semrush:** KD for the 13 state-coverage keywords added to research/17 (650 units; 17,650 left).
+- **Fact check:** Birmingham's water utility now does business as Central Alabama Water (June 2025 rename after a state law reorganized the Birmingham Water Works Board).
+- **Template fixes (live now, on all city pages):**
+  - Same-name cities (Portland, Wilmington, Charleston) use "City, ST" in running text so their template paragraphs differ.
+  - Nearby cities shown as link pills, up to 8 (was a sentence, up to 5): keeps reading grade down and lifts the least-linked cities to 5 inbound links.
+  - Permits section no longer repeats the licensing body (city copy's repeated clause is trimmed at build time); "no statewide license" states now say "licensing is handled locally" instead of naming counties.
+- **Tested with stand-in figures (all 100 staged pages):** 245 pages, audit PASS 0 issues, reading grade ≤9, no duplicates, lowest city inbound links 5, no overflow. Stand-ins deleted; live site 145 pages.
+- **Owner action (one run covers 6c, 7, 8 and 9):** `git pull`, `python3 scripts/census_pull.py`, commit research/13–21 JSON files.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
 | 6c (finish) | Owner runs `scripts/census_pull.py`; then build, audit and publish the 25 staged cities | Census files |
 | 7 (finish) | Census data in → publish 6c + 7 (49 cities, 194 pages) | Owner runs script |
 | 8 (finish) | Census data in → publish 6c + 7 + 8 (75 cities, 220 pages) | Owner runs script |
-| 9 (next) | Wave 3 ranks 28–52 (Birmingham, Pembroke Pines, Overland Park, San Bernardino, Hollywood, Des Moines, Clearwater, Wilmington NC, …) plus the largest city in each state that has none yet (CT, DE, ME, MS, MT, NH, ND, RI, SD, VT, WV, WY) | — |
+| 9 (finish) | Census data in → publish 6c–9 (100 cities, 245 pages) | Owner runs script |
+| 10 (next) | Wave 3 continues (Rochester NY, Grand Rapids, Mobile, Gainesville, Modesto, Yonkers, West Palm Beach, San Bernardino, …) — KD still needed for ranks 49+ | — |
 | 7, 7b | Wave 2 cities, 25 per build | — |
 | 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
 | Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys | Domain, number, email, Resend key |

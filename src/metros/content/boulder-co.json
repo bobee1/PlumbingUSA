@@ -1,0 +1,45 @@
+{
+ "lead": "Boulder plumbing deals with cold snaps, soft mountain water, older homes and flash flood risk. PipeMend sends licensed local plumbers across Boulder.",
+ "risk": "frozen pipes and sprinkler lines, aging pipes in older homes and flood backups",
+ "risk_short": "frozen pipes, old pipes and floods",
+ "why": [
+  "Mapleton Hill, Whittier and Chautauqua have homes from the 1880s to the 1930s with galvanized supply lines and clay sewer laterals. Martin Acres and Table Mesa were built mostly in the 1950s and 1960s.",
+  "The September 2013 flood showed how fast creeks can rise and back water into basements. Cold fronts freeze sprinkler systems and pipes near exterior walls."
+ ],
+ "utility": "City of Boulder Utilities",
+ "water": "Boulder gets its water from mountain sources, including Barker Reservoir and the Silver Lake watershed. It is soft.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and hose bibs",
+   "Citywide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Mapleton Hill and Whittier",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement flood backups",
+   "Near creeks",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first hard freeze.",
+  "Know your flood zone near Boulder Creek.",
+  "Test your sump pump each spring.",
+  "Scope the sewer line before buying an older home."
+ ],
+ "areas": "PipeMend works in Mapleton Hill, Whittier, Chautauqua, North Boulder, Table Mesa, Martin Acres, Gunbarrel and every other Boulder neighborhood.",
+ "permits": "Plumbing permits come from the City of Boulder Planning and Development Services, and plumbers must be licensed through the Colorado State Plumbing Board.",
+ "faq": {
+  "q": "Does Boulder have flood risk for basements?",
+  "a": "Yes. Homes near Boulder Creek and its tributaries can flood fast in heavy rain, as in 2013. A sump pump with battery backup and a backwater valve help protect basements."
+ }
+}

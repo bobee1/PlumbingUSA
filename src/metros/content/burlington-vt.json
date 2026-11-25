@@ -1,0 +1,45 @@
+{
+ "lead": "Burlington plumbing deals with long cold winters, old homes on the hill and lake-effect snow. PipeMend sends licensed local plumbers across Burlington.",
+ "risk": "frozen pipes, aging pipes in old homes and boiler and heating issues",
+ "risk_short": "frozen pipes, old pipes and boilers",
+ "why": [
+  "The Old North End, the Hill Section and the South End have homes from the 1850s to the 1930s, many split into apartments. Galvanized supply lines, cast-iron stacks and old sewer laterals are common.",
+  "Long, cold winters freeze pipes near exterior walls. Many homes use boilers, so heating and plumbing problems overlap."
+ ],
+ "utility": "Burlington Water Resources",
+ "water": "Burlington treats water from Lake Champlain. It is soft to moderately hard.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and porches",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old North End and the Hill Section",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Boiler and heating leaks",
+   "Homes with hot water heat",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ],
+  [
+   "Cast-iron stack leaks",
+   "Older apartment homes",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on in every unit through winter.",
+  "Have your boiler serviced before winter.",
+  "Know where each unit's shutoff is.",
+  "Disconnect hoses in October."
+ ],
+ "areas": "PipeMend works Downtown and in the Old North End, the Hill Section, the South End, the New North End and every other Burlington neighborhood.",
+ "permits": "Plumbing permits come from the Burlington Department of Permitting and Inspections, and plumbers are licensed through the Vermont Division of Fire Safety.",
+ "faq": {
+  "q": "Who licenses plumbers in Vermont?",
+  "a": "Vermont licenses plumbers through the Division of Fire Safety. Permits for work in Burlington come from the city's Department of Permitting and Inspections."
+ }
+}

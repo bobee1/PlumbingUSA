@@ -1,0 +1,45 @@
+{
+ "lead": "Hollywood plumbing deals with king tides, heavy rain, 1920s homes and aging cast-iron drains. PipeMend sends licensed local plumbers across Hollywood.",
+ "risk": "cast-iron drain failures, tidal and storm flooding and slab leaks",
+ "risk_short": "old drains, flooding and slab leaks",
+ "why": [
+  "Hollywood Lakes and Downtown have homes from the 1920s to the 1950s, and much of the city was built before 1975. Cast-iron drains under those slabs rot from the inside.",
+  "King tides and heavy rain push water up through storm drains near the Intracoastal. Beach condos share risers and stacks."
+ ],
+ "utility": "City of Hollywood Public Utilities",
+ "water": "Hollywood treats groundwater from the Biscayne and Floridan aquifers, using membrane treatment. It is moderately hard.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "Pre-1975 homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Tidal and storm backups",
+   "Low areas near the Intracoastal",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Condo riser leaks",
+   "Beach buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Know king tide dates and your flood zone.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Check condo rules before plumbing work."
+ ],
+ "areas": "PipeMend works in Hollywood Lakes, Downtown Hollywood, Hollywood Hills, Emerald Hills, Highland Gardens, Hollywood Beach and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Hollywood Building Division, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Is this Hollywood, Florida or Hollywood, California?",
+  "a": "This page covers the city of Hollywood, Florida, between Fort Lauderdale and Miami. For Hollywood in Los Angeles, see our Los Angeles page."
+ }
+}

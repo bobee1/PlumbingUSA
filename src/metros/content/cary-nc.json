@@ -1,0 +1,45 @@
+{
+ "lead": "Cary plumbing deals with red clay, crawl spaces, polybutylene pipe and fast growth. PipeMend sends licensed local plumbers across Cary.",
+ "risk": "polybutylene pipe, frozen crawl-space pipes and water heater replacement",
+ "risk_short": "polybutylene, frozen pipes and water heaters",
+ "why": [
+  "Cary grew fast from the 1980s on, and many homes from the 1980s and early 1990s, in areas such as MacGregor Downs, Lochmere and Kildaire Farms, used gray polybutylene supply pipe.",
+  "Many homes sit on crawl spaces, and ice storms freeze exposed pipes. Original water heaters in many subdivisions are near the end of their life."
+ ],
+ "utility": "Town of Cary Utilities",
+ "water": "Cary treats water from Jordan Lake. It is soft.",
+ "problems": [
+  [
+   "Polybutylene pipe",
+   "1980s–early 1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Town-wide in ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes town-wide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Root clogs",
+   "Wooded lots",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Look for gray pipe stamped PB2110.",
+  "Insulate crawl-space pipes and close vents before a freeze.",
+  "Replace water heaters past 10 to 15 years.",
+  "Check HOA rules before exterior work."
+ ],
+ "areas": "PipeMend works in Downtown Cary, Preston, MacGregor Downs, Lochmere, Amberly, Kildaire Farms, Carpenter and every other Cary neighborhood.",
+ "permits": "Plumbing permits come from the Town of Cary Inspections and Permits, and plumbing contractors must be licensed by the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors.",
+ "faq": {
+  "q": "Are polybutylene pipes common in Cary?",
+  "a": "Yes, in many homes built from the early 1980s to the mid-1990s. Look for gray plastic pipe stamped PB2110. Replacing it before it fails avoids water damage and can help with insurance."
+ }
+}
