@@ -1,0 +1,45 @@
+{
+ "lead": "San Francisco plumbing deals with very old buildings, steep hills, soft water and earthquake rules. PipeMend sends licensed local plumbers across San Francisco.",
+ "risk": "old cast-iron and galvanized pipes, sewer lateral breaks and water heater strapping",
+ "risk_short": "old pipes, sewer laterals and water heaters",
+ "why": [
+  "A large share of San Francisco's housing was built before 1940. Victorian and Edwardian homes often have galvanized supply lines, cast-iron stacks and old clay sewer laterals. Multi-unit buildings share stacks and risers.",
+  "Earthquake rules require strapped water heaters and flexible gas connectors. Steep lots and tight lots make sewer and water line work slow."
+ ],
+ "utility": "San Francisco Public Utilities Commission (SFPUC)",
+ "water": "Most of San Francisco's water comes from the Hetch Hetchy Reservoir in Yosemite. It is very soft, so scale is rare, but soft water can be harder on old pipes.",
+ "problems": [
+  [
+   "Old galvanized supply lines",
+   "Prewar homes and flats",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Sewer lateral breaks",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Stack and riser leaks",
+   "Multi-unit buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Know where your gas shutoff is and keep a wrench by it.",
+  "Scope the sewer lateral before buying.",
+  "Check building rules before plumbing work in flats."
+ ],
+ "areas": "PipeMend works in the Mission, the Sunset, the Richmond, Noe Valley, Haight-Ashbury, Bernal Heights, Pacific Heights and every other San Francisco neighborhood.",
+ "permits": "Plumbing permits come from the San Francisco Department of Building Inspection (DBI), and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Why do San Francisco water heaters need straps?",
+  "a": "California law requires water heaters to be braced or strapped to resist earthquakes. A tipped heater can break water and gas lines. Your plumber adds straps when a heater is installed."
+ }
+}

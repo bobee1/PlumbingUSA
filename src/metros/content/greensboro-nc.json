@@ -1,0 +1,45 @@
+{
+ "lead": "Greensboro plumbing deals with red clay, big trees, crawl spaces and the occasional ice storm. PipeMend sends licensed local plumbers across Greensboro.",
+ "risk": "tree roots in sewer lines, frozen crawl-space pipes and polybutylene pipe",
+ "risk_short": "sewer roots, frozen pipes and old pipes",
+ "why": [
+  "Fisher Park, Irving Park, College Hill and Westerwood have homes from the 1910s to the 1940s with galvanized supply lines and clay sewer laterals. Mature trees send roots into those lines.",
+  "Many homes sit on crawl spaces, and ice storms freeze exposed pipes. Homes from the 1980s and early 1990s may have gray polybutylene pipe."
+ ],
+ "utility": "City of Greensboro Water Resources",
+ "water": "Greensboro draws from Lake Townsend, Lake Brandt and Lake Higgins, and buys some water from regional partners. The water is soft.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Fisher Park and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide during ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–early 1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Main line clogs",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes and close vents before a freeze.",
+  "Scope the sewer line before buying an older home.",
+  "Look for gray polybutylene pipe.",
+  "Plant trees away from the sewer line."
+ ],
+ "areas": "PipeMend works in Fisher Park, Irving Park, College Hill, Westerwood, Sunset Hills, Lindley Park, Lake Jeanette and every other Greensboro neighborhood.",
+ "permits": "Plumbing permits come from the City of Greensboro Engineering and Inspections Department, and plumbing contractors must be licensed by the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors.",
+ "faq": {
+  "q": "Why do Greensboro sewer lines clog with roots?",
+  "a": "Older homes have clay sewer pipe with joints every few feet. Roots from big oaks and maples grow into those joints. Jetting clears them, and lining or replacement keeps them out."
+ }
+}

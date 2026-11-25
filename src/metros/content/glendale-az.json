@@ -1,0 +1,45 @@
+{
+ "lead": "Glendale plumbing deals with hard water, desert heat and a mix of older slab homes and newer north-side tracts. PipeMend sends licensed local plumbers across Glendale.",
+ "risk": "hard water scale, slab leaks and aging pipes in older south Glendale homes",
+ "risk_short": "hard water, slab leaks and old pipes",
+ "why": [
+  "South Glendale and the Catlin Court area have homes from the 1940s to the 1970s, with galvanized supply lines and cast-iron or clay drains. North Glendale, around Arrowhead Ranch, was built mostly since the 1980s.",
+  "Homes sit on slabs, so leaks under the floor are common. Hard water and summer heat wear out water heaters."
+ ],
+ "utility": "City of Glendale Water Services",
+ "water": "Glendale's water comes from the Salt and Verde rivers, Colorado River water through the Central Arizona Project and groundwater. It is hard, so scale builds up in heaters and fixtures.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "South Glendale",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Clean faucet aerators often.",
+  "Scope old clay sewer lines before buying.",
+  "Watch for warm spots on the floor."
+ ],
+ "areas": "PipeMend works in Historic Downtown Glendale, Catlin Court, Arrowhead Ranch, Westgate, Bellair, Sierra Verde and every other Glendale neighborhood.",
+ "permits": "Plumbing permits come from the City of Glendale Building Safety Division, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "Is it Glendale, Arizona or Glendale, California?",
+  "a": "This page covers Glendale, Arizona, in the Phoenix area. PipeMend takes plumbing calls in both, and the phone line works anywhere in the U.S."
+ }
+}

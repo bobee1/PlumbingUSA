@@ -1,0 +1,45 @@
+{
+ "lead": "Garland plumbing deals with clay soil, slab foundations and homes from the 1960s to 1980s. PipeMend sends licensed local plumbers across Garland.",
+ "risk": "slab leaks from shifting clay, aging water heaters and burst pipes in hard freezes",
+ "risk_short": "slab leaks, water heaters and frozen pipes",
+ "why": [
+  "Much of Garland was built from the 1960s to the 1980s. Copper lines under those slabs and cast-iron drains are aging, and expansive clay moves with every dry summer and wet spring.",
+  "Rare hard freezes, like February 2021, burst attic and exterior-wall pipes. Many homes are on their second or third water heater."
+ ],
+ "utility": "Garland Water Utilities",
+ "water": "Garland buys treated water mainly from the North Texas Municipal Water District, which draws from Lavon Lake and other regional lakes. The water is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "1960s–1980s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Insulate attic pipes before winter.",
+  "Scope cast-iron drains in older homes.",
+  "Replace water heaters past 10 to 15 years."
+ ],
+ "areas": "PipeMend works in Downtown Garland, Firewheel, Eastern Hills, Club Hill, Spring Park, Oakridge, Duck Creek and every other Garland neighborhood.",
+ "permits": "Plumbing permits come from the City of Garland Building Inspection Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Do Garland homes have cast-iron drains?",
+  "a": "Many homes built before the mid-1970s do. After 50 years, cast iron can crack or rot from the inside, causing slow drains and backups. A camera inspection shows its condition."
+ }
+}

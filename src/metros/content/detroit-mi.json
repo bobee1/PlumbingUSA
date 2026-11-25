@@ -1,0 +1,45 @@
+{
+ "lead": "Detroit plumbing deals with deep cold, old brick homes, lead lines and basement flooding. PipeMend sends licensed local plumbers across Detroit.",
+ "risk": "lead service lines, basement flooding and frozen pipes",
+ "risk_short": "lead lines, basement flooding and frozen pipes",
+ "why": [
+  "Most Detroit homes were built before 1950. Boston-Edison, Indian Village and Grandmont-Rosedale have grand older homes with galvanized supply lines, cast-iron stacks and lead service lines. The city is replacing lead lines over time.",
+  "Heavy storms, like the summer 2021 floods, overload the combined sewers and flood basements. Winter cold freezes pipes, especially in vacant or partly heated homes."
+ ],
+ "utility": "Detroit Water and Sewerage Department (DWSD)",
+ "water": "Detroit's water is treated by the Great Lakes Water Authority from the Detroit River and Lake Huron. It is moderately soft. DWSD runs a lead service line replacement program.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement flooding",
+   "Citywide in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and vacant homes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Sewer lateral breaks",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Check DWSD's lead line program for your street.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Keep the heat on in winter, even in empty homes.",
+  "Clear yard drains before storms."
+ ],
+ "areas": "PipeMend works in Midtown, Corktown, Indian Village, Boston-Edison, Palmer Woods, Grandmont-Rosedale, Southwest Detroit and every other neighborhood.",
+ "permits": "Plumbing permits come from the city's Buildings, Safety Engineering and Environmental Department (BSEED), and plumbers must be licensed by Michigan LARA.",
+ "faq": {
+  "q": "Why do Detroit basements flood?",
+  "a": "Most of Detroit has combined sewers that carry rain and wastewater together. Big storms fill them, and water backs up through floor drains. A backwater valve and a sump pump help protect the basement."
+ }
+}

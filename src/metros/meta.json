@@ -340,7 +340,8 @@
   "nearby": [
    "arlington-tx",
    "dallas-tx",
-   "plano-tx"
+   "plano-tx",
+   "lubbock-tx"
   ],
   "wave": 1,
   "rank": 10,
@@ -466,6 +467,48 @@
   ],
   "batch": "6"
  },
+ "scottsdale-az": {
+  "city": "Scottsdale",
+  "st": "AZ",
+  "acs": "Scottsdale|04",
+  "fuel": "Scottsdale|04",
+  "url": "scottsdale",
+  "county": "Maricopa County",
+  "zips": [
+   "85250",
+   "85251",
+   "85254",
+   "85255",
+   "85257",
+   "85258",
+   "85259",
+   "85260"
+  ],
+  "hoods": [
+   "Old Town",
+   "South Scottsdale",
+   "McCormick Ranch",
+   "Gainey Ranch",
+   "Scottsdale Ranch",
+   "DC Ranch",
+   "Grayhawk",
+   "North Scottsdale"
+  ],
+  "wiki": "Scottsdale,_Arizona",
+  "nearby": [
+   "phoenix-az",
+   "mesa-az",
+   "chandler-az",
+   "gilbert-az"
+  ],
+  "wave": 1,
+  "rank": 14,
+  "semrush": [
+   "1300",
+   "20"
+  ],
+  "batch": "6c"
+ },
  "seattle-wa": {
   "city": "Seattle",
   "st": "WA",
@@ -541,6 +584,46 @@
    "37"
   ],
   "batch": "6"
+ },
+ "chandler-az": {
+  "city": "Chandler",
+  "st": "AZ",
+  "acs": "Chandler|04",
+  "fuel": "Chandler|04",
+  "url": "chandler",
+  "county": "Maricopa County",
+  "zips": [
+   "85224",
+   "85225",
+   "85226",
+   "85248",
+   "85249",
+   "85286"
+  ],
+  "hoods": [
+   "Downtown Chandler",
+   "Ocotillo",
+   "Fulton Ranch",
+   "Sun Lakes area",
+   "Andersen Springs",
+   "Clemente Ranch",
+   "Cooper Commons",
+   "Southshore"
+  ],
+  "wiki": "Chandler,_Arizona",
+  "nearby": [
+   "gilbert-az",
+   "mesa-az",
+   "phoenix-az",
+   "scottsdale-az"
+  ],
+  "wave": 1,
+  "rank": 17,
+  "semrush": [
+   "1300",
+   "24"
+  ],
+  "batch": "6c"
  },
  "mesa-az": {
   "city": "Mesa",
@@ -853,6 +936,124 @@
   ],
   "batch": "6"
  },
+ "anaheim-ca": {
+  "city": "Anaheim",
+  "st": "CA",
+  "acs": "Anaheim|06",
+  "fuel": "Anaheim|06",
+  "url": "anaheim",
+  "county": "Orange County",
+  "zips": [
+   "92801",
+   "92802",
+   "92804",
+   "92805",
+   "92806",
+   "92807"
+  ],
+  "hoods": [
+   "Downtown Anaheim",
+   "the Colony",
+   "Anaheim Hills",
+   "West Anaheim",
+   "the Resort District",
+   "Platinum Triangle",
+   "East Anaheim",
+   "Southeast Anaheim"
+  ],
+  "wiki": "Anaheim,_California",
+  "nearby": [
+   "santa-ana-ca",
+   "irvine-ca",
+   "long-beach-ca",
+   "los-angeles-ca"
+  ],
+  "wave": 1,
+  "rank": 26,
+  "semrush": [
+   "1000",
+   "21"
+  ],
+  "batch": "6c"
+ },
+ "san-francisco-ca": {
+  "city": "San Francisco",
+  "st": "CA",
+  "acs": "San Francisco|06",
+  "fuel": "San Francisco|06",
+  "url": "san-francisco",
+  "county": "City and County of San Francisco",
+  "zips": [
+   "94102",
+   "94110",
+   "94114",
+   "94117",
+   "94122",
+   "94131"
+  ],
+  "hoods": [
+   "the Mission",
+   "the Sunset",
+   "the Richmond",
+   "Noe Valley",
+   "Haight-Ashbury",
+   "Bernal Heights",
+   "Pacific Heights",
+   "the Excelsior"
+  ],
+  "wiki": "San_Francisco",
+  "nearby": [
+   "oakland-ca",
+   "fremont-ca"
+  ],
+  "wave": 1,
+  "rank": 27,
+  "semrush": [
+   "1600",
+   "51"
+  ],
+  "batch": "6c",
+  "indep": true
+ },
+ "new-orleans-la": {
+  "city": "New Orleans",
+  "st": "LA",
+  "acs": "New Orleans|22",
+  "fuel": "New Orleans|22",
+  "url": "new-orleans",
+  "county": "Orleans Parish",
+  "zips": [
+   "70112",
+   "70115",
+   "70116",
+   "70118",
+   "70119",
+   "70122",
+   "70130"
+  ],
+  "hoods": [
+   "the French Quarter",
+   "the Garden District",
+   "Uptown",
+   "Mid-City",
+   "the Marigny",
+   "Bywater",
+   "Gentilly",
+   "Lakeview"
+  ],
+  "wiki": "New_Orleans",
+  "nearby": [
+   "baton-rouge-la",
+   "houston-tx"
+  ],
+  "wave": 1,
+  "rank": 28,
+  "semrush": [
+   "880",
+   "13"
+  ],
+  "batch": "6c"
+ },
  "baltimore-md": {
   "city": "Baltimore",
   "st": "MD",
@@ -882,7 +1083,8 @@
   "wiki": "Baltimore",
   "nearby": [
    "philadelphia-pa",
-   "new-york-ny"
+   "new-york-ny",
+   "virginia-beach-va"
   ],
   "wave": 1,
   "rank": 29,
@@ -1113,7 +1315,8 @@
   "wiki": "Raleigh,_North_Carolina",
   "nearby": [
    "durham-nc",
-   "charlotte-nc"
+   "charlotte-nc",
+   "virginia-beach-va"
   ],
   "wave": 1,
   "rank": 35,
@@ -1122,6 +1325,120 @@
    "25"
   ],
   "batch": "6b"
+ },
+ "st-petersburg-fl": {
+  "city": "St. Petersburg",
+  "st": "FL",
+  "acs": "St. Petersburg|12",
+  "fuel": "St. Petersburg|12",
+  "url": "st-petersburg",
+  "county": "Pinellas County",
+  "zips": [
+   "33701",
+   "33702",
+   "33704",
+   "33705",
+   "33710",
+   "33713"
+  ],
+  "hoods": [
+   "Downtown",
+   "Old Northeast",
+   "Kenwood",
+   "Crescent Lake",
+   "Snell Isle",
+   "Shore Acres",
+   "Old Southeast",
+   "Tyrone"
+  ],
+  "wiki": "St._Petersburg,_Florida",
+  "nearby": [
+   "tampa-fl",
+   "orlando-fl"
+  ],
+  "wave": 1,
+  "rank": 36,
+  "semrush": [
+   "1300",
+   "50"
+  ],
+  "batch": "6c"
+ },
+ "chula-vista-ca": {
+  "city": "Chula Vista",
+  "st": "CA",
+  "acs": "Chula Vista|06",
+  "fuel": "Chula Vista|06",
+  "url": "chula-vista",
+  "county": "San Diego County",
+  "zips": [
+   "91910",
+   "91911",
+   "91913",
+   "91914",
+   "91915"
+  ],
+  "hoods": [
+   "Third Avenue Village",
+   "Northwest Chula Vista",
+   "Eastlake",
+   "Otay Ranch",
+   "Rancho del Rey",
+   "Bonita area",
+   "Castle Park",
+   "Millenia"
+  ],
+  "wiki": "Chula_Vista,_California",
+  "nearby": [
+   "san-diego-ca"
+  ],
+  "wave": 1,
+  "rank": 37,
+  "semrush": [
+   "880",
+   "30"
+  ],
+  "batch": "6c"
+ },
+ "irvine-ca": {
+  "city": "Irvine",
+  "st": "CA",
+  "acs": "Irvine|06",
+  "fuel": "Irvine|06",
+  "url": "irvine",
+  "county": "Orange County",
+  "zips": [
+   "92602",
+   "92603",
+   "92604",
+   "92606",
+   "92612",
+   "92618",
+   "92620"
+  ],
+  "hoods": [
+   "Woodbridge",
+   "University Park",
+   "Turtle Rock",
+   "Northwood",
+   "Westpark",
+   "Quail Hill",
+   "Great Park",
+   "Portola Springs"
+  ],
+  "wiki": "Irvine,_California",
+  "nearby": [
+   "santa-ana-ca",
+   "anaheim-ca",
+   "long-beach-ca"
+  ],
+  "wave": 1,
+  "rank": 38,
+  "semrush": [
+   "880",
+   "31"
+  ],
+  "batch": "6c"
  },
  "baton-rouge-la": {
   "city": "Baton Rouge",
@@ -1276,6 +1593,83 @@
   ],
   "batch": "6b"
  },
+ "boston-ma": {
+  "city": "Boston",
+  "st": "MA",
+  "acs": "Boston|25",
+  "fuel": "Boston|25",
+  "url": "boston",
+  "county": "Suffolk County",
+  "zips": [
+   "02108",
+   "02114",
+   "02116",
+   "02118",
+   "02127",
+   "02130",
+   "02134"
+  ],
+  "hoods": [
+   "Back Bay",
+   "the South End",
+   "Dorchester",
+   "Jamaica Plain",
+   "South Boston",
+   "Charlestown",
+   "Roslindale",
+   "Allston-Brighton"
+  ],
+  "wiki": "Boston",
+  "nearby": [
+   "new-york-ny",
+   "philadelphia-pa"
+  ],
+  "wave": 1,
+  "rank": 43,
+  "semrush": [
+   "720",
+   "21"
+  ],
+  "batch": "6c"
+ },
+ "garland-tx": {
+  "city": "Garland",
+  "st": "TX",
+  "acs": "Garland|48",
+  "fuel": "Garland|48",
+  "url": "garland",
+  "county": "Dallas County",
+  "zips": [
+   "75040",
+   "75041",
+   "75042",
+   "75043",
+   "75044"
+  ],
+  "hoods": [
+   "Downtown Garland",
+   "Firewheel",
+   "Eastern Hills",
+   "Club Hill",
+   "Spring Park",
+   "Oakridge",
+   "Lakewood area",
+   "Duck Creek"
+  ],
+  "wiki": "Garland,_Texas",
+  "nearby": [
+   "dallas-tx",
+   "plano-tx",
+   "irving-tx"
+  ],
+  "wave": 1,
+  "rank": 44,
+  "semrush": [
+   "720",
+   "23"
+  ],
+  "batch": "6c"
+ },
  "gilbert-az": {
   "city": "Gilbert",
   "st": "AZ",
@@ -1314,6 +1708,46 @@
   ],
   "batch": "6b"
  },
+ "albuquerque-nm": {
+  "city": "Albuquerque",
+  "st": "NM",
+  "acs": "Albuquerque|35",
+  "fuel": "Albuquerque|35",
+  "url": "albuquerque",
+  "county": "Bernalillo County",
+  "zips": [
+   "87102",
+   "87106",
+   "87108",
+   "87110",
+   "87112",
+   "87114",
+   "87120"
+  ],
+  "hoods": [
+   "Nob Hill",
+   "Old Town",
+   "Downtown",
+   "the University area",
+   "Northeast Heights",
+   "the North Valley",
+   "the Westside",
+   "Four Hills"
+  ],
+  "wiki": "Albuquerque,_New_Mexico",
+  "nearby": [
+   "denver-co",
+   "tucson-az",
+   "lubbock-tx"
+  ],
+  "wave": 1,
+  "rank": 46,
+  "semrush": [
+   "880",
+   "38"
+  ],
+  "batch": "6c"
+ },
  "aurora-co": {
   "city": "Aurora",
   "st": "CO",
@@ -1351,6 +1785,46 @@
    "10"
   ],
   "batch": "6b"
+ },
+ "oakland-ca": {
+  "city": "Oakland",
+  "st": "CA",
+  "acs": "Oakland|06",
+  "fuel": "Oakland|06",
+  "url": "oakland",
+  "county": "Alameda County",
+  "zips": [
+   "94601",
+   "94602",
+   "94606",
+   "94609",
+   "94610",
+   "94611",
+   "94618"
+  ],
+  "hoods": [
+   "Rockridge",
+   "Temescal",
+   "Lake Merritt",
+   "Grand Lake",
+   "Fruitvale",
+   "the Dimond",
+   "Montclair",
+   "West Oakland"
+  ],
+  "wiki": "Oakland,_California",
+  "nearby": [
+   "san-francisco-ca",
+   "fremont-ca",
+   "sacramento-ca"
+  ],
+  "wave": 1,
+  "rank": 48,
+  "semrush": [
+   "720",
+   "27"
+  ],
+  "batch": "6c"
  },
  "jacksonville-fl": {
   "city": "Jacksonville",
@@ -1429,6 +1903,44 @@
   ],
   "batch": "6b"
  },
+ "glendale-az": {
+  "city": "Glendale",
+  "st": "AZ",
+  "acs": "Glendale|04",
+  "fuel": "Glendale|04",
+  "url": "glendale",
+  "county": "Maricopa County",
+  "zips": [
+   "85301",
+   "85302",
+   "85304",
+   "85306",
+   "85308",
+   "85310"
+  ],
+  "hoods": [
+   "Historic Downtown Glendale",
+   "Catlin Court",
+   "Arrowhead Ranch",
+   "Westgate",
+   "Bellair",
+   "Sierra Verde",
+   "Arrowhead Lakes",
+   "Thunderbird area"
+  ],
+  "wiki": "Glendale,_Arizona",
+  "nearby": [
+   "phoenix-az",
+   "scottsdale-az"
+  ],
+  "wave": 2,
+  "rank": 51,
+  "semrush": [
+   "720",
+   "29"
+  ],
+  "batch": "6c"
+ },
  "indianapolis-in": {
   "city": "Indianapolis",
   "st": "IN",
@@ -1468,6 +1980,44 @@
   ],
   "batch": "6b"
  },
+ "lubbock-tx": {
+  "city": "Lubbock",
+  "st": "TX",
+  "acs": "Lubbock|48",
+  "fuel": "Lubbock|48",
+  "url": "lubbock",
+  "county": "Lubbock County",
+  "zips": [
+   "79401",
+   "79410",
+   "79412",
+   "79413",
+   "79414",
+   "79424"
+  ],
+  "hoods": [
+   "Tech Terrace",
+   "Overton",
+   "Heart of Lubbock",
+   "Lakeridge",
+   "Southwest Lubbock",
+   "Rush",
+   "Kelsey Park",
+   "North Overton"
+  ],
+  "wiki": "Lubbock,_Texas",
+  "nearby": [
+   "fort-worth-tx",
+   "dallas-tx"
+  ],
+  "wave": 2,
+  "rank": 53,
+  "semrush": [
+   "720",
+   "31"
+  ],
+  "batch": "6c"
+ },
  "durham-nc": {
   "city": "Durham",
   "st": "NC",
@@ -1506,6 +2056,42 @@
   ],
   "batch": "6b"
  },
+ "fremont-ca": {
+  "city": "Fremont",
+  "st": "CA",
+  "acs": "Fremont|06",
+  "fuel": "Fremont|06",
+  "url": "fremont",
+  "county": "Alameda County",
+  "zips": [
+   "94536",
+   "94538",
+   "94539",
+   "94555"
+  ],
+  "hoods": [
+   "Centerville",
+   "Niles",
+   "Mission San Jose",
+   "Irvington",
+   "Warm Springs",
+   "Ardenwood",
+   "Glenmoor",
+   "Cabrillo"
+  ],
+  "wiki": "Fremont,_California",
+  "nearby": [
+   "oakland-ca",
+   "san-francisco-ca"
+  ],
+  "wave": 2,
+  "rank": 55,
+  "semrush": [
+   "590",
+   "18"
+  ],
+  "batch": "6c"
+ },
  "kansas-city-mo": {
   "city": "Kansas City",
   "st": "MO",
@@ -1543,6 +2129,85 @@
    "63"
   ],
   "batch": "6b"
+ },
+ "irving-tx": {
+  "city": "Irving",
+  "st": "TX",
+  "acs": "Irving|48",
+  "fuel": "Irving|48",
+  "url": "irving",
+  "county": "Dallas County",
+  "zips": [
+   "75038",
+   "75039",
+   "75060",
+   "75061",
+   "75062",
+   "75063"
+  ],
+  "hoods": [
+   "Las Colinas",
+   "Valley Ranch",
+   "Downtown Irving",
+   "Hackberry Creek",
+   "University Hills",
+   "Plymouth Park",
+   "Bear Creek",
+   "Twin Wells"
+  ],
+  "wiki": "Irving,_Texas",
+  "nearby": [
+   "dallas-tx",
+   "fort-worth-tx",
+   "arlington-tx",
+   "garland-tx"
+  ],
+  "wave": 2,
+  "rank": 57,
+  "semrush": [
+   "590",
+   "19"
+  ],
+  "batch": "6c"
+ },
+ "richmond-va": {
+  "city": "Richmond",
+  "st": "VA",
+  "acs": "Richmond|51",
+  "fuel": "Richmond|51",
+  "url": "richmond",
+  "county": "Independent city",
+  "zips": [
+   "23219",
+   "23220",
+   "23221",
+   "23223",
+   "23224",
+   "23225"
+  ],
+  "hoods": [
+   "the Fan",
+   "the Museum District",
+   "Church Hill",
+   "Carytown area",
+   "Northside",
+   "Manchester",
+   "Forest Hill",
+   "Jackson Ward"
+  ],
+  "wiki": "Richmond,_Virginia",
+  "nearby": [
+   "virginia-beach-va",
+   "baltimore-md"
+  ],
+  "wave": 2,
+  "rank": 58,
+  "semrush": [
+   "590",
+   "19"
+  ],
+  "batch": "6c",
+  "indep": true
  },
  "tampa-fl": {
   "city": "Tampa",
@@ -1621,6 +2286,84 @@
   ],
   "batch": "6b"
  },
+ "greensboro-nc": {
+  "city": "Greensboro",
+  "st": "NC",
+  "acs": "Greensboro|37",
+  "fuel": "Greensboro|37",
+  "url": "greensboro",
+  "county": "Guilford County",
+  "zips": [
+   "27401",
+   "27403",
+   "27405",
+   "27406",
+   "27408",
+   "27410"
+  ],
+  "hoods": [
+   "Fisher Park",
+   "Irving Park",
+   "College Hill",
+   "Westerwood",
+   "Sunset Hills",
+   "Lindley Park",
+   "Lake Jeanette",
+   "Adams Farm"
+  ],
+  "wiki": "Greensboro,_North_Carolina",
+  "nearby": [
+   "durham-nc",
+   "raleigh-nc",
+   "charlotte-nc"
+  ],
+  "wave": 2,
+  "rank": 61,
+  "semrush": [
+   "590",
+   "22"
+  ],
+  "batch": "6c"
+ },
+ "santa-ana-ca": {
+  "city": "Santa Ana",
+  "st": "CA",
+  "acs": "Santa Ana|06",
+  "fuel": "Santa Ana|06",
+  "url": "santa-ana",
+  "county": "Orange County",
+  "zips": [
+   "92701",
+   "92703",
+   "92704",
+   "92705",
+   "92706",
+   "92707"
+  ],
+  "hoods": [
+   "Downtown Santa Ana",
+   "Floral Park",
+   "Washington Square",
+   "French Park",
+   "Wilshire Square",
+   "Morrison Park",
+   "South Coast Metro",
+   "Riverview"
+  ],
+  "wiki": "Santa_Ana,_California",
+  "nearby": [
+   "anaheim-ca",
+   "irvine-ca",
+   "long-beach-ca"
+  ],
+  "wave": 2,
+  "rank": 62,
+  "semrush": [
+   "590",
+   "23"
+  ],
+  "batch": "6c"
+ },
  "pittsburgh-pa": {
   "city": "Pittsburgh",
   "st": "PA",
@@ -1660,6 +2403,85 @@
   ],
   "batch": "6b"
  },
+ "detroit-mi": {
+  "city": "Detroit",
+  "st": "MI",
+  "acs": "Detroit|26",
+  "fuel": "Detroit|26",
+  "url": "detroit",
+  "county": "Wayne County",
+  "zips": [
+   "48201",
+   "48202",
+   "48207",
+   "48214",
+   "48219",
+   "48224",
+   "48226"
+  ],
+  "hoods": [
+   "Midtown",
+   "Corktown",
+   "Indian Village",
+   "Boston-Edison",
+   "Palmer Woods",
+   "Grandmont-Rosedale",
+   "Southwest Detroit",
+   "Jefferson-Chalmers"
+  ],
+  "wiki": "Detroit",
+  "nearby": [
+   "cleveland-oh",
+   "columbus-oh"
+  ],
+  "wave": 2,
+  "rank": 64,
+  "semrush": [
+   "590",
+   "24"
+  ],
+  "batch": "6c"
+ },
+ "st-louis-mo": {
+  "city": "St. Louis",
+  "st": "MO",
+  "acs": "St. Louis|29",
+  "fuel": "St. Louis|29",
+  "url": "st-louis",
+  "county": "Independent city",
+  "zips": [
+   "63104",
+   "63109",
+   "63110",
+   "63116",
+   "63118",
+   "63139"
+  ],
+  "hoods": [
+   "Soulard",
+   "Lafayette Square",
+   "Tower Grove",
+   "the Central West End",
+   "Southampton",
+   "Dogtown",
+   "Benton Park",
+   "St. Louis Hills"
+  ],
+  "wiki": "St._Louis",
+  "nearby": [
+   "kansas-city-mo",
+   "indianapolis-in",
+   "memphis-tn"
+  ],
+  "wave": 2,
+  "rank": 65,
+  "semrush": [
+   "880",
+   "51"
+  ],
+  "batch": "6c",
+  "indep": true
+ },
  "long-beach-ca": {
   "city": "Long Beach",
   "st": "CA",
@@ -1698,6 +2520,120 @@
   ],
   "batch": "6b"
  },
+ "henderson-nv": {
+  "city": "Henderson",
+  "st": "NV",
+  "acs": "Henderson|32",
+  "fuel": "Henderson|32",
+  "url": "henderson",
+  "county": "Clark County",
+  "zips": [
+   "89002",
+   "89011",
+   "89012",
+   "89014",
+   "89015",
+   "89052",
+   "89074"
+  ],
+  "hoods": [
+   "Green Valley",
+   "Anthem",
+   "Seven Hills",
+   "MacDonald Highlands",
+   "Inspirada",
+   "Cadence",
+   "Whitney Ranch",
+   "Water Street District"
+  ],
+  "wiki": "Henderson,_Nevada",
+  "nearby": [
+   "las-vegas-nv"
+  ],
+  "wave": 2,
+  "rank": 67,
+  "semrush": [
+   "480",
+   "15"
+  ],
+  "batch": "6c"
+ },
+ "tulsa-ok": {
+  "city": "Tulsa",
+  "st": "OK",
+  "acs": "Tulsa|40",
+  "fuel": "Tulsa|40",
+  "url": "tulsa",
+  "county": "Tulsa County",
+  "zips": [
+   "74103",
+   "74104",
+   "74105",
+   "74112",
+   "74114",
+   "74135"
+  ],
+  "hoods": [
+   "Brookside",
+   "Maple Ridge",
+   "Cherry Street",
+   "the Pearl District",
+   "Midtown",
+   "Kendall-Whittier",
+   "South Tulsa",
+   "the Gold Coast"
+  ],
+  "wiki": "Tulsa,_Oklahoma",
+  "nearby": [
+   "wichita-ks",
+   "kansas-city-mo"
+  ],
+  "wave": 2,
+  "rank": 68,
+  "semrush": [
+   "590",
+   "31"
+  ],
+  "batch": "6c"
+ },
+ "virginia-beach-va": {
+  "city": "Virginia Beach",
+  "st": "VA",
+  "acs": "Virginia Beach|51",
+  "fuel": "Virginia Beach|51",
+  "url": "virginia-beach",
+  "county": "Independent city",
+  "zips": [
+   "23451",
+   "23452",
+   "23454",
+   "23455",
+   "23456",
+   "23462"
+  ],
+  "hoods": [
+   "the Oceanfront",
+   "Great Neck",
+   "Kempsville",
+   "Chic's Beach",
+   "Sandbridge",
+   "Princess Anne",
+   "Thalia",
+   "Lynnhaven"
+  ],
+  "wiki": "Virginia_Beach,_Virginia",
+  "nearby": [
+   "richmond-va"
+  ],
+  "wave": 2,
+  "rank": 69,
+  "semrush": [
+   "720",
+   "44"
+  ],
+  "batch": "6c",
+  "indep": true
+ },
  "reno-nv": {
   "city": "Reno",
   "st": "NV",
@@ -1735,6 +2671,45 @@
    "32"
   ],
   "batch": "6b"
+ },
+ "lexington-ky": {
+  "city": "Lexington",
+  "st": "KY",
+  "acs": "Lexington|21",
+  "fuel": "Lexington|21",
+  "url": "lexington",
+  "county": "Fayette County",
+  "zips": [
+   "40502",
+   "40503",
+   "40504",
+   "40505",
+   "40507",
+   "40508",
+   "40509"
+  ],
+  "hoods": [
+   "Chevy Chase",
+   "Ashland Park",
+   "the University area",
+   "Hamburg",
+   "Beaumont",
+   "Downtown",
+   "Kenwick",
+   "Hollow Creek"
+  ],
+  "wiki": "Lexington,_Kentucky",
+  "nearby": [
+   "louisville-ky",
+   "cincinnati-oh"
+  ],
+  "wave": 2,
+  "rank": 71,
+  "semrush": [
+   "590",
+   "33"
+  ],
+  "batch": "6c"
  },
  "columbus-oh": {
   "city": "Columbus",

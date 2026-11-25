@@ -1,0 +1,45 @@
+{
+ "lead": "St. Petersburg plumbing deals with heat, storm surge, old cast-iron drains and 1920s homes. PipeMend sends licensed local plumbers across St. Pete.",
+ "risk": "cast-iron drain failures, slab leaks and storm-surge flooding",
+ "risk_short": "cast-iron drains, slab leaks and flooding",
+ "why": [
+  "Old Northeast, Kenwood and Crescent Lake have homes from the 1920s, with galvanized supply lines and cast-iron drains. Many mid-century homes have cast-iron drains under the slab that are rotting from the inside.",
+  "Hurricanes Helene and Milton in 2024 flooded thousands of homes with surge water. Flooded homes can have hidden damage in drains, water heaters and gas controls."
+ ],
+ "utility": "City of St. Petersburg Water Resources",
+ "water": "St. Petersburg buys most of its water from Tampa Bay Water, which blends groundwater, river water and desalinated seawater. It is moderately hard.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "Mid-century and older homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Storm-surge damage",
+   "Low areas near the bay",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement after flooding",
+   "Flooded homes",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Have a plumber check the water heater after any flood.",
+  "Know your flood zone."
+ ],
+ "areas": "PipeMend works in Downtown, Old Northeast, Kenwood, Crescent Lake, Snell Isle, Shore Acres, Old Southeast and every other St. Petersburg neighborhood.",
+ "permits": "Plumbing permits come from the City of St. Petersburg Construction Services and Permitting, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "What plumbing checks should St. Pete homes get after storm surge?",
+  "a": "Have the water heater, gas lines and sewer line checked before regular use. Salt water ruins heater controls, and silt clogs drains. Keep photos and receipts for your insurance claim."
+ }
+}

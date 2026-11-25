@@ -1,0 +1,45 @@
+{
+ "lead": "Oakland plumbing deals with old houses, clay sewer laterals, soft water and earthquake rules. PipeMend sends licensed local plumbers across Oakland.",
+ "risk": "old clay sewer laterals, galvanized supply pipes and earthquake strapping",
+ "risk_short": "sewer laterals, old pipes and water heaters",
+ "why": [
+  "Oakland has many homes built before 1940 in Rockridge, Temescal, Grand Lake and the Dimond. They often have galvanized supply lines and clay sewer laterals cracked by roots and age.",
+  "Oakland sits on the Hayward Fault, so water heaters must be strapped and gas lines need flexible connectors. Hillside homes have long, steep sewer lines."
+ ],
+ "utility": "East Bay Municipal Utility District (EBMUD)",
+ "water": "EBMUD brings water from the Mokelumne River in the Sierra Nevada. It is very soft. EBMUD also runs a private sewer lateral program that can require testing or repair when you sell, remodel or change your water meter.",
+ "problems": [
+  [
+   "Cracked clay sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Root clogs",
+   "Tree-lined streets",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Ask about EBMUD's sewer lateral rules before you sell or remodel.",
+  "Strap your water heater for earthquakes.",
+  "Scope the sewer lateral before buying.",
+  "Keep a wrench by your gas shutoff."
+ ],
+ "areas": "PipeMend works in Rockridge, Temescal, Lake Merritt, Grand Lake, Fruitvale, the Dimond, Montclair and every other Oakland neighborhood.",
+ "permits": "Plumbing permits come from the City of Oakland Planning and Building Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "What is the EBMUD sewer lateral rule?",
+  "a": "EBMUD's regional program requires many East Bay property owners to show their private sewer lateral is in good shape when they sell, do major remodels or change water meter size. That often means a test and sometimes a repair."
+ }
+}

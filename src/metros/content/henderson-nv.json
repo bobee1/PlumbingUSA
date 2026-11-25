@@ -1,0 +1,45 @@
+{
+ "lead": "Henderson plumbing deals with very hard water, desert heat and mostly newer slab homes. PipeMend sends licensed local plumbers across Henderson.",
+ "risk": "very hard water scale, water heater wear and slab leaks",
+ "risk_short": "hard water, water heaters and slab leaks",
+ "why": [
+  "Most Henderson homes were built since the 1990s, in Green Valley, Anthem, Seven Hills and newer areas. The issues are minerals and age: first water heaters, softeners and fixtures are wearing out.",
+  "Homes sit on slabs, so leaks under the floor happen. Summer heat in garages shortens water heater life, and strict water rules make leaks costly."
+ ],
+ "utility": "City of Henderson Utility Services",
+ "water": "Henderson's water comes from Lake Mead through the Southern Nevada Water Authority. It is very hard, so scale builds up fast in heaters, tankless units and fixtures.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "1990s–2000s homes",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Tankless descaling and repair",
+   "Newer homes",
+   "<a href=\"/services/tankless-water-heaters/\">Tankless water heaters</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Descale tankless units on schedule.",
+  "Keep softener salt topped up.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Green Valley, Anthem, Seven Hills, MacDonald Highlands, Inspirada, Cadence and every other Henderson neighborhood.",
+ "permits": "Plumbing permits come from the City of Henderson Building and Fire Safety Department, and contractors must be licensed by the Nevada State Contractors Board.",
+ "faq": {
+  "q": "Why is Henderson water so hard?",
+  "a": "Henderson's water comes from Lake Mead, fed by the Colorado River, which carries dissolved minerals. Hard water leaves scale in heaters and on fixtures. A softener and yearly flushing help."
+ }
+}

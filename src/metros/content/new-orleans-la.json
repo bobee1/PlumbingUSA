@@ -1,0 +1,45 @@
+{
+ "lead": "New Orleans plumbing deals with heat, heavy rain, hurricanes, sinking ground and very old houses. PipeMend sends licensed local plumbers across New Orleans.",
+ "risk": "broken lines from settling soil, old cast-iron and galvanized pipe, and storm flooding",
+ "risk_short": "settling soil, old pipes and flooding",
+ "why": [
+  "New Orleans has some of the oldest homes in the country. Shotguns and Creole cottages often sit on piers, with exposed galvanized lines and cast-iron drains. Soft soil settles over time and breaks water and sewer lines.",
+  "Heavy rain and hurricanes flood streets and push water back into homes. Raised homes have exposed pipes that can freeze in rare hard cold."
+ ],
+ "utility": "Sewerage and Water Board of New Orleans (SWBNO)",
+ "water": "The Sewerage and Water Board treats Mississippi River water. It is moderately hard. Boil water advisories happen after pressure drops, so watch for notices.",
+ "problems": [
+  [
+   "Broken lines from settling",
+   "Citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Old cast-iron drains",
+   "Prewar homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Storm and flood backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Exposed pipes that freeze",
+   "Raised homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Sign up for city alerts about boil water advisories.",
+  "Wrap exposed pipes under raised homes before a freeze.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Scope the sewer line before buying."
+ ],
+ "areas": "PipeMend works in the French Quarter, the Garden District, Uptown, Mid-City, the Marigny, Bywater, Gentilly, Lakeview and every other New Orleans neighborhood.",
+ "permits": "Plumbing permits come from the New Orleans Department of Safety and Permits, and plumbers must be licensed by the State Plumbing Board of Louisiana.",
+ "faq": {
+  "q": "Why do New Orleans pipes break so often?",
+  "a": "Much of the city sits on soft soil that slowly sinks. Settling stresses water and sewer lines until joints pull apart. Older homes with rigid pipes feel it most."
+ }
+}

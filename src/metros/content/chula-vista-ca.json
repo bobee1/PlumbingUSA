@@ -1,0 +1,45 @@
+{
+ "lead": "Chula Vista plumbing deals with hard imported water, slab homes and a mix of older west-side and newer east-side neighborhoods. PipeMend sends licensed local plumbers across Chula Vista.",
+ "risk": "slab leaks, hard water scale and aging pipes in west Chula Vista",
+ "risk_short": "slab leaks, hard water and old pipes",
+ "why": [
+  "West Chula Vista, around Third Avenue and Castle Park, has homes from the 1940s to the 1970s with galvanized supply lines and cast-iron drains. Eastlake and Otay Ranch were mostly built after 1990.",
+  "Homes across the city are built on slabs, and water lines under the floor can leak as they age. State law also says water heaters must be strapped for earthquakes."
+ ],
+ "utility": "Sweetwater Authority (west) and Otay Water District (east)",
+ "water": "Western Chula Vista is served by Sweetwater Authority and the east side by Otay Water District. Much of the water is imported from the Colorado River and Northern California, and it is hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "West Chula Vista",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "Flush your water heater yearly.",
+  "Know which water district serves your home."
+ ],
+ "areas": "PipeMend works in Third Avenue Village, Northwest Chula Vista, Eastlake, Otay Ranch, Rancho del Rey, Castle Park, Millenia and every other Chula Vista neighborhood.",
+ "permits": "Plumbing permits come from the City of Chula Vista Development Services, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies water in Chula Vista?",
+  "a": "It depends on where you live. Sweetwater Authority serves most of the west side, and Otay Water District serves the east side. Your water bill shows which one you have."
+ }
+}

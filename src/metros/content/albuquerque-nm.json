@@ -1,0 +1,45 @@
+{
+ "lead": "Albuquerque plumbing deals with hard water, cold nights, dry heat and swamp coolers. PipeMend sends licensed local plumbers across Albuquerque.",
+ "risk": "hard water scale, frozen pipes and cooler lines, and aging pipes in older homes",
+ "risk_short": "hard water, frozen pipes and old pipes",
+ "why": [
+  "Nob Hill, the University area and the Old Town area have homes from the 1920s to the 1950s with galvanized supply lines and cast-iron or clay drains. Many homes use evaporative coolers with their own water lines.",
+  "Winter nights drop below freezing, so cooler lines, outdoor faucets and exposed pipes need draining in the fall. Hard water scales up heaters and fixtures."
+ ],
+ "utility": "Albuquerque Bernalillo County Water Utility Authority",
+ "water": "The Water Authority blends San Juan-Chama surface water from the Rio Grande with groundwater. The water is hard, so scale builds up in water heaters and coolers.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen cooler lines and hose bibs",
+   "Citywide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Nob Hill and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Drain your swamp cooler line before the first freeze.",
+  "Disconnect hoses in October.",
+  "Flush your water heater yearly.",
+  "Scope old sewer lines before buying."
+ ],
+ "areas": "PipeMend works in Nob Hill, Old Town, Downtown, the University area, the Northeast Heights, the North Valley, the Westside and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Albuquerque Building Safety Division, and plumbers must be licensed through the New Mexico Construction Industries Division.",
+ "faq": {
+  "q": "How do I winterize a swamp cooler line in Albuquerque?",
+  "a": "Shut off the cooler's water supply valve, drain the line and the cooler pan, and disconnect the line if it runs outside. Do it before the first hard freeze to avoid a split pipe."
+ }
+}

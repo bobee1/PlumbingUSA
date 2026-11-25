@@ -1,0 +1,45 @@
+{
+ "lead": "Irving plumbing deals with clay soil, slab foundations and a mix of older homes and newer Las Colinas buildings. PipeMend sends licensed local plumbers across Irving.",
+ "risk": "slab leaks from shifting clay, aging pipes in older homes and burst pipes in freezes",
+ "risk_short": "slab leaks, old pipes and frozen pipes",
+ "why": [
+  "South and central Irving have many homes from the 1950s to the 1970s with cast-iron drains and copper lines under the slab. Expansive clay moves with the seasons and stresses those lines.",
+  "Las Colinas and Valley Ranch add condos, offices and newer homes. Rare hard freezes burst attic and exterior-wall pipes across the city."
+ ],
+ "utility": "Irving Water Utilities",
+ "water": "Irving gets water mainly from Lake Chapman, with some bought from Dallas Water Utilities. The water is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "Older south Irving homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Commercial plumbing",
+   "Las Colinas",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Insulate attic pipes before winter.",
+  "Scope older drains before buying.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "PipeMend works in Las Colinas, Valley Ranch, Downtown Irving, Hackberry Creek, University Hills, Plymouth Park and every other Irving neighborhood.",
+ "permits": "Plumbing permits come from the City of Irving Inspections Division, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Where does Irving's water come from?",
+  "a": "Most comes from Lake Chapman in northeast Texas, carried by pipeline, with some bought from Dallas. It is moderately hard, so scale slowly builds up."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Santa Ana plumbing deals with hard water, older homes and slab leaks. PipeMend sends licensed local plumbers across Santa Ana.",
+ "risk": "aging galvanized and cast-iron pipes, slab leaks and hard water scale",
+ "risk_short": "old pipes, slab leaks and hard water",
+ "why": [
+  "Santa Ana is one of Orange County's oldest cities. Floral Park, French Park and Washington Square have homes from the 1910s to the 1940s, with galvanized supply lines, cast-iron drains and clay sewer laterals.",
+  "Postwar tract homes sit on slabs, so leaks under the floor are common. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "City of Santa Ana Water Resources",
+ "water": "Santa Ana pumps most of its water from the Orange County groundwater basin and buys the rest through the Metropolitan Water District. The water is hard.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "Floral Park and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Prewar neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Postwar slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Strap your water heater for earthquakes.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Downtown Santa Ana, Floral Park, Washington Square, French Park, Wilshire Square, South Coast Metro and every other neighborhood.",
+ "permits": "Plumbing permits come from the Santa Ana Planning and Building Agency, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Do historic Santa Ana homes need special plumbing care?",
+  "a": "Older homes often have galvanized pipe and clay sewer lines that need replacing. Historic districts may have extra rules for visible exterior work, so check with the city before major projects."
+ }
+}

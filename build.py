@@ -128,12 +128,12 @@ def expand_components(body, meta, pages_by_path):
         if "{{state_patterns}}" in body:
             body = body.replace("{{state_patterns}}", states.state_patterns())
     if metros and "{{metro_pills_top}}" in body:
-        top = sorted((k for k in metros.MMETA if (metros.CDIR / f"{k}.json").exists()), key=lambda k: metros.MMETA[k]["rank"])[:20]
+        top = sorted((k for k in metros.MMETA if metros.live(k)), key=lambda k: metros.MMETA[k]["rank"])[:20]
         mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}</a></li>' for k in sorted(top, key=lambda k: metros.MMETA[k]["city"]))
         body = body.replace("{{metro_pills_top}}", f'<ul class="pills pills-sm">{mp}<li><a href="/locations/#city-pages">All city pages</a></li></ul>')
     if metros and "{{metro_pills}}" in body:
         mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}, {metros.MMETA[k]["st"]}</a></li>'
-                     for k in sorted(metros.MMETA, key=lambda k: metros.MMETA[k]["city"]) if (metros.CDIR / f"{k}.json").exists())
+                     for k in sorted(metros.MMETA, key=lambda k: metros.MMETA[k]["city"]) if metros.live(k))
         body = body.replace("{{metro_pills}}", f'<ul class="pills pills-sm">{mp}</ul>')
     if states and "{{near_you}}" in body:
         body = body.replace("{{near_you}}", f'<h2>{esc(meta["service"]["name"])} near you</h2>\n' + states.state_pills())

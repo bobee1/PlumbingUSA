@@ -5,7 +5,7 @@ Inputs:
   research/11-city-heating-fuel.json   Census ACS B25040 heating fuel for each city
   src/metros/meta.json                 city, state, county, ZIP codes, neighborhoods, nearby cities, Semrush figures
   src/metros/content/<slug>.json       hand-written copy: lead, risk, why, water, problems, tips, areas, permits, FAQ
-A page is built only when its content file exists, so cities go live batch by batch.
+A page is built only when its content file and Census data both exist, so cities go live batch by batch.
 """
 import json
 from pathlib import Path
@@ -15,12 +15,24 @@ import states as S
 ROOT = Path(__file__).parent
 ACS = json.loads((ROOT / "research" / "10-city-acs.json").read_text())["places"]
 FUEL = json.loads((ROOT / "research" / "11-city-heating-fuel.json").read_text())["places"]
+# Later city batches: extra Census files from scripts/census_pull.py, merged when present
+for _a, _f in [("13-city-acs-6c.json", "14-city-heating-fuel-6c.json")]:
+    if (ROOT / "research" / _a).exists() and (ROOT / "research" / _f).exists():
+        ACS.update(json.loads((ROOT / "research" / _a).read_text())["places"])
+        FUEL.update(json.loads((ROOT / "research" / _f).read_text())["places"])
 MMETA = json.loads((ROOT / "src" / "metros" / "meta.json").read_text())
 CDIR = ROOT / "src" / "metros" / "content"
 
 
 def live(slug):
-    return slug in MMETA and (CDIR / f"{slug}.json").exists()
+    # needs copy and Census data; a city waiting on its Census pull stays hidden
+    return (slug in MMETA and (CDIR / f"{slug}.json").exists()
+            and MMETA[slug]["acs"] in ACS and MMETA[slug]["fuel"] in FUEL)
+
+
+def area_of(m):
+    """' and <County>' for normal cities; nothing for independent cities and consolidated city-counties."""
+    return "" if m.get("indep") else f" and {m['county']}"
 
 
 def mpath(slug):
@@ -134,9 +146,9 @@ def page(slug):
     quick = S.pick(slug, [f"PipeMend plumbers in {disp} handle leaks, clogged drains, water heaters, sewer lines and gas lines, day and night.",
                           f"Plumbing services in {city} cover emergency leaks, drain and sewer clogs, water heater repair and replacement, and gas lines.",
                           f"In {city}, PipeMend sends licensed local plumbers for burst pipes, drain clogs, water heaters, sewer problems and gas lines."], "q")
-    quick += f" The main local issues are {c['risk']}. PipeMend covers all of {city} and {m['county']}, including ZIP codes {', '.join(m['zips'][:3])}."
+    quick += f" The main local issues are {c['risk']}. PipeMend covers all of {city}{area_of(m)}, including ZIP codes {', '.join(m['zips'][:3])}."
     if L["kind"] == "local":
-        lic_p = f"{S.META[ab]['name']} has no statewide plumber license, so {city} and {m['county']} set the licensing rules."
+        lic_p = f"{S.META[ab]['name']} has no statewide plumber license, so {city}{area_of(m)} set{'s' if m.get('indep') else ''} the licensing rules."
     elif L["kind"] == "contractor":
         lic_p = f'Plumbing contractors in {city} are licensed through the <a href="{L["url"]}">{L["name"]}</a>.'
     else:
@@ -147,7 +159,7 @@ def page(slug):
     tips_h = S.pick(slug, [f"Plumbing tips for {city} homes", f"How {city} homeowners can prevent plumbing problems", f"Practical plumbing tips for {city}"], "t")
     faq = [
         {"q": f"Do you have plumbers in all of {city}?",
-         "a": f"Yes. PipeMend takes plumbing calls from across {city} and {m['county']}, including {S.join_list(m['hoods'][:5])}, and ZIP codes such as {', '.join(m['zips'][:4])}."},
+         "a": f"Yes. PipeMend takes plumbing calls from across {city}{area_of(m)}, including {S.join_list(m['hoods'][:5])}, and ZIP codes such as {', '.join(m['zips'][:4])}."},
         {"q": f"Do I need a permit for plumbing work in {city}?",
          "a": S.pick(slug, [f"For bigger jobs, usually yes. Water heater replacement, gas lines, sewer or water line work and repiping generally need a {city} permit and inspection. Simple repairs such as a faucet or toilet usually don't.",
                             f"Often. {city} typically requires permits for water heaters, gas piping, sewer and water service lines and repipes. Your plumber can pull the permit and schedule the inspection."], "pq")},

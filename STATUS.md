@@ -4,7 +4,7 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-24 (Guide SEO pass)
+Last updated: 2026-11-24 (Build 6c — staged, waiting on Census data)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
@@ -35,10 +35,19 @@ Last updated: 2026-11-24 (Guide SEO pass)
 - **Not changed:** service and city pages already use Semrush data from Nov 19–20. Note: Semrush reports 673,000/mo for "how to fix a running toilet" with a one-month spike in its trend; treat that number as unreliable.
 - Checks: audit PASS 0 issues; reading grade ≤9; FAQ schema valid; no overflow.
 
+## In progress — Build 6c: 25 more city pages (staged; waiting on Census data)
+- **Cities (ranks 14–71):** Scottsdale, Chandler, Glendale (AZ), Anaheim, San Francisco, Chula Vista, Irvine, Oakland, Fremont, Santa Ana, New Orleans, St. Petersburg, Boston, Garland, Lubbock, Irving, Albuquerque, Richmond (VA), Virginia Beach, Greensboro, Detroit, St. Louis, Henderson, Tulsa, Lexington.
+- **Done:** city details in `src/metros/meta.json` (batch "6c": county, ZIPs, neighborhoods, nearby cities, Semrush volume/KD) and all 25 copy files in `src/metros/content/` (water utility, problems, tips, permit office, state licensing, FAQ). Independent cities (Richmond, Virginia Beach, St. Louis) and San Francisco's city-county use the `indep` flag so wording doesn't name a county twice.
+- **Build change:** `metros.live()` now needs both copy and Census data, and `metros.py` merges `research/13-city-acs-6c.json` and `research/14-city-heating-fuel-6c.json` when present. Until then these 25 pages stay hidden; the live site is unchanged (145 pages).
+- **Tested with stand-in figures:** all 25 pages built (945–1,094 words), audit PASS 0 issues, reading grade ≤9, no duplicate paragraphs, no overflow; then the stand-in files were deleted.
+- **Owner action:** `git pull`, then `python3 scripts/census_pull.py` (Python 3, internet, no API key). It writes the two research files above. Commit and push them (or send them), and the pages go live on the next build.
+- **Data route:** the Census API, Census Reporter API and BigQuery (no Google sign-in) can't be reached from the build workspace; the owner chose to run the script.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 6c (next) | City Census data pull (ACS 5-year: B25034, B25035, B25003, B25024, B25001, B01003, B25040) for the next 25 cities by rank (Scottsdale, Chandler, Anaheim, San Francisco, New Orleans, St. Petersburg, Chula Vista, Irvine, Boston, Garland, Albuquerque, Oakland, Glendale, Lubbock, Fremont, Irving, Richmond, Greensboro, Santa Ana, Detroit, St. Louis, Henderson, Tulsa, Virginia Beach, Lexington), then their pages | Either run a short Census script locally, or approve using a secondary source (e.g. city-stats sites quoting ACS) |
+| 6c (finish) | Owner runs `scripts/census_pull.py`; then build, audit and publish the 25 staged cities | Census files |
+| 7 (next) | Next 25 cities by rank (Spokane, Winston-Salem, Riverside, Stockton, …), with the script extended to cover them | — |
 | 7, 7b | Wave 2 cities, 25 per build | — |
 | 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
 | Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys | Domain, number, email, Resend key |

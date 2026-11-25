@@ -1,0 +1,45 @@
+{
+ "lead": "St. Louis plumbing deals with old brick homes, lead service lines, basements and cold winters. PipeMend sends licensed local plumbers across St. Louis.",
+ "risk": "lead service lines, basement backups and aging pipes in brick homes",
+ "risk_short": "lead lines, basement backups and old pipes",
+ "why": [
+  "Soulard, Lafayette Square, Tower Grove and Benton Park have brick homes from the 1800s and early 1900s. Many have galvanized supply lines, cast-iron stacks, clay sewer laterals and lead service lines.",
+  "Older parts of the city have combined sewers that back up into basements in heavy rain. Winter cold freezes pipes near exterior walls."
+ ],
+ "utility": "City of St. Louis Water Division",
+ "water": "The city treats water from the Mississippi and Missouri rivers. It is moderately hard. The Water Division is working to replace lead service lines across the city.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Soulard, Tower Grove and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Check the city's lead service line map.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Scope the sewer line before buying."
+ ],
+ "areas": "PipeMend works in Soulard, Lafayette Square, Tower Grove, the Central West End, Southampton, Dogtown, St. Louis Hills and every other neighborhood.",
+ "permits": "Plumbing permits and plumber licenses for the City of St. Louis come from the city's Building Division. Missouri has no statewide plumber license, and St. Louis County has its own rules.",
+ "faq": {
+  "q": "Who licenses plumbers in St. Louis?",
+  "a": "Missouri has no statewide plumber license. In the City of St. Louis, the Building Division licenses plumbers. St. Louis County licenses separately, so check which one covers your address."
+ }
+}

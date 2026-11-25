@@ -1,0 +1,45 @@
+{
+ "lead": "Lubbock plumbing deals with hard water, wind, sudden freezes and expansive soil. PipeMend sends licensed local plumbers across Lubbock.",
+ "risk": "hard water scale, frozen pipes in cold snaps and slab leaks",
+ "risk_short": "hard water, frozen pipes and slab leaks",
+ "why": [
+  "Tech Terrace and Overton have homes from the 1930s to the 1950s with galvanized supply lines and cast-iron drains. Much of the rest of the city was built from the 1960s on.",
+  "Blue northers can drop temperatures fast, freezing pipes in exterior walls and attics. Expansive clay soils in parts of town stress slab plumbing."
+ ],
+ "utility": "Lubbock Water Utilities",
+ "water": "Lubbock draws on Lake Alan Henry, wells and water from the Canadian River Municipal Water Authority. The water is hard, so scale builds up in heaters and fixtures.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and attics",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Tech Terrace and Overton",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate attic and wall pipes before winter.",
+  "Disconnect hoses when a cold front is coming.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Tech Terrace, Overton, Heart of Lubbock, Lakeridge, Southwest Lubbock, Rush and every other Lubbock neighborhood.",
+ "permits": "Plumbing permits come from the City of Lubbock Building Safety Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why do Lubbock pipes freeze so fast?",
+  "a": "Cold fronts can drop the temperature by dozens of degrees in hours, and strong wind pulls heat from walls and attics. Pipes in those spaces freeze first. Insulation and dripping faucets help."
+ }
+}

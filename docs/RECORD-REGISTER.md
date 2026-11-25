@@ -90,4 +90,9 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 84 | 2026-11-24 | SEO | Semrush retested: working (ERROR 122 cleared) | Done | 27,250 units at start |
 | 85 | 2026-11-24 | SEO | Guide keyword difficulty refresh + question keywords for 12 guides | Done | `research/12-guide-questions-semrush.csv`; ~5,500 units |
 | 86 | 2026-11-24 | SEO | 7 new guide sections, 6 heading rewrites, 9 new FAQs, 2 meta descriptions | Done | Audit PASS; FK ≤9 |
-| 87 | — | 6c | Census pull for next 25 cities, then their pages | Planned | Needs data route (owner decision) |
+| 87 | 2026-11-24 | 6c | Census routes tested: Census API, Census Reporter API and BigQuery unreachable; secondary sites inconsistent | Blocked | — |
+| 88 | 2026-11-24 | 6c | Owner decision: run `scripts/census_pull.py` locally | Decided | Script pushed |
+| 89 | 2026-11-24 | 6c | 25 cities added to meta (ranks 14–71) + 25 copy files written | Done | Staged, hidden until data |
+| 90 | 2026-11-24 | 6c | `metros.live()` waits for Census data; auto-merge of research/13 and 14; `indep` flag for independent cities | Done | — |
+| 91 | 2026-11-24 | 6c | Stand-in data test: audit, readability, duplicates, site audit, responsive | Done | PASS; stand-in files deleted |
+| 92 | — | 6c | Owner runs Census script; build and publish 25 pages | Waiting | Owner action |

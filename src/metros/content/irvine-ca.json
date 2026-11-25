@@ -1,0 +1,45 @@
+{
+ "lead": "Irvine plumbing deals with hard water, slab homes and copper lines from the 1970s to 1990s. PipeMend sends licensed local plumbers across Irvine.",
+ "risk": "pinhole leaks in copper pipe, slab leaks and water heater replacement",
+ "risk_short": "pinhole leaks, slab leaks and water heaters",
+ "why": [
+  "Irvine's older villages, such as University Park, Turtle Rock and Woodbridge, were built from the late 1960s to the 1980s. Many have copper supply lines that now get small pinhole leaks, often under the slab.",
+  "Newer villages near the Great Park have plastic supply pipe and fewer old-pipe issues. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "Irvine Ranch Water District (IRWD)",
+ "water": "IRWD supplies Irvine with local groundwater and imported water. The water is moderately hard. IRWD also runs a large recycled water system for irrigation, with purple pipes kept separate from drinking water.",
+ "problems": [
+  [
+   "Pinhole leaks in copper",
+   "1970s–1980s villages",
+   "<a href=\"/services/leak-detection/\">Leak detection</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Repiping",
+   "Homes with repeat leaks",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "After two or three pinhole leaks, ask about a repipe.",
+  "Never connect anything to purple recycled water lines."
+ ],
+ "areas": "PipeMend works in Woodbridge, University Park, Turtle Rock, Northwood, Westpark, Quail Hill, the Great Park and every other Irvine village.",
+ "permits": "Plumbing permits come from the City of Irvine Building and Safety Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Why do Irvine copper pipes get pinhole leaks?",
+  "a": "Copper lines in many 1970s and 1980s homes slowly wear thin from the inside. Water chemistry and flow speed play a part. One leak can be patched, but repeat leaks usually mean it is time to repipe."
+ }
+}

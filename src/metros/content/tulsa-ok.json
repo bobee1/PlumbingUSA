@@ -1,0 +1,45 @@
+{
+ "lead": "Tulsa plumbing deals with clay soil, ice storms, floods and old Midtown homes. PipeMend sends licensed local plumbers across Tulsa.",
+ "risk": "cracked sewer lines in clay soil, frozen pipes in ice storms and aging pipes in older homes",
+ "risk_short": "sewer lines, frozen pipes and old pipes",
+ "why": [
+  "Maple Ridge, Brookside and the Cherry Street area have homes from the 1910s to the 1940s with galvanized supply lines and clay or cast-iron sewer laterals. Clay soil shrinks and swells and cracks them.",
+  "Ice storms freeze pipes in crawl spaces and exterior walls. Heavy rain, as in the 2019 Arkansas River flooding, can back up drains in low areas."
+ ],
+ "utility": "City of Tulsa Water and Sewer Department",
+ "water": "Tulsa draws its water from Lake Spavinaw, Lake Eucha and Lake Oologah. The water is moderately hard.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "Maple Ridge, Brookside and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Midtown homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Drip faucets in an ice storm.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Brookside, Maple Ridge, Cherry Street, the Pearl District, Midtown, Kendall-Whittier, South Tulsa and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Tulsa Development Services, and plumbers must be licensed by the Oklahoma Construction Industries Board.",
+ "faq": {
+  "q": "Do Tulsa pipes freeze in ice storms?",
+  "a": "They can. Ice storms often bring power outages, and pipes in crawl spaces and exterior walls freeze when the heat goes off. Drip faucets and open cabinet doors to help."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Virginia Beach plumbing deals with a high water table, coastal flooding, salt air and homes from the 1970s to 1990s boom. PipeMend sends licensed local plumbers across Virginia Beach.",
+ "risk": "polybutylene pipe, flooding and backups, and water heater replacement",
+ "risk_short": "old pipes, flooding and water heaters",
+ "why": [
+  "Virginia Beach grew fast from the 1970s through the 1990s, so many homes are 30 to 50 years old. Homes from the late 1970s to the mid-1990s may have gray polybutylene pipe.",
+  "Low ground and a high water table mean nor'easters and hurricanes flood streets and back up drains. Many homes sit on slabs or crawl spaces close to the water table."
+ ],
+ "utility": "Virginia Beach Public Utilities",
+ "water": "Virginia Beach buys treated water from Norfolk, which draws from local reservoirs and from Lake Gaston by pipeline. The water is moderately soft.",
+ "problems": [
+  [
+   "Polybutylene pipe",
+   "1970s–1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Storm and flood backups",
+   "Low areas near water",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Low-lying homes",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Look for gray pipe stamped PB2110.",
+  "Know your flood zone.",
+  "Shut off the main valve before an evacuation.",
+  "Check crawl-space drainage after big storms."
+ ],
+ "areas": "PipeMend works at the Oceanfront and in Great Neck, Kempsville, Chic's Beach, Sandbridge, Princess Anne, Lynnhaven and every other neighborhood.",
+ "permits": "Plumbing permits come from the Virginia Beach Permits and Inspections Division, and plumbers must hold a tradesman license from the Virginia Board for Contractors (DPOR).",
+ "faq": {
+  "q": "Are polybutylene pipes common in Virginia Beach?",
+  "a": "They show up in many homes built from the late 1970s to the mid-1990s, when the city grew fast. Look for gray plastic pipe stamped PB2110. Replacing it before it fails avoids water damage."
+ }
+}

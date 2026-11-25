@@ -1,0 +1,45 @@
+{
+ "lead": "Chandler plumbing deals with very hard water, desert heat and homes from the 1980s growth years. PipeMend sends licensed local plumbers across Chandler.",
+ "risk": "very hard water scale, water heater wear and polybutylene pipe in older subdivisions",
+ "risk_short": "hard water, water heaters and old pipes",
+ "why": [
+  "Chandler grew fast from the 1980s on, so many homes are now 30 to 40 years old. Some still have gray polybutylene supply pipe, and many original water heaters and softeners are at the end of their life.",
+  "Homes sit on slabs, so leaks under the floor happen. Very hard water and hot garages shorten water heater life."
+ ],
+ "utility": "City of Chandler Water",
+ "water": "Chandler's water comes from the Salt and Verde rivers through SRP, Colorado River water through the Central Arizona Project and groundwater. It is very hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–1990s subdivisions",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Garages citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Look for gray pipe stamped PB2110.",
+  "Keep softener salt topped up.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Downtown Chandler, Ocotillo, Fulton Ranch, Andersen Springs, Clemente Ranch, Cooper Commons and every other Chandler neighborhood.",
+ "permits": "Plumbing permits come from the City of Chandler Development Services, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "How often should Chandler homeowners flush a water heater?",
+  "a": "Once a year is a good rule, and more often if you have no softener. Chandler's very hard water leaves scale in the tank, which wastes energy and shortens the heater's life."
+ }
+}

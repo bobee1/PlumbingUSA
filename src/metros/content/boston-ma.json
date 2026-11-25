@@ -1,0 +1,45 @@
+{
+ "lead": "Boston plumbing deals with old triple-deckers and brownstones, lead lines and hard New England winters. PipeMend sends licensed local plumbers across Boston.",
+ "risk": "lead and galvanized service lines, frozen pipes and old cast-iron stacks",
+ "risk_short": "lead lines, frozen pipes and old pipes",
+ "why": [
+  "Boston has one of the oldest housing stocks in the country. Triple-deckers in Dorchester and Jamaica Plain and brownstones in the South End often have galvanized supply lines, cast-iron stacks and, in some cases, lead service lines.",
+  "Winter cold freezes pipes in exterior walls, porches and unheated basements. Multi-unit buildings share stacks, so one clog or leak can affect several homes."
+ ],
+ "utility": "Boston Water and Sewer Commission (BWSC)",
+ "water": "Boston's water comes from the Quabbin and Wachusett reservoirs through the MWRA. It is soft. BWSC has a lead service line lookup and replacement program.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and porches",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cast-iron stack leaks",
+   "Triple-deckers and brownstones",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Check BWSC's lead service line lookup.",
+  "Insulate pipes in exterior walls before winter.",
+  "Know where each unit's shutoff is in a multi-family home.",
+  "Disconnect hoses in the fall."
+ ],
+ "areas": "PipeMend works in Back Bay, the South End, Dorchester, Jamaica Plain, South Boston, Charlestown, Roslindale and every other Boston neighborhood.",
+ "permits": "Plumbing permits come from the Boston Inspectional Services Department, and plumbers must be licensed by the Massachusetts Board of State Examiners of Plumbers and Gas Fitters.",
+ "faq": {
+  "q": "Is Boston replacing lead water lines?",
+  "a": "Yes. The Boston Water and Sewer Commission has a lead service line program and an address lookup. It covers much of the cost of replacing the private side for eligible homes."
+ }
+}

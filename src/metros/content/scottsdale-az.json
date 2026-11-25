@@ -1,0 +1,45 @@
+{
+ "lead": "Scottsdale plumbing deals with very hard water, desert heat and slab homes from the 1950s to today. PipeMend sends licensed local plumbers across Scottsdale.",
+ "risk": "very hard water scale, slab leaks and aging pipes in South Scottsdale homes",
+ "risk_short": "hard water, slab leaks and old pipes",
+ "why": [
+  "South Scottsdale has many homes from the 1950s to the 1970s, with galvanized supply lines and cast-iron drains. Homes from the late 1970s to the mid-1990s may have gray polybutylene pipe.",
+  "Most homes sit on slabs, so leaks under the floor are common. Very hard water scales up water heaters, tankless units and fixtures, and summer heat shortens heater life."
+ ],
+ "utility": "City of Scottsdale Water",
+ "water": "Scottsdale Water blends Colorado River water from the Central Arizona Project, Salt and Verde river water and groundwater. The water is very hard, so scale is a constant issue.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized and cast-iron pipes",
+   "South Scottsdale",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Tankless descaling and repair",
+   "Newer homes",
+   "<a href=\"/services/tankless-water-heaters/\">Tankless water heaters</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Descale tankless units on schedule.",
+  "Watch your water bill for slab leak signs.",
+  "Look for gray polybutylene pipe in older homes."
+ ],
+ "areas": "PipeMend works in Old Town, South Scottsdale, McCormick Ranch, Gainey Ranch, DC Ranch, Grayhawk, North Scottsdale and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Scottsdale Planning and Development Services, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "Why do South Scottsdale homes need repiping?",
+  "a": "Many were built from the 1950s to the 1970s with galvanized steel supply pipes. These rust inside, which lowers water pressure and causes leaks. Replacing them with PEX or copper fixes both."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Fremont plumbing deals with moderately hard water, slab homes from the 1950s to 1970s and an active fault line. PipeMend sends licensed local plumbers across Fremont.",
+ "risk": "slab leaks, aging pipes in older homes and water heater strapping",
+ "risk_short": "slab leaks, old pipes and water heaters",
+ "why": [
+  "Fremont grew fast after 1956, so many homes in Centerville, Irvington and Mission San Jose date from the 1950s to the 1970s. Copper lines under slabs are aging, and some homes still have galvanized pipe.",
+  "The Hayward Fault runs through Fremont, so strapped water heaters and flexible gas connectors matter. Niles has some of the city's oldest homes."
+ ],
+ "utility": "Alameda County Water District (ACWD)",
+ "water": "ACWD blends local groundwater, Hetch Hetchy water from San Francisco, State Water Project water and desalted water. The blend is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Niles and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Main line clogs",
+   "Older homes",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Keep a wrench by your gas shutoff.",
+  "Watch your water bill for slab leak signs.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Centerville, Niles, Mission San Jose, Irvington, Warm Springs, Ardenwood and every other Fremont neighborhood.",
+ "permits": "Plumbing permits come from the City of Fremont Building and Safety Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Does living near the Hayward Fault affect plumbing in Fremont?",
+  "a": "It makes earthquake safety important. Water heaters must be strapped, and flexible gas connectors help lines survive shaking. Know where your water and gas shutoffs are."
+ }
+}

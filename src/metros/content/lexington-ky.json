@@ -1,0 +1,45 @@
+{
+ "lead": "Lexington plumbing deals with hard limestone water, karst ground, cold snaps and older homes near downtown. PipeMend sends licensed local plumbers across Lexington.",
+ "risk": "hard water scale, aging pipes in older homes and frozen pipes",
+ "risk_short": "hard water, old pipes and frozen pipes",
+ "why": [
+  "Chevy Chase, Ashland Park and the University area have homes from the 1910s to the 1950s with galvanized supply lines and cast-iron or clay drains.",
+  "Lexington sits on limestone with sinkholes in places, which can shift buried lines. Winter cold snaps freeze pipes in crawl spaces and exterior walls."
+ ],
+ "utility": "Kentucky American Water",
+ "water": "Kentucky American Water treats water from the Kentucky River and Jacobson Reservoir. Water from limestone country is hard, so scale builds up in heaters and on fixtures.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Chevy Chase and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Clean faucet aerators often."
+ ],
+ "areas": "PipeMend works in Chevy Chase, Ashland Park, the University area, Hamburg, Beaumont, Downtown, Kenwick and every other Lexington neighborhood.",
+ "permits": "Kentucky's Division of Plumbing licenses plumbers and oversees plumbing permits and inspections across the state, including Lexington.",
+ "faq": {
+  "q": "Why is Lexington water hard?",
+  "a": "Lexington is in limestone country. The water picks up calcium and magnesium from the rock, which leaves scale in water heaters and on fixtures. A softener and yearly flushing help."
+ }
+}

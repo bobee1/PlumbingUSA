@@ -1,0 +1,45 @@
+{
+ "lead": "Anaheim plumbing deals with hard water, slab homes from the 1950s and 1960s, and earthquake rules. PipeMend sends licensed local plumbers across Anaheim.",
+ "risk": "slab leaks, aging galvanized and cast-iron pipes and hard water scale",
+ "risk_short": "slab leaks, old pipes and hard water",
+ "why": [
+  "Anaheim boomed in the 1950s and 1960s, and many homes from that time still have galvanized supply lines and cast-iron drains. The Colony, near downtown, has even older homes.",
+  "Most homes sit on slabs, so supply leaks under the floor are common. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "Anaheim Public Utilities",
+ "water": "Anaheim Public Utilities blends local groundwater with water imported through the Metropolitan Water District. The water is hard. The city utility also supplies electricity.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "1950s–1960s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "Older homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "Scope cast-iron drains in older homes.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Downtown Anaheim, the Colony, Anaheim Hills, West Anaheim, the Platinum Triangle and every other Anaheim neighborhood.",
+ "permits": "Plumbing permits come from the Anaheim Planning and Building Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Why do 1950s Anaheim homes have plumbing problems?",
+  "a": "Many were built with galvanized steel supply pipes and cast-iron drains. After 60-plus years, the steel rusts inside and the cast iron cracks. Repiping and drain lining are common fixes."
+ }
+}

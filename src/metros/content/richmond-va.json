@@ -1,0 +1,45 @@
+{
+ "lead": "Richmond plumbing deals with century-old row houses, clay sewer lines and cold snaps. PipeMend sends licensed local plumbers across Richmond.",
+ "risk": "old galvanized and cast-iron pipes, cracked sewer laterals and frozen pipes",
+ "risk_short": "old pipes, sewer laterals and frozen pipes",
+ "why": [
+  "The Fan, the Museum District, Church Hill and Jackson Ward have homes from the late 1800s and early 1900s, with galvanized supply lines, cast-iron stacks and clay sewer laterals.",
+  "Winter cold snaps freeze pipes in crawl spaces and exterior walls. Heavy rain overloads the older combined sewers that serve parts of the city."
+ ],
+ "utility": "City of Richmond Department of Public Utilities",
+ "water": "Richmond treats water from the James River. It is moderately soft. The same city department also runs Richmond's natural gas utility.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "The Fan and Church Hill",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Cracked clay sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Gas line work",
+   "Homes citywide",
+   "<a href=\"/services/gas-line-repair/\">Gas line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Know where your gas and water shutoffs are.",
+  "Drip faucets in a hard freeze."
+ ],
+ "areas": "PipeMend works in the Fan, the Museum District, Church Hill, Northside, Manchester, Forest Hill, Jackson Ward and every other Richmond neighborhood.",
+ "permits": "Plumbing permits come from the City of Richmond Permits and Inspections, and plumbers must hold a tradesman license from the Virginia Board for Contractors (DPOR).",
+ "faq": {
+  "q": "Who supplies gas in Richmond?",
+  "a": "The City of Richmond runs its own gas utility through the Department of Public Utilities. If you smell gas, leave the home and call 911 or the city's gas emergency line from outside."
+ }
+}
