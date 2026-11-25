@@ -1,0 +1,45 @@
+{
+ "lead": "Lincoln plumbing deals with deep cold, hard water, basements and older brick neighborhoods. PipeMend sends licensed local plumbers across Lincoln.",
+ "risk": "frozen pipes, hard water scale and aging pipes in older homes",
+ "risk_short": "frozen pipes, hard water and old pipes",
+ "why": [
+  "The Near South, Everett and University Place have homes from the 1890s to the 1930s with galvanized supply lines, cast-iron stacks and clay sewer laterals. Nearly every home has a basement.",
+  "Winters freeze pipes near exterior walls and in unheated spaces. Spring rain tests sump pumps and basement drains."
+ ],
+ "utility": "Lincoln Water System",
+ "water": "Lincoln pumps its water from wells along the Platte River near Ashland and pipes it to the city. It is hard, so scale builds up in heaters and fixtures.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Near South and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements in spring",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Flush your water heater yearly.",
+  "Test your sump pump each spring.",
+  "Scope the sewer line before buying an older home."
+ ],
+ "areas": "PipeMend works in the Near South, Everett, College View, Bethany, Havelock, University Place, the Haymarket and every other Lincoln neighborhood.",
+ "permits": "Plumbing permits and local plumber licenses come from the City of Lincoln Building and Safety Department. Nebraska has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Lincoln?",
+  "a": "Nebraska has no statewide plumber license, so Lincoln licenses plumbers through its Building and Safety Department. Ask for the city license number before work starts."
+ }
+}

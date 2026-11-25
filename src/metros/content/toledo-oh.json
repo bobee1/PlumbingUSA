@@ -1,0 +1,45 @@
+{
+ "lead": "Toledo plumbing deals with cold winters, older homes, lead lines and basement backups. PipeMend sends licensed local plumbers across Toledo.",
+ "risk": "lead service lines, basement backups and frozen pipes",
+ "risk_short": "lead lines, basement backups and frozen pipes",
+ "why": [
+  "The Old West End, Westgate and South Toledo have homes from the 1880s to the 1940s with galvanized supply lines, cast-iron stacks and lead service lines. Toledo is replacing lead lines over time.",
+  "Heavy rain overloads older sewers and backs water into basements. Winter cold freezes pipes near exterior walls."
+ ],
+ "utility": "City of Toledo Department of Public Utilities",
+ "water": "Toledo treats water from Lake Erie. It is moderately hard. Algae blooms in the lake are watched closely, and the city posts water quality alerts.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old West End and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Ask the city about your service line material.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Sign up for city water alerts."
+ ],
+ "areas": "PipeMend works in the Old West End, Westgate, Point Place, the Warehouse District, South Toledo, West Toledo and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Toledo Division of Building Inspection. Ohio licenses commercial plumbing contractors. The city sets the rules for home work.",
+ "faq": {
+  "q": "Does Toledo still have lead water lines?",
+  "a": "Some older homes do. The city has a lead service line replacement program and an address lookup. A plumber can also check the pipe where it enters your basement."
+ }
+}

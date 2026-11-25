@@ -1,0 +1,45 @@
+{
+ "lead": "St. Paul plumbing is built for deep cold, old homes and basements. PipeMend sends licensed local plumbers across St. Paul.",
+ "risk": "lead service lines, frozen pipes and basement plumbing in older homes",
+ "risk_short": "lead lines, frozen pipes and basements",
+ "why": [
+  "Summit Hill, Macalester-Groveland, Merriam Park and Dayton's Bluff have many homes from the 1880s to the 1930s with galvanized supply lines, cast-iron stacks and lead service lines.",
+  "Long, deep winters freeze pipes near exterior walls and can freeze water service lines. Nearly every home has a basement with the water heater, floor drain and laundry."
+ ],
+ "utility": "Saint Paul Regional Water Services",
+ "water": "St. Paul's water comes from the Mississippi River, a chain of lakes and wells, and is softened at the plant. The utility is replacing lead service lines across the city.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Frozen pipes and service lines",
+   "Citywide in deep cold",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Summit Hill and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement floor drain backups",
+   "Older neighborhoods",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Check the water utility's lead line lookup.",
+  "Keep the heat on and cabinets open in deep cold.",
+  "Test your sump pump before spring thaw.",
+  "Insulate pipes near exterior walls."
+ ],
+ "areas": "PipeMend works in Summit Hill, Highland Park, Macalester-Groveland, Como, Frogtown, the West Side, Dayton's Bluff and every other St. Paul neighborhood.",
+ "permits": "Plumbing permits come from the St. Paul Department of Safety and Inspections, and plumbers must be licensed by the Minnesota Department of Labor and Industry.",
+ "faq": {
+  "q": "Is St. Paul replacing lead water lines?",
+  "a": "Yes. Saint Paul Regional Water Services has a program to replace lead service lines across the city, often at little or no cost to owners. You can look up your address on its website."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Anchorage plumbing is built for long, deep winters, earthquakes and boiler heat. PipeMend sends licensed local plumbers across Anchorage.",
+ "risk": "frozen pipes, boiler and glycol heating problems, and earthquake damage",
+ "risk_short": "frozen pipes, boilers and earthquake damage",
+ "why": [
+  "Many Anchorage homes use boilers with hot water or glycol heat, so heating and plumbing problems often overlap. Long, deep cold freezes pipes in exterior walls, crawl spaces and garages.",
+  "Anchorage is earthquake country, as the 1964 and 2018 quakes showed. Strapped water heaters and flexible connections help lines survive shaking."
+ ],
+ "utility": "Anchorage Water and Wastewater Utility (AWWU)",
+ "water": "AWWU gets most of its water from Eklutna Lake, fed by glacier melt, with Ship Creek and wells as backup. The water is soft.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls, crawl spaces and garages",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Boiler and heating loop leaks",
+   "Homes with hydronic heat",
+   "<a href=\"/services/water-heater-repair/\">Water heater repair</a>"
+  ],
+  [
+   "Earthquake-damaged lines",
+   "After strong quakes",
+   "<a href=\"/services/leak-detection/\">Leak detection</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Strap your water heater for earthquakes.",
+  "Check for leaks after any strong quake.",
+  "Have your boiler serviced before winter."
+ ],
+ "areas": "PipeMend works Downtown and in Midtown, South Addition, Spenard, Turnagain, the Hillside, Muldoon and every other Anchorage neighborhood.",
+ "permits": "Plumbing permits come from the Municipality of Anchorage Development Services, and plumbing work is licensed through the Alaska Division of Corporations, Business and Professional Licensing.",
+ "faq": {
+  "q": "What should I do after an earthquake in Anchorage?",
+  "a": "Check for the smell of gas and leave if you notice it. Then look for leaks at the water heater, under sinks and in the crawl space. Shut off the main water valve if you find a broken line."
+ }
+}

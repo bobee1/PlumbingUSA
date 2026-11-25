@@ -106,7 +106,8 @@
   "nearby": [
    "long-beach-ca",
    "san-diego-ca",
-   "sacramento-ca"
+   "sacramento-ca",
+   "honolulu-hi"
   ],
   "wave": 1,
   "rank": 4,
@@ -418,7 +419,8 @@
   "wiki": "Portland,_Oregon",
   "nearby": [
    "seattle-wa",
-   "boise-id"
+   "boise-id",
+   "anchorage-ak"
   ],
   "wave": 1,
   "rank": 12,
@@ -537,7 +539,8 @@
   "wiki": "Seattle",
   "nearby": [
    "portland-or",
-   "boise-id"
+   "boise-id",
+   "anchorage-ak"
   ],
   "wave": 1,
   "rank": 15,
@@ -1004,7 +1007,8 @@
   "wiki": "San_Francisco",
   "nearby": [
    "oakland-ca",
-   "fremont-ca"
+   "fremont-ca",
+   "honolulu-hi"
   ],
   "wave": 1,
   "rank": 27,
@@ -2711,6 +2715,84 @@
   ],
   "batch": "6c"
  },
+ "spokane-wa": {
+  "city": "Spokane",
+  "st": "WA",
+  "acs": "Spokane|53",
+  "fuel": "Spokane|53",
+  "url": "spokane",
+  "county": "Spokane County",
+  "zips": [
+   "99201",
+   "99202",
+   "99203",
+   "99205",
+   "99207",
+   "99208",
+   "99223"
+  ],
+  "hoods": [
+   "Browne's Addition",
+   "the South Hill",
+   "Peaceful Valley",
+   "the Garland District",
+   "Hillyard",
+   "Logan",
+   "Northwest Spokane",
+   "Lincoln Heights"
+  ],
+  "wiki": "Spokane,_Washington",
+  "nearby": [
+   "seattle-wa",
+   "boise-id"
+  ],
+  "wave": 2,
+  "rank": 72,
+  "semrush": [
+   "480",
+   "19"
+  ],
+  "batch": "7"
+ },
+ "winston-salem-nc": {
+  "city": "Winston-Salem",
+  "st": "NC",
+  "acs": "Winston-Salem|37",
+  "fuel": "Winston-Salem|37",
+  "url": "winston-salem",
+  "county": "Forsyth County",
+  "zips": [
+   "27101",
+   "27103",
+   "27104",
+   "27105",
+   "27106",
+   "27127"
+  ],
+  "hoods": [
+   "the West End",
+   "Ardmore",
+   "Buena Vista",
+   "Old Salem",
+   "Washington Park",
+   "Sherwood Forest",
+   "Reynolda Park",
+   "Clemmons area"
+  ],
+  "wiki": "Winston-Salem,_North_Carolina",
+  "nearby": [
+   "greensboro-nc",
+   "charlotte-nc",
+   "durham-nc"
+  ],
+  "wave": 2,
+  "rank": 73,
+  "semrush": [
+   "480",
+   "23"
+  ],
+  "batch": "7"
+ },
  "columbus-oh": {
   "city": "Columbus",
   "st": "OH",
@@ -2788,6 +2870,324 @@
   ],
   "batch": "6b"
  },
+ "riverside-ca": {
+  "city": "Riverside",
+  "st": "CA",
+  "acs": "Riverside|06",
+  "fuel": "Riverside|06",
+  "url": "riverside",
+  "county": "Riverside County",
+  "zips": [
+   "92501",
+   "92503",
+   "92504",
+   "92505",
+   "92506",
+   "92507",
+   "92508"
+  ],
+  "hoods": [
+   "Downtown",
+   "the Wood Streets",
+   "Canyon Crest",
+   "Mission Grove",
+   "Orangecrest",
+   "La Sierra",
+   "Arlington",
+   "Magnolia Center"
+  ],
+  "wiki": "Riverside,_California",
+  "nearby": [
+   "anaheim-ca",
+   "los-angeles-ca",
+   "santa-ana-ca"
+  ],
+  "wave": 2,
+  "rank": 76,
+  "semrush": [
+   "590",
+   "48"
+  ],
+  "batch": "7"
+ },
+ "stockton-ca": {
+  "city": "Stockton",
+  "st": "CA",
+  "acs": "Stockton|06",
+  "fuel": "Stockton|06",
+  "url": "stockton",
+  "county": "San Joaquin County",
+  "zips": [
+   "95202",
+   "95203",
+   "95204",
+   "95207",
+   "95209",
+   "95210",
+   "95219"
+  ],
+  "hoods": [
+   "Miracle Mile",
+   "Brookside",
+   "Lincoln Village",
+   "Weston Ranch",
+   "Spanos Park",
+   "the Country Club area",
+   "Downtown",
+   "Morada area"
+  ],
+  "wiki": "Stockton,_California",
+  "nearby": [
+   "sacramento-ca",
+   "oakland-ca",
+   "fremont-ca"
+  ],
+  "wave": 2,
+  "rank": 77,
+  "semrush": [
+   "390",
+   "22"
+  ],
+  "batch": "7"
+ },
+ "fort-wayne-in": {
+  "city": "Fort Wayne",
+  "st": "IN",
+  "acs": "Fort Wayne|18",
+  "fuel": "Fort Wayne|18",
+  "url": "fort-wayne",
+  "county": "Allen County",
+  "zips": [
+   "46802",
+   "46803",
+   "46804",
+   "46805",
+   "46807",
+   "46815",
+   "46825"
+  ],
+  "hoods": [
+   "West Central",
+   "the '07 District",
+   "Forest Park",
+   "Wildwood Park",
+   "Aboite",
+   "Northeast Fort Wayne",
+   "South Wayne",
+   "Lakeside"
+  ],
+  "wiki": "Fort_Wayne,_Indiana",
+  "nearby": [
+   "indianapolis-in",
+   "toledo-oh",
+   "columbus-oh"
+  ],
+  "wave": 2,
+  "rank": 78,
+  "semrush": [
+   "390",
+   "23"
+  ],
+  "batch": "7"
+ },
+ "el-paso-tx": {
+  "city": "El Paso",
+  "st": "TX",
+  "acs": "El Paso|48",
+  "fuel": "El Paso|48",
+  "url": "el-paso",
+  "county": "El Paso County",
+  "zips": [
+   "79901",
+   "79902",
+   "79912",
+   "79915",
+   "79924",
+   "79936",
+   "79938"
+  ],
+  "hoods": [
+   "Sunset Heights",
+   "Kern Place",
+   "the Westside",
+   "Upper Valley",
+   "the Northeast",
+   "the Eastside",
+   "Mission Valley",
+   "Central El Paso"
+  ],
+  "wiki": "El_Paso,_Texas",
+  "nearby": [
+   "albuquerque-nm",
+   "tucson-az"
+  ],
+  "wave": 2,
+  "rank": 79,
+  "semrush": [
+   "590",
+   "51"
+  ],
+  "batch": "7"
+ },
+ "toledo-oh": {
+  "city": "Toledo",
+  "st": "OH",
+  "acs": "Toledo|39",
+  "fuel": "Toledo|39",
+  "url": "toledo",
+  "county": "Lucas County",
+  "zips": [
+   "43604",
+   "43606",
+   "43607",
+   "43609",
+   "43610",
+   "43614",
+   "43615"
+  ],
+  "hoods": [
+   "the Old West End",
+   "Ottawa Hills area",
+   "Westgate",
+   "Point Place",
+   "the Warehouse District",
+   "South Toledo",
+   "West Toledo",
+   "East Toledo"
+  ],
+  "wiki": "Toledo,_Ohio",
+  "nearby": [
+   "cleveland-oh",
+   "detroit-mi",
+   "columbus-oh"
+  ],
+  "wave": 2,
+  "rank": 80,
+  "semrush": [
+   "390",
+   "26"
+  ],
+  "batch": "7"
+ },
+ "jersey-city-nj": {
+  "city": "Jersey City",
+  "st": "NJ",
+  "acs": "Jersey City|34",
+  "fuel": "Jersey City|34",
+  "url": "jersey-city",
+  "county": "Hudson County",
+  "zips": [
+   "07302",
+   "07304",
+   "07305",
+   "07306",
+   "07307",
+   "07310"
+  ],
+  "hoods": [
+   "Downtown",
+   "Paulus Hook",
+   "the Heights",
+   "Journal Square",
+   "Greenville",
+   "Bergen-Lafayette",
+   "the West Side",
+   "Newport"
+  ],
+  "wiki": "Jersey_City,_New_Jersey",
+  "nearby": [
+   "new-york-ny",
+   "newark-nj"
+  ],
+  "wave": 2,
+  "rank": 81,
+  "semrush": [
+   "390",
+   "27"
+  ],
+  "batch": "7"
+ },
+ "anchorage-ak": {
+  "city": "Anchorage",
+  "st": "AK",
+  "acs": "Anchorage|02",
+  "fuel": "Anchorage|02",
+  "url": "anchorage",
+  "county": "Municipality of Anchorage",
+  "zips": [
+   "99501",
+   "99502",
+   "99503",
+   "99504",
+   "99507",
+   "99508",
+   "99515",
+   "99516"
+  ],
+  "hoods": [
+   "Downtown",
+   "Midtown",
+   "South Addition",
+   "Spenard",
+   "Turnagain",
+   "Hillside",
+   "Eagle River area",
+   "Muldoon"
+  ],
+  "wiki": "Anchorage,_Alaska",
+  "nearby": [
+   "seattle-wa"
+  ],
+  "wave": 2,
+  "rank": 82,
+  "semrush": [
+   "390",
+   "29"
+  ],
+  "batch": "7",
+  "indep": true
+ },
+ "newark-nj": {
+  "city": "Newark",
+  "st": "NJ",
+  "acs": "Newark|34",
+  "fuel": "Newark|34",
+  "url": "newark",
+  "county": "Essex County",
+  "zips": [
+   "07102",
+   "07103",
+   "07104",
+   "07105",
+   "07106",
+   "07107",
+   "07108",
+   "07112"
+  ],
+  "hoods": [
+   "the Ironbound",
+   "Forest Hill",
+   "the North Ward",
+   "Vailsburg",
+   "the Central Ward",
+   "the South Ward",
+   "Weequahic",
+   "University Heights"
+  ],
+  "wiki": "Newark,_New_Jersey",
+  "nearby": [
+   "jersey-city-nj",
+   "new-york-ny",
+   "philadelphia-pa"
+  ],
+  "wave": 2,
+  "rank": 83,
+  "semrush": [
+   "320",
+   "14"
+  ],
+  "batch": "7"
+ },
  "louisville-ky": {
   "city": "Louisville",
   "st": "KY",
@@ -2827,6 +3227,46 @@
   ],
   "batch": "6b"
  },
+ "corpus-christi-tx": {
+  "city": "Corpus Christi",
+  "st": "TX",
+  "acs": "Corpus Christi|48",
+  "fuel": "Corpus Christi|48",
+  "url": "corpus-christi",
+  "county": "Nueces County",
+  "zips": [
+   "78401",
+   "78404",
+   "78411",
+   "78412",
+   "78413",
+   "78414",
+   "78418"
+  ],
+  "hoods": [
+   "Downtown",
+   "Ocean Drive",
+   "the Southside",
+   "Flour Bluff",
+   "Padre Island",
+   "Calallen",
+   "Bayview",
+   "Hillcrest"
+  ],
+  "wiki": "Corpus_Christi,_Texas",
+  "nearby": [
+   "san-antonio-tx",
+   "houston-tx",
+   "laredo-tx"
+  ],
+  "wave": 2,
+  "rank": 85,
+  "semrush": [
+   "390",
+   "30"
+  ],
+  "batch": "7"
+ },
  "madison-wi": {
   "city": "Madison",
   "st": "WI",
@@ -2865,6 +3305,477 @@
   ],
   "batch": "6b"
  },
+ "chesapeake-va": {
+  "city": "Chesapeake",
+  "st": "VA",
+  "acs": "Chesapeake|51",
+  "fuel": "Chesapeake|51",
+  "url": "chesapeake",
+  "county": "Independent city",
+  "zips": [
+   "23320",
+   "23321",
+   "23322",
+   "23323",
+   "23324",
+   "23325"
+  ],
+  "hoods": [
+   "Greenbrier",
+   "Great Bridge",
+   "Western Branch",
+   "Deep Creek",
+   "South Norfolk",
+   "Hickory",
+   "Grassfield",
+   "Indian River"
+  ],
+  "wiki": "Chesapeake,_Virginia",
+  "nearby": [
+   "virginia-beach-va",
+   "norfolk-va",
+   "richmond-va"
+  ],
+  "wave": 2,
+  "rank": 87,
+  "semrush": [
+   "260",
+   "9"
+  ],
+  "batch": "7",
+  "indep": true
+ },
+ "hialeah-fl": {
+  "city": "Hialeah",
+  "st": "FL",
+  "acs": "Hialeah|12",
+  "fuel": "Hialeah|12",
+  "url": "hialeah",
+  "county": "Miami-Dade County",
+  "zips": [
+   "33010",
+   "33012",
+   "33013",
+   "33014",
+   "33016",
+   "33018"
+  ],
+  "hoods": [
+   "Downtown Hialeah",
+   "Palm Springs North area",
+   "Hialeah Gardens area",
+   "East Hialeah",
+   "West Hialeah",
+   "the Seminola area",
+   "Country Club",
+   "Amelia Earhart Park area"
+  ],
+  "wiki": "Hialeah,_Florida",
+  "nearby": [
+   "miami-fl"
+  ],
+  "wave": 2,
+  "rank": 88,
+  "semrush": [
+   "260",
+   "15"
+  ],
+  "batch": "7"
+ },
+ "lincoln-ne": {
+  "city": "Lincoln",
+  "st": "NE",
+  "acs": "Lincoln|31",
+  "fuel": "Lincoln|31",
+  "url": "lincoln",
+  "county": "Lancaster County",
+  "zips": [
+   "68502",
+   "68503",
+   "68504",
+   "68505",
+   "68506",
+   "68510",
+   "68516"
+  ],
+  "hoods": [
+   "the Near South",
+   "Everett",
+   "College View",
+   "Bethany",
+   "Havelock",
+   "University Place",
+   "Country Club",
+   "the Haymarket"
+  ],
+  "wiki": "Lincoln,_Nebraska",
+  "nearby": [
+   "omaha-ne",
+   "kansas-city-mo",
+   "wichita-ks"
+  ],
+  "wave": 2,
+  "rank": 89,
+  "semrush": [
+   "260",
+   "16"
+  ],
+  "batch": "7"
+ },
+ "fresno-ca": {
+  "city": "Fresno",
+  "st": "CA",
+  "acs": "Fresno|06",
+  "fuel": "Fresno|06",
+  "url": "fresno",
+  "county": "Fresno County",
+  "zips": [
+   "93701",
+   "93704",
+   "93705",
+   "93710",
+   "93711",
+   "93720",
+   "93727"
+  ],
+  "hoods": [
+   "the Tower District",
+   "Fig Garden",
+   "Sunnyside",
+   "Woodward Park",
+   "Old Fig",
+   "Downtown",
+   "the Mclane area",
+   "Bullard"
+  ],
+  "wiki": "Fresno,_California",
+  "nearby": [
+   "bakersfield-ca",
+   "stockton-ca"
+  ],
+  "wave": 2,
+  "rank": 90,
+  "semrush": [
+   "320",
+   "34"
+  ],
+  "batch": "7"
+ },
+ "honolulu-hi": {
+  "city": "Honolulu",
+  "st": "HI",
+  "acs": "Honolulu|15",
+  "fuel": "Honolulu|15",
+  "url": "honolulu",
+  "county": "City and County of Honolulu",
+  "zips": [
+   "96813",
+   "96814",
+   "96815",
+   "96816",
+   "96817",
+   "96822",
+   "96825"
+  ],
+  "hoods": [
+   "Waikiki",
+   "Kaimuki",
+   "Manoa",
+   "Kakaako",
+   "Makiki",
+   "Kalihi",
+   "Hawaii Kai",
+   "Nuuanu"
+  ],
+  "wiki": "Honolulu",
+  "nearby": [
+   "los-angeles-ca",
+   "san-francisco-ca",
+   "anchorage-ak"
+  ],
+  "wave": 2,
+  "rank": 91,
+  "semrush": [
+   "480",
+   "56"
+  ],
+  "batch": "7",
+  "indep": true
+ },
+ "milwaukee-wi": {
+  "city": "Milwaukee",
+  "st": "WI",
+  "acs": "Milwaukee|55",
+  "fuel": "Milwaukee|55",
+  "url": "milwaukee",
+  "county": "Milwaukee County",
+  "zips": [
+   "53202",
+   "53204",
+   "53207",
+   "53208",
+   "53211",
+   "53215",
+   "53221"
+  ],
+  "hoods": [
+   "Bay View",
+   "Riverwest",
+   "the East Side",
+   "Walker's Point",
+   "Washington Heights",
+   "Sherman Park",
+   "Tosa area",
+   "the Third Ward"
+  ],
+  "wiki": "Milwaukee",
+  "nearby": [
+   "madison-wi",
+   "chicago-il"
+  ],
+  "wave": 2,
+  "rank": 92,
+  "semrush": [
+   "390",
+   "51"
+  ],
+  "batch": "7"
+ },
+ "norfolk-va": {
+  "city": "Norfolk",
+  "st": "VA",
+  "acs": "Norfolk|51",
+  "fuel": "Norfolk|51",
+  "url": "norfolk",
+  "county": "Independent city",
+  "zips": [
+   "23502",
+   "23503",
+   "23505",
+   "23507",
+   "23508",
+   "23517",
+   "23518"
+  ],
+  "hoods": [
+   "Ghent",
+   "Colonial Place",
+   "Larchmont",
+   "Ocean View",
+   "Park Place",
+   "Wards Corner",
+   "Edgewater",
+   "East Beach"
+  ],
+  "wiki": "Norfolk,_Virginia",
+  "nearby": [
+   "virginia-beach-va",
+   "chesapeake-va",
+   "richmond-va"
+  ],
+  "wave": 2,
+  "rank": 93,
+  "semrush": [
+   "320",
+   "41"
+  ],
+  "batch": "7",
+  "indep": true
+ },
+ "bakersfield-ca": {
+  "city": "Bakersfield",
+  "st": "CA",
+  "acs": "Bakersfield|06",
+  "fuel": "Bakersfield|06",
+  "url": "bakersfield",
+  "county": "Kern County",
+  "zips": [
+   "93301",
+   "93304",
+   "93305",
+   "93306",
+   "93309",
+   "93311",
+   "93312"
+  ],
+  "hoods": [
+   "Downtown",
+   "Westchester",
+   "Oleander-Sunset",
+   "Seven Oaks",
+   "Rosedale",
+   "Haggin Oaks",
+   "East Bakersfield",
+   "Riverlakes"
+  ],
+  "wiki": "Bakersfield,_California",
+  "nearby": [
+   "fresno-ca",
+   "los-angeles-ca"
+  ],
+  "wave": 2,
+  "rank": 94,
+  "semrush": [
+   "390",
+   "52"
+  ],
+  "batch": "7"
+ },
+ "north-las-vegas-nv": {
+  "city": "North Las Vegas",
+  "st": "NV",
+  "acs": "North Las Vegas|32",
+  "fuel": "North Las Vegas|32",
+  "url": "north-las-vegas",
+  "county": "Clark County",
+  "zips": [
+   "89030",
+   "89031",
+   "89032",
+   "89081",
+   "89084",
+   "89086"
+  ],
+  "hoods": [
+   "Aliante",
+   "Eldorado",
+   "Craig Ranch",
+   "Valley Vista",
+   "Tule Springs",
+   "Downtown North Las Vegas",
+   "Centennial area",
+   "Shadow Creek area"
+  ],
+  "wiki": "North_Las_Vegas,_Nevada",
+  "nearby": [
+   "las-vegas-nv",
+   "henderson-nv"
+  ],
+  "wave": 2,
+  "rank": 95,
+  "semrush": [
+   "210",
+   "12"
+  ],
+  "batch": "7"
+ },
+ "buffalo-ny": {
+  "city": "Buffalo",
+  "st": "NY",
+  "acs": "Buffalo|36",
+  "fuel": "Buffalo|36",
+  "url": "buffalo",
+  "county": "Erie County",
+  "zips": [
+   "14201",
+   "14207",
+   "14209",
+   "14213",
+   "14214",
+   "14216",
+   "14222"
+  ],
+  "hoods": [
+   "Elmwood Village",
+   "Allentown",
+   "North Buffalo",
+   "the West Side",
+   "Parkside",
+   "South Buffalo",
+   "Black Rock",
+   "Kaisertown"
+  ],
+  "wiki": "Buffalo,_New_York",
+  "nearby": [
+   "cleveland-oh",
+   "pittsburgh-pa"
+  ],
+  "wave": 2,
+  "rank": 96,
+  "semrush": [
+   "320",
+   "43"
+  ],
+  "batch": "7"
+ },
+ "oklahoma-city-ok": {
+  "city": "Oklahoma City",
+  "st": "OK",
+  "acs": "Oklahoma City|40",
+  "fuel": "Oklahoma City|40",
+  "url": "oklahoma-city",
+  "county": "Oklahoma County",
+  "zips": [
+   "73102",
+   "73103",
+   "73106",
+   "73112",
+   "73118",
+   "73120",
+   "73132"
+  ],
+  "hoods": [
+   "Midtown",
+   "Mesta Park",
+   "Heritage Hills",
+   "the Plaza District",
+   "Nichols Hills area",
+   "Crown Heights",
+   "the Paseo",
+   "Edgemere Park"
+  ],
+  "wiki": "Oklahoma_City",
+  "nearby": [
+   "tulsa-ok",
+   "wichita-ks",
+   "dallas-tx"
+  ],
+  "wave": 2,
+  "rank": 97,
+  "semrush": [
+   "260",
+   "36"
+  ],
+  "batch": "7"
+ },
+ "st-paul-mn": {
+  "city": "St. Paul",
+  "st": "MN",
+  "acs": "St. Paul|27",
+  "fuel": "St. Paul|27",
+  "url": "st-paul",
+  "county": "Ramsey County",
+  "zips": [
+   "55101",
+   "55102",
+   "55104",
+   "55105",
+   "55106",
+   "55116"
+  ],
+  "hoods": [
+   "Summit Hill",
+   "Highland Park",
+   "Macalester-Groveland",
+   "Como",
+   "Frogtown",
+   "the West Side",
+   "Dayton's Bluff",
+   "Merriam Park"
+  ],
+  "wiki": "Saint_Paul,_Minnesota",
+  "nearby": [
+   "minneapolis-mn",
+   "madison-wi"
+  ],
+  "wave": 2,
+  "rank": 98,
+  "semrush": [
+   "140",
+   "12"
+  ],
+  "batch": "7"
+ },
  "wichita-ks": {
   "city": "Wichita",
   "st": "KS",
@@ -2902,5 +3813,42 @@
    "41"
   ],
   "batch": "6b"
+ },
+ "laredo-tx": {
+  "city": "Laredo",
+  "st": "TX",
+  "acs": "Laredo|48",
+  "fuel": "Laredo|48",
+  "url": "laredo",
+  "county": "Webb County",
+  "zips": [
+   "78040",
+   "78041",
+   "78043",
+   "78045",
+   "78046"
+  ],
+  "hoods": [
+   "Downtown",
+   "the Heights",
+   "North Laredo",
+   "South Laredo",
+   "Del Mar",
+   "San Isidro",
+   "Las Cruces",
+   "Mines Road area"
+  ],
+  "wiki": "Laredo,_Texas",
+  "nearby": [
+   "san-antonio-tx",
+   "corpus-christi-tx"
+  ],
+  "wave": 2,
+  "rank": 100,
+  "semrush": [
+   "110",
+   "29"
+  ],
+  "batch": "7"
  }
 }

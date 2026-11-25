@@ -1,0 +1,45 @@
+{
+ "lead": "El Paso plumbing deals with hard water, desert heat, rare hard freezes and slab homes. PipeMend sends licensed local plumbers across El Paso.",
+ "risk": "hard water scale, slab leaks and burst pipes in hard freezes",
+ "risk_short": "hard water, slab leaks and frozen pipes",
+ "why": [
+  "Sunset Heights, Kern Place and Central El Paso have homes from the 1900s to the 1950s with galvanized supply lines and cast-iron drains. Most newer homes on the Westside and Eastside sit on slabs.",
+  "Hard freezes, like February 2021, burst pipes that run through attics and exterior walls. Many homes use evaporative coolers with their own water lines."
+ ],
+ "utility": "El Paso Water",
+ "water": "El Paso Water blends Rio Grande water with groundwater and runs one of the world's largest inland desalination plants. The water is hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Central and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Drain your cooler line before the first freeze.",
+  "Insulate attic pipes before winter.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Sunset Heights, Kern Place, the Westside, the Upper Valley, the Northeast, the Eastside, Mission Valley and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of El Paso Planning and Inspections Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Where does El Paso's water come from?",
+  "a": "El Paso Water uses Rio Grande water in wetter months and groundwater year-round, including brackish water treated at its desalination plant. The blend is hard."
+ }
+}

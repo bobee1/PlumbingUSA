@@ -1,0 +1,45 @@
+{
+ "lead": "Laredo plumbing deals with extreme heat, hard water and slab homes. PipeMend sends licensed local plumbers across Laredo.",
+ "risk": "hard water scale, slab leaks and water heater wear",
+ "risk_short": "hard water, slab leaks and water heaters",
+ "why": [
+  "Downtown and the Heights have homes from the early 1900s with galvanized supply lines and cast-iron drains. Most of north and south Laredo was built more recently on slabs.",
+  "Summer heat often tops 100 degrees, which wears out garage water heaters. Rare hard freezes burst exposed and attic pipes."
+ ],
+ "utility": "Laredo Utilities",
+ "water": "Laredo treats water from the Rio Grande. It is hard, so scale builds up in water heaters and on fixtures. Watch for city boil water notices after line breaks.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Exposed and attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Insulate attic and exposed pipes before winter.",
+  "Watch your water bill for slab leak signs.",
+  "Clean faucet aerators often."
+ ],
+ "areas": "PipeMend works in Downtown, the Heights, North Laredo, South Laredo, Del Mar, San Isidro and every other Laredo neighborhood.",
+ "permits": "Plumbing permits come from the City of Laredo Building Development Services, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Is Laredo water hard?",
+  "a": "Yes. Laredo's water comes from the Rio Grande, which carries a lot of dissolved minerals. Scale builds up in water heaters and on fixtures, so yearly flushing helps."
+ }
+}

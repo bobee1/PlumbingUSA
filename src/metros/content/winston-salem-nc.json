@@ -1,0 +1,45 @@
+{
+ "lead": "Winston-Salem plumbing deals with red clay, mature trees, crawl spaces and older mill-era homes. PipeMend sends licensed local plumbers across Winston-Salem.",
+ "risk": "tree roots in old sewer lines, frozen crawl-space pipes and polybutylene pipe",
+ "risk_short": "sewer roots, frozen pipes and old pipes",
+ "why": [
+  "The West End, Ardmore and Buena Vista have homes from the 1910s to the 1940s with galvanized supply lines and clay sewer laterals. Big trees send roots into those old lines.",
+  "Crawl spaces are common here, so exposed pipes freeze when an ice storm knocks out power. Homes built from about 1980 to 1995 may still have gray polybutylene supply pipe."
+ ],
+ "utility": "City/County Utilities",
+ "water": "Winston-Salem's City/County Utilities draws from the Yadkin River and Salem Lake. The water is soft.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Ardmore, the West End and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide during ice storms",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–early 1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Main line clogs",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes and close vents before a freeze.",
+  "Scope the sewer line before buying an older home.",
+  "Look for gray polybutylene pipe.",
+  "Plant trees away from the sewer line."
+ ],
+ "areas": "PipeMend works in the West End, Ardmore, Buena Vista, Old Salem, Washington Park, Sherwood Forest, Reynolda Park and every other neighborhood.",
+ "permits": "Plumbing permits come from the Winston-Salem/Forsyth County Inspections Division, and plumbing contractors must be licensed by the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors.",
+ "faq": {
+  "q": "Who issues plumbing permits in Winston-Salem?",
+  "a": "The joint Winston-Salem/Forsyth County Inspections Division handles permits for the city and county. Your plumber usually pulls the permit and books the inspection."
+ }
+}

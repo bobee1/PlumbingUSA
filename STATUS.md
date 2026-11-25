@@ -4,7 +4,7 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-24 (Build 6c — staged, waiting on Census data)
+Last updated: 2026-11-24 (Build 7 — staged with 6c, waiting on Census data)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
@@ -43,11 +43,19 @@ Last updated: 2026-11-24 (Build 6c — staged, waiting on Census data)
 - **Owner action:** `git pull`, then `python3 scripts/census_pull.py` (Python 3, internet, no API key). It writes the two research files above. Commit and push them (or send them), and the pages go live on the next build.
 - **Data route:** the Census API, Census Reporter API and BigQuery (no Google sign-in) can't be reached from the build workspace; the owner chose to run the script.
 
+## In progress — Build 7: last 24 cities of the top-100 list (staged; waiting on Census data)
+- **Cities (ranks 72–100):** Spokane, Winston-Salem, Riverside, Stockton, Fresno, Bakersfield, Fort Wayne, El Paso, Corpus Christi, Laredo, Toledo, Jersey City, Newark, Anchorage, Chesapeake, Norfolk, Hialeah, Lincoln, Honolulu, Milwaukee, North Las Vegas, Buffalo, Oklahoma City, St. Paul. This finishes every city in research/06 (Washington, D.C. stays on its state page).
+- **Done:** meta (batch "7") and 24 copy files. Local licensing covered: Lincoln and Buffalo (city licenses), New Jersey master plumber board, Alaska and Hawaii state boards. Anchorage, Honolulu, Chesapeake and Norfolk use the `indep` flag.
+- **Script:** `scripts/census_pull.py` now pulls 6c and 7 in one run (or one batch: `python3 scripts/census_pull.py 7`) and writes research/15 and 16 for Build 7; `metros.py` merges them when present.
+- **Tested with stand-in figures (all 49 staged pages):** 194 pages built, audit PASS 0 issues, reading grade ≤9, no duplicates, lowest city inbound links 6, no overflow or console errors. Stand-in files deleted; live site stays at 145 pages.
+- **Owner action:** `git pull`, then `python3 scripts/census_pull.py`, then commit and push research/13–16. 49 city pages go live on the next build.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
 | 6c (finish) | Owner runs `scripts/census_pull.py`; then build, audit and publish the 25 staged cities | Census files |
-| 7 (next) | Next 25 cities by rank (Spokane, Winston-Salem, Riverside, Stockton, …), with the script extended to cover them | — |
+| 7 (finish) | Census data in → publish 6c + 7 (49 cities, 194 pages) | Owner runs script |
+| 8 (next) | Wave 3 city research with Semrush (now working): next 50–100 cities by \"plumber + city\" demand, then staged pages | — |
 | 7, 7b | Wave 2 cities, 25 per build | — |
 | 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
 | Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys | Domain, number, email, Resend key |

@@ -96,3 +96,9 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 90 | 2026-11-24 | 6c | `metros.live()` waits for Census data; auto-merge of research/13 and 14; `indep` flag for independent cities | Done | — |
 | 91 | 2026-11-24 | 6c | Stand-in data test: audit, readability, duplicates, site audit, responsive | Done | PASS; stand-in files deleted |
 | 92 | — | 6c | Owner runs Census script; build and publish 25 pages | Waiting | Owner action |
+| 93 | 2026-11-24 | 7 | 6c Census data not yet pushed; Build 7 staged alongside | Noted | — |
+| 94 | 2026-11-24 | 7 | `census_pull.py` extended to batches 6c + 7 (research/15, 16) | Done | Dry-run tested |
+| 95 | 2026-11-24 | 7 | 24 cities added to meta (ranks 72–100) + 24 copy files | Done | Top-100 list finished |
+| 96 | 2026-11-24 | 7 | Stand-in test of 49 staged pages: audit, readability, duplicates, links, responsive | Done | PASS; stand-ins deleted |
+| 97 | — | 7 | Owner runs Census script; publish 49 pages | Waiting | Owner action |
+| 98 | — | 8 | Wave 3 city keyword research (Semrush) | Planned | Next |

@@ -16,7 +16,8 @@ ROOT = Path(__file__).parent
 ACS = json.loads((ROOT / "research" / "10-city-acs.json").read_text())["places"]
 FUEL = json.loads((ROOT / "research" / "11-city-heating-fuel.json").read_text())["places"]
 # Later city batches: extra Census files from scripts/census_pull.py, merged when present
-for _a, _f in [("13-city-acs-6c.json", "14-city-heating-fuel-6c.json")]:
+for _a, _f in [("13-city-acs-6c.json", "14-city-heating-fuel-6c.json"),
+               ("15-city-acs-7.json", "16-city-heating-fuel-7.json")]:
     if (ROOT / "research" / _a).exists() and (ROOT / "research" / _f).exists():
         ACS.update(json.loads((ROOT / "research" / _a).read_text())["places"])
         FUEL.update(json.loads((ROOT / "research" / _f).read_text())["places"])

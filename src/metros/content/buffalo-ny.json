@@ -1,0 +1,45 @@
+{
+ "lead": "Buffalo plumbing deals with lake-effect snow, deep cold, old double houses and lead lines. PipeMend sends licensed local plumbers across Buffalo.",
+ "risk": "frozen pipes, lead and galvanized service lines and basement backups",
+ "risk_short": "frozen pipes, lead lines and basement backups",
+ "why": [
+  "Most Buffalo homes were built before 1940. Doubles in Elmwood Village, North Buffalo and the West Side often have galvanized supply lines, cast-iron stacks and lead service lines.",
+  "Lake-effect storms and long cold snaps freeze pipes near exterior walls and in vacant units. Heavy rain overloads older sewers and backs water into basements."
+ ],
+ "utility": "Buffalo Water",
+ "water": "Buffalo draws its water from Lake Erie at the head of the Niagara River. It is moderately hard. The city has a lead service line replacement program.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and vacant units",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Doubles and older homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on in every unit through winter.",
+  "Ask Buffalo Water about your service line.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Know where each unit's shutoff is in a double."
+ ],
+ "areas": "PipeMend works in Elmwood Village, Allentown, North Buffalo, the West Side, Parkside, South Buffalo, Black Rock and every other Buffalo neighborhood.",
+ "permits": "Plumbing permits come from the City of Buffalo Department of Permit and Inspection Services, which also licenses plumbers in the city. New York has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Buffalo?",
+  "a": "New York has no statewide plumber license, so Buffalo licenses plumbers through its Department of Permit and Inspection Services. Ask for the city license number before work starts."
+ }
+}

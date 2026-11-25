@@ -1,0 +1,45 @@
+{
+ "lead": "Hialeah plumbing deals with heat, heavy rain, concrete block homes and aging cast-iron drains. PipeMend sends licensed local plumbers across Hialeah.",
+ "risk": "cast-iron drain failures, slab leaks and storm flooding",
+ "risk_short": "cast-iron drains, slab leaks and flooding",
+ "why": [
+  "Most Hialeah homes are concrete block on slabs, built from the 1950s to the 1980s. Cast-iron drains under those slabs rot from the inside, and copper supply lines can leak under the floor.",
+  "Summer storms and hurricanes flood low streets and back up drains. Many homes have added rooms and converted garages with older plumbing tied in."
+ ],
+ "utility": "Miami-Dade Water and Sewer and the City of Hialeah",
+ "water": "Hialeah's water comes from the Biscayne Aquifer through Miami-Dade Water and Sewer and the city's own reverse osmosis plant. It is moderately hard.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "1950s–1980s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Storm flooding and backups",
+   "Low streets",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Watch your water bill for slab leak signs.",
+  "Get permits for plumbing in room additions."
+ ],
+ "areas": "PipeMend works in Downtown Hialeah, East Hialeah, West Hialeah, Country Club, the Seminola area and every other Hialeah neighborhood.",
+ "permits": "Plumbing permits come from the City of Hialeah Building Department, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Why do Hialeah homes have drain problems?",
+  "a": "Many were built with cast-iron drains under the slab. After 40 to 70 years, the iron rusts and cracks, causing slow drains, backups and sewer smells. A camera inspection shows what is needed."
+ }
+}

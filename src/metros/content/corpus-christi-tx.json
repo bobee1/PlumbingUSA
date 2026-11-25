@@ -1,0 +1,45 @@
+{
+ "lead": "Corpus Christi plumbing deals with salt air, hurricanes, slab homes and drought. PipeMend sends licensed local plumbers across Corpus Christi.",
+ "risk": "slab leaks, corrosion from salt air and storm damage",
+ "risk_short": "slab leaks, corrosion and storms",
+ "why": [
+  "Most Corpus Christi homes sit on slabs over clay that shifts between drought and heavy rain, so slab leaks are common. Older areas near Ocean Drive and Hillcrest have cast-iron drains.",
+  "Salt air corrodes outdoor fittings, water heater parts and gas lines. Hurricanes bring surge, flooding and long power outages."
+ ],
+ "utility": "Corpus Christi Water",
+ "water": "Corpus Christi Water draws from Lake Corpus Christi, Choke Canyon Reservoir and Lake Texana by pipeline. The water is moderately hard. Drought has led to water restrictions, so leaks are costly.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Corroded outdoor fittings",
+   "Near the bay and island",
+   "<a href=\"/services/faucet-repair/\">Faucet repair</a>"
+  ],
+  [
+   "Storm damage and backups",
+   "Low areas after hurricanes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Check city water restriction rules.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Watch your water bill for slab leak signs.",
+  "Rinse and check outdoor fittings for corrosion."
+ ],
+ "areas": "PipeMend works in Downtown, Ocean Drive, the Southside, Flour Bluff, Padre Island, Calallen, Bayview and every other Corpus Christi neighborhood.",
+ "permits": "Plumbing permits come from the City of Corpus Christi Development Services Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why fix leaks fast in Corpus Christi?",
+  "a": "Drought has pushed the city into water restrictions, and every leak wastes water you pay for. A hidden slab leak can run for weeks. Watch your bill and meter for signs."
+ }
+}

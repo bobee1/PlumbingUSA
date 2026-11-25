@@ -1,0 +1,45 @@
+{
+ "lead": "Jersey City plumbing deals with old brownstones, high-rise towers, lead lines and flooding. PipeMend sends licensed local plumbers across Jersey City.",
+ "risk": "old lead and galvanized pipes, basement flooding and stack leaks in multi-unit buildings",
+ "risk_short": "old pipes, flooding and stack leaks",
+ "why": [
+  "The Heights, Bergen-Lafayette and Downtown have row houses and brownstones from the 1800s and early 1900s, with galvanized supply lines, cast-iron stacks and lead service lines in some cases.",
+  "Heavy storms, like Ida in 2021, flood basements and back up sewers in low areas. Newer towers near the waterfront share risers and booster pumps."
+ ],
+ "utility": "Jersey City Municipal Utilities Authority (JCMUA)",
+ "water": "Jersey City's water comes mainly from the Boonton Reservoir. It is moderately soft. The utility has a lead service line replacement program.",
+ "problems": [
+  [
+   "Lead and galvanized lines",
+   "Row houses and brownstones",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Basement flooding",
+   "Low areas in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Stack and riser leaks",
+   "Multi-unit buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Ask JCMUA about your service line material.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Know where your unit's shutoff is.",
+  "Check building rules before plumbing work."
+ ],
+ "areas": "PipeMend works Downtown and in Paulus Hook, the Heights, Journal Square, Greenville, Bergen-Lafayette, the West Side and every other neighborhood.",
+ "permits": "Plumbing permits come from the Jersey City Division of Construction Code, and plumbers must be licensed by the New Jersey State Board of Examiners of Master Plumbers.",
+ "faq": {
+  "q": "Who can do plumbing work in Jersey City?",
+  "a": "New Jersey requires a licensed master plumber for most plumbing work, and the city's construction code office issues permits. Ask for the license number before work starts."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Norfolk plumbing deals with tidal flooding, old homes and a high water table. PipeMend sends licensed local plumbers across Norfolk.",
+ "risk": "tidal and storm flooding, old galvanized and cast-iron pipes, and drain backups",
+ "risk_short": "flooding, old pipes and backups",
+ "why": [
+  "Ghent, Colonial Place, Larchmont and Park Place have homes from the 1890s to the 1940s with galvanized supply lines, cast-iron stacks and clay sewer laterals.",
+  "Norfolk sees some of the worst tidal flooding on the East Coast. High tides and storms back up storm drains and push water into crawl spaces and low basements."
+ ],
+ "utility": "Norfolk Department of Utilities",
+ "water": "Norfolk draws from local reservoirs and from Lake Gaston by pipeline. The water is moderately soft. Norfolk also sells water to neighboring Virginia Beach.",
+ "problems": [
+  [
+   "Flood backups",
+   "Low areas at high tide",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Ghent and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Low-lying homes",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Prewar neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Know your flood zone and tide alerts.",
+  "Check crawl-space drainage after high tides.",
+  "Shut off the main valve before an evacuation.",
+  "Scope the sewer line before buying an older home."
+ ],
+ "areas": "PipeMend works in Ghent, Colonial Place, Larchmont, Ocean View, Park Place, Wards Corner, East Beach and every other Norfolk neighborhood.",
+ "permits": "Plumbing permits come from the City of Norfolk Department of Planning permits office, and plumbers must hold a tradesman license from the Virginia Board for Contractors (DPOR).",
+ "faq": {
+  "q": "Why does Norfolk flood at high tide?",
+  "a": "Norfolk is low and flat, and sea levels in the area have risen while the land slowly sinks. High tides and storms back water up through storm drains. Plumbing in low areas needs extra protection."
+ }
+}

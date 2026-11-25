@@ -1,0 +1,45 @@
+{
+ "lead": "Fresno plumbing deals with extreme summer heat, older homes, tree roots and slab leaks. PipeMend sends licensed local plumbers across Fresno.",
+ "risk": "tree roots in sewer lines, slab leaks and water heaters worn by heat",
+ "risk_short": "sewer roots, slab leaks and water heaters",
+ "why": [
+  "The Tower District, Fig Garden and Old Fig have homes from the 1920s to the 1950s with galvanized supply lines and clay sewer laterals. Mature trees send roots into those lines.",
+  "Fresno summers often pass 100 degrees, which shortens garage water heater life. Postwar homes sit on slabs, so leaks under the floor are common."
+ ],
+ "utility": "City of Fresno Department of Public Utilities",
+ "water": "Fresno blends groundwater with treated surface water from the Kings and San Joaquin rivers. The water is moderately hard.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Tower District and Fig Garden",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Postwar slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Strap your water heater for earthquakes.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in the Tower District, Fig Garden, Sunnyside, Woodward Park, Old Fig, Downtown, Bullard and every other Fresno neighborhood.",
+ "permits": "Plumbing permits come from the City of Fresno Planning and Development Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Does Fresno's heat affect water heaters?",
+  "a": "Yes. Garage water heaters in Fresno sit in very hot air for months, which wears parts faster. A yearly flush and a check of the relief valve help them last."
+ }
+}

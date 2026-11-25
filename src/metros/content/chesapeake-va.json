@@ -1,0 +1,45 @@
+{
+ "lead": "Chesapeake plumbing deals with a high water table, coastal storms and homes from the 1970s to 1990s boom. PipeMend sends licensed local plumbers across Chesapeake.",
+ "risk": "polybutylene pipe, flooding and backups, and well and septic systems in rural areas",
+ "risk_short": "old pipes, flooding and septic systems",
+ "why": [
+  "Chesapeake grew fast from the 1970s through the 1990s in Greenbrier, Great Bridge and Western Branch. Homes from the late 1970s to the mid-1990s may have gray polybutylene pipe.",
+  "Low ground and a high water table mean nor'easters and hurricanes flood streets and back up drains. Rural southern Chesapeake has many homes on wells and septic systems."
+ ],
+ "utility": "Chesapeake Public Utilities",
+ "water": "Chesapeake treats water from the Northwest River and buys water from neighboring cities. It is moderately soft. Rural homes outside the system use private wells.",
+ "problems": [
+  [
+   "Polybutylene pipe",
+   "1970s–1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Storm and flood backups",
+   "Low areas",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Low-lying homes",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Look for gray pipe stamped PB2110.",
+  "Know your flood zone.",
+  "Check crawl-space drainage after big storms.",
+  "Have your well water tested yearly if you have a well."
+ ],
+ "areas": "PipeMend works in Greenbrier, Great Bridge, Western Branch, Deep Creek, South Norfolk, Hickory, Grassfield and every other Chesapeake neighborhood.",
+ "permits": "Plumbing permits come from the City of Chesapeake Department of Development and Permits, and plumbers must hold a tradesman license from the Virginia Board for Contractors (DPOR).",
+ "faq": {
+  "q": "Do many Chesapeake homes have polybutylene pipe?",
+  "a": "Many homes built from the late 1970s to the mid-1990s do, when the city grew fast. Look for gray plastic pipe stamped PB2110. Replacing it before it fails avoids water damage."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Spokane plumbing deals with cold winters, older South Hill homes and sprinkler systems that need winterizing. PipeMend sends licensed local plumbers across Spokane.",
+ "risk": "frozen pipes and sprinkler lines, aging pipes in older homes and basement water heaters",
+ "risk_short": "frozen pipes, old pipes and water heaters",
+ "why": [
+  "Browne's Addition, the South Hill and the Garland District have homes from the 1890s to the 1940s with galvanized supply lines, cast-iron stacks and clay sewer laterals.",
+  "Winters freeze sprinkler systems, hose bibs and pipes near exterior walls. Many homes have basements with water heaters, floor drains and laundry."
+ ],
+ "utility": "City of Spokane Water Department",
+ "water": "Spokane pumps all of its water from wells in the Spokane Valley-Rathdrum Prairie Aquifer. It is moderately hard and needs little treatment.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and hose bibs",
+   "Citywide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "South Hill and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Prewar neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first freeze.",
+  "Disconnect hoses in October.",
+  "Scope the sewer line before buying an older home.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Browne's Addition, the South Hill, Peaceful Valley, the Garland District, Hillyard, Logan and every other Spokane neighborhood.",
+ "permits": "Plumbing permits come from the City of Spokane Development Services Center, and plumbers must hold a certificate from the Washington State Department of Labor and Industries.",
+ "faq": {
+  "q": "Where does Spokane's water come from?",
+  "a": "All of it comes from wells in the Spokane Valley-Rathdrum Prairie Aquifer, one of the most productive aquifers in the region. The water is moderately hard and is lightly treated."
+ }
+}

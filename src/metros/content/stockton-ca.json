@@ -1,0 +1,45 @@
+{
+ "lead": "Stockton plumbing deals with hot summers, big trees, older homes and slab foundations. PipeMend sends licensed local plumbers across Stockton.",
+ "risk": "tree roots in sewer lines, slab leaks and aging pipes in older neighborhoods",
+ "risk_short": "sewer roots, slab leaks and old pipes",
+ "why": [
+  "The Miracle Mile, Brookside's older edges and the Country Club area have homes from the 1920s to the 1950s with galvanized supply lines and clay sewer laterals. Large shade trees send roots into those lines.",
+  "Most newer homes sit on slabs, so leaks under the floor happen. Summer heat shortens water heater life."
+ ],
+ "utility": "City of Stockton Municipal Utilities and California Water Service",
+ "water": "Central Stockton is served by California Water Service, and other parts by the City of Stockton Municipal Utilities. Supply mixes Delta and river water with groundwater. It is moderately hard.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Older tree-lined streets",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in the Miracle Mile, Brookside, Lincoln Village, Weston Ranch, Spanos Park, Downtown and every other Stockton neighborhood.",
+ "permits": "Plumbing permits come from the City of Stockton Community Development Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies water in Stockton?",
+  "a": "It depends on your address. California Water Service serves much of central Stockton, and the city's Municipal Utilities serves other areas. Your water bill shows which one you have."
+ }
+}

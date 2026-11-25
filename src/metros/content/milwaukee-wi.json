@@ -1,0 +1,45 @@
+{
+ "lead": "Milwaukee plumbing deals with deep cold, old duplexes, basements and a large number of lead service lines. PipeMend sends licensed local plumbers across Milwaukee.",
+ "risk": "lead service lines, frozen pipes and basement backups",
+ "risk_short": "lead lines, frozen pipes and basement backups",
+ "why": [
+  "Milwaukee has tens of thousands of homes built before 1951 with lead service lines, plus galvanized supply pipes and cast-iron stacks. Polish flats and duplexes in Bay View and Riverwest are common.",
+  "Winters freeze pipes near exterior walls and can freeze service lines. Heavy storms back up sewers into basements in older neighborhoods."
+ ],
+ "utility": "Milwaukee Water Works",
+ "water": "Milwaukee Water Works treats water from Lake Michigan. It is moderately hard. The utility is replacing lead service lines and has an address lookup.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Homes built before 1951",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and service lines",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Duplexes and older homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Check Milwaukee Water Works' lead line lookup.",
+  "Keep the heat on and cabinets open in deep cold.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Know where each unit's shutoff is in a duplex."
+ ],
+ "areas": "PipeMend works in Bay View, Riverwest, the East Side, Walker's Point, Washington Heights, Sherman Park, the Third Ward and every other neighborhood.",
+ "permits": "Plumbing permits come from the Milwaukee Department of Neighborhood Services, and plumbers must be licensed by the Wisconsin Department of Safety and Professional Services.",
+ "faq": {
+  "q": "Does my Milwaukee home have a lead water line?",
+  "a": "If it was built before 1951, it may. Milwaukee has one of the largest numbers of lead service lines in the country. Milwaukee Water Works has an address lookup and a replacement program."
+ }
+}

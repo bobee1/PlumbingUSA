@@ -1,0 +1,45 @@
+{
+ "lead": "Bakersfield plumbing deals with hard water, intense heat and slab homes. PipeMend sends licensed local plumbers across Bakersfield.",
+ "risk": "hard water scale, slab leaks and water heater wear",
+ "risk_short": "hard water, slab leaks and water heaters",
+ "why": [
+  "Older areas such as Westchester and Oleander-Sunset have homes from the 1930s to the 1950s with galvanized supply lines and cast-iron or clay drains. Seven Oaks and Rosedale were built mostly after 1990.",
+  "Most homes sit on slabs, so supply leaks under the floor are common. Summer heat and hard water wear out water heaters."
+ ],
+ "utility": "California Water Service and City of Bakersfield Water Resources",
+ "water": "Bakersfield is served by several water providers, mainly California Water Service and the city's Water Resources Department. Supply is mostly groundwater plus Kern River water. It is hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Westchester and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "Clean faucet aerators often."
+ ],
+ "areas": "PipeMend works in Downtown, Westchester, Oleander-Sunset, Seven Oaks, Rosedale, Haggin Oaks, East Bakersfield and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Bakersfield Building Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies water in Bakersfield?",
+  "a": "Bakersfield has more than one water provider. California Water Service and the city's Water Resources Department serve most homes. Your water bill shows which one you have."
+ }
+}

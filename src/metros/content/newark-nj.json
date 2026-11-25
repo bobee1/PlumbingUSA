@@ -1,0 +1,45 @@
+{
+ "lead": "Newark plumbing deals with old housing, cold winters, basement flooding and a recent history of lead pipes. PipeMend sends licensed local plumbers across Newark.",
+ "risk": "old galvanized and cast-iron pipes, basement flooding and frozen pipes",
+ "risk_short": "old pipes, flooding and frozen pipes",
+ "why": [
+  "Most Newark homes were built before 1950. Two- and three-family houses in the North Ward, Vailsburg and Forest Hill often have galvanized supply lines and cast-iron stacks.",
+  "Newark replaced more than 20,000 lead service lines after its lead crisis. Heavy storms still flood basements in low areas, and winter cold freezes pipes near exterior walls."
+ ],
+ "utility": "Newark Department of Water and Sewer Utilities",
+ "water": "Newark's water comes from the Pequannock reservoirs in northern New Jersey. It is soft. The city added corrosion control and replaced lead service lines citywide.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "Multi-family homes citywide",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement flooding",
+   "Low areas in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Know where each unit's shutoff is in a multi-family home.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Use the filter the city provided if your home still has old fixtures."
+ ],
+ "areas": "PipeMend works in the Ironbound, Forest Hill, the North Ward, Vailsburg, the Central Ward, the South Ward, Weequahic and every other Newark neighborhood.",
+ "permits": "Plumbing permits come from the Newark Division of Construction Code, and plumbers must be licensed by the New Jersey State Board of Examiners of Master Plumbers.",
+ "faq": {
+  "q": "Did Newark replace its lead water lines?",
+  "a": "Yes. After high lead levels were found, Newark replaced more than 20,000 lead service lines in about three years and added corrosion control. Old pipes inside some homes may still need work."
+ }
+}

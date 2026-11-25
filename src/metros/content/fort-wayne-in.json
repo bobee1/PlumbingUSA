@@ -1,0 +1,45 @@
+{
+ "lead": "Fort Wayne plumbing deals with cold winters, hard water, basements and older homes near downtown. PipeMend sends licensed local plumbers across Fort Wayne.",
+ "risk": "frozen pipes, basement sewer backups and hard water scale",
+ "risk_short": "frozen pipes, sewer backups and hard water",
+ "why": [
+  "West Central, the '07 District and Forest Park have homes from the 1890s to the 1930s with galvanized supply lines, cast-iron stacks and clay sewer laterals.",
+  "Older parts of the city drain to combined sewers that can back up into basements in heavy rain. The city's deep rock tunnel is cutting overflows, but backwater valves still help. Winters freeze pipes near exterior walls."
+ ],
+ "utility": "City of Fort Wayne Utilities",
+ "water": "Fort Wayne treats water from the St. Joseph River. It is hard, so scale builds up in water heaters and on fixtures.",
+ "problems": [
+  [
+   "Basement sewer backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "West Central and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Flush your water heater yearly.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "PipeMend works in West Central, the '07 District, Forest Park, Wildwood Park, Aboite, Northeast Fort Wayne and every other neighborhood.",
+ "permits": "Plumbing permits come from the city-county building department for Fort Wayne and Allen County, and plumbers must be licensed by the Indiana Plumbing Commission.",
+ "faq": {
+  "q": "Why do Fort Wayne basements back up in storms?",
+  "a": "Older parts of the city have combined sewers that carry rain and wastewater together. Heavy storms fill them and push water up through floor drains. A backwater valve helps protect the basement."
+ }
+}

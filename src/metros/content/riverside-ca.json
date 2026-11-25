@@ -1,0 +1,45 @@
+{
+ "lead": "Riverside plumbing deals with hard water, hot summers, slab homes and some of Southern California's oldest neighborhoods. PipeMend sends licensed local plumbers across Riverside.",
+ "risk": "hard water scale, slab leaks and aging pipes in older homes",
+ "risk_short": "hard water, slab leaks and old pipes",
+ "why": [
+  "The Wood Streets, Downtown and Magnolia Center have homes from the 1900s to the 1940s with galvanized supply lines, cast-iron drains and clay sewer laterals. Postwar tract homes sit on slabs.",
+  "Summer heat is hard on garage water heaters. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "Riverside Public Utilities",
+ "water": "Riverside Public Utilities pumps nearly all of its water from local groundwater basins. The water is hard, so scale builds up in water heaters and on fixtures. The city utility also supplies electricity.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Postwar slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "The Wood Streets and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "Scope old sewer lines before buying."
+ ],
+ "areas": "PipeMend works in Downtown, the Wood Streets, Canyon Crest, Mission Grove, Orangecrest, La Sierra, Arlington and every other Riverside neighborhood.",
+ "permits": "Plumbing permits come from the City of Riverside Building and Safety Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Where does Riverside get its water?",
+  "a": "Riverside Public Utilities pumps it from local groundwater basins, so the city relies less on imported water than most of Southern California. The water is hard."
+ }
+}

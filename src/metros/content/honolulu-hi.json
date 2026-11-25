@@ -1,0 +1,45 @@
+{
+ "lead": "Honolulu plumbing deals with salt air, older single-wall homes, high-rise condos and island supply limits. PipeMend sends licensed local plumbers across Honolulu.",
+ "risk": "corroded pipes from salt air, condo riser leaks and aging galvanized lines",
+ "risk_short": "corrosion, condo leaks and old pipes",
+ "why": [
+  "Kaimuki, Manoa and Nuuanu have homes from the 1920s to the 1960s, often on post-and-pier foundations with exposed galvanized lines. Salt air speeds up corrosion of pipes, fittings and water heaters.",
+  "Waikiki, Kakaako and other areas have many high-rise condos, where shared risers and stacks need building-wide repairs. Parts and fixtures can take longer to arrive on the island."
+ ],
+ "utility": "Board of Water Supply",
+ "water": "Honolulu's Board of Water Supply pumps groundwater from aquifers under the island. The water is moderately soft and needs little treatment. After the 2021 Red Hill fuel leak, the board shut some wells and asks residents to save water.",
+ "problems": [
+  [
+   "Corroded pipes and fittings",
+   "Homes near the ocean",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Condo riser and stack leaks",
+   "High-rise buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Kaimuki, Manoa and older areas",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Check exposed pipes and fittings for corrosion each year.",
+  "Know your condo's rules before plumbing work.",
+  "Fix leaks fast; island water is limited.",
+  "Flush your water heater yearly."
+ ],
+ "areas": "PipeMend works in Waikiki, Kaimuki, Manoa, Kakaako, Makiki, Kalihi, Hawaii Kai, Nuuanu and every other Honolulu neighborhood.",
+ "permits": "Plumbing permits come from the Honolulu Department of Planning and Permitting, and plumbers must be licensed by the Hawaii Board of Electricity and Plumbing.",
+ "faq": {
+  "q": "Why do Honolulu pipes corrode faster?",
+  "a": "Salt air reaches far inland on Oahu and attacks metal pipes, fittings and water heater parts. Exposed lines under raised homes take the worst of it. PEX and plastic parts hold up better."
+ }
+}

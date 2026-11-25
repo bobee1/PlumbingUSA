@@ -1,0 +1,45 @@
+{
+ "lead": "Oklahoma City plumbing deals with clay soil, ice storms, severe weather and older homes near Midtown. PipeMend sends licensed local plumbers across Oklahoma City.",
+ "risk": "cracked sewer lines in clay soil, frozen pipes in ice storms and slab leaks",
+ "risk_short": "sewer lines, frozen pipes and slab leaks",
+ "why": [
+  "Mesta Park, Heritage Hills and Crown Heights have homes from the 1910s to the 1940s with galvanized supply lines and clay or cast-iron sewer laterals. Clay soil shrinks and swells and cracks them.",
+  "Ice storms freeze pipes in crawl spaces and exterior walls, often during power outages. Newer suburban homes sit on slabs, where leaks under the floor happen."
+ ],
+ "utility": "Oklahoma City Utilities",
+ "water": "OKC draws from Lake Hefner, Lake Overholser, Lake Stanley Draper and lakes in southeast Oklahoma by pipeline. The water is moderately hard.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "Mesta Park, Heritage Hills and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Drip faucets in an ice storm.",
+  "Scope the sewer line before buying an older home.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Midtown, Mesta Park, Heritage Hills, the Plaza District, Crown Heights, the Paseo, Edgemere Park and every other neighborhood.",
+ "permits": "Plumbing permits come from the Oklahoma City Development Services Department, and plumbers must be licensed by the Oklahoma Construction Industries Board.",
+ "faq": {
+  "q": "Why do Oklahoma City sewer lines crack?",
+  "a": "Much of the city sits on clay that swells when wet and shrinks when dry. Older clay and cast-iron sewer pipes crack as the ground moves. A camera inspection shows where."
+ }
+}
