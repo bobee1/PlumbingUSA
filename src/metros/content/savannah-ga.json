@@ -1,0 +1,45 @@
+{
+ "lead": "Savannah plumbing deals with heat, humidity, tidal flooding, hurricanes and some of the oldest homes in Georgia. PipeMend sends licensed local plumbers across Savannah.",
+ "risk": "old cast-iron and galvanized pipes, flood backups and storm damage",
+ "risk_short": "old pipes, flooding and storms",
+ "why": [
+  "The Historic District and the Victorian District have homes from the 1800s with galvanized supply lines, cast-iron drains and old sewer laterals. Many sit on raised foundations with exposed pipes.",
+  "Heavy rain, king tides and hurricanes flood low streets and back up drains. Rare hard freezes burst pipes under raised homes."
+ ],
+ "utility": "City of Savannah Water Resources",
+ "water": "Savannah pumps water from the Upper Floridan Aquifer and treats surface water from Abercorn Creek. It is moderately hard.",
+ "problems": [
+  [
+   "Old galvanized and cast-iron lines",
+   "Historic homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Flood backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Exposed pipes under raised homes",
+   "Older homes",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Tree-lined squares",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Check historic district rules before exterior work.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Wrap exposed pipes before a freeze.",
+  "Scope the sewer line before buying an older home."
+ ],
+ "areas": "PipeMend works in the Historic District, the Victorian District, Ardsley Park, Midtown, the Southside, Isle of Hope and every other Savannah neighborhood.",
+ "permits": "Plumbing permits come from the City of Savannah Development Services, and plumbers must be licensed by the Georgia State Division of Master and Journeyman Plumbers.",
+ "faq": {
+  "q": "Are there special plumbing rules in Savannah's Historic District?",
+  "a": "Work that changes a building's outside, such as new vents or exterior lines, may need historic review. Interior plumbing usually needs only a regular permit."
+ }
+}

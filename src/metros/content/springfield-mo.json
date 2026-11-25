@@ -1,0 +1,45 @@
+{
+ "lead": "Springfield plumbing deals with karst ground, clay soil, ice storms and older homes. PipeMend sends licensed local plumbers across Springfield.",
+ "risk": "cracked sewer lines in shifting ground, frozen pipes in ice storms and aging pipes",
+ "risk_short": "sewer lines, frozen pipes and old pipes",
+ "why": [
+  "Rountree, Phelps Grove and Midtown have homes from the 1900s to the 1940s with galvanized supply lines and clay sewer laterals. Springfield sits on karst limestone with sinkholes, which can shift buried lines.",
+  "Ice storms freeze pipes in crawl spaces and exterior walls, often during power outages. Many homes have basements or crawl spaces."
+ ],
+ "utility": "City Utilities of Springfield",
+ "water": "City Utilities treats water from Fellows Lake, McDaniel Lake, Stockton Lake and Fulbright Spring. It is moderately hard. City Utilities also supplies natural gas and electricity.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Rountree and Phelps Grove",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Gas line work",
+   "Homes with gas service",
+   "<a href=\"/services/gas-line-repair/\">Gas line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Drip faucets in an ice storm.",
+  "Scope the sewer line before buying an older home.",
+  "Know where your gas and water shutoffs are."
+ ],
+ "areas": "PipeMend works in Rountree, Phelps Grove, Midtown, Commercial Street, Galloway, Southeast Springfield and every other neighborhood.",
+ "permits": "Plumbing permits and local plumber licenses come from the City of Springfield Building Development Services. Missouri has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Springfield, Missouri?",
+  "a": "Missouri has no statewide plumber license, so Springfield licenses plumbers through its Building Development Services. Ask for the city license number before work starts."
+ }
+}

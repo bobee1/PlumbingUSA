@@ -1,0 +1,45 @@
+{
+ "lead": "Corona plumbing deals with hard water, hot summers and mostly newer slab homes. PipeMend sends licensed local plumbers across Corona.",
+ "risk": "hard water scale, slab leaks and water heater wear",
+ "risk_short": "hard water, slab leaks and water heaters",
+ "why": [
+  "Downtown Corona has homes from the 1910s to the 1950s with galvanized supply lines and clay sewer laterals. South Corona, Sierra del Oro and Eagle Glen were built mostly after 1980 on slabs.",
+  "Inland Empire summers bake garage water heaters, so they wear out sooner. State law also requires heaters to be strapped against earthquakes."
+ ],
+ "utility": "City of Corona Utilities",
+ "water": "Corona blends local groundwater, treated at its desalter, with imported water. It is hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Downtown",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "Clean faucet aerators often."
+ ],
+ "areas": "PipeMend works in Downtown Corona, South Corona, Sierra del Oro, Eagle Glen, Dos Lagos, Corona Ranch and every other Corona neighborhood.",
+ "permits": "Plumbing permits come from the City of Corona Building Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Is Corona water hard?",
+  "a": "Yes. Local groundwater and imported Colorado River water both carry minerals. Scale builds up in water heaters and on fixtures, so many homes use softeners."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "San Bernardino plumbing deals with heat, hard water, older homes and active fault lines. PipeMend sends licensed local plumbers across San Bernardino.",
+ "risk": "aging galvanized and cast-iron pipes, slab leaks and water heater strapping",
+ "risk_short": "old pipes, slab leaks and water heaters",
+ "why": [
+  "Downtown and the North End have homes from the 1910s to the 1950s with galvanized supply lines, cast-iron drains and clay sewer laterals. Postwar homes across the city sit on slabs.",
+  "The San Andreas and San Jacinto faults run close to the city, so water heaters must be strapped. Summer heat and Santa Ana winds are hard on garage water heaters."
+ ],
+ "utility": "San Bernardino Municipal Water Department",
+ "water": "San Bernardino pumps nearly all of its water from the Bunker Hill groundwater basin. It is moderately hard.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "Downtown and the North End",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Slab leaks",
+   "Postwar slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Keep a wrench by your gas shutoff.",
+  "Watch your water bill for slab leak signs.",
+  "Scope old sewer lines before buying."
+ ],
+ "areas": "PipeMend works Downtown and in the Arrowhead area, Del Rosa, Verdemont, the North End, Hillcrest and every other San Bernardino neighborhood.",
+ "permits": "Plumbing permits come from the City of San Bernardino Building and Safety Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Why does earthquake safety matter for San Bernardino plumbing?",
+  "a": "The San Andreas Fault runs along the city's northern edge. Strapped water heaters and flexible gas connectors keep lines from breaking in a quake. Know where your gas and water shutoffs are."
+ }
+}

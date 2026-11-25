@@ -1,0 +1,45 @@
+{
+ "lead": "Rochester plumbing deals with lake-effect snow, deep cold, old homes and lead service lines. PipeMend sends licensed local plumbers across Rochester.",
+ "risk": "frozen pipes, lead service lines and aging pipes in older homes",
+ "risk_short": "frozen pipes, lead lines and old pipes",
+ "why": [
+  "The South Wedge, Corn Hill, Park Avenue and the 19th Ward have homes from the 1850s to the 1930s with galvanized supply lines, cast-iron stacks and lead service lines in many cases.",
+  "Long, snowy winters freeze pipes near exterior walls and in vacant homes. Almost every home has a basement with the water heater and floor drains."
+ ],
+ "utility": "City of Rochester Water Bureau",
+ "water": "Rochester's water comes mainly from Hemlock and Canadice lakes in the Finger Lakes. It is soft. The city has a program to replace lead service lines.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and vacant homes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Ask the Water Bureau about your service line material.",
+  "Insulate pipes near exterior walls.",
+  "Disconnect hoses in October."
+ ],
+ "areas": "PipeMend works in the South Wedge, Park Avenue, Corn Hill, the Neighborhood of the Arts, Highland Park, Maplewood and every other Rochester neighborhood.",
+ "permits": "Plumbing permits come from the City of Rochester Bureau of Buildings and Zoning, which also oversees plumber licensing in the city. New York has no statewide plumber license.",
+ "faq": {
+  "q": "Where does Rochester's water come from?",
+  "a": "Mostly from Hemlock and Canadice lakes, two of the Finger Lakes, plus some Lake Ontario water bought from the county. The lake water is soft."
+ }
+}

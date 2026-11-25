@@ -1,0 +1,45 @@
+{
+ "lead": "West Palm Beach plumbing deals with hurricanes, a high water table and 1920s homes with aging cast-iron drains. PipeMend sends licensed local plumbers across West Palm Beach.",
+ "risk": "cast-iron drain failures, storm flooding and slab leaks",
+ "risk_short": "old drains, flooding and slab leaks",
+ "why": [
+  "El Cid, Flamingo Park, Northwood and Grandview Heights have homes from the 1920s to the 1950s with galvanized supply lines and cast-iron drains. Many mid-century homes have cast-iron drains under the slab.",
+  "Hurricanes and heavy rain flood low streets and back up drains. Downtown condos share risers and stacks."
+ ],
+ "utility": "City of West Palm Beach Public Utilities",
+ "water": "West Palm Beach draws its water from Clear Lake, fed by the Grassy Waters Preserve wetland. Algae in the source water is monitored, and the city posts water quality notices.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "Older homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Storm flooding and backups",
+   "Low streets",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Condo riser leaks",
+   "Downtown buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Check historic district rules before exterior work.",
+  "Sign up for city water notices."
+ ],
+ "areas": "PipeMend works in El Cid, Flamingo Park, Northwood, Grandview Heights, SoSo, Downtown and every other West Palm Beach neighborhood.",
+ "permits": "Plumbing permits come from the City of West Palm Beach Building Division, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Where does West Palm Beach get its water?",
+  "a": "From Clear Lake, which is fed by the Grassy Waters Preserve, a protected wetland west of the city. Unlike most South Florida cities, it relies mainly on surface water."
+ }
+}

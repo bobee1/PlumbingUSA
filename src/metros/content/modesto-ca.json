@@ -1,0 +1,45 @@
+{
+ "lead": "Modesto plumbing deals with extreme summer heat, big shade trees and older homes. PipeMend sends licensed local plumbers across Modesto.",
+ "risk": "tree roots in sewer lines, slab leaks and water heaters worn by heat",
+ "risk_short": "sewer roots, slab leaks and water heaters",
+ "why": [
+  "The College Area, La Loma and Downtown have homes from the 1920s to the 1950s with galvanized supply lines and clay sewer laterals. Large shade trees send roots into those lines.",
+  "Valley heat often passes 100 degrees, which wears out garage water heaters. Postwar homes sit on slabs, where leaks under the floor happen."
+ ],
+ "utility": "City of Modesto Utilities",
+ "water": "Modesto blends groundwater with treated Tuolumne River water. It is moderately hard.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "College Area and La Loma",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Postwar slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Strap your water heater for earthquakes.",
+  "Flush your water heater yearly.",
+  "Plant trees away from the sewer line."
+ ],
+ "areas": "PipeMend works in the College Area, Downtown, La Loma, Village One, Del Este, Sylvan, the Airport District and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Modesto Building Safety Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Why do Modesto sewer lines clog with roots?",
+  "a": "Older homes have clay sewer pipe with joints every few feet. Modesto's large shade trees send roots into those joints. Jetting clears them, and lining or replacement keeps them out."
+ }
+}

@@ -8,6 +8,7 @@ It writes one pair of files per city batch, in the same format as research/10 an
   Build 7:  research/15-city-acs-7.json,  research/16-city-heating-fuel-7.json
   Build 8:  research/18-city-acs-8.json,  research/19-city-heating-fuel-8.json
   Build 9:  research/20-city-acs-9.json,  research/21-city-heating-fuel-9.json
+  Build 10: research/22-city-acs-10.json, research/23-city-heating-fuel-10.json
 Commit and push them (or send them back) and the city pages can be built.
 Run one batch only with:  python3 scripts/census_pull.py 7
 Standard library only.
@@ -128,11 +129,40 @@ CITIES_9 = [
     ("Cheyenne", "56", "Cheyenne city, Wyoming"),
 ]
 
+CITIES_10 = [
+    ("San Bernardino", "06", "San Bernardino city, California"),
+    ("Roseville", "06", "Roseville city, California"),
+    ("Oxnard", "06", "Oxnard city, California"),
+    ("Hayward", "06", "Hayward city, California"),
+    ("Moreno Valley", "06", "Moreno Valley city, California"),
+    ("Modesto", "06", "Modesto city, California"),
+    ("Corona", "06", "Corona city, California"),
+    ("Rochester", "36", "Rochester city, New York"),
+    ("Yonkers", "36", "Yonkers city, New York"),
+    ("Peoria", "04", "Peoria city, Arizona"),
+    ("Grand Prairie", "48", "Grand Prairie city, Texas"),
+    ("Ann Arbor", "26", "Ann Arbor city, Michigan"),
+    ("Grand Rapids", "26", "Grand Rapids city, Michigan"),
+    ("Naperville", "17", "Naperville city, Illinois"),
+    ("Joliet", "17", "Joliet city, Illinois"),
+    ("Mobile", "01", "Mobile city, Alabama"),
+    ("Gainesville", "12", "Gainesville city, Florida"),
+    ("West Palm Beach", "12", "West Palm Beach city, Florida"),
+    ("Lakeland", "12", "Lakeland city, Florida"),
+    ("Cape Coral", "12", "Cape Coral city, Florida"),
+    ("Springfield", "29", "Springfield city, Missouri"),
+    ("Akron", "39", "Akron city, Ohio"),
+    ("Dayton", "39", "Dayton city, Ohio"),
+    ("Olathe", "20", "Olathe city, Kansas"),
+    ("Savannah", "13", "Savannah city, Georgia"),
+]
+
 BATCHES = {
     "6c": (CITIES, "13-city-acs-6c.json", "14-city-heating-fuel-6c.json"),
     "7": (CITIES_7, "15-city-acs-7.json", "16-city-heating-fuel-7.json"),
     "8": (CITIES_8, "18-city-acs-8.json", "19-city-heating-fuel-8.json"),
     "9": (CITIES_9, "20-city-acs-9.json", "21-city-heating-fuel-9.json"),
+    "10": (CITIES_10, "22-city-acs-10.json", "23-city-heating-fuel-10.json"),
 }
 
 YB = [f"B25034_{i:03d}E" for i in range(1, 12)]   # year built: total, 2020+, ... 1939 or earlier

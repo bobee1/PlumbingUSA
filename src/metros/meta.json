@@ -4820,6 +4820,46 @@
   ],
   "batch": "8"
  },
+ "san-bernardino-ca": {
+  "city": "San Bernardino",
+  "st": "CA",
+  "acs": "San Bernardino|06",
+  "fuel": "San Bernardino|06",
+  "url": "san-bernardino",
+  "county": "San Bernardino County",
+  "zips": [
+   "92401",
+   "92404",
+   "92405",
+   "92407",
+   "92408",
+   "92410",
+   "92411"
+  ],
+  "hoods": [
+   "Downtown",
+   "the Arrowhead area",
+   "Del Rosa",
+   "Verdemont",
+   "North End",
+   "Hillcrest",
+   "Muscoy area",
+   "Highland area"
+  ],
+  "wiki": "San_Bernardino,_California",
+  "nearby": [
+   "rancho-cucamonga-ca",
+   "riverside-ca",
+   "moreno-valley-ca"
+  ],
+  "wave": 3,
+  "rank": 126,
+  "semrush": [
+   "590",
+   "24"
+  ],
+  "batch": "10"
+ },
  "denton-tx": {
   "city": "Denton",
   "st": "TX",
@@ -5181,6 +5221,47 @@
   ],
   "batch": "9"
  },
+ "rochester-ny": {
+  "city": "Rochester",
+  "st": "NY",
+  "acs": "Rochester|36",
+  "fuel": "Rochester|36",
+  "url": "rochester",
+  "county": "Monroe County",
+  "zips": [
+   "14607",
+   "14608",
+   "14609",
+   "14610",
+   "14611",
+   "14613",
+   "14618",
+   "14620"
+  ],
+  "hoods": [
+   "the South Wedge",
+   "Park Avenue",
+   "Corn Hill",
+   "the Neighborhood of the Arts",
+   "Highland Park",
+   "Maplewood",
+   "the 19th Ward",
+   "North Winton Village"
+  ],
+  "wiki": "Rochester,_New_York",
+  "nearby": [
+   "buffalo-ny",
+   "new-york-ny",
+   "cleveland-oh"
+  ],
+  "wave": 3,
+  "rank": 136,
+  "semrush": [
+   "720",
+   "51"
+  ],
+  "batch": "10"
+ },
  "cary-nc": {
   "city": "Cary",
   "st": "NC",
@@ -5258,6 +5339,43 @@
    "29"
   ],
   "batch": "9"
+ },
+ "peoria-az": {
+  "city": "Peoria",
+  "st": "AZ",
+  "acs": "Peoria|04",
+  "fuel": "Peoria|04",
+  "url": "peoria",
+  "county": "Maricopa County",
+  "zips": [
+   "85345",
+   "85381",
+   "85382",
+   "85383"
+  ],
+  "hoods": [
+   "Old Town Peoria",
+   "Vistancia",
+   "Westwing Mountain",
+   "Fletcher Heights",
+   "Sunrise Mountain",
+   "Ventana Lakes",
+   "Terramar",
+   "Arrowhead area"
+  ],
+  "wiki": "Peoria,_Arizona",
+  "nearby": [
+   "glendale-az",
+   "surprise-az",
+   "phoenix-az"
+  ],
+  "wave": 3,
+  "rank": 138,
+  "semrush": [
+   "390",
+   "12"
+  ],
+  "batch": "10"
  },
  "boulder-co": {
   "city": "Boulder",
@@ -5338,6 +5456,44 @@
   ],
   "batch": "9"
  },
+ "grand-prairie-tx": {
+  "city": "Grand Prairie",
+  "st": "TX",
+  "acs": "Grand Prairie|48",
+  "fuel": "Grand Prairie|48",
+  "url": "grand-prairie",
+  "county": "Dallas, Tarrant and Ellis counties",
+  "zips": [
+   "75050",
+   "75051",
+   "75052",
+   "75054"
+  ],
+  "hoods": [
+   "Downtown Grand Prairie",
+   "Westchester",
+   "Lake Ridge",
+   "Mira Lagos",
+   "Dalworth",
+   "Carrier Parkway area",
+   "Peninsula",
+   "the EpicCentral area"
+  ],
+  "wiki": "Grand_Prairie,_Texas",
+  "nearby": [
+   "arlington-tx",
+   "irving-tx",
+   "dallas-tx",
+   "fort-worth-tx"
+  ],
+  "wave": 3,
+  "rank": 141,
+  "semrush": [
+   "390",
+   "13"
+  ],
+  "batch": "10"
+ },
  "little-rock-ar": {
   "city": "Little Rock",
   "st": "AR",
@@ -5379,6 +5535,155 @@
   ],
   "batch": "9"
  },
+ "ann-arbor-mi": {
+  "city": "Ann Arbor",
+  "st": "MI",
+  "acs": "Ann Arbor|26",
+  "fuel": "Ann Arbor|26",
+  "url": "ann-arbor",
+  "county": "Washtenaw County",
+  "zips": [
+   "48103",
+   "48104",
+   "48105",
+   "48108"
+  ],
+  "hoods": [
+   "the Old West Side",
+   "Burns Park",
+   "Kerrytown",
+   "Water Hill",
+   "Lower Burns Park",
+   "Ann Arbor Hills",
+   "the North Side",
+   "Lansdowne"
+  ],
+  "wiki": "Ann_Arbor,_Michigan",
+  "nearby": [
+   "detroit-mi",
+   "toledo-oh",
+   "grand-rapids-mi"
+  ],
+  "wave": 3,
+  "rank": 143,
+  "semrush": [
+   "480",
+   "30"
+  ],
+  "batch": "10"
+ },
+ "naperville-il": {
+  "city": "Naperville",
+  "st": "IL",
+  "acs": "Naperville|17",
+  "fuel": "Naperville|17",
+  "url": "naperville",
+  "county": "DuPage and Will counties",
+  "zips": [
+   "60540",
+   "60563",
+   "60564",
+   "60565"
+  ],
+  "hoods": [
+   "Downtown Naperville",
+   "the Historic District",
+   "Cress Creek",
+   "Ashbury",
+   "Tall Grass",
+   "White Eagle",
+   "Brookdale",
+   "Country Lakes"
+  ],
+  "wiki": "Naperville,_Illinois",
+  "nearby": [
+   "chicago-il",
+   "joliet-il"
+  ],
+  "wave": 3,
+  "rank": 145,
+  "semrush": [
+   "390",
+   "22"
+  ],
+  "batch": "10"
+ },
+ "roseville-ca": {
+  "city": "Roseville",
+  "st": "CA",
+  "acs": "Roseville|06",
+  "fuel": "Roseville|06",
+  "url": "roseville",
+  "county": "Placer County",
+  "zips": [
+   "95661",
+   "95678",
+   "95747"
+  ],
+  "hoods": [
+   "Old Town Roseville",
+   "Cirby Creek",
+   "Sun City Roseville",
+   "Fiddyment Farm",
+   "West Roseville",
+   "Johnson Ranch",
+   "Highland Reserve",
+   "Woodcreek Oaks"
+  ],
+  "wiki": "Roseville,_California",
+  "nearby": [
+   "sacramento-ca",
+   "elk-grove-ca",
+   "stockton-ca"
+  ],
+  "wave": 3,
+  "rank": 146,
+  "semrush": [
+   "390",
+   "24"
+  ],
+  "batch": "10"
+ },
+ "grand-rapids-mi": {
+  "city": "Grand Rapids",
+  "st": "MI",
+  "acs": "Grand Rapids|26",
+  "fuel": "Grand Rapids|26",
+  "url": "grand-rapids",
+  "county": "Kent County",
+  "zips": [
+   "49503",
+   "49504",
+   "49505",
+   "49506",
+   "49507",
+   "49508",
+   "49525"
+  ],
+  "hoods": [
+   "Heritage Hill",
+   "Eastown",
+   "East Hills",
+   "Creston",
+   "the West Side",
+   "Garfield Park",
+   "Alger Heights",
+   "Midtown"
+  ],
+  "wiki": "Grand_Rapids,_Michigan",
+  "nearby": [
+   "ann-arbor-mi",
+   "detroit-mi",
+   "chicago-il"
+  ],
+  "wave": 3,
+  "rank": 147,
+  "semrush": [
+   "590",
+   "50"
+  ],
+  "batch": "10"
+ },
  "new-haven-ct": {
   "city": "New Haven",
   "st": "CT",
@@ -5417,6 +5722,84 @@
   ],
   "batch": "9"
  },
+ "oxnard-ca": {
+  "city": "Oxnard",
+  "st": "CA",
+  "acs": "Oxnard|06",
+  "fuel": "Oxnard|06",
+  "url": "oxnard",
+  "county": "Ventura County",
+  "zips": [
+   "93030",
+   "93033",
+   "93035",
+   "93036"
+  ],
+  "hoods": [
+   "Downtown",
+   "Oxnard Shores",
+   "Mandalay Bay",
+   "Silver Strand",
+   "Channel Islands Harbor",
+   "La Colonia",
+   "Southwinds",
+   "RiverPark"
+  ],
+  "wiki": "Oxnard,_California",
+  "nearby": [
+   "santa-clarita-ca",
+   "los-angeles-ca",
+   "torrance-ca"
+  ],
+  "wave": 3,
+  "rank": 148,
+  "semrush": [
+   "320",
+   "8"
+  ],
+  "batch": "10"
+ },
+ "mobile-al": {
+  "city": "Mobile",
+  "st": "AL",
+  "acs": "Mobile|01",
+  "fuel": "Mobile|01",
+  "url": "mobile",
+  "county": "Mobile County",
+  "zips": [
+   "36602",
+   "36604",
+   "36605",
+   "36606",
+   "36607",
+   "36608",
+   "36609",
+   "36695"
+  ],
+  "hoods": [
+   "Oakleigh Garden District",
+   "De Tonti Square",
+   "Midtown",
+   "Spring Hill",
+   "the Church Street East District",
+   "West Mobile",
+   "Dauphin Island Parkway area",
+   "Crichton"
+  ],
+  "wiki": "Mobile,_Alabama",
+  "nearby": [
+   "new-orleans-la",
+   "birmingham-al",
+   "jackson-ms"
+  ],
+  "wave": 3,
+  "rank": 149,
+  "semrush": [
+   "480",
+   "39"
+  ],
+  "batch": "10"
+ },
  "manchester-nh": {
   "city": "Manchester",
   "st": "NH",
@@ -5454,6 +5837,43 @@
    "18"
   ],
   "batch": "9"
+ },
+ "hayward-ca": {
+  "city": "Hayward",
+  "st": "CA",
+  "acs": "Hayward|06",
+  "fuel": "Hayward|06",
+  "url": "hayward",
+  "county": "Alameda County",
+  "zips": [
+   "94541",
+   "94542",
+   "94544",
+   "94545"
+  ],
+  "hoods": [
+   "Downtown Hayward",
+   "Hayward Highlands",
+   "Fairview",
+   "Mt. Eden",
+   "Tennyson-Alquire",
+   "Harder-Tennyson",
+   "Southgate",
+   "Glen Eden"
+  ],
+  "wiki": "Hayward,_California",
+  "nearby": [
+   "oakland-ca",
+   "fremont-ca",
+   "san-jose-ca"
+  ],
+  "wave": 3,
+  "rank": 150,
+  "semrush": [
+   "390",
+   "25"
+  ],
+  "batch": "10"
  },
  "sioux-falls-sd": {
   "city": "Sioux Falls",
@@ -5494,6 +5914,43 @@
   ],
   "batch": "9"
  },
+ "moreno-valley-ca": {
+  "city": "Moreno Valley",
+  "st": "CA",
+  "acs": "Moreno Valley|06",
+  "fuel": "Moreno Valley|06",
+  "url": "moreno-valley",
+  "county": "Riverside County",
+  "zips": [
+   "92551",
+   "92553",
+   "92555",
+   "92557"
+  ],
+  "hoods": [
+   "Sunnymead",
+   "Moreno Valley Ranch",
+   "Edgemont",
+   "Hidden Springs",
+   "Rancho Belago",
+   "Towngate",
+   "Box Springs area",
+   "Mission Grove area"
+  ],
+  "wiki": "Moreno_Valley,_California",
+  "nearby": [
+   "riverside-ca",
+   "san-bernardino-ca",
+   "temecula-ca"
+  ],
+  "wave": 3,
+  "rank": 151,
+  "semrush": [
+   "320",
+   "11"
+  ],
+  "batch": "10"
+ },
  "wilmington-de": {
   "city": "Wilmington",
   "st": "DE",
@@ -5530,6 +5987,46 @@
    "15"
   ],
   "batch": "9"
+ },
+ "gainesville-fl": {
+  "city": "Gainesville",
+  "st": "FL",
+  "acs": "Gainesville|12",
+  "fuel": "Gainesville|12",
+  "url": "gainesville",
+  "county": "Alachua County",
+  "zips": [
+   "32601",
+   "32603",
+   "32605",
+   "32606",
+   "32607",
+   "32608",
+   "32609"
+  ],
+  "hoods": [
+   "the Duckpond",
+   "the University of Florida area",
+   "Northwest Gainesville",
+   "Haile Plantation area",
+   "Pleasant Street",
+   "Golfview",
+   "Hidden Lake",
+   "Duval"
+  ],
+  "wiki": "Gainesville,_Florida",
+  "nearby": [
+   "jacksonville-fl",
+   "orlando-fl",
+   "tampa-fl"
+  ],
+  "wave": 3,
+  "rank": 152,
+  "semrush": [
+   "480",
+   "46"
+  ],
+  "batch": "10"
  },
  "providence-ri": {
   "city": "Providence",
@@ -5571,6 +6068,86 @@
   ],
   "batch": "9"
  },
+ "modesto-ca": {
+  "city": "Modesto",
+  "st": "CA",
+  "acs": "Modesto|06",
+  "fuel": "Modesto|06",
+  "url": "modesto",
+  "county": "Stanislaus County",
+  "zips": [
+   "95350",
+   "95351",
+   "95354",
+   "95355",
+   "95356",
+   "95357",
+   "95358"
+  ],
+  "hoods": [
+   "the College Area",
+   "Downtown",
+   "La Loma",
+   "Village One",
+   "Del Este",
+   "Sylvan",
+   "the Airport District",
+   "Wood Colony area"
+  ],
+  "wiki": "Modesto,_California",
+  "nearby": [
+   "stockton-ca",
+   "fresno-ca",
+   "sacramento-ca"
+  ],
+  "wave": 3,
+  "rank": 153,
+  "semrush": [
+   "480",
+   "46"
+  ],
+  "batch": "10"
+ },
+ "springfield-mo": {
+  "city": "Springfield",
+  "st": "MO",
+  "acs": "Springfield|29",
+  "fuel": "Springfield|29",
+  "url": "springfield",
+  "county": "Greene County",
+  "zips": [
+   "65802",
+   "65803",
+   "65804",
+   "65806",
+   "65807",
+   "65809",
+   "65810"
+  ],
+  "hoods": [
+   "Rountree",
+   "Phelps Grove",
+   "Midtown",
+   "Commercial Street",
+   "Galloway",
+   "Southeast Springfield",
+   "Brentwood",
+   "Bentonville area"
+  ],
+  "wiki": "Springfield,_Missouri",
+  "nearby": [
+   "kansas-city-mo",
+   "tulsa-ok",
+   "st-louis-mo"
+  ],
+  "wave": 3,
+  "rank": 154,
+  "semrush": [
+   "320",
+   "24"
+  ],
+  "batch": "10"
+ },
  "jackson-ms": {
   "city": "Jackson",
   "st": "MS",
@@ -5609,6 +6186,47 @@
    "15"
   ],
   "batch": "9"
+ },
+ "akron-oh": {
+  "city": "Akron",
+  "st": "OH",
+  "acs": "Akron|39",
+  "fuel": "Akron|39",
+  "url": "akron",
+  "county": "Summit County",
+  "zips": [
+   "44301",
+   "44302",
+   "44303",
+   "44305",
+   "44310",
+   "44312",
+   "44313",
+   "44320"
+  ],
+  "hoods": [
+   "Highland Square",
+   "Firestone Park",
+   "Goodyear Heights",
+   "Kenmore",
+   "North Hill",
+   "West Akron",
+   "Ellet",
+   "Fairlawn Heights"
+  ],
+  "wiki": "Akron,_Ohio",
+  "nearby": [
+   "cleveland-oh",
+   "columbus-oh",
+   "pittsburgh-pa"
+  ],
+  "wave": 3,
+  "rank": 155,
+  "semrush": [
+   "390",
+   "38"
+  ],
+  "batch": "10"
  },
  "charleston-wv": {
   "city": "Charleston",
@@ -5649,6 +6267,44 @@
   ],
   "batch": "9"
  },
+ "yonkers-ny": {
+  "city": "Yonkers",
+  "st": "NY",
+  "acs": "Yonkers|36",
+  "fuel": "Yonkers|36",
+  "url": "yonkers",
+  "county": "Westchester County",
+  "zips": [
+   "10701",
+   "10703",
+   "10704",
+   "10705",
+   "10710"
+  ],
+  "hoods": [
+   "Getty Square",
+   "Park Hill",
+   "Crestwood",
+   "Lincoln Park",
+   "Ludlow",
+   "Northwest Yonkers",
+   "Runyon Heights",
+   "Bryn Mawr"
+  ],
+  "wiki": "Yonkers,_New_York",
+  "nearby": [
+   "new-york-ny",
+   "jersey-city-nj",
+   "newark-nj"
+  ],
+  "wave": 3,
+  "rank": 156,
+  "semrush": [
+   "320",
+   "26"
+  ],
+  "batch": "10"
+ },
  "fargo-nd": {
   "city": "Fargo",
   "st": "ND",
@@ -5684,6 +6340,41 @@
    "35"
   ],
   "batch": "9"
+ },
+ "olathe-ks": {
+  "city": "Olathe",
+  "st": "KS",
+  "acs": "Olathe|20",
+  "fuel": "Olathe|20",
+  "url": "olathe",
+  "county": "Johnson County",
+  "zips": [
+   "66061",
+   "66062"
+  ],
+  "hoods": [
+   "Original Town",
+   "Cedar Creek",
+   "Forest View",
+   "Prairie Center",
+   "Arbor Creek",
+   "Heritage",
+   "Woodland Manor",
+   "the College Way area"
+  ],
+  "wiki": "Olathe,_Kansas",
+  "nearby": [
+   "overland-park-ks",
+   "kansas-city-mo",
+   "wichita-ks"
+  ],
+  "wave": 3,
+  "rank": 157,
+  "semrush": [
+   "260",
+   "12"
+  ],
+  "batch": "10"
  },
  "portland-me": {
   "city": "Portland",
@@ -5757,6 +6448,46 @@
   ],
   "batch": "9"
  },
+ "west-palm-beach-fl": {
+  "city": "West Palm Beach",
+  "st": "FL",
+  "acs": "West Palm Beach|12",
+  "fuel": "West Palm Beach|12",
+  "url": "west-palm-beach",
+  "county": "Palm Beach County",
+  "zips": [
+   "33401",
+   "33405",
+   "33406",
+   "33407",
+   "33409",
+   "33411",
+   "33417"
+  ],
+  "hoods": [
+   "El Cid",
+   "Flamingo Park",
+   "Northwood",
+   "Grandview Heights",
+   "SoSo",
+   "Downtown",
+   "Old Northwood",
+   "the Villages of Palm Beach Lakes"
+  ],
+  "wiki": "West_Palm_Beach,_Florida",
+  "nearby": [
+   "fort-lauderdale-fl",
+   "port-st-lucie-fl",
+   "hollywood-fl"
+  ],
+  "wave": 3,
+  "rank": 159,
+  "semrush": [
+   "590",
+   "62"
+  ],
+  "batch": "10"
+ },
  "cheyenne-wy": {
   "city": "Cheyenne",
   "st": "WY",
@@ -5793,6 +6524,47 @@
   ],
   "batch": "9"
  },
+ "dayton-oh": {
+  "city": "Dayton",
+  "st": "OH",
+  "acs": "Dayton|39",
+  "fuel": "Dayton|39",
+  "url": "dayton",
+  "county": "Montgomery County",
+  "zips": [
+   "45402",
+   "45403",
+   "45404",
+   "45405",
+   "45406",
+   "45409",
+   "45410",
+   "45419"
+  ],
+  "hoods": [
+   "the Oregon District",
+   "South Park",
+   "St. Anne's Hill",
+   "Dayton View",
+   "Belmont",
+   "Patterson Park",
+   "Huffman",
+   "Five Oaks"
+  ],
+  "wiki": "Dayton,_Ohio",
+  "nearby": [
+   "cincinnati-oh",
+   "columbus-oh",
+   "indianapolis-in"
+  ],
+  "wave": 3,
+  "rank": 160,
+  "semrush": [
+   "320",
+   "33"
+  ],
+  "batch": "10"
+ },
  "burlington-vt": {
   "city": "Burlington",
   "st": "VT",
@@ -5827,5 +6599,198 @@
    "35"
   ],
   "batch": "9"
+ },
+ "savannah-ga": {
+  "city": "Savannah",
+  "st": "GA",
+  "acs": "Savannah|13",
+  "fuel": "Savannah|13",
+  "url": "savannah",
+  "county": "Chatham County",
+  "zips": [
+   "31401",
+   "31404",
+   "31405",
+   "31406",
+   "31410",
+   "31419"
+  ],
+  "hoods": [
+   "the Historic District",
+   "the Victorian District",
+   "Ardsley Park",
+   "Midtown",
+   "Thunderbolt area",
+   "the Southside",
+   "Isle of Hope",
+   "Wilmington Island area"
+  ],
+  "wiki": "Savannah,_Georgia",
+  "nearby": [
+   "charleston-sc",
+   "jacksonville-fl",
+   "atlanta-ga"
+  ],
+  "wave": 3,
+  "rank": 162,
+  "semrush": [
+   "320",
+   "35"
+  ],
+  "batch": "10"
+ },
+ "joliet-il": {
+  "city": "Joliet",
+  "st": "IL",
+  "acs": "Joliet|17",
+  "fuel": "Joliet|17",
+  "url": "joliet",
+  "county": "Will County",
+  "zips": [
+   "60431",
+   "60432",
+   "60433",
+   "60435",
+   "60436"
+  ],
+  "hoods": [
+   "the Cathedral Area",
+   "Upper Bluff",
+   "Downtown",
+   "West Joliet",
+   "the East Side",
+   "Cherry Hill",
+   "Ingalls Park",
+   "Southwest Joliet"
+  ],
+  "wiki": "Joliet,_Illinois",
+  "nearby": [
+   "naperville-il",
+   "chicago-il"
+  ],
+  "wave": 3,
+  "rank": 163,
+  "semrush": [
+   "260",
+   "21"
+  ],
+  "batch": "10"
+ },
+ "lakeland-fl": {
+  "city": "Lakeland",
+  "st": "FL",
+  "acs": "Lakeland|12",
+  "fuel": "Lakeland|12",
+  "url": "lakeland",
+  "county": "Polk County",
+  "zips": [
+   "33801",
+   "33803",
+   "33805",
+   "33809",
+   "33810",
+   "33811",
+   "33813"
+  ],
+  "hoods": [
+   "Dixieland",
+   "Lake Morton",
+   "Lake Hollingsworth",
+   "Beacon Hill",
+   "South Lakeland",
+   "North Lakeland",
+   "Highland City area",
+   "Lake Gibson"
+  ],
+  "wiki": "Lakeland,_Florida",
+  "nearby": [
+   "tampa-fl",
+   "orlando-fl",
+   "clearwater-fl"
+  ],
+  "wave": 3,
+  "rank": 164,
+  "semrush": [
+   "390",
+   "50"
+  ],
+  "batch": "10"
+ },
+ "cape-coral-fl": {
+  "city": "Cape Coral",
+  "st": "FL",
+  "acs": "Cape Coral|12",
+  "fuel": "Cape Coral|12",
+  "url": "cape-coral",
+  "county": "Lee County",
+  "zips": [
+   "33904",
+   "33909",
+   "33914",
+   "33990",
+   "33991",
+   "33993"
+  ],
+  "hoods": [
+   "the Yacht Club area",
+   "Cape Harbour",
+   "Pelican",
+   "Northwest Cape",
+   "Southeast Cape",
+   "Burnt Store area",
+   "Tarpon Point",
+   "Northeast Cape"
+  ],
+  "wiki": "Cape_Coral,_Florida",
+  "nearby": [
+   "port-st-lucie-fl",
+   "st-petersburg-fl",
+   "tampa-fl"
+  ],
+  "wave": 3,
+  "rank": 165,
+  "semrush": [
+   "390",
+   "52"
+  ],
+  "batch": "10"
+ },
+ "corona-ca": {
+  "city": "Corona",
+  "st": "CA",
+  "acs": "Corona|06",
+  "fuel": "Corona|06",
+  "url": "corona",
+  "county": "Riverside County",
+  "zips": [
+   "92879",
+   "92880",
+   "92881",
+   "92882",
+   "92883"
+  ],
+  "hoods": [
+   "Downtown Corona",
+   "South Corona",
+   "Sierra del Oro",
+   "Eagle Glen",
+   "Dos Lagos",
+   "Corona Ranch",
+   "Mountain Gate",
+   "Temescal Valley area"
+  ],
+  "wiki": "Corona,_California",
+  "nearby": [
+   "riverside-ca",
+   "anaheim-ca",
+   "rancho-cucamonga-ca"
+  ],
+  "wave": 3,
+  "rank": 167,
+  "semrush": [
+   "320",
+   "43"
+  ],
+  "batch": "10"
  }
 }

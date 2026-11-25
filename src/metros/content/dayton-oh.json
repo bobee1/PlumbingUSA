@@ -1,0 +1,45 @@
+{
+ "lead": "Dayton plumbing deals with hard aquifer water, cold winters, older homes and basements. PipeMend sends licensed local plumbers across Dayton.",
+ "risk": "frozen pipes, aging pipes in older homes and basement backups",
+ "risk_short": "frozen pipes, old pipes and basement backups",
+ "why": [
+  "The Oregon District, St. Anne's Hill and Dayton View have homes from the 1850s to the 1930s with galvanized supply lines, cast-iron stacks, clay sewer laterals and lead service lines in some cases.",
+  "Winters freeze pipes near exterior walls and in vacant homes. Heavy rain backs water into basements in older neighborhoods."
+ ],
+ "utility": "City of Dayton Water",
+ "water": "Dayton pumps its water from the Great Miami Buried Valley Aquifer and softens it at the plant. It is moderately hard at the tap.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and vacant homes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized and lead lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Ask the city about your service line material.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "PipeMend works in the Oregon District, South Park, St. Anne's Hill, Dayton View, Belmont, Patterson Park, Huffman and every other neighborhood.",
+ "permits": "Plumbing permits in Dayton are handled by the local building regulation office for your address. The city and county set the rules for home plumbing work.",
+ "faq": {
+  "q": "Is Dayton water hard?",
+  "a": "The aquifer water is hard, and Dayton softens it at the plant. It is moderately hard at the tap, so a yearly water heater flush still helps."
+ }
+}

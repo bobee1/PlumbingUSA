@@ -1,0 +1,45 @@
+{
+ "lead": "Lakeland plumbing deals with hard aquifer water, sinkhole-prone ground, storms and 1920s homes. PipeMend sends licensed local plumbers across Lakeland.",
+ "risk": "hard water scale, cast-iron drain failures and slab leaks",
+ "risk_short": "hard water, old drains and slab leaks",
+ "why": [
+  "Dixieland, Lake Morton and Lake Hollingsworth have homes from the 1920s to the 1950s with galvanized supply lines and cast-iron drains. Newer areas to the north and south were built mostly after 1980 on slabs.",
+  "Polk County sits on limestone with sinkholes in places, which can shift buried lines. Hurricanes such as Ian and Milton brought flooding and long outages."
+ ],
+ "utility": "Lakeland Water Utilities",
+ "water": "Lakeland pumps water from the Floridan Aquifer. It is hard, so scale builds up in water heaters and on fixtures.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "Older homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Storm damage and backups",
+   "After hurricanes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Have cast-iron drains scoped in older homes.",
+  "Watch for new cracks that could mean a shifting line.",
+  "Shut off the main valve before a hurricane evacuation."
+ ],
+ "areas": "PipeMend works in Dixieland, Lake Morton, Lake Hollingsworth, Beacon Hill, South Lakeland, North Lakeland and every other Lakeland neighborhood.",
+ "permits": "Plumbing permits come from the City of Lakeland Building Inspection Division, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Is Lakeland water hard?",
+  "a": "Yes. Lakeland's water comes from the Floridan Aquifer in limestone, so it carries a lot of calcium. Scale builds up in water heaters and on fixtures."
+ }
+}

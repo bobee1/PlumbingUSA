@@ -1,0 +1,45 @@
+{
+ "lead": "Roseville plumbing deals with hot summers, soft water and mostly newer slab homes. PipeMend sends licensed local plumbers across Roseville.",
+ "risk": "slab leaks, water heater wear and aging pipes in Old Town",
+ "risk_short": "slab leaks, water heaters and old pipes",
+ "why": [
+  "Old Town Roseville has homes from the 1900s to the 1940s with galvanized supply lines and clay sewer laterals. Most of the city, like Sun City Roseville and Fiddyment Farm, was built after 1990 on slabs.",
+  "Placer County heat in July and August is rough on heaters in the garage. Every water heater in the state must be braced for earthquakes too."
+ ],
+ "utility": "Roseville Environmental Utilities",
+ "water": "Roseville treats water from Folsom Lake on the American River. It is soft.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old Town",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Clogged drains",
+   "Homes citywide",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs.",
+  "Scope old sewer lines in Old Town before buying."
+ ],
+ "areas": "PipeMend works in Old Town Roseville, Cirby Creek, Sun City Roseville, Fiddyment Farm, West Roseville, Johnson Ranch and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Roseville Building Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Where does Roseville's water come from?",
+  "a": "Roseville treats water from Folsom Lake, fed by the American River and Sierra snowmelt. The water is soft, so scale is less of a problem."
+ }
+}

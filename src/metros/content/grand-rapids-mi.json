@@ -1,0 +1,45 @@
+{
+ "lead": "Grand Rapids plumbing deals with lake-effect cold, old homes, lead service lines and basements. PipeMend sends licensed local plumbers across Grand Rapids.",
+ "risk": "lead service lines, frozen pipes and basement backups",
+ "risk_short": "lead lines, frozen pipes and basements",
+ "why": [
+  "Heritage Hill, Eastown and Creston have homes from the 1850s to the 1930s with galvanized supply lines, cast-iron stacks and lead service lines in many cases. The city is replacing lead lines over time.",
+  "Lake-effect snow and cold freeze pipes near exterior walls. Heavy rain and Grand River flooding, as in 2013, back water into basements."
+ ],
+ "utility": "City of Grand Rapids Water System",
+ "water": "Grand Rapids pipes its water from Lake Michigan and treats it at the Lake Michigan Filtration Plant. It is moderately hard.",
+ "problems": [
+  [
+   "Lead service lines",
+   "Older homes citywide",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Heritage Hill and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Check the city's lead service line lookup.",
+  "Keep the heat on and cabinets open in deep cold.",
+  "Test your sump pump each spring.",
+  "Insulate pipes near exterior walls."
+ ],
+ "areas": "PipeMend works in Heritage Hill, Eastown, East Hills, Creston, the West Side, Garfield Park, Alger Heights and every other neighborhood.",
+ "permits": "Plumbing permits come from the Grand Rapids Development Center, and plumbers must be licensed by Michigan LARA.",
+ "faq": {
+  "q": "Is Grand Rapids replacing lead water lines?",
+  "a": "Yes. Michigan rules require utilities to replace lead service lines, and Grand Rapids has a citywide program. You can look up your address on the city's website."
+ }
+}

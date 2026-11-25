@@ -1,0 +1,45 @@
+{
+ "lead": "Ann Arbor plumbing deals with cold winters, older homes near downtown and basements. PipeMend sends licensed local plumbers across Ann Arbor.",
+ "risk": "frozen pipes, aging pipes in older homes and basement backups",
+ "risk_short": "frozen pipes, old pipes and basements",
+ "why": [
+  "The Old West Side, Burns Park and Kerrytown have homes from the 1870s to the 1930s with galvanized supply lines, cast-iron stacks and clay sewer laterals. Many near campus are rentals.",
+  "Winters freeze pipes near exterior walls. Heavy rain backs water into basements, and the city has a footing drain disconnection program in some areas."
+ ],
+ "utility": "City of Ann Arbor Water Treatment Services",
+ "water": "Ann Arbor treats water mainly from the Huron River, plus wells, and softens it at the plant. It is moderately hard after treatment.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old West Side and Burns Park",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Clogged drains",
+   "Rentals near campus",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Keep the heat on and cabinets open in deep cold.",
+  "Test your sump pump each spring.",
+  "Scope the sewer line before buying an older home.",
+  "Give tenants a shutoff valve map."
+ ],
+ "areas": "PipeMend works in the Old West Side, Burns Park, Kerrytown, Water Hill, Ann Arbor Hills, the North Side and every other Ann Arbor neighborhood.",
+ "permits": "Plumbing permits come from the City of Ann Arbor Building Services, and plumbers must be licensed by Michigan LARA.",
+ "faq": {
+  "q": "Is Ann Arbor water softened?",
+  "a": "Yes. The city softens Huron River water at its treatment plant, so it is moderately hard at the tap. Some homes still add a softener for extra protection."
+ }
+}

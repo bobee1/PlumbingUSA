@@ -36,53 +36,53 @@ rank,city,volume,kd,score,note
 35,charleston sc,480,20,384,
 36,rochester ny,720,51,353,
 37,cary nc,480,27,350,
-38,huntsville,480,29,341,
-39,boulder,480,29,341,
-40,amarillo,480,30,336,
-41,ann arbor,480,30,336,
-42,little rock,480,35,312,
-43,grand rapids,590,50,295,
-44,mobile al,480,39,293,
-45,gainesville fl,480,46,259,
-46,modesto,480,46,259,
-47,yonkers,320,26,237,added 2026-11-24
-48,new haven,260,13,226,KD pulled 2026-11-24 (state coverage)
-49,west palm beach,590,62,224,
-50,manchester nh,260,18,213,KD pulled 2026-11-24 (state coverage)
-51,sioux falls,260,28,187,KD pulled 2026-11-24 (state coverage)
-52,wilmington de,210,15,178,KD pulled 2026-11-24 (state coverage)
-53,providence,210,22,164,KD pulled 2026-11-24 (state coverage)
-54,bridgeport ct,170,11,151,KD pulled 2026-11-24 (state coverage)
-55,jackson ms,170,15,144,KD pulled 2026-11-24 (state coverage)
-56,charleston wv,140,21,111,KD pulled 2026-11-24 (state coverage)
-57,fargo,140,35,91,KD pulled 2026-11-24 (state coverage)
-58,portland maine,90,12,79,KD pulled 2026-11-24 (state coverage)
-59,billings,70,37,44,KD pulled 2026-11-24 (state coverage)
-60,cheyenne,40,0,40,KD pulled 2026-11-24 (state coverage)
-61,burlington vt,30,35,20,KD pulled 2026-11-24 (state coverage)
-62,akron,390,,,KD not pulled (lower volume)
-63,cape coral,390,,,KD not pulled (lower volume)
-64,lakeland,390,,,KD not pulled (lower volume)
-65,peoria az,390,,,KD not pulled (lower volume)
-66,grand prairie,390,,,KD not pulled (lower volume)
-67,roseville,390,,,KD not pulled (lower volume)
-68,hayward,390,,,KD not pulled (lower volume)
-69,naperville,390,,,KD not pulled (lower volume)
-70,dayton,320,,,KD not pulled (lower volume)
-71,salem oregon,320,,,KD not pulled (lower volume)
-72,savannah,320,,,KD not pulled (lower volume)
-73,springfield mo,320,,,KD not pulled (lower volume)
-74,mesquite,320,,,KD not pulled (lower volume)
-75,oxnard,320,,,KD not pulled (lower volume)
-76,moreno valley,320,,,KD not pulled (lower volume)
-77,corona ca,320,,,KD not pulled (lower volume)
-78,chattanooga,260,,,KD not pulled (lower volume)
-79,eugene,260,,,KD not pulled (lower volume)
-80,augusta ga,260,,,KD not pulled (lower volume)
-81,tallahassee,260,,,KD not pulled (lower volume)
-82,olathe,260,,,KD not pulled (lower volume)
-83,pearland,260,,,KD not pulled (lower volume)
-84,joliet,260,,,KD not pulled (lower volume)
+38,peoria az,390,12,343,KD pulled 2026-11-24
+39,huntsville,480,29,341,
+40,boulder,480,29,341,
+41,grand prairie,390,13,339,KD pulled 2026-11-24
+42,amarillo,480,30,336,
+43,ann arbor,480,30,336,
+44,little rock,480,35,312,
+45,naperville,390,22,304,KD pulled 2026-11-24
+46,roseville,390,24,296,KD pulled 2026-11-24
+47,grand rapids,590,50,295,
+48,oxnard,320,8,294,KD pulled 2026-11-24
+49,mobile al,480,39,293,
+50,hayward,390,25,292,KD pulled 2026-11-24
+51,moreno valley,320,11,285,KD pulled 2026-11-24
+52,gainesville fl,480,46,259,
+53,modesto,480,46,259,
+54,springfield mo,320,24,243,KD pulled 2026-11-24
+55,akron,390,38,242,KD pulled 2026-11-24
+56,yonkers,320,26,237,added 2026-11-24
+57,olathe,260,12,229,KD pulled 2026-11-24
+58,new haven,260,13,226,KD pulled 2026-11-24 (state coverage)
+59,west palm beach,590,62,224,
+60,dayton,320,33,214,KD pulled 2026-11-24
+61,manchester nh,260,18,213,KD pulled 2026-11-24 (state coverage)
+62,savannah,320,35,208,KD pulled 2026-11-24
+63,joliet,260,21,205,KD pulled 2026-11-24
+64,lakeland,390,50,195,KD pulled 2026-11-24
+65,cape coral,390,52,187,KD pulled 2026-11-24
+66,sioux falls,260,28,187,KD pulled 2026-11-24 (state coverage)
+67,corona ca,320,43,182,KD pulled 2026-11-24
+68,wilmington de,210,15,178,KD pulled 2026-11-24 (state coverage)
+69,providence,210,22,164,KD pulled 2026-11-24 (state coverage)
+70,chattanooga,260,41,153,KD pulled 2026-11-24
+71,tallahassee,260,41,153,KD pulled 2026-11-24
+72,bridgeport ct,170,11,151,KD pulled 2026-11-24 (state coverage)
+73,jackson ms,170,15,144,KD pulled 2026-11-24 (state coverage)
+74,eugene,260,46,140,KD pulled 2026-11-24
+75,salem oregon,320,57,138,KD pulled 2026-11-24
+76,augusta ga,260,49,133,KD pulled 2026-11-24
+77,pearland,260,50,130,KD pulled 2026-11-24
+78,mesquite,320,64,115,KD pulled 2026-11-24
+79,charleston wv,140,21,111,KD pulled 2026-11-24 (state coverage)
+80,fargo,140,35,91,KD pulled 2026-11-24 (state coverage)
+81,portland maine,90,12,79,KD pulled 2026-11-24 (state coverage)
+82,billings,70,37,44,KD pulled 2026-11-24 (state coverage)
+83,cheyenne,40,0,40,KD pulled 2026-11-24 (state coverage)
+84,burlington vt,30,35,20,KD pulled 2026-11-24 (state coverage)
 85,shreveport,210,,,KD not pulled (lower volume)
 86,thornton co,210,,,KD not pulled (lower volume)
 87,kansas city ks,210,,,KD not pulled (lower volume)

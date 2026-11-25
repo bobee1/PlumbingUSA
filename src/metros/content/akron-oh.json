@@ -1,0 +1,45 @@
+{
+ "lead": "Akron plumbing deals with cold winters, hilly lots, older homes and basements. PipeMend sends licensed local plumbers across Akron.",
+ "risk": "frozen pipes, basement backups and aging pipes in older homes",
+ "risk_short": "frozen pipes, basement backups and old pipes",
+ "why": [
+  "Highland Square, Firestone Park and Goodyear Heights have homes from the 1910s to the 1940s, many built for rubber plant workers. Galvanized supply lines, cast-iron stacks and clay sewer laterals are common.",
+  "Akron's older sewers carry rain and wastewater in the same pipes, so big storms can push water into basements. Winter cold freezes pipes near exterior walls."
+ ],
+ "utility": "City of Akron Water Supply",
+ "water": "Akron treats water from Lake Rockwell on the Cuyahoga River. It is moderately soft.",
+ "problems": [
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ]
+ ],
+ "tips": [
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Test your sump pump each spring.",
+  "Scope the sewer line before buying an older home."
+ ],
+ "areas": "PipeMend works in Highland Square, Firestone Park, Goodyear Heights, Kenmore, North Hill, West Akron, Ellet and every other Akron neighborhood.",
+ "permits": "Plumbing permits come from the City of Akron building office. The city sets the rules for home plumbing work.",
+ "faq": {
+  "q": "Why do Akron basements back up in storms?",
+  "a": "Older parts of Akron have combined sewers that carry rain and wastewater together. Heavy storms fill them and push water through floor drains. A backwater valve helps protect the basement."
+ }
+}

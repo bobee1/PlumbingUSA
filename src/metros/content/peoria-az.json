@@ -1,0 +1,45 @@
+{
+ "lead": "Peoria plumbing deals with very hard water, desert heat and mostly newer slab homes. PipeMend sends licensed local plumbers across Peoria.",
+ "risk": "very hard water scale, water heater wear and slab leaks",
+ "risk_short": "hard water, water heaters and slab leaks",
+ "why": [
+  "Old Town Peoria has some homes from the 1950s to the 1970s with galvanized supply lines. Most of the city, like Vistancia and Fletcher Heights, was built after 1990 on slabs.",
+  "Very hard water scales up water heaters, tankless units and fixtures. Summer heat in garages shortens water heater life."
+ ],
+ "utility": "City of Peoria Water Services",
+ "water": "Peoria treats Salt and Verde river water, Colorado River water from the Central Arizona Project and groundwater. It is very hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Tankless descaling and repair",
+   "Newer homes",
+   "<a href=\"/services/tankless-water-heaters/\">Tankless water heaters</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Descale tankless units on schedule.",
+  "Keep softener salt topped up.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Old Town Peoria, Vistancia, Westwing Mountain, Fletcher Heights, Sunrise Mountain, Ventana Lakes and every other Peoria neighborhood.",
+ "permits": "Plumbing permits come from the City of Peoria Building Development Division, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "Is this Peoria, Arizona or Peoria, Illinois?",
+  "a": "This page covers Peoria, Arizona, in the Phoenix area. PipeMend takes calls in both, and the phone line works anywhere in the U.S."
+ }
+}

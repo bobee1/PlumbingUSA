@@ -1,0 +1,45 @@
+{
+ "lead": "Olathe plumbing deals with cold winters, clay soil, basements and fast growth. PipeMend sends licensed local plumbers across Olathe.",
+ "risk": "sump pump failures, frozen pipes and water heater replacement",
+ "risk_short": "sump pumps, frozen pipes and water heaters",
+ "why": [
+  "Original Town Olathe has homes from the 1900s to the 1950s with galvanized supply lines. Most of the city was built after 1980, and nearly every home has a basement with a sump pump.",
+  "Winters freeze pipes near exterior walls and hose bibs. Clay soil moves with the seasons and stresses foundations and sewer lines."
+ ],
+ "utility": "City of Olathe Water Services",
+ "water": "Olathe treats water from the Kansas River and Hillsdale Lake. It is moderately hard.",
+ "problems": [
+  [
+   "Sump pump failures",
+   "Basements citywide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and hose bibs",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Original-build homes",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Add a battery backup to your sump pump.",
+  "Disconnect hoses in October.",
+  "Flush your water heater yearly.",
+  "Scope the sewer line before buying an older home."
+ ],
+ "areas": "PipeMend works in Original Town, Cedar Creek, Forest View, Prairie Center, Arbor Creek, Heritage and every other Olathe neighborhood.",
+ "permits": "Plumbing permits come from the City of Olathe Building Codes Division, and plumbers are licensed through the Johnson County Contractor Licensing program. Kansas has no statewide plumber license.",
+ "faq": {
+  "q": "Who licenses plumbers in Olathe?",
+  "a": "Kansas has no statewide plumber license. Olathe uses Johnson County's Contractor Licensing program, as do most cities in the county. Ask for the license number before work starts."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Hayward plumbing deals with an active fault line, soft water and 1950s and 1960s slab homes. PipeMend sends licensed local plumbers across Hayward.",
+ "risk": "slab leaks, earthquake-related line damage and water heater strapping",
+ "risk_short": "slab leaks, quake damage and water heaters",
+ "why": [
+  "Much of Hayward was built in the 1950s and 1960s, so many homes have copper or galvanized lines under the slab that now leak. The Hayward Highlands and Fairview are a mix of older and newer homes.",
+  "The Hayward Fault runs right through downtown and slowly creeps, bending curbs and buried pipes. Strapped water heaters and flexible gas connectors matter here."
+ ],
+ "utility": "City of Hayward Water",
+ "water": "Hayward buys all of its water from the San Francisco Public Utilities Commission's Hetch Hetchy system. It is very soft.",
+ "problems": [
+  [
+   "Slab leaks",
+   "1950s–1960s homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Lines bent by fault creep",
+   "Near the Hayward Fault",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Older tracts",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Keep a wrench by your gas shutoff.",
+  "Watch your water bill for slab leak signs.",
+  "Check for leaks after any strong quake."
+ ],
+ "areas": "PipeMend works in Downtown Hayward, the Hayward Highlands, Fairview, Mt. Eden, Tennyson-Alquire, Southgate and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Hayward Building Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Does the Hayward Fault affect home plumbing?",
+  "a": "It can. The fault slowly creeps through the city, and a large quake could break lines. Homes near the fault should have strapped water heaters, flexible gas connectors and known shutoff locations."
+ }
+}

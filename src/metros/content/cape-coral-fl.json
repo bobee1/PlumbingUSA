@@ -1,0 +1,45 @@
+{
+ "lead": "Cape Coral plumbing deals with canals, hurricanes, a high water table and block homes from the 1960s on. PipeMend sends licensed local plumbers across Cape Coral.",
+ "risk": "storm-surge damage, slab leaks and well and septic conversions",
+ "risk_short": "storm surge, slab leaks and septic",
+ "why": [
+  "Southeast Cape Coral has homes from the 1960s and 1970s with cast-iron drains under the slab. Much of the north and west was built later, and some areas still use private wells and septic systems while the city expands utilities.",
+  "Hurricane Ian in 2022 pushed surge into thousands of canal-front homes. Flooded homes can have hidden damage in drains, water heaters and well pumps."
+ ],
+ "utility": "Cape Coral Utilities",
+ "water": "Cape Coral treats water from the Floridan Aquifer using reverse osmosis. It is soft after treatment. Homes outside the system use private wells.",
+ "problems": [
+  [
+   "Storm-surge damage",
+   "Canal-front homes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "1960s–1970s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Utility hookups",
+   "Areas leaving wells and septic",
+   "<a href=\"/services/water-line-repair/\">Water line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off the main valve before a hurricane evacuation.",
+  "Have the water heater checked after any flood.",
+  "Know whether your home is on city water or a well.",
+  "Have cast-iron drains scoped in older homes."
+ ],
+ "areas": "PipeMend works in the Yacht Club area, Cape Harbour, Pelican, Northwest Cape, Southeast Cape, Tarpon Point and every other Cape Coral neighborhood.",
+ "permits": "Plumbing permits come from the City of Cape Coral Building Division, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Is my Cape Coral home on city water?",
+  "a": "Many homes are, but some areas still use private wells and septic systems while the city extends utilities. Your utility bill, or the lack of one, tells you."
+ }
+}

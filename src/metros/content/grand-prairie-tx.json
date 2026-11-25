@@ -1,0 +1,45 @@
+{
+ "lead": "Grand Prairie plumbing deals with clay soil, slab foundations and homes from the 1950s to today. PipeMend sends licensed local plumbers across Grand Prairie.",
+ "risk": "slab leaks from shifting clay, cast-iron drains in older homes and burst pipes in freezes",
+ "risk_short": "slab leaks, old drains and frozen pipes",
+ "why": [
+  "Older parts of Grand Prairie, near Downtown and Dalworth, have homes from the 1950s to the 1970s with cast-iron drains and aging copper under the slab. Lake Ridge and Mira Lagos were built mostly after 2000.",
+  "The ground here is expansive clay that swells after rain and shrinks in drought, bending lines under slabs. Rare hard freezes burst attic and exterior-wall pipes."
+ ],
+ "utility": "Grand Prairie Water Utilities",
+ "water": "Grand Prairie buys treated water from Dallas, Fort Worth and Arlington and also uses wells. It is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "1950s–1970s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Insulate attic pipes before winter.",
+  "Scope cast-iron drains in older homes.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "PipeMend works in Downtown Grand Prairie, Westchester, Lake Ridge, Mira Lagos, Dalworth, the Peninsula and every other Grand Prairie neighborhood.",
+ "permits": "Plumbing permits come from the City of Grand Prairie Building Inspections Division, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Where does Grand Prairie get its water?",
+  "a": "Grand Prairie buys treated water from Dallas, Fort Worth and Arlington and adds some well water. The blend is moderately hard."
+ }
+}

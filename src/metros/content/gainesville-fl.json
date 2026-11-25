@@ -1,0 +1,45 @@
+{
+ "lead": "Gainesville plumbing deals with hard aquifer water, sinkhole-prone ground, college rentals and older homes. PipeMend sends licensed local plumbers across Gainesville.",
+ "risk": "hard water scale, aging pipes in older homes and heavy use in student rentals",
+ "risk_short": "hard water, old pipes and rentals",
+ "why": [
+  "The Duckpond and areas near the University of Florida have homes from the 1900s to the 1950s with galvanized supply lines and cast-iron drains. Many homes near campus are rentals that see heavy use.",
+  "Gainesville sits on limestone with sinkholes in places, which can shift buried lines. Rare hard freezes burst exposed pipes."
+ ],
+ "utility": "Gainesville Regional Utilities (GRU)",
+ "water": "GRU pumps water from the Floridan Aquifer and partly softens it. It is moderately hard at the tap. GRU also supplies natural gas and electricity.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "The Duckpond and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Clogged drains",
+   "Student rentals",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ],
+  [
+   "Gas line work",
+   "Homes with gas service",
+   "<a href=\"/services/gas-line-repair/\">Gas line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Give tenants a shutoff valve map.",
+  "Watch for new cracks or wet spots that could mean a shifted line.",
+  "Know where your gas shutoff is."
+ ],
+ "areas": "PipeMend works in the Duckpond, the University of Florida area, Northwest Gainesville, Pleasant Street, Golfview and every other Gainesville neighborhood.",
+ "permits": "Plumbing permits come from the City of Gainesville Building Inspections Division, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Who supplies gas and water in Gainesville?",
+  "a": "Gainesville Regional Utilities runs water, natural gas and electric service. If you smell gas, leave the home and call 911 or GRU from outside."
+ }
+}

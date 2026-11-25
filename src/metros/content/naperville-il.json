@@ -1,0 +1,45 @@
+{
+ "lead": "Naperville plumbing deals with cold winters, a high water table and basements in homes from the 1970s on. PipeMend sends licensed local plumbers across Naperville.",
+ "risk": "sump pump failures, frozen pipes and water heater replacement",
+ "risk_short": "sump pumps, frozen pipes and water heaters",
+ "why": [
+  "Most Naperville homes were built from the 1970s through the 2000s, and nearly all have basements with sump pumps. A high water table means sump pumps run often, and a failure can flood a basement fast.",
+  "The Historic District has older homes with galvanized supply lines. Winters freeze pipes near exterior walls and hose bibs."
+ ],
+ "utility": "City of Naperville Water Utility (Lake Michigan water through the DuPage Water Commission)",
+ "water": "Naperville buys Lake Michigan water treated by Chicago and piped through the DuPage Water Commission. It is moderately hard.",
+ "problems": [
+  [
+   "Sump pump failures",
+   "Basements citywide",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and hose bibs",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Original-build homes",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "The Historic District",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Add a battery backup to your sump pump.",
+  "Test your sump pump each spring.",
+  "Disconnect hoses in October.",
+  "Replace water heaters past 10 to 15 years."
+ ],
+ "areas": "PipeMend works in Downtown Naperville, the Historic District, Cress Creek, Ashbury, Tall Grass, White Eagle and every other Naperville neighborhood.",
+ "permits": "Plumbing permits come from the City of Naperville Transportation, Engineering and Development Business Group, and plumbers must be licensed by the Illinois Department of Public Health.",
+ "faq": {
+  "q": "Why do Naperville sump pumps run so often?",
+  "a": "Much of DuPage County has a high water table, so groundwater collects around basement foundations. The sump pump removes it. A battery backup keeps it running in a power outage."
+ }
+}

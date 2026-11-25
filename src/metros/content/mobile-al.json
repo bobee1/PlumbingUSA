@@ -1,0 +1,45 @@
+{
+ "lead": "Mobile plumbing deals with heavy rain, hurricanes, humidity and historic homes. PipeMend sends licensed local plumbers across Mobile.",
+ "risk": "storm flooding and backups, aging pipes in historic homes and root-filled sewer lines",
+ "risk_short": "flooding, old pipes and sewer roots",
+ "why": [
+  "Oakleigh, De Tonti Square and Midtown have homes from the 1830s to the 1930s, many on raised foundations with galvanized supply lines and clay or cast-iron drains. Live oaks send roots into old sewer lines.",
+  "Mobile is one of the rainiest cities in the U.S., and hurricanes bring surge and long outages. Heavy rain backs up drains in low areas."
+ ],
+ "utility": "Mobile Area Water and Sewer System (MAWSS)",
+ "water": "MAWSS treats water mainly from Big Creek Lake. It is soft.",
+ "problems": [
+  [
+   "Storm flooding and backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Oakleigh and Midtown",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Historic homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off the main valve before a hurricane evacuation.",
+  "Scope the sewer line before buying an older home.",
+  "Check historic district rules before exterior work.",
+  "Clear yard drains before storms."
+ ],
+ "areas": "PipeMend works in the Oakleigh Garden District, De Tonti Square, Midtown, Spring Hill, West Mobile, Crichton and every other Mobile neighborhood.",
+ "permits": "Plumbing permits come from the City of Mobile permitting office (Build Mobile), and plumbers must be licensed by the Alabama Plumbers and Gas Fitters Examining Board.",
+ "faq": {
+  "q": "Why do Mobile drains back up in storms?",
+  "a": "Mobile gets some of the heaviest rain in the country, and low streets drain slowly. Heavy rain can fill sewers and push water back through floor drains. A backwater valve helps."
+ }
+}

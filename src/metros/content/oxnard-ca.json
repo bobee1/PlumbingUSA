@@ -1,0 +1,45 @@
+{
+ "lead": "Oxnard plumbing deals with hard water, salt air and slab homes. PipeMend sends licensed local plumbers across Oxnard.",
+ "risk": "slab leaks, hard water scale and salt-air corrosion",
+ "risk_short": "slab leaks, hard water and corrosion",
+ "why": [
+  "Central Oxnard and La Colonia have homes from the 1920s to the 1960s with galvanized supply lines and cast-iron drains. Most other areas were built from the 1960s on, on slabs.",
+  "Salt air near Oxnard Shores, Mandalay Bay and the harbor corrodes outdoor fittings and water heater parts. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "City of Oxnard Water Division",
+ "water": "Oxnard blends imported water, local groundwater treated at its desalter and highly treated recycled water. It is hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Corroded fittings",
+   "Near the beach and harbor",
+   "<a href=\"/services/faucet-repair/\">Faucet repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Central Oxnard",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Rinse and check outdoor fittings for corrosion.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works Downtown and in Oxnard Shores, Mandalay Bay, Silver Strand, Channel Islands Harbor, La Colonia, RiverPark and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Oxnard Development Services, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Is Oxnard water hard?",
+  "a": "Yes. Local groundwater and imported water both carry minerals. Scale builds up in water heaters and on fixtures, so many homes use softeners."
+ }
+}

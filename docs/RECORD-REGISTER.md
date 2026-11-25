@@ -113,4 +113,8 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 107 | 2026-11-24 | 9 | City template: shared-name cities, nearby pills (max 8), permit text de-duplication, local-licensing wording | Done | Live now |
 | 108 | 2026-11-24 | 9 | Stand-in test of 100 staged pages: all checks | Done | PASS; stand-ins deleted |
 | 109 | — | 9 | Owner runs Census script; publish 100 pages | Waiting | Owner action |
-| 110 | — | 10 | Wave 3 continues | Planned | Next |
+| 110 | 2026-11-24 | 10 | Semrush KD for 23 Wave 3 cities; research/17 re-scored | Done | 1,150 units; 16,500 left |
+| 111 | 2026-11-24 | 10 | 25 cities to meta + copy; Census script batch 10 (research/22, 23) | Done | Staged |
+| 112 | 2026-11-24 | 10 | Stand-in test of 125 staged pages: all checks | Done | PASS; stand-ins deleted |
+| 113 | — | 10 | Owner runs Census script; publish 125 pages | Waiting | Owner action |
+| 114 | — | 11 | Fact-check pass on staged city copy, or Wave 3 remainder | Planned | Owner's choice |

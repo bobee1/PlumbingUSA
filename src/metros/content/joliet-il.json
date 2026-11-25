@@ -1,0 +1,45 @@
+{
+ "lead": "Joliet plumbing deals with cold winters, basements, older homes and a change in water supply. PipeMend sends licensed local plumbers across Joliet.",
+ "risk": "frozen pipes, basement backups and aging pipes in older homes",
+ "risk_short": "frozen pipes, basement backups and old pipes",
+ "why": [
+  "The Cathedral Area and Upper Bluff have homes from the 1880s to the 1930s with galvanized supply lines, cast-iron stacks and clay sewer laterals. Newer subdivisions to the west were built mostly after 1990.",
+  "Winters freeze pipes near exterior walls. Almost every home has a basement, and heavy rain tests sump pumps and floor drains."
+ ],
+ "utility": "City of Joliet Public Utilities",
+ "water": "Joliet now pumps water from deep wells, which is hard. The city is switching to Lake Michigan water from Chicago because its aquifer is running low.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "Exterior walls and basements",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods in heavy rain",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Cathedral Area and Upper Bluff",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Add a battery backup to your sump pump.",
+  "Keep the heat on and cabinets open in deep cold.",
+  "Flush your water heater yearly.",
+  "Scope the sewer line before buying an older home."
+ ],
+ "areas": "PipeMend works in the Cathedral Area, Upper Bluff, Downtown, West Joliet, the East Side, Cherry Hill and every other Joliet neighborhood.",
+ "permits": "Plumbing permits come from the City of Joliet Inspections Division, and plumbers must be licensed by the Illinois Department of Public Health.",
+ "faq": {
+  "q": "Is Joliet switching to Lake Michigan water?",
+  "a": "Yes. Joliet's deep wells are running low, so the city is building a connection to Lake Michigan water from Chicago. The new water will be softer than the current well water."
+ }
+}

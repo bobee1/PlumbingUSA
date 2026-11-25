@@ -1,0 +1,45 @@
+{
+ "lead": "Yonkers plumbing deals with steep hills, older multi-family homes and cold winters. PipeMend sends licensed local plumbers across Yonkers.",
+ "risk": "old galvanized and lead pipes, frozen pipes and riser leaks in apartment buildings",
+ "risk_short": "old pipes, frozen pipes and riser leaks",
+ "why": [
+  "Getty Square, Park Hill and Ludlow have homes and apartment buildings from the 1890s to the 1940s with galvanized supply lines, cast-iron stacks and lead service lines in some cases.",
+  "Steep streets make sewer and water lines long and hard to reach. Winter cold freezes pipes near exterior walls, and shared risers in apartment buildings leak."
+ ],
+ "utility": "Yonkers Water Bureau",
+ "water": "Yonkers gets its water from New York City's Catskill and Delaware reservoirs. It is very soft.",
+ "problems": [
+  [
+   "Old galvanized and lead lines",
+   "Older homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Riser and stack leaks",
+   "Apartment buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Hillside homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Know where each unit's shutoff is.",
+  "Insulate pipes near exterior walls.",
+  "Check building rules before plumbing work.",
+  "Scope the sewer lateral before buying."
+ ],
+ "areas": "PipeMend works in Getty Square, Park Hill, Crestwood, Lincoln Park, Ludlow, Northwest Yonkers and every other Yonkers neighborhood.",
+ "permits": "Plumbing permits come from the Yonkers Department of Housing and Buildings, which also licenses plumbers in the city. New York has no statewide plumber license.",
+ "faq": {
+  "q": "Where does Yonkers get its water?",
+  "a": "Yonkers buys water from New York City's upstate Catskill and Delaware reservoirs. It is very soft, so scale is rare."
+ }
+}

@@ -4,7 +4,7 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-24 (Build 9 — staged with 6c, 7 and 8, waiting on Census data)
+Last updated: 2026-11-24 (Build 10 — staged with 6c–9, waiting on Census data)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
@@ -70,6 +70,14 @@ Last updated: 2026-11-24 (Build 9 — staged with 6c, 7 and 8, waiting on Census
 - **Tested with stand-in figures (all 100 staged pages):** 245 pages, audit PASS 0 issues, reading grade ≤9, no duplicates, lowest city inbound links 5, no overflow. Stand-ins deleted; live site 145 pages.
 - **Owner action (one run covers 6c, 7, 8 and 9):** `git pull`, `python3 scripts/census_pull.py`, commit research/13–21 JSON files.
 
+## In progress — Build 10: Wave 3, next 25 cities (staged; waiting on Census data)
+- **Semrush:** KD for 23 more Wave 3 cities (1,150 units; 16,500 left); research/17 re-scored.
+- **Cities:** San Bernardino, Rochester (NY), Peoria (AZ), Grand Prairie, Ann Arbor, Naperville, Roseville, Grand Rapids, Oxnard, Mobile, Hayward, Moreno Valley, Gainesville (FL), Modesto, Springfield (MO), Akron, Yonkers, Olathe, West Palm Beach, Dayton, Savannah, Joliet, Lakeland, Cape Coral, Corona.
+- **Done:** meta (batch "10") and 25 copy files; Census script batch "10" (research/22, 23); `metros.py` merges them. Local licensing: Rochester and Yonkers (city), Springfield MO (city), Olathe (Johnson County program).
+- **Tested with stand-in figures (all 125 staged pages):** 270 pages, audit PASS 0 issues, reading grade ≤9, no duplicates (5 paragraphs reworded), lowest city inbound links 5, no overflow. Stand-ins deleted; live site 145 pages. Stand-in helper: `/home/claude/tools/standin.py on|off` (workspace only).
+- **Owner action (one run covers 6c–10):** `git pull`, `python3 scripts/census_pull.py`, commit research/13–23 JSON files.
+- **Backlog note:** 125 city pages are now staged and unpublished. Their local facts (utilities, permit offices) were written from general knowledge; spot-checking them is recommended before or soon after launch.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
@@ -77,7 +85,8 @@ Last updated: 2026-11-24 (Build 9 — staged with 6c, 7 and 8, waiting on Census
 | 7 (finish) | Census data in → publish 6c + 7 (49 cities, 194 pages) | Owner runs script |
 | 8 (finish) | Census data in → publish 6c + 7 + 8 (75 cities, 220 pages) | Owner runs script |
 | 9 (finish) | Census data in → publish 6c–9 (100 cities, 245 pages) | Owner runs script |
-| 10 (next) | Wave 3 continues (Rochester NY, Grand Rapids, Mobile, Gainesville, Modesto, Yonkers, West Palm Beach, San Bernardino, …) — KD still needed for ranks 49+ | — |
+| 10 (finish) | Census data in → publish 6c–10 (125 cities, 270 pages) | Owner runs script |
+| 11 (next) | Fact-check pass on staged city copy (utilities, permit offices) with web search, or Wave 3 remainder (Chattanooga, Tallahassee, Bridgeport, Eugene, Salem, Augusta, …) — owner's choice | — |
 | 7, 7b | Wave 2 cities, 25 per build | — |
 | 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
 | Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys | Domain, number, email, Resend key |

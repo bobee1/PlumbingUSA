@@ -1,0 +1,45 @@
+{
+ "lead": "Moreno Valley plumbing deals with hard water, hot summers and homes from the 1980s building boom. PipeMend sends licensed local plumbers across Moreno Valley.",
+ "risk": "hard water scale, slab leaks and polybutylene pipe",
+ "risk_short": "hard water, slab leaks and old pipes",
+ "why": [
+  "Moreno Valley grew fast in the 1980s, so many homes are now 35 to 40 years old. Some have gray polybutylene supply pipe, and original copper lines under slabs are aging.",
+  "Hot, dry summers push garage water heaters hard. Earthquake straps are required on every heater in California."
+ ],
+ "utility": "Eastern Municipal Water District",
+ "water": "Most of Moreno Valley gets water from Eastern Municipal Water District, which blends imported water with local groundwater. It is hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Look for gray pipe stamped PB2110.",
+  "Flush your water heater yearly.",
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Sunnymead, Moreno Valley Ranch, Edgemont, Hidden Springs, Rancho Belago, Towngate and every other Moreno Valley neighborhood.",
+ "permits": "Plumbing permits come from the City of Moreno Valley Building and Safety Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Do Moreno Valley homes have polybutylene pipe?",
+  "a": "Many 1980s homes here were plumbed with it. Check for gray plastic pipe marked PB2110 near the water heater or in the attic. A planned repipe costs less than cleanup after a burst."
+ }
+}

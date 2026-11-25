@@ -19,7 +19,8 @@ FUEL = json.loads((ROOT / "research" / "11-city-heating-fuel.json").read_text())
 for _a, _f in [("13-city-acs-6c.json", "14-city-heating-fuel-6c.json"),
                ("15-city-acs-7.json", "16-city-heating-fuel-7.json"),
                ("18-city-acs-8.json", "19-city-heating-fuel-8.json"),
-               ("20-city-acs-9.json", "21-city-heating-fuel-9.json")]:
+               ("20-city-acs-9.json", "21-city-heating-fuel-9.json"),
+               ("22-city-acs-10.json", "23-city-heating-fuel-10.json")]:
     if (ROOT / "research" / _a).exists() and (ROOT / "research" / _f).exists():
         ACS.update(json.loads((ROOT / "research" / _a).read_text())["places"])
         FUEL.update(json.loads((ROOT / "research" / _f).read_text())["places"])
