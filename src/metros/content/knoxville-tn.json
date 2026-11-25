@@ -1,0 +1,45 @@
+{
+ "lead": "Knoxville plumbing deals with limestone ground, red clay, crawl spaces and older homes near downtown. PipeMend sends licensed local plumbers across Knoxville.",
+ "risk": "tree roots and cracks in old sewer lines, frozen crawl-space pipes and aging pipes",
+ "risk_short": "sewer lines, frozen pipes and old pipes",
+ "why": [
+  "Fourth and Gill, Old North Knoxville and Fort Sanders have homes from the 1880s to the 1930s with galvanized supply lines and clay sewer laterals. Roots and shifting clay crack those lines.",
+  "Many homes sit on crawl spaces, and hard freezes burst exposed pipes. Limestone close to the surface can make digging slow."
+ ],
+ "utility": "Knoxville Utilities Board (KUB)",
+ "water": "KUB treats water from the Tennessee River. It is moderately hard. KUB also runs Knoxville's natural gas, electric and sewer systems.",
+ "problems": [
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen crawl-space pipes",
+   "Citywide in hard freezes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Fourth and Gill and Old North",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Gas line work",
+   "Homes with gas service",
+   "<a href=\"/services/gas-line-repair/\">Gas line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Scope the sewer line before buying an older home.",
+  "Ask about trenchless repair where rock is near the surface.",
+  "Know where your gas and water shutoffs are."
+ ],
+ "areas": "PipeMend works in Fourth and Gill, Old North Knoxville, Sequoyah Hills, Fort Sanders, South Knoxville, Bearden, West Knoxville and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Knoxville Plans Review and Inspections Division. Larger jobs may also need a Tennessee contractor license.",
+ "faq": {
+  "q": "Who supplies gas and water in Knoxville?",
+  "a": "The Knoxville Utilities Board runs water, sewer, natural gas and electric service. If you smell gas, leave the home and call 911 or KUB from outside."
+ }
+}

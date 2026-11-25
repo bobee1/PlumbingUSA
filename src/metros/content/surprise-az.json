@@ -1,0 +1,45 @@
+{
+ "lead": "Surprise plumbing deals with very hard water, desert heat and mostly newer slab homes. PipeMend sends licensed local plumbers across Surprise.",
+ "risk": "very hard water scale, water heater wear and slab leaks",
+ "risk_short": "hard water, water heaters and slab leaks",
+ "why": [
+  "Most Surprise homes were built after 1995, including large retirement communities such as Sun City Grand. Original water heaters, softeners and fixtures in those homes are wearing out.",
+  "Homes sit on slabs, so leaks under the floor happen. Very hard water and summer heat shorten water heater life."
+ ],
+ "utility": "City of Surprise Water and EPCOR",
+ "water": "Surprise is served by the City of Surprise and, in some areas, by EPCOR. Supply is mostly groundwater plus Colorado River water. It is very hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Tankless descaling and repair",
+   "Newer homes",
+   "<a href=\"/services/tankless-water-heaters/\">Tankless water heaters</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Keep softener salt topped up.",
+  "Watch your water bill for slab leak signs.",
+  "Know which water provider serves your home."
+ ],
+ "areas": "PipeMend works in the Original Town Site, Sun City Grand, Marley Park, Sierra Montana, Greer Ranch, Surprise Farms and every other Surprise neighborhood.",
+ "permits": "Plumbing permits come from the City of Surprise Development Services, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "Who supplies water in Surprise?",
+  "a": "Most homes get water from the City of Surprise, and some from EPCOR. Your water bill shows which one serves you. Both deliver very hard water."
+ }
+}

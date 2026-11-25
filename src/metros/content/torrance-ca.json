@@ -1,0 +1,45 @@
+{
+ "lead": "Torrance plumbing deals with hard water, slab homes from the 1950s and 1960s and earthquake rules. PipeMend sends licensed local plumbers across Torrance.",
+ "risk": "slab leaks, aging copper and galvanized pipes and hard water scale",
+ "risk_short": "slab leaks, old pipes and hard water",
+ "why": [
+  "Much of Torrance was built in the 1950s and 1960s, so many homes have copper or galvanized supply lines under the slab that now leak. Old Torrance has homes from the 1910s and 1920s.",
+  "California requires water heaters to be strapped for earthquakes. Homes near the coast see more corrosion of outdoor fittings."
+ ],
+ "utility": "Torrance Municipal Water and California Water Service",
+ "water": "Torrance Municipal Water serves much of the city, and California Water Service serves other parts. Supply is mostly imported water plus local groundwater. It is hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "1950s–1960s slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized and copper lines",
+   "Older tracts",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "Flush your water heater yearly.",
+  "Know which water provider serves your home."
+ ],
+ "areas": "PipeMend works in Old Torrance, Walteria, Hollywood Riviera, Seaside, West Torrance, North Torrance, Southwood and every other Torrance neighborhood.",
+ "permits": "Plumbing permits come from the City of Torrance Building and Safety Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies water in Torrance?",
+  "a": "It depends on your address. Torrance Municipal Water serves much of the city, and California Water Service serves other areas. Your water bill shows which one you have."
+ }
+}

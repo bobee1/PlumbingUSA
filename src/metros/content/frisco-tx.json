@@ -1,0 +1,45 @@
+{
+ "lead": "Frisco plumbing deals with clay soil, post-tension slabs and a city of mostly new homes. PipeMend sends licensed local plumbers across Frisco.",
+ "risk": "slab leaks in shifting clay, water heater and tankless upkeep, and irrigation backflow testing",
+ "risk_short": "slab leaks, water heaters and backflow",
+ "why": [
+  "Most Frisco homes were built after 2000 on post-tension slabs over expansive clay. Clay movement in drought and heavy rain can still stress supply lines under the floor.",
+  "Many homes have tankless heaters, softeners and sprinkler systems. Texas rules require backflow devices on irrigation systems, and many need testing."
+ ],
+ "utility": "City of Frisco Public Works (water from the North Texas Municipal Water District)",
+ "water": "Frisco buys treated water from the North Texas Municipal Water District, which draws largely from Lavon Lake. The water is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Tankless descaling and repair",
+   "Newer homes",
+   "<a href=\"/services/tankless-water-heaters/\">Tankless water heaters</a>"
+  ],
+  [
+   "Irrigation backflow testing",
+   "Homes with sprinklers",
+   "<a href=\"/services/backflow-testing/\">Backflow testing</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Never cut into a post-tension slab without a plumber's scan.",
+  "Insulate attic pipes before winter.",
+  "Descale tankless units on schedule."
+ ],
+ "areas": "PipeMend works in Stonebriar, Starwood, Phillips Creek Ranch, Newman Village, Richwoods, the Grove, Downtown Frisco and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Frisco Building Inspections Division, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Why are post-tension slabs a plumbing concern in Frisco?",
+  "a": "Post-tension slabs hold steel cables under high tension. Cutting into one to reach a pipe can be dangerous. A plumber locates the cables first, or reroutes the line overhead instead."
+ }
+}

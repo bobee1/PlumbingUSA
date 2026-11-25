@@ -101,4 +101,10 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 95 | 2026-11-24 | 7 | 24 cities added to meta (ranks 72–100) + 24 copy files | Done | Top-100 list finished |
 | 96 | 2026-11-24 | 7 | Stand-in test of 49 staged pages: audit, readability, duplicates, links, responsive | Done | PASS; stand-ins deleted |
 | 97 | — | 7 | Owner runs Census script; publish 49 pages | Waiting | Owner action |
-| 98 | — | 8 | Wave 3 city keyword research (Semrush) | Planned | Next |
+| 98 | 2026-11-24 | 8 | Semrush: volume for 102 candidate cities, KD for top 48 → research/17-city-wave3.csv | Done | ~3,430 units; 18,300 left |
+| 99 | 2026-11-24 | 8 | San Jose found missing from all earlier lists; added to Build 8 | Done | 1,300/mo, KD 30 |
+| 100 | 2026-11-24 | 8 | 26 cities added to meta (wave 3) + 26 copy files; Census script batch 8 | Done | Staged |
+| 101 | 2026-11-24 | 8 | State pages: city links as pills; hub: top 40 cities + note | Done | Live now |
+| 102 | 2026-11-24 | 8 | Stand-in test of 75 staged pages: all checks | Done | PASS; stand-ins deleted |
+| 103 | — | 8 | Owner runs Census script; publish 75 pages | Waiting | Owner action |
+| 104 | — | 9 | Wave 3 ranks 28–52 + largest city in each uncovered state | Planned | Next |

@@ -4,7 +4,7 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-24 (Build 7 — staged with 6c, waiting on Census data)
+Last updated: 2026-11-24 (Build 8 — staged with 6c and 7, waiting on Census data)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
@@ -50,12 +50,22 @@ Last updated: 2026-11-24 (Build 7 — staged with 6c, waiting on Census data)
 - **Tested with stand-in figures (all 49 staged pages):** 194 pages built, audit PASS 0 issues, reading grade ≤9, no duplicates, lowest city inbound links 6, no overflow or console errors. Stand-in files deleted; live site stays at 145 pages.
 - **Owner action:** `git pull`, then `python3 scripts/census_pull.py`, then commit and push research/13–16. 49 city pages go live on the next build.
 
+## In progress — Build 8: Wave 3, first 26 cities (staged; waiting on Census data)
+- **Fresh Semrush research:** "plumber + city" volume for 102 new candidate cities and KD for the top 48 → `research/17-city-wave3.csv`, ranked by score = volume × (1 − KD/100). About 3,430 units used; 18,300 left.
+- **Found a gap:** San Jose (1,300/mo, KD 30) was missing from every earlier list. Added to Build 8 (ranks #2 in Wave 3). San Bernardino and Yonkers added to the list for later.
+- **Cities:** Frisco, San Jose, Huntington Beach, Temecula, Santa Rosa, McKinney, Fort Lauderdale, Tempe, Rancho Cucamonga, Fort Collins, Vancouver (WA), Sunnyvale, Escondido, Lakewood (CO), Round Rock, Alexandria (VA), Tacoma, Columbia (SC), Oceanside, Port St. Lucie, Elk Grove, Knoxville, Torrance, Santa Clarita, Surprise, Denton.
+- **Done:** meta (batch "8", wave 3) and 26 copy files; Census script batch "8" (writes research/18 and 19); `metros.py` merges them.
+- **Site changes that are live now:** state pages list their city pages as link pills instead of one long sentence (the California sentence was getting too hard to read); the locations hub shows the 40 cities with the most search demand plus a note that each state page lists all its cities (keeps the hub under 1,200 words as cities grow).
+- **Tested with stand-in figures (all 75 staged pages):** 220 pages built, audit PASS 0 issues, reading grade ≤9, no duplicates, lowest city inbound links 5, no overflow. Stand-ins deleted; live site 145 pages.
+- **Owner action (one run covers 6c, 7 and 8):** `git pull`, `python3 scripts/census_pull.py`, commit research/13–19 JSON files.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
 | 6c (finish) | Owner runs `scripts/census_pull.py`; then build, audit and publish the 25 staged cities | Census files |
 | 7 (finish) | Census data in → publish 6c + 7 (49 cities, 194 pages) | Owner runs script |
-| 8 (next) | Wave 3 city research with Semrush (now working): next 50–100 cities by \"plumber + city\" demand, then staged pages | — |
+| 8 (finish) | Census data in → publish 6c + 7 + 8 (75 cities, 220 pages) | Owner runs script |
+| 9 (next) | Wave 3 ranks 28–52 (Birmingham, Pembroke Pines, Overland Park, San Bernardino, Hollywood, Des Moines, Clearwater, Wilmington NC, …) plus the largest city in each state that has none yet (CT, DE, ME, MS, MT, NH, ND, RI, SD, VT, WV, WY) | — |
 | 7, 7b | Wave 2 cities, 25 per build | — |
 | 8+ | Wave 3 towns (50+ searches/mo) 25 per build; next guides; Search Console refreshes | Search Console access once live |
 | Launch | Buy pipemend.us, Cloudflare Pages project, real toll-free number, email, Resend keys | Domain, number, email, Resend key |

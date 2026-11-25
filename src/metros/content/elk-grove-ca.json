@@ -1,0 +1,45 @@
+{
+ "lead": "Elk Grove plumbing deals with hot summers, slab homes and mostly newer subdivisions. PipeMend sends licensed local plumbers across Elk Grove.",
+ "risk": "slab leaks, water heater wear and hard water scale",
+ "risk_short": "slab leaks, water heaters and hard water",
+ "why": [
+  "Old Town Elk Grove has some older homes, but most of the city, like Laguna and East Franklin, was built from the 1990s on. Original water heaters and fixtures in those homes are wearing out.",
+  "Concrete slab foundations are the norm, so hidden supply leaks under the floor do happen. Garage heat in July and August is tough on water heaters too."
+ ],
+ "utility": "Sacramento County Water Agency and Elk Grove Water District",
+ "water": "Elk Grove is served by the Sacramento County Water Agency and, in parts of the city, the Elk Grove Water District. Supply mixes groundwater and river water. It is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Clogged drains",
+   "Homes citywide",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs.",
+  "Know which water provider serves your home."
+ ],
+ "areas": "PipeMend works in Old Town Elk Grove, Laguna, Laguna West, East Franklin, Sheldon, Stonelake, Lakeside and every other Elk Grove neighborhood.",
+ "permits": "Plumbing permits come from the City of Elk Grove Building Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies water in Elk Grove?",
+  "a": "Most homes are served by the Sacramento County Water Agency, and some by the Elk Grove Water District. Your water bill shows which one you have."
+ }
+}

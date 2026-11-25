@@ -1,0 +1,45 @@
+{
+ "lead": "Rancho Cucamonga plumbing deals with hard water, hot dry winds and homes from the 1970s on. PipeMend sends licensed local plumbers across Rancho Cucamonga.",
+ "risk": "slab leaks, hard water scale and water heater wear",
+ "risk_short": "slab leaks, hard water and water heaters",
+ "why": [
+  "Alta Loma and Cucamonga have homes from the 1970s and 1980s, some with polybutylene supply pipe. Etiwanda and Terra Vista were built mostly after 1990.",
+  "Homes sit on slabs, so leaks under the floor happen. Summer heat and Santa Ana winds are hard on garage water heaters and outdoor plumbing."
+ ],
+ "utility": "Cucamonga Valley Water District",
+ "water": "Cucamonga Valley Water District blends local groundwater and mountain runoff with imported water. It is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Look for gray pipe stamped PB2110.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Alta Loma, Etiwanda, Cucamonga, Victoria Gardens, Terra Vista, Caryn, Red Hill and every other Rancho Cucamonga neighborhood.",
+ "permits": "Plumbing permits come from the City of Rancho Cucamonga Building and Safety Services, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Do Rancho Cucamonga homes have polybutylene pipe?",
+  "a": "Some homes built in the 1980s and early 1990s do. Look for gray plastic pipe stamped PB2110 near the water heater or in the attic. Replacing it before it fails avoids water damage."
+ }
+}

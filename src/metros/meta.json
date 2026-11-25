@@ -969,7 +969,8 @@
    "santa-ana-ca",
    "irvine-ca",
    "long-beach-ca",
-   "los-angeles-ca"
+   "los-angeles-ca",
+   "rancho-cucamonga-ca"
   ],
   "wave": 1,
   "rank": 26,
@@ -2085,6 +2086,7 @@
   ],
   "wiki": "Fremont,_California",
   "nearby": [
+   "san-jose-ca",
    "oakland-ca",
    "san-francisco-ca"
   ],
@@ -2900,7 +2902,8 @@
   "nearby": [
    "anaheim-ca",
    "los-angeles-ca",
-   "santa-ana-ca"
+   "santa-ana-ca",
+   "rancho-cucamonga-ca"
   ],
   "wave": 2,
   "rank": 76,
@@ -3850,5 +3853,1011 @@
    "29"
   ],
   "batch": "7"
+ },
+ "frisco-tx": {
+  "city": "Frisco",
+  "st": "TX",
+  "acs": "Frisco|48",
+  "fuel": "Frisco|48",
+  "url": "frisco",
+  "county": "Collin and Denton counties",
+  "zips": [
+   "75033",
+   "75034",
+   "75035",
+   "75036"
+  ],
+  "hoods": [
+   "Stonebriar",
+   "Starwood",
+   "Phillips Creek Ranch",
+   "Newman Village",
+   "Richwoods",
+   "Hollyhock",
+   "the Grove",
+   "Downtown Frisco"
+  ],
+  "wiki": "Frisco,_Texas",
+  "nearby": [
+   "mckinney-tx",
+   "plano-tx",
+   "denton-tx",
+   "dallas-tx"
+  ],
+  "wave": 3,
+  "rank": 101,
+  "semrush": [
+   "1300",
+   "27"
+  ],
+  "batch": "8"
+ },
+ "san-jose-ca": {
+  "city": "San Jose",
+  "st": "CA",
+  "acs": "San Jose|06",
+  "fuel": "San Jose|06",
+  "url": "san-jose",
+  "county": "Santa Clara County",
+  "zips": [
+   "95110",
+   "95112",
+   "95116",
+   "95118",
+   "95120",
+   "95123",
+   "95125",
+   "95126"
+  ],
+  "hoods": [
+   "Willow Glen",
+   "the Rose Garden",
+   "Downtown",
+   "Japantown",
+   "Almaden Valley",
+   "Evergreen",
+   "Cambrian",
+   "Berryessa"
+  ],
+  "wiki": "San_Jose,_California",
+  "nearby": [
+   "sunnyvale-ca",
+   "fremont-ca",
+   "oakland-ca",
+   "san-francisco-ca"
+  ],
+  "wave": 3,
+  "rank": 102,
+  "semrush": [
+   "1300",
+   "30"
+  ],
+  "batch": "8"
+ },
+ "huntington-beach-ca": {
+  "city": "Huntington Beach",
+  "st": "CA",
+  "acs": "Huntington Beach|06",
+  "fuel": "Huntington Beach|06",
+  "url": "huntington-beach",
+  "county": "Orange County",
+  "zips": [
+   "92646",
+   "92647",
+   "92648",
+   "92649"
+  ],
+  "hoods": [
+   "Downtown",
+   "Huntington Harbour",
+   "the Bluffs",
+   "Seacliff",
+   "Edwards Hill",
+   "Sunset Beach",
+   "Southeast HB",
+   "Northwest HB"
+  ],
+  "wiki": "Huntington_Beach,_California",
+  "nearby": [
+   "long-beach-ca",
+   "santa-ana-ca",
+   "irvine-ca",
+   "anaheim-ca"
+  ],
+  "wave": 3,
+  "rank": 103,
+  "semrush": [
+   "1000",
+   "10"
+  ],
+  "batch": "8"
+ },
+ "temecula-ca": {
+  "city": "Temecula",
+  "st": "CA",
+  "acs": "Temecula|06",
+  "fuel": "Temecula|06",
+  "url": "temecula",
+  "county": "Riverside County",
+  "zips": [
+   "92590",
+   "92591",
+   "92592"
+  ],
+  "hoods": [
+   "Old Town",
+   "Redhawk",
+   "Paloma del Sol",
+   "Harveston",
+   "Wine Country",
+   "Morgan Hill",
+   "Vail Ranch",
+   "Crowne Hill"
+  ],
+  "wiki": "Temecula,_California",
+  "nearby": [
+   "riverside-ca",
+   "escondido-ca",
+   "oceanside-ca",
+   "rancho-cucamonga-ca"
+  ],
+  "wave": 3,
+  "rank": 104,
+  "semrush": [
+   "1000",
+   "15"
+  ],
+  "batch": "8"
+ },
+ "santa-rosa-ca": {
+  "city": "Santa Rosa",
+  "st": "CA",
+  "acs": "Santa Rosa|06",
+  "fuel": "Santa Rosa|06",
+  "url": "santa-rosa",
+  "county": "Sonoma County",
+  "zips": [
+   "95401",
+   "95403",
+   "95404",
+   "95405",
+   "95407",
+   "95409"
+  ],
+  "hoods": [
+   "the Junior College area",
+   "McDonald Avenue",
+   "Bennett Valley",
+   "Fountaingrove",
+   "Rincon Valley",
+   "Roseland",
+   "Coffey Park",
+   "Montgomery Village"
+  ],
+  "wiki": "Santa_Rosa,_California",
+  "nearby": [
+   "oakland-ca",
+   "sacramento-ca",
+   "san-francisco-ca"
+  ],
+  "wave": 3,
+  "rank": 105,
+  "semrush": [
+   "1000",
+   "16"
+  ],
+  "batch": "8"
+ },
+ "mckinney-tx": {
+  "city": "McKinney",
+  "st": "TX",
+  "acs": "McKinney|48",
+  "fuel": "McKinney|48",
+  "url": "mckinney",
+  "county": "Collin County",
+  "zips": [
+   "75069",
+   "75070",
+   "75071",
+   "75072"
+  ],
+  "hoods": [
+   "Historic Downtown",
+   "Craig Ranch",
+   "Stonebridge Ranch",
+   "Tucker Hill",
+   "Trinity Falls",
+   "Eldorado",
+   "Adriatica",
+   "Westridge"
+  ],
+  "wiki": "McKinney,_Texas",
+  "nearby": [
+   "frisco-tx",
+   "plano-tx",
+   "garland-tx",
+   "dallas-tx"
+  ],
+  "wave": 3,
+  "rank": 106,
+  "semrush": [
+   "1000",
+   "21"
+  ],
+  "batch": "8"
+ },
+ "fort-lauderdale-fl": {
+  "city": "Fort Lauderdale",
+  "st": "FL",
+  "acs": "Fort Lauderdale|12",
+  "fuel": "Fort Lauderdale|12",
+  "url": "fort-lauderdale",
+  "county": "Broward County",
+  "zips": [
+   "33301",
+   "33304",
+   "33305",
+   "33306",
+   "33308",
+   "33309",
+   "33311",
+   "33315",
+   "33316"
+  ],
+  "hoods": [
+   "Victoria Park",
+   "Las Olas",
+   "Rio Vista",
+   "Coral Ridge",
+   "Harbor Beach",
+   "Flagler Village",
+   "Wilton Manors area",
+   "Imperial Point"
+  ],
+  "wiki": "Fort_Lauderdale,_Florida",
+  "nearby": [
+   "miami-fl",
+   "hialeah-fl",
+   "port-st-lucie-fl"
+  ],
+  "wave": 3,
+  "rank": 107,
+  "semrush": [
+   "1000",
+   "23"
+  ],
+  "batch": "8"
+ },
+ "tempe-az": {
+  "city": "Tempe",
+  "st": "AZ",
+  "acs": "Tempe|04",
+  "fuel": "Tempe|04",
+  "url": "tempe",
+  "county": "Maricopa County",
+  "zips": [
+   "85281",
+   "85282",
+   "85283",
+   "85284"
+  ],
+  "hoods": [
+   "Downtown Tempe",
+   "Maple-Ash",
+   "the ASU area",
+   "Lakeshore",
+   "Kiwanis Park area",
+   "the Lakes",
+   "South Tempe",
+   "Warner Ranch"
+  ],
+  "wiki": "Tempe,_Arizona",
+  "nearby": [
+   "phoenix-az",
+   "mesa-az",
+   "chandler-az",
+   "scottsdale-az"
+  ],
+  "wave": 3,
+  "rank": 108,
+  "semrush": [
+   "880",
+   "19"
+  ],
+  "batch": "8"
+ },
+ "rancho-cucamonga-ca": {
+  "city": "Rancho Cucamonga",
+  "st": "CA",
+  "acs": "Rancho Cucamonga|06",
+  "fuel": "Rancho Cucamonga|06",
+  "url": "rancho-cucamonga",
+  "county": "San Bernardino County",
+  "zips": [
+   "91701",
+   "91730",
+   "91737",
+   "91739"
+  ],
+  "hoods": [
+   "Alta Loma",
+   "Etiwanda",
+   "Cucamonga",
+   "Victoria Gardens",
+   "Terra Vista",
+   "Caryn",
+   "Red Hill",
+   "Haven View"
+  ],
+  "wiki": "Rancho_Cucamonga,_California",
+  "nearby": [
+   "riverside-ca",
+   "anaheim-ca",
+   "los-angeles-ca"
+  ],
+  "wave": 3,
+  "rank": 109,
+  "semrush": [
+   "720",
+   "6"
+  ],
+  "batch": "8"
+ },
+ "fort-collins-co": {
+  "city": "Fort Collins",
+  "st": "CO",
+  "acs": "Fort Collins|08",
+  "fuel": "Fort Collins|08",
+  "url": "fort-collins",
+  "county": "Larimer County",
+  "zips": [
+   "80521",
+   "80524",
+   "80525",
+   "80526",
+   "80528"
+  ],
+  "hoods": [
+   "Old Town",
+   "the CSU area",
+   "Midtown",
+   "Southeast Fort Collins",
+   "Harmony",
+   "Old Town North",
+   "Rolland Moore",
+   "Waterfield"
+  ],
+  "wiki": "Fort_Collins,_Colorado",
+  "nearby": [
+   "denver-co",
+   "aurora-co",
+   "lakewood-co"
+  ],
+  "wave": 3,
+  "rank": 110,
+  "semrush": [
+   "1000",
+   "33"
+  ],
+  "batch": "8"
+ },
+ "vancouver-wa": {
+  "city": "Vancouver",
+  "st": "WA",
+  "acs": "Vancouver|53",
+  "fuel": "Vancouver|53",
+  "url": "vancouver",
+  "county": "Clark County",
+  "zips": [
+   "98660",
+   "98661",
+   "98662",
+   "98664",
+   "98682",
+   "98683",
+   "98684",
+   "98685"
+  ],
+  "hoods": [
+   "Uptown Village",
+   "Hough",
+   "Arnada",
+   "Fourth Plain",
+   "Fisher's Landing",
+   "Cascade Park",
+   "Felida",
+   "Salmon Creek"
+  ],
+  "wiki": "Vancouver,_Washington",
+  "nearby": [
+   "portland-or",
+   "tacoma-wa",
+   "seattle-wa"
+  ],
+  "wave": 3,
+  "rank": 111,
+  "semrush": [
+   "880",
+   "28"
+  ],
+  "batch": "8"
+ },
+ "sunnyvale-ca": {
+  "city": "Sunnyvale",
+  "st": "CA",
+  "acs": "Sunnyvale|06",
+  "fuel": "Sunnyvale|06",
+  "url": "sunnyvale",
+  "county": "Santa Clara County",
+  "zips": [
+   "94085",
+   "94086",
+   "94087",
+   "94089"
+  ],
+  "hoods": [
+   "Downtown Sunnyvale",
+   "Cherry Chase",
+   "Ponderosa Park",
+   "Lakewood",
+   "Ortega Park",
+   "Raynor Park",
+   "Birdland",
+   "Washington Park"
+  ],
+  "wiki": "Sunnyvale,_California",
+  "nearby": [
+   "san-jose-ca",
+   "fremont-ca",
+   "san-francisco-ca",
+   "oakland-ca"
+  ],
+  "wave": 3,
+  "rank": 112,
+  "semrush": [
+   "720",
+   "15"
+  ],
+  "batch": "8"
+ },
+ "escondido-ca": {
+  "city": "Escondido",
+  "st": "CA",
+  "acs": "Escondido|06",
+  "fuel": "Escondido|06",
+  "url": "escondido",
+  "county": "San Diego County",
+  "zips": [
+   "92025",
+   "92026",
+   "92027",
+   "92029"
+  ],
+  "hoods": [
+   "Old Escondido",
+   "Downtown",
+   "Felicita",
+   "Rancho San Pasqual",
+   "Kit Carson",
+   "Hidden Meadows area",
+   "Eureka Springs",
+   "Mission Park"
+  ],
+  "wiki": "Escondido,_California",
+  "nearby": [
+   "san-diego-ca",
+   "oceanside-ca",
+   "temecula-ca",
+   "chula-vista-ca"
+  ],
+  "wave": 3,
+  "rank": 113,
+  "semrush": [
+   "720",
+   "16"
+  ],
+  "batch": "8"
+ },
+ "lakewood-co": {
+  "city": "Lakewood",
+  "st": "CO",
+  "acs": "Lakewood|08",
+  "fuel": "Lakewood|08",
+  "url": "lakewood",
+  "county": "Jefferson County",
+  "zips": [
+   "80214",
+   "80215",
+   "80226",
+   "80227",
+   "80228",
+   "80232"
+  ],
+  "hoods": [
+   "Belmar",
+   "Green Mountain",
+   "Bear Creek",
+   "Applewood area",
+   "Lakewood Heights",
+   "Eiber",
+   "Morse Park",
+   "Union Square"
+  ],
+  "wiki": "Lakewood,_Colorado",
+  "nearby": [
+   "denver-co",
+   "aurora-co",
+   "fort-collins-co"
+  ],
+  "wave": 3,
+  "rank": 114,
+  "semrush": [
+   "720",
+   "17"
+  ],
+  "batch": "8"
+ },
+ "round-rock-tx": {
+  "city": "Round Rock",
+  "st": "TX",
+  "acs": "Round Rock|48",
+  "fuel": "Round Rock|48",
+  "url": "round-rock",
+  "county": "Williamson County",
+  "zips": [
+   "78664",
+   "78665",
+   "78681"
+  ],
+  "hoods": [
+   "Downtown Round Rock",
+   "Teravista",
+   "Forest Creek",
+   "Behrens Ranch",
+   "Brushy Creek",
+   "Paloma Lake",
+   "Mayfield Ranch",
+   "Chandler Creek"
+  ],
+  "wiki": "Round_Rock,_Texas",
+  "nearby": [
+   "austin-tx",
+   "san-antonio-tx"
+  ],
+  "wave": 3,
+  "rank": 115,
+  "semrush": [
+   "720",
+   "20"
+  ],
+  "batch": "8"
+ },
+ "alexandria-va": {
+  "city": "Alexandria",
+  "st": "VA",
+  "acs": "Alexandria|51",
+  "fuel": "Alexandria|51",
+  "url": "alexandria",
+  "county": "Independent city",
+  "zips": [
+   "22301",
+   "22302",
+   "22304",
+   "22305",
+   "22311",
+   "22314"
+  ],
+  "hoods": [
+   "Old Town",
+   "Del Ray",
+   "Rosemont",
+   "Seminary Hill",
+   "Arlandria",
+   "Parkfairfax",
+   "Carlyle",
+   "the West End"
+  ],
+  "wiki": "Alexandria,_Virginia",
+  "nearby": [
+   "richmond-va",
+   "baltimore-md",
+   "philadelphia-pa"
+  ],
+  "wave": 3,
+  "rank": 116,
+  "semrush": [
+   "720",
+   "20"
+  ],
+  "batch": "8",
+  "indep": true
+ },
+ "tacoma-wa": {
+  "city": "Tacoma",
+  "st": "WA",
+  "acs": "Tacoma|53",
+  "fuel": "Tacoma|53",
+  "url": "tacoma",
+  "county": "Pierce County",
+  "zips": [
+   "98402",
+   "98403",
+   "98405",
+   "98406",
+   "98407",
+   "98408",
+   "98409",
+   "98418"
+  ],
+  "hoods": [
+   "the North End",
+   "the Stadium District",
+   "Hilltop",
+   "Proctor",
+   "South Tacoma",
+   "the Eastside",
+   "Lincoln District",
+   "Old Town"
+  ],
+  "wiki": "Tacoma,_Washington",
+  "nearby": [
+   "seattle-wa",
+   "vancouver-wa",
+   "spokane-wa"
+  ],
+  "wave": 3,
+  "rank": 117,
+  "semrush": [
+   "880",
+   "37"
+  ],
+  "batch": "8"
+ },
+ "columbia-sc": {
+  "city": "Columbia",
+  "st": "SC",
+  "acs": "Columbia|45",
+  "fuel": "Columbia|45",
+  "url": "columbia",
+  "county": "Richland County",
+  "zips": [
+   "29201",
+   "29203",
+   "29204",
+   "29205",
+   "29206",
+   "29209",
+   "29210"
+  ],
+  "hoods": [
+   "Shandon",
+   "Elmwood Park",
+   "Rosewood",
+   "Forest Acres area",
+   "the Vista",
+   "Five Points",
+   "Earlewood",
+   "Lake Katherine"
+  ],
+  "wiki": "Columbia,_South_Carolina",
+  "nearby": [
+   "charlotte-nc",
+   "greensboro-nc",
+   "atlanta-ga"
+  ],
+  "wave": 3,
+  "rank": 118,
+  "semrush": [
+   "880",
+   "38"
+  ],
+  "batch": "8"
+ },
+ "oceanside-ca": {
+  "city": "Oceanside",
+  "st": "CA",
+  "acs": "Oceanside|06",
+  "fuel": "Oceanside|06",
+  "url": "oceanside",
+  "county": "San Diego County",
+  "zips": [
+   "92054",
+   "92056",
+   "92057",
+   "92058"
+  ],
+  "hoods": [
+   "Downtown",
+   "South Oceanside",
+   "Fire Mountain",
+   "Loma Alta",
+   "Mission San Luis Rey",
+   "Ocean Hills",
+   "Rancho del Oro",
+   "Jeffries Ranch"
+  ],
+  "wiki": "Oceanside,_California",
+  "nearby": [
+   "san-diego-ca",
+   "escondido-ca",
+   "temecula-ca"
+  ],
+  "wave": 3,
+  "rank": 119,
+  "semrush": [
+   "590",
+   "11"
+  ],
+  "batch": "8"
+ },
+ "port-st-lucie-fl": {
+  "city": "Port St. Lucie",
+  "st": "FL",
+  "acs": "Port St. Lucie|12",
+  "fuel": "Port St. Lucie|12",
+  "url": "port-st-lucie",
+  "county": "St. Lucie County",
+  "zips": [
+   "34952",
+   "34953",
+   "34983",
+   "34984",
+   "34986",
+   "34987"
+  ],
+  "hoods": [
+   "St. Lucie West",
+   "Tradition",
+   "Torino",
+   "Sandpiper Bay",
+   "Southbend",
+   "the Becker Road area",
+   "Floresta",
+   "Lake Charles"
+  ],
+  "wiki": "Port_St._Lucie,_Florida",
+  "nearby": [
+   "fort-lauderdale-fl",
+   "orlando-fl",
+   "miami-fl"
+  ],
+  "wave": 3,
+  "rank": 120,
+  "semrush": [
+   "1000",
+   "49"
+  ],
+  "batch": "8"
+ },
+ "elk-grove-ca": {
+  "city": "Elk Grove",
+  "st": "CA",
+  "acs": "Elk Grove|06",
+  "fuel": "Elk Grove|06",
+  "url": "elk-grove",
+  "county": "Sacramento County",
+  "zips": [
+   "95624",
+   "95757",
+   "95758"
+  ],
+  "hoods": [
+   "Old Town Elk Grove",
+   "Laguna",
+   "Laguna West",
+   "East Franklin",
+   "Sheldon",
+   "Stonelake",
+   "Elk Grove West",
+   "Lakeside"
+  ],
+  "wiki": "Elk_Grove,_California",
+  "nearby": [
+   "sacramento-ca",
+   "stockton-ca"
+  ],
+  "wave": 3,
+  "rank": 121,
+  "semrush": [
+   "590",
+   "18"
+  ],
+  "batch": "8"
+ },
+ "knoxville-tn": {
+  "city": "Knoxville",
+  "st": "TN",
+  "acs": "Knoxville|47",
+  "fuel": "Knoxville|47",
+  "url": "knoxville",
+  "county": "Knox County",
+  "zips": [
+   "37902",
+   "37909",
+   "37912",
+   "37914",
+   "37916",
+   "37917",
+   "37919",
+   "37920"
+  ],
+  "hoods": [
+   "Fourth and Gill",
+   "Old North Knoxville",
+   "Sequoyah Hills",
+   "Fort Sanders",
+   "South Knoxville",
+   "Bearden",
+   "West Knoxville",
+   "Holston Hills"
+  ],
+  "wiki": "Knoxville,_Tennessee",
+  "nearby": [
+   "nashville-tn",
+   "atlanta-ga",
+   "charlotte-nc"
+  ],
+  "wave": 3,
+  "rank": 122,
+  "semrush": [
+   "720",
+   "33"
+  ],
+  "batch": "8"
+ },
+ "torrance-ca": {
+  "city": "Torrance",
+  "st": "CA",
+  "acs": "Torrance|06",
+  "fuel": "Torrance|06",
+  "url": "torrance",
+  "county": "Los Angeles County",
+  "zips": [
+   "90501",
+   "90503",
+   "90504",
+   "90505"
+  ],
+  "hoods": [
+   "Old Torrance",
+   "Walteria",
+   "Hollywood Riviera",
+   "Seaside",
+   "West Torrance",
+   "North Torrance",
+   "Southwood",
+   "El Camino Village"
+  ],
+  "wiki": "Torrance,_California",
+  "nearby": [
+   "long-beach-ca",
+   "los-angeles-ca",
+   "huntington-beach-ca"
+  ],
+  "wave": 3,
+  "rank": 123,
+  "semrush": [
+   "720",
+   "34"
+  ],
+  "batch": "8"
+ },
+ "santa-clarita-ca": {
+  "city": "Santa Clarita",
+  "st": "CA",
+  "acs": "Santa Clarita|06",
+  "fuel": "Santa Clarita|06",
+  "url": "santa-clarita",
+  "county": "Los Angeles County",
+  "zips": [
+   "91321",
+   "91350",
+   "91351",
+   "91354",
+   "91355",
+   "91387",
+   "91390"
+  ],
+  "hoods": [
+   "Valencia",
+   "Newhall",
+   "Saugus",
+   "Canyon Country",
+   "Stevenson Ranch area",
+   "Castaic area",
+   "Fair Oaks Ranch",
+   "Sand Canyon"
+  ],
+  "wiki": "Santa_Clarita,_California",
+  "nearby": [
+   "los-angeles-ca",
+   "bakersfield-ca",
+   "torrance-ca"
+  ],
+  "wave": 3,
+  "rank": 124,
+  "semrush": [
+   "590",
+   "20"
+  ],
+  "batch": "8"
+ },
+ "surprise-az": {
+  "city": "Surprise",
+  "st": "AZ",
+  "acs": "Surprise|04",
+  "fuel": "Surprise|04",
+  "url": "surprise",
+  "county": "Maricopa County",
+  "zips": [
+   "85374",
+   "85378",
+   "85379",
+   "85387",
+   "85388"
+  ],
+  "hoods": [
+   "Original Town Site",
+   "Sun City Grand",
+   "Marley Park",
+   "Sierra Montana",
+   "Rancho Gabriela",
+   "Greer Ranch",
+   "Surprise Farms",
+   "Asante"
+  ],
+  "wiki": "Surprise,_Arizona",
+  "nearby": [
+   "glendale-az",
+   "phoenix-az",
+   "tempe-az"
+  ],
+  "wave": 3,
+  "rank": 125,
+  "semrush": [
+   "590",
+   "21"
+  ],
+  "batch": "8"
+ },
+ "denton-tx": {
+  "city": "Denton",
+  "st": "TX",
+  "acs": "Denton|48",
+  "fuel": "Denton|48",
+  "url": "denton",
+  "county": "Denton County",
+  "zips": [
+   "76201",
+   "76205",
+   "76207",
+   "76208",
+   "76209",
+   "76210"
+  ],
+  "hoods": [
+   "Downtown Denton",
+   "the UNT area",
+   "Fred Moore Park",
+   "Robson Ranch",
+   "Southridge",
+   "Hickory Creek area",
+   "Wildwood",
+   "Lantana area"
+  ],
+  "wiki": "Denton,_Texas",
+  "nearby": [
+   "frisco-tx",
+   "mckinney-tx",
+   "fort-worth-tx",
+   "dallas-tx"
+  ],
+  "wave": 3,
+  "rank": 127,
+  "semrush": [
+   "590",
+   "26"
+  ],
+  "batch": "8"
  }
 }

@@ -132,9 +132,14 @@ def expand_components(body, meta, pages_by_path):
         mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}</a></li>' for k in sorted(top, key=lambda k: metros.MMETA[k]["city"]))
         body = body.replace("{{metro_pills_top}}", f'<ul class="pills pills-sm">{mp}<li><a href="/locations/#city-pages">All city pages</a></li></ul>')
     if metros and "{{metro_pills}}" in body:
+        # hub: the 40 cities with the most search demand; every city is also listed on its state page
+        live = [k for k in metros.MMETA if metros.live(k)]
+        top = sorted(live, key=lambda k: metros.MMETA[k]["rank"])[:40]
         mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}, {metros.MMETA[k]["st"]}</a></li>'
-                     for k in sorted(metros.MMETA, key=lambda k: metros.MMETA[k]["city"]) if metros.live(k))
-        body = body.replace("{{metro_pills}}", f'<ul class="pills pills-sm">{mp}</ul>')
+                     for k in sorted(top, key=lambda k: metros.MMETA[k]["city"]))
+        more = (f'<p class="small-note">{len(live)} city pages in all. Open any state page to see every city page in that state.</p>'
+                if len(live) > 40 else "")
+        body = body.replace("{{metro_pills}}", f'<ul class="pills pills-sm">{mp}</ul>{more}')
     if states and "{{near_you}}" in body:
         body = body.replace("{{near_you}}", f'<h2>{esc(meta["service"]["name"])} near you</h2>\n' + states.state_pills())
     if blog and "{{" in body:

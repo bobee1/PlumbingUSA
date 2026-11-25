@@ -1,0 +1,45 @@
+{
+ "lead": "Fort Lauderdale plumbing deals with a high water table, king tides, heavy rain and aging cast-iron drains. PipeMend sends licensed local plumbers across Fort Lauderdale.",
+ "risk": "cast-iron drain failures, flooding and backups, and slab leaks",
+ "risk_short": "cast-iron drains, flooding and slab leaks",
+ "why": [
+  "Victoria Park, Rio Vista and Coral Ridge have many homes from the 1940s to the 1970s with cast-iron drains under the slab that are rotting from the inside. Lining or replacing them is a common job.",
+  "The April 2023 storm dropped more than 25 inches of rain in a day and flooded much of the city. King tides push water up through storm drains in low areas near the canals."
+ ],
+ "utility": "City of Fort Lauderdale Public Works",
+ "water": "Fort Lauderdale pumps its water from the Biscayne Aquifer and treats it at the city's plants. It is moderately hard.",
+ "problems": [
+  [
+   "Cast-iron drain failures",
+   "1940s–1970s homes",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Flood and tide backups",
+   "Low areas near canals",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Condo riser leaks",
+   "High-rise buildings",
+   "<a href=\"/services/commercial-plumbing/\">Commercial plumbing</a>"
+  ]
+ ],
+ "tips": [
+  "Have cast-iron drains scoped in older homes.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Know your flood zone and king tide dates.",
+  "Check condo rules before plumbing work."
+ ],
+ "areas": "PipeMend works in Victoria Park, Las Olas, Rio Vista, Coral Ridge, Harbor Beach, Flagler Village, Imperial Point and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Fort Lauderdale Development Services Department, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Why do older Fort Lauderdale homes have drain problems?",
+  "a": "Many have cast-iron drains under the slab. Decades of use and Florida's climate corrode them from the inside, causing slow drains, backups and smells. A camera inspection shows what is needed."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Port St. Lucie plumbing deals with hurricanes, sandy soil and block homes from the 1980s on. PipeMend sends licensed local plumbers across Port St. Lucie.",
+ "risk": "slab leaks, polybutylene pipe and hurricane damage",
+ "risk_short": "slab leaks, old pipes and storms",
+ "why": [
+  "Port St. Lucie grew fast from the 1980s on, with mostly concrete block homes on slabs. Homes from the 1980s and early 1990s may have gray polybutylene pipe.",
+  "Hurricanes bring flooding and long power outages. Many older homes were built on septic systems, and the city has been connecting some areas to sewer."
+ ],
+ "utility": "Port St. Lucie Utility Systems",
+ "water": "Port St. Lucie treats water from the Floridan Aquifer using reverse osmosis. The water is soft after treatment.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s–early 1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Storm damage and backups",
+   "After hurricanes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Septic-to-sewer hookups",
+   "Older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Look for gray pipe stamped PB2110.",
+  "Shut off the main valve before a hurricane evacuation.",
+  "Watch your water bill for slab leak signs.",
+  "Know whether your home is on septic or sewer."
+ ],
+ "areas": "PipeMend works in St. Lucie West, Tradition, Torino, Sandpiper Bay, Southbend, Floresta and every other Port St. Lucie neighborhood.",
+ "permits": "Plumbing permits come from the City of Port St. Lucie Building Department, and plumbing contractors are licensed by the Florida Construction Industry Licensing Board.",
+ "faq": {
+  "q": "Do many Port St. Lucie homes have polybutylene pipe?",
+  "a": "Some homes from the 1980s and early 1990s do. Look for gray plastic pipe stamped PB2110. Many insurers ask about it, and replacing it avoids sudden leaks."
+ }
+}

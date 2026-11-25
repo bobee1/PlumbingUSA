@@ -1,0 +1,45 @@
+{
+ "lead": "Temecula plumbing deals with hard water, hot summers and homes from the 1980s to today. PipeMend sends licensed local plumbers across Temecula.",
+ "risk": "hard water scale, water heater wear and slab leaks",
+ "risk_short": "hard water, water heaters and slab leaks",
+ "why": [
+  "Temecula grew from the late 1980s on, so many homes are 30 to 35 years old. Original water heaters, softeners and fixtures are wearing out, and some early homes used polybutylene pipe.",
+  "Every home here sits on a slab, so a leak in a buried line can go unseen. Long, hot summers in the garage also wear out water heaters early."
+ ],
+ "utility": "Rancho California Water District and Eastern Municipal Water District",
+ "water": "Most Temecula homes are served by Rancho California Water District, with some by Eastern Municipal Water District. Supply blends local groundwater with imported water. It is hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "Early-1990s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Keep softener salt topped up.",
+  "Strap your water heater for earthquakes.",
+  "Look for gray pipe stamped PB2110 in older homes."
+ ],
+ "areas": "PipeMend works in Old Town, Redhawk, Paloma del Sol, Harveston, Wine Country, Morgan Hill, Vail Ranch and every other Temecula neighborhood.",
+ "permits": "Plumbing permits come from the City of Temecula Building and Safety Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies water in Temecula?",
+  "a": "Most homes get water from Rancho California Water District, and some from Eastern Municipal Water District. Your water bill shows which one serves you."
+ }
+}

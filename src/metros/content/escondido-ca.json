@@ -1,0 +1,45 @@
+{
+ "lead": "Escondido plumbing deals with hard water, hot inland summers and a mix of older and newer homes. PipeMend sends licensed local plumbers across Escondido.",
+ "risk": "hard water scale, slab leaks and aging pipes in Old Escondido",
+ "risk_short": "hard water, slab leaks and old pipes",
+ "why": [
+  "Old Escondido has homes from the 1900s to the 1940s with galvanized supply lines and clay sewer laterals. Postwar and newer homes across the city sit on slabs.",
+  "Inland heat is hard on garage water heaters, and hard water adds scale. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "City of Escondido Utilities",
+ "water": "Escondido uses local water from Lake Dixon and Lake Wohlford plus imported water. The water is hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old Escondido",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Hot garages",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater yearly.",
+  "Strap your water heater for earthquakes.",
+  "Scope old sewer lines before buying.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works in Old Escondido, Downtown, Felicita, Rancho San Pasqual, Kit Carson, Eureka Springs, Mission Park and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Escondido Building Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Do historic Escondido homes need special plumbing care?",
+  "a": "Old Escondido homes often have galvanized pipe and clay sewer lines due for replacement. The historic district may have rules for visible exterior work, so check with the city first."
+ }
+}

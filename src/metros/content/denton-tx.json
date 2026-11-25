@@ -1,0 +1,45 @@
+{
+ "lead": "Denton plumbing deals with clay soil, a historic core, student rentals and new subdivisions. PipeMend sends licensed local plumbers across Denton.",
+ "risk": "slab leaks in clay soil, aging pipes near downtown and burst pipes in freezes",
+ "risk_short": "slab leaks, old pipes and frozen pipes",
+ "why": [
+  "Homes near Downtown Denton and the UNT campus date from the 1900s to the 1950s, with galvanized supply lines and cast-iron or clay drains. Many are rentals that see heavy use.",
+  "Expansive clay moves with drought and rain, which stresses lines under slabs. Rare hard freezes burst attic and exterior-wall pipes."
+ ],
+ "utility": "Denton Municipal Utilities",
+ "water": "Denton treats water from Lake Ray Roberts and Lewisville Lake. It is moderately hard. The city utility also supplies electricity.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Downtown and the UNT area",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Clogged drains",
+   "Student rentals",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Insulate attic pipes before winter.",
+  "Give tenants a shutoff valve map.",
+  "Scope older drains before buying."
+ ],
+ "areas": "PipeMend works in Downtown Denton, the UNT area, Fred Moore Park, Robson Ranch, Southridge, Wildwood and every other Denton neighborhood.",
+ "permits": "Plumbing permits come from the City of Denton Development Services, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Where does Denton's water come from?",
+  "a": "Denton treats water from Lake Ray Roberts and Lewisville Lake. It is moderately hard, so scale slowly builds up in water heaters and on fixtures."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Fort Collins plumbing deals with cold snaps, soft mountain water, older Old Town homes and sprinkler systems. PipeMend sends licensed local plumbers across Fort Collins.",
+ "risk": "frozen pipes and sprinkler lines, aging pipes in Old Town and basement plumbing",
+ "risk_short": "frozen pipes, old pipes and basements",
+ "why": [
+  "Old Town and the area around CSU have homes from the 1890s to the 1940s with galvanized supply lines and clay sewer laterals. Many have basements with water heaters and floor drains.",
+  "Sudden cold fronts freeze sprinkler backflow devices, hose bibs and pipes near exterior walls. Expansive soils in some areas stress foundations and sewer lines."
+ ],
+ "utility": "Fort Collins Utilities",
+ "water": "Fort Collins Utilities treats water from the Cache la Poudre River and Horsetooth Reservoir. It is soft. Some edges of town are served by other water districts.",
+ "problems": [
+  [
+   "Frozen sprinkler lines and hose bibs",
+   "Citywide every fall",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Old Town and the CSU area",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "Older neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first hard freeze.",
+  "Disconnect hoses in October.",
+  "Scope the sewer line before buying an older home.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "PipeMend works in Old Town, the CSU area, Midtown, Southeast Fort Collins, Harmony, Old Town North and every other Fort Collins neighborhood.",
+ "permits": "Plumbing permits come from Fort Collins Building Services, and plumbers must be licensed through the Colorado State Plumbing Board.",
+ "faq": {
+  "q": "When should Fort Collins homeowners winterize sprinklers?",
+  "a": "Before the first hard freeze, usually in October. Water left in the backflow preventer and lines freezes and cracks them. Have the lines blown out."
+ }
+}

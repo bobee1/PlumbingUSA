@@ -1,0 +1,45 @@
+{
+ "lead": "Tempe plumbing deals with very hard water, desert heat and 1960s and 1970s slab homes. PipeMend sends licensed local plumbers across Tempe.",
+ "risk": "very hard water scale, slab leaks and aging pipes in older homes",
+ "risk_short": "hard water, slab leaks and old pipes",
+ "why": [
+  "North and central Tempe, including Maple-Ash and the area around ASU, have many homes from the 1950s to the 1970s with galvanized supply lines and cast-iron drains. Many are rentals that see heavy use.",
+  "Homes sit on slabs, so leaks under the floor are common. Very hard water scales up water heaters and fixtures."
+ ],
+ "utility": "City of Tempe Water Utilities",
+ "water": "Tempe treats Salt and Verde river water from SRP and Colorado River water from the Central Arizona Project. It is very hard.",
+ "problems": [
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "North and central Tempe",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Clogged drains",
+   "Rentals near ASU",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Flush your water heater every year.",
+  "Watch your water bill for slab leak signs.",
+  "Clean faucet aerators often.",
+  "Give tenants a shutoff valve map."
+ ],
+ "areas": "PipeMend works in Downtown Tempe, Maple-Ash, the ASU area, Lakeshore, the Lakes, South Tempe, Warner Ranch and every other Tempe neighborhood.",
+ "permits": "Plumbing permits come from the City of Tempe Community Development Department, and contractors need an Arizona Registrar of Contractors license.",
+ "faq": {
+  "q": "Do older Tempe homes need repiping?",
+  "a": "Many 1950s to 1970s homes still have galvanized steel supply pipes. They rust inside, which lowers pressure and causes leaks. PEX or copper repiping fixes both."
+ }
+}

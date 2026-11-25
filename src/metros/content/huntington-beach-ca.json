@@ -1,0 +1,45 @@
+{
+ "lead": "Huntington Beach plumbing deals with hard water, salt air and 1960s and 1970s slab homes. PipeMend sends licensed local plumbers across Huntington Beach.",
+ "risk": "slab leaks and pinhole leaks in aging copper, salt-air corrosion and hard water scale",
+ "risk_short": "slab leaks, corrosion and hard water",
+ "why": [
+  "Huntington Beach boomed in the 1960s and 1970s, so many homes have copper lines under the slab that now leak. Pinhole leaks in that copper are a common call.",
+  "Salt air near the coast corrodes outdoor fittings, hose bibs and water heater parts. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "City of Huntington Beach Utilities",
+ "water": "Huntington Beach pumps most of its water from the Orange County groundwater basin and buys the rest through the Metropolitan Water District. It is hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "1960s–1970s slab homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Pinhole leaks in copper",
+   "Older tracts",
+   "<a href=\"/services/leak-detection/\">Leak detection</a>"
+  ],
+  [
+   "Corroded fittings",
+   "Near the beach",
+   "<a href=\"/services/faucet-repair/\">Faucet repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Watch your water bill for slab leak signs.",
+  "After repeat pinhole leaks, ask about a repipe.",
+  "Rinse and check outdoor fittings for corrosion."
+ ],
+ "areas": "PipeMend works Downtown and in Huntington Harbour, the Bluffs, Seacliff, Edwards Hill, Sunset Beach and every other Huntington Beach neighborhood.",
+ "permits": "Plumbing permits come from the Huntington Beach Community Development Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Why do Huntington Beach homes get slab leaks?",
+  "a": "Many homes were built in the 1960s and 1970s with copper lines under the slab. After 50-plus years, the copper wears thin. A hot spot on the floor or a moving meter are common signs."
+ }
+}

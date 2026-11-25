@@ -1,0 +1,103 @@
+rank,city,volume,kd,score,note
+1,frisco,1300,27,949,
+2,san jose,1300,30,910,added 2026-11-24; was missing from the original list
+3,huntington beach,1000,10,900,
+4,temecula,1000,15,850,
+5,santa rosa,1000,16,840,
+6,mckinney,1000,21,790,
+7,fort lauderdale,1000,23,770,
+8,tempe,880,19,713,
+9,rancho cucamonga,720,6,677,
+10,fort collins,1000,33,670,
+11,vancouver wa,880,28,634,
+12,sunnyvale,720,15,612,
+13,escondido,720,16,605,
+14,lakewood co,720,17,598,
+15,round rock,720,20,576,
+16,alexandria va,720,20,576,
+17,tacoma,880,37,554,
+18,columbia sc,880,38,546,
+19,oceanside,590,11,525,
+20,port st lucie,1000,49,510,
+21,elk grove,590,18,484,
+22,knoxville,720,33,482,
+23,torrance,720,34,475,
+24,santa clarita,590,20,472,
+25,surprise az,590,21,466,
+26,san bernardino,590,24,448,added 2026-11-24
+27,denton,590,26,437,
+28,birmingham al,880,51,431,
+29,pembroke pines,480,12,422,
+30,overland park,480,12,422,
+31,hollywood fl,480,17,398,
+32,des moines,590,33,395,
+33,clearwater,480,19,389,
+34,wilmington nc,480,19,389,
+35,charleston sc,480,20,384,
+36,rochester ny,720,51,353,
+37,cary nc,480,27,350,
+38,huntsville,480,29,341,
+39,boulder,480,29,341,
+40,amarillo,480,30,336,
+41,ann arbor,480,30,336,
+42,little rock,480,35,312,
+43,grand rapids,590,50,295,
+44,mobile al,480,39,293,
+45,gainesville fl,480,46,259,
+46,modesto,480,46,259,
+47,yonkers,320,26,237,added 2026-11-24
+48,west palm beach,590,62,224,
+49,akron,390,,,KD not pulled (lower volume)
+50,cape coral,390,,,KD not pulled (lower volume)
+51,lakeland,390,,,KD not pulled (lower volume)
+52,peoria az,390,,,KD not pulled (lower volume)
+53,grand prairie,390,,,KD not pulled (lower volume)
+54,roseville,390,,,KD not pulled (lower volume)
+55,hayward,390,,,KD not pulled (lower volume)
+56,naperville,390,,,KD not pulled (lower volume)
+57,dayton,320,,,KD not pulled (lower volume)
+58,salem oregon,320,,,KD not pulled (lower volume)
+59,savannah,320,,,KD not pulled (lower volume)
+60,springfield mo,320,,,KD not pulled (lower volume)
+61,mesquite,320,,,KD not pulled (lower volume)
+62,oxnard,320,,,KD not pulled (lower volume)
+63,moreno valley,320,,,KD not pulled (lower volume)
+64,corona ca,320,,,KD not pulled (lower volume)
+65,sioux falls,260,,,KD not pulled (lower volume)
+66,manchester nh,260,,,KD not pulled (lower volume)
+67,new haven,260,,,KD not pulled (lower volume)
+68,chattanooga,260,,,KD not pulled (lower volume)
+69,eugene,260,,,KD not pulled (lower volume)
+70,augusta ga,260,,,KD not pulled (lower volume)
+71,tallahassee,260,,,KD not pulled (lower volume)
+72,olathe,260,,,KD not pulled (lower volume)
+73,pearland,260,,,KD not pulled (lower volume)
+74,joliet,260,,,KD not pulled (lower volume)
+75,providence,210,,,KD not pulled (lower volume)
+76,wilmington de,210,,,KD not pulled (lower volume)
+77,shreveport,210,,,KD not pulled (lower volume)
+78,thornton co,210,,,KD not pulled (lower volume)
+79,kansas city ks,210,,,KD not pulled (lower volume)
+80,fontana,210,,,KD not pulled (lower volume)
+81,ontario ca,210,,,KD not pulled (lower volume)
+82,pasadena ca,210,,,KD not pulled (lower volume)
+83,newport news,210,,,KD not pulled (lower volume)
+84,jackson ms,170,,,KD not pulled (lower volume)
+85,bridgeport ct,170,,,KD not pulled (lower volume)
+86,syracuse,170,,,KD not pulled (lower volume)
+87,waco,170,,,KD not pulled (lower volume)
+88,glendale ca,170,,,KD not pulled (lower volume)
+89,worcester,170,,,KD not pulled (lower volume)
+90,fargo,140,,,KD not pulled (lower volume)
+91,charleston wv,140,,,KD not pulled (lower volume)
+92,montgomery al,140,,,KD not pulled (lower volume)
+93,midland tx,140,,,KD not pulled (lower volume)
+94,fayetteville nc,110,,,KD not pulled (lower volume)
+95,portland maine,90,,,KD not pulled (lower volume)
+96,billings,70,,,KD not pulled (lower volume)
+97,hartford,70,,,KD not pulled (lower volume)
+98,killeen,70,,,KD not pulled (lower volume)
+99,cheyenne,40,,,KD not pulled (lower volume)
+100,mcallen,40,,,KD not pulled (lower volume)
+101,brownsville,40,,,KD not pulled (lower volume)
+102,burlington vt,30,,,KD not pulled (lower volume)

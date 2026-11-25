@@ -1,0 +1,45 @@
+{
+ "lead": "Lakewood plumbing deals with cold snaps, expansive soils and 1950s and 1960s ranch homes. PipeMend sends licensed local plumbers across Lakewood.",
+ "risk": "frozen pipes and sprinkler lines, sewer lines cracked by shifting soil and basement water heaters",
+ "risk_short": "frozen pipes, sewer lines and water heaters",
+ "why": [
+  "Much of Lakewood was built in the 1950s and 1960s, so many ranch homes have galvanized supply lines and clay or cast-iron sewer laterals. Expansive clay in parts of the city cracks those lines.",
+  "Cold fronts freeze sprinkler systems, hose bibs and pipes near exterior walls. Many homes have basements with water heaters and floor drains."
+ ],
+ "utility": "Denver Water and local water districts",
+ "water": "Much of Lakewood gets water from Denver Water, which uses mountain snowmelt. Some areas are served by local districts. The water is generally soft.",
+ "problems": [
+  [
+   "Frozen pipes and sprinkler lines",
+   "Citywide in cold snaps",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cracked sewer laterals",
+   "1950s–1960s neighborhoods",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Ranch homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Blow out sprinkler lines before the first hard freeze.",
+  "Scope the sewer line before buying an older home.",
+  "Disconnect hoses in October.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "PipeMend works in Belmar, Green Mountain, Bear Creek, Lakewood Heights, Eiber, Morse Park, Union Square and every other Lakewood neighborhood.",
+ "permits": "Plumbing permits come from the City of Lakewood Building Division, and plumbers must be licensed through the Colorado State Plumbing Board.",
+ "faq": {
+  "q": "Who supplies water in Lakewood?",
+  "a": "Many Lakewood homes get water from Denver Water, and others from local water districts. Your water bill shows which one serves you."
+ }
+}

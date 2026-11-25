@@ -1,0 +1,45 @@
+{
+ "lead": "Santa Rosa plumbing deals with older homes, big trees, wildfire rebuilds and earthquake rules. PipeMend sends licensed local plumbers across Santa Rosa.",
+ "risk": "tree roots in sewer lines, aging galvanized pipes and water heater strapping",
+ "risk_short": "sewer roots, old pipes and water heaters",
+ "why": [
+  "The Junior College area, McDonald Avenue and the West End have homes from the 1900s to the 1950s with galvanized supply lines and clay sewer laterals. Large oaks and street trees send roots into those lines.",
+  "Thousands of homes in Coffey Park and Fountaingrove were rebuilt after the 2017 Tubbs Fire with new plumbing. Older homes need strapped water heaters for earthquakes."
+ ],
+ "utility": "Santa Rosa Water",
+ "water": "Santa Rosa gets most of its water from Sonoma Water, which pumps it from wells along the Russian River, with local wells as backup. The water is moderately hard.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Older tree-lined areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Main line clogs",
+   "Older homes",
+   "<a href=\"/services/hydro-jetting/\">Hydro jetting</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Scope the sewer line before buying an older home.",
+  "Keep a wrench by your gas shutoff.",
+  "Plant trees away from the sewer line."
+ ],
+ "areas": "PipeMend works in the Junior College area, McDonald Avenue, Bennett Valley, Fountaingrove, Rincon Valley, Roseland, Coffey Park and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Santa Rosa Planning and Economic Development Department, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Where does Santa Rosa's water come from?",
+  "a": "Most of it is pumped by Sonoma Water from wells along the Russian River, where riverbed gravel filters it. Santa Rosa also has local wells for emergencies."
+ }
+}

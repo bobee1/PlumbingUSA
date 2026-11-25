@@ -1,0 +1,45 @@
+{
+ "lead": "Vancouver plumbing deals with rain, older homes near downtown and cold snaps from the Columbia Gorge. PipeMend sends licensed local plumbers across Vancouver.",
+ "risk": "aging pipes in older homes, wet crawl spaces and frozen pipes in east wind cold snaps",
+ "risk_short": "old pipes, wet crawl spaces and frozen pipes",
+ "why": [
+  "Hough, Arnada and Uptown Village have homes from the 1900s to the 1940s with galvanized supply lines and clay sewer laterals. East Vancouver and Felida were built mostly after 1970.",
+  "Long rainy seasons strain crawl-space drainage and sump pumps. Cold east winds from the Columbia Gorge freeze exposed pipes a few times most winters."
+ ],
+ "utility": "City of Vancouver Water",
+ "water": "Vancouver pumps all of its water from wells in deep aquifers under the city. It is moderately hard and needs little treatment.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "Hough, Arnada and older areas",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Citywide in the rainy season",
+   "<a href=\"/services/sump-pump-installation/\">Sump pump repair and installation</a>"
+  ],
+  [
+   "Frozen pipes",
+   "East wind cold snaps",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Root-filled sewer laterals",
+   "Older tree-lined streets",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl-space pipes before winter.",
+  "Check your sump pump before the rainy season.",
+  "Scope the sewer line before buying an older home.",
+  "Disconnect hoses when an east wind is forecast."
+ ],
+ "areas": "PipeMend works in Uptown Village, Hough, Arnada, Fourth Plain, Fisher's Landing, Cascade Park, Felida, Salmon Creek and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Vancouver Community Development Department, and plumbers must hold a certificate from the Washington State Department of Labor and Industries.",
+ "faq": {
+  "q": "Is this Vancouver, Washington or Vancouver, BC?",
+  "a": "This page covers Vancouver, Washington, across the river from Portland, Oregon. PipeMend serves U.S. cities only."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Round Rock plumbing deals with clay and limestone soils, hard water and fast-growing subdivisions. PipeMend sends licensed local plumbers across Round Rock.",
+ "risk": "slab leaks, hard water scale and burst pipes in hard freezes",
+ "risk_short": "slab leaks, hard water and frozen pipes",
+ "why": [
+  "Most Round Rock homes were built after 1980 on slabs over clay and limestone. Shifting clay stresses supply lines under the floor, and homes from the 1980s may have polybutylene pipe.",
+  "Hard water scales up water heaters and tankless units. Rare hard freezes, like February 2021, burst attic and exterior-wall pipes."
+ ],
+ "utility": "City of Round Rock Utilities",
+ "water": "Round Rock draws from Lake Georgetown and Stillhouse Hollow Lake plus wells. The water is hard, so scale builds up in heaters and fixtures.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Polybutylene pipe",
+   "1980s homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Insulate attic pipes before winter.",
+  "Flush your water heater yearly.",
+  "Look for gray pipe stamped PB2110."
+ ],
+ "areas": "PipeMend works in Downtown Round Rock, Teravista, Forest Creek, Behrens Ranch, Brushy Creek, Paloma Lake and every other Round Rock neighborhood.",
+ "permits": "Plumbing permits come from the City of Round Rock Building Inspection, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Is Round Rock water hard?",
+  "a": "Yes. Round Rock's lakes and wells sit in limestone country, so the water carries calcium and magnesium. A softener and yearly flushing protect water heaters."
+ }
+}

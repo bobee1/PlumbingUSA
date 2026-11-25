@@ -1,0 +1,45 @@
+{
+ "lead": "McKinney plumbing deals with clay soil, a historic downtown and fast-growing subdivisions. PipeMend sends licensed local plumbers across McKinney.",
+ "risk": "slab leaks in clay soil, aging pipes in historic homes and burst pipes in hard freezes",
+ "risk_short": "slab leaks, old pipes and frozen pipes",
+ "why": [
+  "Historic Downtown McKinney has homes from the late 1800s and early 1900s with galvanized supply lines and cast-iron or clay drains. Most of the city, like Stonebridge Ranch and Craig Ranch, was built after 1990 on slabs.",
+  "Expansive clay moves with drought and heavy rain, which stresses lines under slabs. Rare hard freezes burst attic and exterior-wall pipes."
+ ],
+ "utility": "City of McKinney Water (from the North Texas Municipal Water District)",
+ "water": "McKinney buys treated water from the North Texas Municipal Water District, which draws largely from Lavon Lake. The water is moderately hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Clay-soil areas citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Historic Downtown",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Burst pipes in a freeze",
+   "Attic pipes",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Irrigation backflow testing",
+   "Homes with sprinklers",
+   "<a href=\"/services/backflow-testing/\">Backflow testing</a>"
+  ]
+ ],
+ "tips": [
+  "Water your foundation evenly in dry summers.",
+  "Insulate attic pipes before winter.",
+  "Scope old sewer lines before buying a historic home.",
+  "Get irrigation backflow devices tested when required."
+ ],
+ "areas": "PipeMend works in Historic Downtown, Craig Ranch, Stonebridge Ranch, Tucker Hill, Trinity Falls, Eldorado, Adriatica and every other McKinney neighborhood.",
+ "permits": "Plumbing permits come from the City of McKinney Building Inspections Department, and plumbers must hold a Texas license.",
+ "faq": {
+  "q": "Do historic McKinney homes need repiping?",
+  "a": "Many do. Homes built before the 1950s often have galvanized steel supply pipes that rust inside, lowering pressure and causing leaks. PEX or copper repiping fixes both."
+ }
+}

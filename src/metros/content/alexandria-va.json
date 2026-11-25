@@ -1,0 +1,45 @@
+{
+ "lead": "Alexandria plumbing deals with some of the oldest homes in the country, river flooding and cold snaps. PipeMend sends licensed local plumbers across Alexandria.",
+ "risk": "old galvanized and cast-iron pipes, basement and tidal flooding and frozen pipes",
+ "risk_short": "old pipes, flooding and frozen pipes",
+ "why": [
+  "Old Town has row houses from the 1700s and 1800s, and Del Ray and Rosemont have homes from the early 1900s. Many have galvanized supply lines, cast-iron stacks and old sewer laterals.",
+  "Low parts of Old Town flood from the Potomac and heavy rain. Older parts of the city have combined sewers, which the RiverRenew tunnel project is fixing."
+ ],
+ "utility": "Virginia American Water",
+ "water": "Alexandria's water comes from Virginia American Water, which buys treated Potomac River water from Fairfax Water. It is moderately hard.",
+ "problems": [
+  [
+   "Old galvanized lines",
+   "Old Town and Del Ray",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Basement and flood backups",
+   "Low areas of Old Town",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Exterior walls and crawl spaces",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Cast-iron stack leaks",
+   "Row houses",
+   "<a href=\"/services/drain-cleaning/\">Drain cleaning</a>"
+  ]
+ ],
+ "tips": [
+  "Check historic district rules before exterior work.",
+  "Consider a backwater valve if your basement has flooded.",
+  "Insulate pipes before winter.",
+  "Scope the sewer lateral before buying."
+ ],
+ "areas": "PipeMend works in Old Town, Del Ray, Rosemont, Seminary Hill, Arlandria, Parkfairfax, Carlyle, the West End and every other Alexandria neighborhood.",
+ "permits": "Plumbing permits come from the City of Alexandria Department of Code Administration, and plumbers must hold a tradesman license from the Virginia Board for Contractors (DPOR).",
+ "faq": {
+  "q": "Are there special rules for plumbing in Old Town Alexandria?",
+  "a": "Work that changes the outside of a historic building may need approval from the city's historic review boards. Interior plumbing usually needs only a regular permit."
+ }
+}

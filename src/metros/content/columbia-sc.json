@@ -1,0 +1,45 @@
+{
+ "lead": "Columbia plumbing deals with heat, humidity, heavy storms and older homes near downtown. PipeMend sends licensed local plumbers across Columbia.",
+ "risk": "tree roots in old sewer lines, aging pipes in older homes and storm flooding",
+ "risk_short": "sewer roots, old pipes and flooding",
+ "why": [
+  "Shandon, Elmwood Park, Rosewood and Earlewood have homes from the 1900s to the 1940s with galvanized supply lines and clay sewer laterals. Big oaks send roots into those lines.",
+  "The October 2015 flood showed how heavy rain can swamp low areas and back up drains. Many homes sit on crawl spaces, and rare hard freezes burst exposed pipes."
+ ],
+ "utility": "City of Columbia Water",
+ "water": "Columbia treats water from the Broad River and Lake Murray. It is soft.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Shandon and older areas",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "Prewar homes",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ],
+  [
+   "Storm flooding and backups",
+   "Low areas in heavy rain",
+   "<a href=\"/services/emergency-plumbing/\">Emergency plumbing</a>"
+  ],
+  [
+   "Water heater replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Scope the sewer line before buying an older home.",
+  "Insulate crawl-space pipes before a freeze.",
+  "Plant trees away from the sewer line.",
+  "Know where your main shutoff is."
+ ],
+ "areas": "PipeMend works in Shandon, Elmwood Park, Rosewood, the Vista, Five Points, Earlewood, Lake Katherine and every other Columbia neighborhood.",
+ "permits": "Plumbing permits come from the City of Columbia Building Permits and Inspections, and plumbing contractors are licensed by the South Carolina Department of Labor, Licensing and Regulation.",
+ "faq": {
+  "q": "Why do Columbia sewer lines clog with roots?",
+  "a": "Older homes have clay sewer pipe with joints every few feet. Roots from the city's big oaks grow into those joints. Jetting clears them, and lining or replacement keeps them out."
+ }
+}

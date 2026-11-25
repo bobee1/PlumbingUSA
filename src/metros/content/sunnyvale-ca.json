@@ -1,0 +1,45 @@
+{
+ "lead": "Sunnyvale plumbing deals with 1950s and 1960s slab homes, Eichler radiant heat and earthquake rules. PipeMend sends licensed local plumbers across Sunnyvale.",
+ "risk": "slab leaks, radiant heating leaks in Eichler homes and water heater strapping",
+ "risk_short": "slab leaks, radiant heat and water heaters",
+ "why": [
+  "Much of Sunnyvale was built in the 1950s and 1960s, including many Eichler homes. Eichlers have radiant heating pipes inside the concrete slab, and old steel or copper loops can leak.",
+  "Supply lines under slabs are aging too. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "City of Sunnyvale Water",
+ "water": "Sunnyvale blends Hetch Hetchy water from San Francisco, treated water from Valley Water and local groundwater. Hardness varies with the blend and is moderate overall.",
+ "problems": [
+  [
+   "Slab leaks",
+   "1950s–1960s homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Radiant heat loop leaks",
+   "Eichler homes",
+   "<a href=\"/services/leak-detection/\">Leak detection</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ],
+  [
+   "Repiping",
+   "Homes with repeat leaks",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Watch for warm or damp spots on Eichler floors.",
+  "Watch your water bill for slab leak signs.",
+  "Keep a wrench by your gas shutoff."
+ ],
+ "areas": "PipeMend works in Downtown Sunnyvale, Cherry Chase, Ponderosa Park, Lakewood, Ortega Park, Raynor Park, Birdland and every other neighborhood.",
+ "permits": "Plumbing permits come from the Sunnyvale One-Stop Permit Center, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Can radiant heat leaks in Eichler homes be fixed?",
+  "a": "Yes. A plumber can pressure-test the loops and find the leak. Small leaks can be repaired through the slab, and failed systems can be replaced with new loops or another heat source."
+ }
+}

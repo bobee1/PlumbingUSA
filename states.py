@@ -344,6 +344,7 @@ def state_page(ab):
     if ab == "DC":
         areas_h = "Neighborhoods served in Washington, DC"
         areas_p = c["areas"] + nb_line
+        metro_block = ""
     else:
         areas_h = f"Areas served in {sh}"
         try:
@@ -351,9 +352,10 @@ def state_page(ab):
             mm = _M.metros_in_state(ab)
         except ImportError:
             mm = []
-        metro_line = (" City pages: " + join_list([_M.mlink(x, "plumbers in " + _M.MMETA[x]["city"]) for x in mm]) + ".") if mm else ""
+        metro_block = ("\n<p>Local plumbing pages for cities in " + sh + ":</p>\n<ul class=\"pills pills-sm\">"
+                       + "".join(f"<li>{_M.mlink(x)}</li>" for x in mm) + "</ul>") if mm else ""
         areas_p = (f"PipeMend takes plumbing calls across {name}. The largest communities are {join_list(cities)}. "
-                   + c.get("areas", "") + metro_line + nb_line)
+                   + c.get("areas", "") + nb_line)
     why_h = pick(ab, [f"Why plumbing in {sh} is different", f"What makes {sh} plumbing different", f"Local plumbing conditions in {sh}"], "w")
     body = f"""<p class="quick"><strong>Quick answer:</strong> {quick_answer(ab, c)}</p>
 
@@ -386,7 +388,7 @@ def state_page(ab):
 {{{{cta:{cta2}}}}}
 
 <h2>{areas_h}</h2>
-<p>{areas_p}</p>
+<p>{areas_p}</p>{metro_block}
 
 {{{{faq}}}}
 

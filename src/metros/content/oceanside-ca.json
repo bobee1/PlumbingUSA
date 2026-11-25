@@ -1,0 +1,45 @@
+{
+ "lead": "Oceanside plumbing deals with salt air, hard water and slab homes from several eras. PipeMend sends licensed local plumbers across Oceanside.",
+ "risk": "slab leaks, salt-air corrosion and hard water scale",
+ "risk_short": "slab leaks, corrosion and hard water",
+ "why": [
+  "South Oceanside and Downtown have homes from the 1920s to the 1960s with galvanized supply lines and cast-iron drains. Inland areas such as Rancho del Oro were built mostly after 1980 on slabs.",
+  "Salt air near the beach corrodes outdoor fittings and water heater parts. California requires water heaters to be strapped for earthquakes."
+ ],
+ "utility": "City of Oceanside Water Utilities",
+ "water": "Oceanside blends imported water with local groundwater treated at its Mission Basin desalting plant. The water is hard.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Slab homes citywide",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Corroded fittings",
+   "Near the beach",
+   "<a href=\"/services/faucet-repair/\">Faucet repair</a>"
+  ],
+  [
+   "Hard water scale",
+   "Citywide",
+   "<a href=\"/services/water-softener-installation/\">Water softener installation</a>"
+  ],
+  [
+   "Old galvanized lines",
+   "South Oceanside and Downtown",
+   "<a href=\"/services/repiping/\">Pipe repair and repiping</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Rinse and check outdoor fittings for corrosion.",
+  "Flush your water heater yearly.",
+  "Watch your water bill for slab leak signs."
+ ],
+ "areas": "PipeMend works Downtown and in South Oceanside, Fire Mountain, Loma Alta, Mission San Luis Rey, Ocean Hills, Rancho del Oro and every other neighborhood.",
+ "permits": "Plumbing permits come from the City of Oceanside Building Division, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Does salt air affect plumbing in Oceanside?",
+  "a": "Yes. Salt air corrodes metal hose bibs, valves and water heater parts, especially within a mile or so of the beach. Check outdoor fittings each year and replace corroded parts early."
+ }
+}

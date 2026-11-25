@@ -1,0 +1,45 @@
+{
+ "lead": "San Jose plumbing deals with older homes, big trees, Eichler slabs and earthquake rules. PipeMend sends licensed local plumbers across San Jose.",
+ "risk": "tree roots in old sewer lines, slab leaks and water heater strapping",
+ "risk_short": "sewer roots, slab leaks and water heaters",
+ "why": [
+  "Willow Glen and the Rose Garden have homes from the 1920s to the 1940s with galvanized supply lines and clay sewer laterals that roots break into. Eichler homes in Willow Glen and Cambrian have radiant heating pipes inside the slab.",
+  "Much of the city was built from the 1950s to the 1970s, and copper lines under those slabs are aging. The Hayward and Calaveras faults are nearby, so water heaters must be strapped."
+ ],
+ "utility": "San Jose Water and San Jose Municipal Water",
+ "water": "Most of the city is served by San Jose Water, and some areas by the city's own Municipal Water or Great Oaks Water. Supply blends Valley Water's treated water, groundwater and local mountain water. It is moderately hard.",
+ "problems": [
+  [
+   "Root-filled sewer laterals",
+   "Willow Glen and the Rose Garden",
+   "<a href=\"/services/sewer-line-repair/\">Sewer line repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "1950s–1970s homes",
+   "<a href=\"/services/slab-leak-repair/\">Slab leak repair</a>"
+  ],
+  [
+   "Radiant heat loop leaks",
+   "Eichler homes",
+   "<a href=\"/services/leak-detection/\">Leak detection</a>"
+  ],
+  [
+   "Water heater strapping and replacement",
+   "Homes citywide",
+   "<a href=\"/services/water-heater-installation/\">Water heater installation</a>"
+  ]
+ ],
+ "tips": [
+  "Strap your water heater for earthquakes.",
+  "Scope the sewer line before buying an older home.",
+  "Watch for warm or damp spots on Eichler floors.",
+  "Know which water provider serves your home."
+ ],
+ "areas": "PipeMend works in Willow Glen, the Rose Garden, Downtown, Japantown, Almaden Valley, Evergreen, Cambrian, Berryessa and every other San Jose neighborhood.",
+ "permits": "Plumbing permits come from the San Jose Department of Planning, Building and Code Enforcement, and plumbing contractors need a CSLB license with a C-36 classification.",
+ "faq": {
+  "q": "Who supplies water in San Jose?",
+  "a": "Most homes get water from San Jose Water, a private utility. Some areas are served by San Jose Municipal Water or Great Oaks Water. Your water bill shows which one you have."
+ }
+}
