@@ -87,4 +87,7 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 81 | 2026-11-20 | 6b | Home page switched to top-20 city pills + "All city pages" link; hub anchor `#city-pages` | Done | Home 1,8xx → under 1,800 |
 | 82 | 2026-11-20 | 6b | Audit, readability, site audit, responsive check | Done | PASS 0 issues; FK ≤9 |
 | 83 | 2026-11-20 | 6b | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 84 | — | 6c | Census pull for next 25 cities, then their pages | Planned | Needs data route |
+| 84 | 2026-11-24 | SEO | Semrush retested: working (ERROR 122 cleared) | Done | 27,250 units at start |
+| 85 | 2026-11-24 | SEO | Guide keyword difficulty refresh + question keywords for 12 guides | Done | `research/12-guide-questions-semrush.csv`; ~5,500 units |
+| 86 | 2026-11-24 | SEO | 7 new guide sections, 6 heading rewrites, 9 new FAQs, 2 meta descriptions | Done | Audit PASS; FK ≤9 |
+| 87 | — | 6c | Census pull for next 25 cities, then their pages | Planned | Needs data route (owner decision) |

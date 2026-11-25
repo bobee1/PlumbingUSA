@@ -4,7 +4,7 @@ Nationwide plumbing services site. Brand **PipeMend**, domain **pipemend.us** (n
 Plan: "Nationwide Plumber Lead-Gen Site — Master Plan" (Claude doc, https://claude.ai/artifact/TmMBuMtsxGkkjk7koFm5BK). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 Full step log: [docs/RECORD-REGISTER.md](docs/RECORD-REGISTER.md).
 
-Last updated: 2026-11-20 (Build 6b)
+Last updated: 2026-11-24 (Guide SEO pass)
 
 ## Previous
 - Master plan written (2026-11-16): one national brand, metro hubs and city pages, Semrush keyword table for 20 plumbing services, state licensing-advertising risks, Cloudflare hosting.
@@ -22,9 +22,18 @@ Last updated: 2026-11-20 (Build 6b)
 - **Nearby links:** Miami and Cincinnati now get links from Orlando, Tampa, Jacksonville, Columbus, Indianapolis and Louisville.
 - **Checks:** audit PASS 0 issues; reading grade ≤9 on every page; no duplicate paragraphs; site audit clean (lowest city inbound links: 6); no overflow or console errors at 360/768/1280.
 - **Still held back:** Washington, D.C. (stays on its state page), and Scottsdale, Chandler, Anaheim, San Francisco, New Orleans, St. Petersburg, Chula Vista, Irvine, Boston, Garland, Albuquerque, Oakland and the other Wave 1–2 cities not in the Census city file. The Census API and Census Reporter API are not reachable from this workspace, so these need a data pull.
-- **Semrush:** still failing (ERROR 122).
+- **Semrush:** working again as of 2026-11-24.
 
 ** audit PASS 0 issues; reading grade 4.8–7.8; no duplicate paragraphs; site audit clean; no overflow or console errors at 360/768/1280.
+
+## Also done — Guide SEO pass with Semrush (2026-11-24)
+- **Semrush is working again** (21,730 API units left). Pulled fresh keyword difficulty for all 12 guide keywords and the top 10 question keywords for each topic: `research/12-guide-questions-semrush.csv` (about 5,500 units used).
+- **New sections:** unclog guide now covers shower (9,900/mo, KD 20), bathtub, sink and dishwasher drains; sewer-smell guide covers toilet, bathroom sink and washer/laundry smells.
+- **Headings matched to easy questions:** "Why is my water pressure low?" (KD 6), "What size tankless water heater do I need?", "What to do if pipes freeze", "How to fix a leaking water heater", "What does sewer gas smell like?".
+- **9 new FAQs** (in FAQ schema): stop a running toilet now, who to call for a leaking water heater, outside shut-off valve, flushing and cost of tankless, buying a house with polybutylene and repipe cost, plumber cost to unclog a drain. Prices stay off the site, as before.
+- **Descriptions** for the running-toilet and unclog guides now include "toilet that keeps running" (9,900/mo, KD 19) and the drain types.
+- **Not changed:** service and city pages already use Semrush data from Nov 19–20. Note: Semrush reports 673,000/mo for "how to fix a running toilet" with a one-month spike in its trend; treat that number as unreliable.
+- Checks: audit PASS 0 issues; reading grade ≤9; FAQ schema valid; no overflow.
 
 ## Coming
 | Build | Scope | Needs from owner |
